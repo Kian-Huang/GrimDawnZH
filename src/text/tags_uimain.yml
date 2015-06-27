@@ -6,7 +6,7 @@ tags_uimain.txt :
         原文 : >-
             ﻿tagTitleScreenText=Grim Dawn Early Access{^n}©2015 Crate Entertainment, LLC{^n}{^n}Welcome to Grim Dawn Early Access! We appreciate your feedback.{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!
         譯文 : >-
-            tagTitleScreenText=恐怖黎明早期先行版 ©2015 Crate Entertainment, LLC{^n}{^n}歡迎來到恐怖黎明早期先行版！我們感謝您對遊戲的反饋。{^n}{^n}請訪問我們的官網 www.grimdawn.com 來參與到恐怖黎明的開發中來！
+            tagTitleScreenText=顫慄黎明早期先行版 ©2015 Crate Entertainment, LLC{^n}{^n}歡迎來到顫慄黎明早期先行版！感謝您的回復！{^n}{^n}請訪問我們的官網 www.grimdawn.com 一同參與開發過程！
 #-------------------------------#
     1 :
         標註 : 
@@ -27,14 +27,14 @@ tags_uimain.txt :
         原文 : >-
             tagMenu02=Custom Game
         譯文 : >-
-            tagMenu02=自定義遊戲
+            tagMenu02=自定遊戲
 #-------------------------------#
     4 :
         標註 : 
         原文 : >-
             tagMenu03=Information
         譯文 : >-
-            tagMenu03=信息
+            tagMenu03=訊息
 #-------------------------------#
     5 :
         標註 : 
@@ -118,7 +118,7 @@ tags_uimain.txt :
         原文 : >-
             tagMenuButton07=Apply
         譯文 : >-
-            tagMenuButton07=應用
+            tagMenuButton07=套用
 #-------------------------------#
     17 :
         標註 : 
@@ -153,14 +153,14 @@ tags_uimain.txt :
         原文 : >-
             tagCharLevelClass=Level {%d0} {%t1}
         譯文 : >-
-            tagCharLevelClass= {%d0} 級{%t1}
+            tagCharLevelClass= {%d0} 等{%t1}
 #-------------------------------#
     24 :
         標註 : 
         原文 : >-
             tagMenuMPWarning=Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.
         譯文 : >-
-            tagMenuMPWarning=歡迎加入多人遊戲測試！警告：測試期間，你會遇到bug，遊戲崩潰和性能問題。請到恐怖黎明論壇反饋這些問題。
+            tagMenuMPWarning=歡迎加入多人遊戲測試！警告：於測試期間，你會遇到BUG、遊戲崩潰與性能問題。請到顫慄黎明論壇回應這些問題。
 #-------------------------------#
     26 :
         標註 : 
@@ -202,14 +202,14 @@ tags_uimain.txt :
         原文 : >-
             tagMenuGame04=Internet
         譯文 : >-
-            tagMenuGame04=互聯網
+            tagMenuGame04=網際網路
 #-------------------------------#
     34 :
         標註 : 
         原文 : >-
             tagMenuGame05=LAN
         譯文 : >-
-            tagMenuGame05=局域網
+            tagMenuGame05=區域網路
 #-------------------------------#
     35 :
         標註 : 
@@ -237,7 +237,7 @@ tags_uimain.txt :
         原文 : >-
             tagMenuGame09=Level Range
         譯文 : >-
-            tagMenuGame09=等級範圍
+            tagMenuGame09=允許玩家等級
 #-------------------------------#
     39 :
         標註 : 
@@ -265,7 +265,7 @@ tags_uimain.txt :
         原文 : >-
             tagMenuGame13=Enable Player vs. Player Combat
         譯文 : >-
-            tagMenuGame13=激活pvp模式
+            tagMenuGame13=啟動PVP模式
 #-------------------------------#
     43 :
         標註 : 
@@ -300,21 +300,21 @@ tags_uimain.txt :
         原文 : >-
             tagMenuCreate03=Male
         譯文 : >-
-            tagMenuCreate03=男性
+            tagMenuCreate03=男
 #-------------------------------#
     48 :
         標註 : 
         原文 : >-
             tagMenuCreate04=Female
         譯文 : >-
-            tagMenuCreate04=女性
+            tagMenuCreate04=女
 #-------------------------------#
     49 :
         標註 : 
         原文 : >-
             tagMenuCreate05=Enter a name for your character.
         譯文 : >-
-            tagMenuCreate05=給你的角色起個名字
+            tagMenuCreate05=為您的角色命名
 #-------------------------------#
     50 :
         標註 : 
@@ -363,7 +363,7 @@ tags_uimain.txt :
         原文 : >-
             tagMenuImport06=Rename Character:
         譯文 : >-
-            tagMenuImport06=角色重命名：
+            tagMenuImport06=角色重新命名：
 #-------------------------------#
     58 :
         標註 : 
@@ -524,7 +524,7 @@ tags_uimain.txt :
         原文 : >-
             tagPlayGameModeCustom=Custom Game
         譯文 : >-
-            tagPlayGameModeCustom=自定義遊戲
+            tagPlayGameModeCustom=自定遊戲
 #-------------------------------#
     82 :
         標註 : 
@@ -538,42 +538,42 @@ tags_uimain.txt :
         原文 : >-
             tagGameStateInit=Initializing...
         譯文 : >-
-            tagGameStateInit=初始化中……
+            tagGameStateInit=初始化...
 #-------------------------------#
     85 :
         標註 : 
         原文 : >-
             tagGameStateLoading=Loading...
         譯文 : >-
-            tagGameStateLoading=讀取中……
+            tagGameStateLoading=讀取中...
 #-------------------------------#
     86 :
         標註 : 
         原文 : >-
             tagGameStateStarting=Starting Game...
         譯文 : >-
-            tagGameStateStarting=開始遊戲……
+            tagGameStateStarting=正在開始遊戲...
 #-------------------------------#
     87 :
         標註 : 
         原文 : >-
             tagGameStateConnecting=Connecting to Server...
         譯文 : >-
-            tagGameStateConnecting=正在連接至服務器……
+            tagGameStateConnecting=正在連接至伺服器...
 #-------------------------------#
     88 :
         標註 : 
         原文 : >-
             tagGameStateData=Waiting for Server...
         譯文 : >-
-            tagGameStateData=等待服務器……
+            tagGameStateData=等待伺服器...
 #-------------------------------#
     90 :
         標註 : 
         原文 : >-
             tagGogMustBeSignedIn=You must be logged into GOG Galaxy to play Grim Dawn in Multiplayer mode. Please login to GOG Galaxy and launch Grim Dawn from the GOG launcher!
         譯文 : >-
-            tagGogMustBeSignedIn=你必須登錄GOG Galaxy才能進行多人遊戲。請登錄GOG Galaxy然後從GOG啟動器中啟動恐怖黎明!
+            tagGogMustBeSignedIn=你必須登錄 GOG Galaxy 才能進行多人遊戲。登錄 GOG Galaxy 後從 GOG 啟動器中啟動顫慄黎明!
 #-------------------------------#
     92 :
         標註 : 
@@ -594,42 +594,42 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayTitle=General
         譯文 : >-
-            tagGameplayTitle=基本設置
+            tagGameplayTitle=基本設定
 #-------------------------------#
     97 :
         標註 : 
         原文 : >-
             tagGameplayDesc01=This will display help pop-ups in the game.
         譯文 : >-
-            tagGameplayDesc01=在遊戲中顯示幫助窗口。
+            tagGameplayDesc01=在遊戲中顯示說明小視窗。
 #-------------------------------#
     98 :
         標註 : 
         原文 : >-
             tagGameplayDesc02=This enables a right click sell option when using the market window.
         譯文 : >-
-            tagGameplayDesc02=激活使用交易窗口時的右鍵售出功能。
+            tagGameplayDesc02=啟用交易介面的右鍵出售功能。
 #-------------------------------#
     99 :
         標註 : 
         原文 : >-
             tagGameplayDesc03=This enables item pop-ups when mousing over equipment in the world.
         譯文 : >-
-            tagGameplayDesc03=激活當鼠標光標移動至裝備上的對比功能。
+            tagGameplayDesc03=滑鼠移到地上裝備時，顯示性能對比小視窗。
 #-------------------------------#
     100 :
         標註 : 
         原文 : >-
             tagGameplayDesc04=Display damage numbers when you hit enemies.
         譯文 : >-
-            tagGameplayDesc04=顯示擊中敵方單位時的傷害數值。
+            tagGameplayDesc04=顯示對敵方造成的傷害。
 #-------------------------------#
     101 :
         標註 : 
         原文 : >-
             tagGameplayDesc22=Display critical hit multipliers when you crit enemies.
         譯文 : >-
-            tagGameplayDesc22=當你造成暴擊時，顯示傷害放大倍數。
+            tagGameplayDesc22=當你暴擊時，顯示爆擊倍數。
 #-------------------------------#
     102 :
         標註 : 
@@ -643,14 +643,14 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayOption01=Display Help
         譯文 : >-
-            tagGameplayOption01=顯示幫助
+            tagGameplayOption01=顯示說明
 #-------------------------------#
     104 :
         標註 : 
         原文 : >-
             tagGameplayOption02=Enable Quicksell (Right Mouse)
         譯文 : >-
-            tagGameplayOption02=開啟快速售出(鼠標右鍵)
+            tagGameplayOption02=開啟快速出售(滑鼠右鍵)
 #-------------------------------#
     105 :
         標註 : 
@@ -692,7 +692,7 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayOption08=Disable Text Scroll
         譯文 : >-
-            tagGameplayOption08=關閉文本展開
+            tagGameplayOption08=關閉文字展開
 #-------------------------------#
     111 :
         標註 : 
@@ -706,14 +706,14 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayOption10=Internet Connection
         譯文 : >-
-            tagGameplayOption10=網絡連接
+            tagGameplayOption10=網路連線
 #-------------------------------#
     113 :
         標註 : 
         原文 : >-
             tagGameplayOption10A=Dial Up
         譯文 : >-
-            tagGameplayOption10A=撥號網絡
+            tagGameplayOption10A=撥號連線
 #-------------------------------#
     114 :
         標註 : 
@@ -727,7 +727,7 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayOption10C=Fast
         譯文 : >-
-            tagGameplayOption10C=高速網絡
+            tagGameplayOption10C=高速網路
 #-------------------------------#
     116 :
         標註 : 
@@ -748,14 +748,14 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayOption13=Crit Shake
         譯文 : >-
-            tagGameplayOption13=暴擊震動
+            tagGameplayOption13=暴擊震動畫面
 #-------------------------------#
     119 :
         標註 : 
         原文 : >-
             tagGameplayOption14=Target Outline
         譯文 : >-
-            tagGameplayOption14=顯示目標概要
+            tagGameplayOption14=顯示目標大綱
 #-------------------------------#
     120 :
         標註 : 
@@ -783,14 +783,14 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayOption18=Tutorial Tips
         譯文 : >-
-            tagGameplayOption18=教程
+            tagGameplayOption18=教學
 #-------------------------------#
     124 :
         標註 : 
         原文 : >-
             tagGameplayOption19=Corpse Persistence
         譯文 : >-
-            tagGameplayOption19=怪物屍體保留程度
+            tagGameplayOption19=屍體保留程度
 #-------------------------------#
     125 :
         標註 : 
@@ -804,7 +804,7 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayOption21=Report Anonymous Statistics
         譯文 : >-
-            tagGameplayOption21=報告匿名數據
+            tagGameplayOption21=回報匿名數據
 #-------------------------------#
     127 :
         標註 : 
@@ -839,7 +839,7 @@ tags_uimain.txt :
         原文 : >-
             tagAlwaysShowLootMagic=Magic+
         譯文 : >-
-            tagAlwaysShowLootMagic=魔法以上品質
+            tagAlwaysShowLootMagic=附魔以上品質
 #-------------------------------#
     132 :
         標註 : 
@@ -895,14 +895,14 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayDesc05=This will turn off roll-over support help on the HUD.
         譯文 : >-
-            tagGameplayDesc05=關閉支持翻頁的幫助窗口。
+            tagGameplayDesc05=關閉支持翻頁的說明視窗。
 #-------------------------------#
     140 :
         標註 : 
         原文 : >-
             tagGameplayDesc06=This displays an enemy's level when targeted.
         譯文 : >-
-            tagGameplayDesc06=此選項將顯示被選取敵人的等級。
+            tagGameplayDesc06=顯示被選取敵人的等級。
 #-------------------------------#
     141 :
         標註 : 
@@ -916,7 +916,7 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayDesc08=This disable text scrolling when speaking to NPC's
         譯文 : >-
-            tagGameplayDesc08=與npc對話禁用文本展開。
+            tagGameplayDesc08=與 NPC 對話禁用文字展開。
 #-------------------------------#
     143 :
         標註 : 
@@ -930,63 +930,63 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayDesc18=Enables/disables display of tutorial tips.
         譯文 : >-
-            tagGameplayDesc18=開啟/關閉教程。
+            tagGameplayDesc18=開啟/關閉教學。
 #-------------------------------#
     145 :
         標註 : 
         原文 : >-
             tagGameplayDesc19=Check to enable classic ARPG targeting with target-lock. Uncheck to use our new targeting scheme without hard target-lock.
         譯文 : >-
-            tagGameplayDesc19=勾選以激活伴隨目標鎖定的經典ARPG目標選取方式，取消勾選則使用不含目標鎖定的新方案
+            tagGameplayDesc19=開啟經典ARPG目標鎖定方式，不勾選則使用不含目標鎖定的新方法。
 #-------------------------------#
     146 :
         標註 : 
         原文 : >-
             tagLanguage01=English (US)
         譯文 : >-
-            tagLanguage01=英語(美國)
+            tagLanguage01=英文(美國)
 #-------------------------------#
     147 :
         標註 : 
         原文 : >-
             tagLanguage02=English (GB)
         譯文 : >-
-            tagLanguage02=英語(英國)
+            tagLanguage02=英文(英國)
 #-------------------------------#
     148 :
         標註 : 
         原文 : >-
             tagLanguage03=Español
         譯文 : >-
-            tagLanguage03=西班牙語
+            tagLanguage03=西班牙文
 #-------------------------------#
     149 :
         標註 : 
         原文 : >-
             tagLanguage04=Français
         譯文 : >-
-            tagLanguage04=法語
+            tagLanguage04=法文
 #-------------------------------#
     150 :
         標註 : 
         原文 : >-
             tagLanguage05=Deutsch
         譯文 : >-
-            tagLanguage05=德語
+            tagLanguage05=德文
 #-------------------------------#
     151 :
         標註 : 
         原文 : >-
             tagLanguage06=Italiano
         譯文 : >-
-            tagLanguage06=意大利語
+            tagLanguage06=義大利文
 #-------------------------------#
     152 :
         標註 : 
         原文 : >-
             tagKeybindingTitle01=Keybinding
         譯文 : >-
-            tagKeybindingTitle01=鍵位設定
+            tagKeybindingTitle01=按鍵設定
 #-------------------------------#
     153 :
         標註 : 
@@ -1021,56 +1021,56 @@ tags_uimain.txt :
         原文 : >-
             tagKeybindingMessage01=Press the key to bind to {%t0}
         譯文 : >-
-            tagKeybindingMessage01=按下按鍵以綁定至{%t0}
+            tagKeybindingMessage01=按下按鍵以設定成{%t0}
 #-------------------------------#
     158 :
         標註 : 
         原文 : >-
             tagKeybind01=Character Window
         譯文 : >-
-            tagKeybind01=角色窗口
+            tagKeybind01=角色視窗
 #-------------------------------#
     159 :
         標註 : 
         原文 : >-
             tagKeybind02=Skill Window
         譯文 : >-
-            tagKeybind02=技能窗口
+            tagKeybind02=技能視窗
 #-------------------------------#
     160 :
         標註 : 
         原文 : >-
             tagKeybind03=Mission Window
         譯文 : >-
-            tagKeybind03=任務窗口
+            tagKeybind03=任務視窗
 #-------------------------------#
     161 :
         標註 : 
         原文 : >-
             tagKeybind04=Map Window
         譯文 : >-
-            tagKeybind04=地圖窗口
+            tagKeybind04=地圖視窗
 #-------------------------------#
     162 :
         標註 : 
         原文 : >-
             tagKeybind05=Chat Window
         譯文 : >-
-            tagKeybind05=聊天窗口
+            tagKeybind05=聊天視窗
 #-------------------------------#
     163 :
         標註 : 
         原文 : >-
             tagKeybind06=Group Window
         譯文 : >-
-            tagKeybind06=組隊窗口
+            tagKeybind06=組隊視窗
 #-------------------------------#
     164 :
         標註 : 
         原文 : >-
             tagKeybind07=Game Menu
         譯文 : >-
-            tagKeybind07=遊戲菜單
+            tagKeybind07=遊戲選單
 #-------------------------------#
     165 :
         標註 : 
@@ -1147,14 +1147,14 @@ tags_uimain.txt :
         原文 : >-
             tagKeybind18=Drink Health Potion
         譯文 : >-
-            tagKeybind18=使用生命藥劑
+            tagKeybind18=飲用生命藥劑
 #-------------------------------#
     176 :
         標註 : 
         原文 : >-
             tagKeybind19=Drink Energy Potion
         譯文 : >-
-            tagKeybind19=使用能量藥劑
+            tagKeybind19=飲用能量藥劑
 #-------------------------------#
     177 :
         標註 : 
@@ -1217,21 +1217,21 @@ tags_uimain.txt :
         原文 : >-
             tagKeybind30=Center Map (Map Window)
         譯文 : >-
-            tagKeybind30=地圖居中（地圖窗口）
+            tagKeybind30=地圖居中（地圖視窗）
 #-------------------------------#
     186 :
         標註 : 
         原文 : >-
             tagKeybind31=Activate Portal Stone
         譯文 : >-
-            tagKeybind31=激活傳送門
+            tagKeybind31=啟用傳送門
 #-------------------------------#
     187 :
         標註 : 
         原文 : >-
             tagKeybind32=Help Window
         譯文 : >-
-            tagKeybind32=幫助窗口
+            tagKeybind32=說明視窗
 #-------------------------------#
     188 :
         標註 : 
@@ -1252,7 +1252,7 @@ tags_uimain.txt :
         原文 : >-
             tagKeybind35=Target Pet (Hold Key and Click)
         譯文 : >-
-            tagKeybind35=寵物目標（按住熱鍵然後點擊目標）
+            tagKeybind35=Pet目標（按住熱鍵然後點擊目標）
 #-------------------------------#
     191 :
         標註 : 
@@ -1273,14 +1273,14 @@ tags_uimain.txt :
         原文 : >-
             tagKeybind38=Toggle Pet Display
         譯文 : >-
-            tagKeybind38=開啟或關閉戰寵頭像顯示
+            tagKeybind38=開啟或關閉Pet頭像顯示
 #-------------------------------#
     194 :
         標註 : 
         原文 : >-
             tagKeybind39=Toggle Party Display
         譯文 : >-
-            tagKeybind39=開啟或關閉隊伍頭像顯示
+            tagKeybind39=開關隊伍成員顯示
 #-------------------------------#
     195 :
         標註 : 
@@ -1336,35 +1336,35 @@ tags_uimain.txt :
         原文 : >-
             tagKeybind47=Factions Window
         譯文 : >-
-            tagKeybind47=勢力窗口
+            tagKeybind47=勢力視窗
 #-------------------------------#
     203 :
         標註 : 
         原文 : >-
             tagKeybind48=Achievements Window
         譯文 : >-
-            tagKeybind48=成就窗口
+            tagKeybind48=成就視窗
 #-------------------------------#
     204 :
         標註 : 
         原文 : >-
             tagKeybindTitle01=General Keybindings
         譯文 : >-
-            tagKeybindTitle01=通用鍵位設定
+            tagKeybindTitle01=通用按鍵設定
 #-------------------------------#
     205 :
         標註 : 
         原文 : >-
             tagKeybindTitle02=Chat Keybindings
         譯文 : >-
-            tagKeybindTitle02=聊天鍵位設定
+            tagKeybindTitle02=聊天按鍵設定
 #-------------------------------#
     206 :
         標註 : 
         原文 : >-
             tagAudioTitle=Audio
         譯文 : >-
-            tagAudioTitle=音頻
+            tagAudioTitle=音效
 #-------------------------------#
     207 :
         標註 : 
@@ -1427,14 +1427,14 @@ tags_uimain.txt :
         原文 : >-
             tagAudioOption09=Enable EAX
         譯文 : >-
-            tagAudioOption09=開啟環境音效
+            tagAudioOption09=啟用環境音效
 #-------------------------------#
     216 :
         標註 : 
         原文 : >-
             tagAudioOption10=Enable Hardware Mixing
         譯文 : >-
-            tagAudioOption10=開啟硬件混音
+            tagAudioOption10=啟用硬體混音
 #-------------------------------#
     217 :
         標註 : 
@@ -1448,14 +1448,14 @@ tags_uimain.txt :
         原文 : >-
             tagSoundDevice=Audio Device
         譯文 : >-
-            tagSoundDevice=設備
+            tagSoundDevice=音效設備
 #-------------------------------#
     219 :
         標註 : 
         原文 : >-
             tagSpeakerSetup=Speaker Setup
         譯文 : >-
-            tagSpeakerSetup=揚聲器設置
+            tagSpeakerSetup=喇叭設置
 #-------------------------------#
     220 :
         標註 : 
@@ -1504,7 +1504,7 @@ tags_uimain.txt :
         原文 : >-
             tagVideoTitle=Video
         譯文 : >-
-            tagVideoTitle=視頻
+            tagVideoTitle=視訊
 #-------------------------------#
     227 :
         標註 : 
@@ -1567,7 +1567,7 @@ tags_uimain.txt :
         原文 : >-
             tagVideoOption01=Screen Resolution
         譯文 : >-
-            tagVideoOption01=分辨率
+            tagVideoOption01=解析度
 #-------------------------------#
     236 :
         標註 : 
@@ -1623,7 +1623,7 @@ tags_uimain.txt :
         原文 : >-
             tagVideoOption09=Bloom
         譯文 : >-
-            tagVideoOption09=花卉
+            tagVideoOption09=高光漫射效果
 #-------------------------------#
     244 :
         標註 : 
@@ -1644,21 +1644,21 @@ tags_uimain.txt :
         原文 : >-
             tagVideoOption12=Gamma
         譯文 : >-
-            tagVideoOption12=伽馬值
+            tagVideoOption12=珈瑪值
 #-------------------------------#
     247 :
         標註 : 
         原文 : >-
             tagVideoOption13=Anti-aliasing
         譯文 : >-
-            tagVideoOption13=抗鋸齒
+            tagVideoOption13=反鋸齒
 #-------------------------------#
     248 :
         標註 : 
         原文 : >-
             tagVideoOption14=CPU Quality
         譯文 : >-
-            tagVideoOption14=
+            tagVideoOption14=處理器品質
 #-------------------------------#
     249 :
         標註 : 
@@ -1679,14 +1679,14 @@ tags_uimain.txt :
         原文 : >-
             tagVideoOption17=Advanced
         譯文 : >-
-            tagVideoOption17=高級
+            tagVideoOption17=進階
 #-------------------------------#
     252 :
         標註 : 
         原文 : >-
             tagVideoOption18=Bit Depth
         譯文 : >-
-            tagVideoOption18=位深度
+            tagVideoOption18=位元深度
 #-------------------------------#
     253 :
         標註 : 
@@ -1707,7 +1707,7 @@ tags_uimain.txt :
         原文 : >-
             tagVideoOption21=Window Mode
         譯文 : >-
-            tagVideoOption21=窗口模式
+            tagVideoOption21=視窗模式
 #-------------------------------#
     256 :
         標註 : 
@@ -1721,7 +1721,7 @@ tags_uimain.txt :
         原文 : >-
             tagVideoOption23=Widescreen
         譯文 : >-
-            tagVideoOption23=寬屏
+            tagVideoOption23=寬螢幕
 #-------------------------------#
     258 :
         標註 : 
@@ -1763,7 +1763,7 @@ tags_uimain.txt :
         原文 : >-
             tagVideoOption29=Window Mode
         譯文 : >-
-            tagVideoOption29=窗口模式
+            tagVideoOption29=視窗模式
 #-------------------------------#
     264 :
         標註 : 
@@ -1777,21 +1777,21 @@ tags_uimain.txt :
         原文 : >-
             tagFullscreen=Fullscreen
         譯文 : >-
-            tagFullscreen=全屏
+            tagFullscreen=全螢幕
 #-------------------------------#
     266 :
         標註 : 
         原文 : >-
             tagFullscreenWindowed=Windowed (FullScreen)
         譯文 : >-
-            tagFullscreenWindowed=窗口全屏
+            tagFullscreenWindowed=窗口全螢幕
 #-------------------------------#
     267 :
         標註 : 
         原文 : >-
             tagWindowed=Windowed
         譯文 : >-
-            tagWindowed=窗口
+            tagWindowed=視窗
 #-------------------------------#
     268 :
         標註 : 
@@ -1812,7 +1812,7 @@ tags_uimain.txt :
         原文 : >-
             tagVideoOptionUIScale=UI Scale
         譯文 : >-
-            tagVideoOptionUIScale=界面調整
+            tagVideoOptionUIScale=使用者介面調整
 #-------------------------------#
     271 :
         標註 : 
@@ -1826,21 +1826,21 @@ tags_uimain.txt :
         原文 : >-
             tagNetworkTitle=Network
         譯文 : >-
-            tagNetworkTitle=網絡
+            tagNetworkTitle=網路
 #-------------------------------#
     274 :
         標註 : 
         原文 : >-
             tagUpnpTitle=UPnP:
         譯文 : >-
-            tagUpnpTitle=UPnP協議:
+            tagUpnpTitle=UPnP 協議:
 #-------------------------------#
     275 :
         標註 : 
         原文 : >-
             tagUpnpStatus=UPnP Status:
         譯文 : >-
-            tagUpnpStatus=UPnP協議狀態：
+            tagUpnpStatus=UPnP 協議狀態：
 #-------------------------------#
     276 :
         標註 : 
@@ -1861,14 +1861,14 @@ tags_uimain.txt :
         原文 : >-
             tagUpnpHelp=Help
         譯文 : >-
-            tagUpnpHelp=幫助
+            tagUpnpHelp=說明
 #-------------------------------#
     279 :
         標註 : 
         原文 : >-
             tagUpnpControl=Enable UPnP
         譯文 : >-
-            tagUpnpControl=激活UPnP
+            tagUpnpControl=啟用 UPnP
 #-------------------------------#
     280 :
         標註 : 
@@ -1889,28 +1889,28 @@ tags_uimain.txt :
         原文 : >-
             tagNetworkNoOpts=Network Options are unavailable in game.{^n}Please exit to the Main Menu and open the Options Menu.
         譯文 : >-
-            tagNetworkNoOpts=遊戲中網絡選項是不可用的。{^n}請退出到主菜單再打開網絡選項。
+            tagNetworkNoOpts=遊戲中網路選項是不可用的。{^n}請退出到主選單再打開網路選項。
 #-------------------------------#
     283 :
         標註 : 
         原文 : >-
             tagCloudSaving=Enable Cloud Saving
         譯文 : >-
-            tagCloudSaving=開啟雲存檔
+            tagCloudSaving=開啟雲端存檔
 #-------------------------------#
     284 :
         標註 : 
         原文 : >-
             tagResetCloud=Delete Cloud Saves
         譯文 : >-
-            tagResetCloud=刪除雲存檔
+            tagResetCloud=刪除雲端存檔
 #-------------------------------#
     285 :
         標註 : 
         原文 : >-
             tagDownloadCloud=Download Cloud Saves
         譯文 : >-
-            tagDownloadCloud=下載雲存檔
+            tagDownloadCloud=下載雲端存檔
 #-------------------------------#
     287 :
         標註 : 
@@ -1924,7 +1924,7 @@ tags_uimain.txt :
         原文 : >-
             tagUPnPNotAvailableHelp=UPnP is not available.  Grim Dawn will not be able to auto-configure your router to Host an Internet server.  Please check your router settings and enable UPnP or manually configure your router to open port 27016 for both the UDP and TCP protocols.
         譯文 : >-
-            tagUPnPNotAvailableHelp=UPnP協議不可用。恐怖黎明無法將你的路由器自動                                                                                  設置成英特網服務器請檢查你的路由器設置並開啟UPnP或者手動設置你的路由來為UDP協議和TCP協議打開27016端口。
+            tagUPnPNotAvailableHelp=UPnP 協議無法使用。 顫慄黎明無法自動設定你的路由以架設網際網路伺服器。 請檢查您的路由器與啟用 UPnP 協議，或手動設定您的路由器為 UDP 協議、 TCP 協議啟用 port 27016。
 #-------------------------------#
     291 :
         標註 : 
@@ -1938,84 +1938,84 @@ tags_uimain.txt :
         原文 : >-
             tagUPnPDisabledHelp=UPnP is disabled.  Port 27016 must be opened on your router for both the UDP and TCP protocols to host a Grim Dawn server.
         譯文 : >-
-            tagUPnPDisabledHelp=已開啟UPnP。你的路由器上必須為UDP協議和TCP協議打開27016端口才能搭建一個恐怖黎明的服務器。
+            tagUPnPDisabledHelp=已開啟UPnP，您的路由器上必須為 UDP 協議和 TCP 協議啟用 port 27016 才能架設顫慄黎明的服務器。
 #-------------------------------#
     294 :
         標註 : 
         原文 : >-
             tagUPnPHelp=UPnP is a protocol that allows Grim Dawn to Communicate with and control your router.  To host an Internet server, ports must be opened on your router.  UPnP allows Grim Dawn to open those ports, and close them on exit, with no manual configuration required.
         譯文 : >-
-            tagUPnPHelp=UPnP協議將能設置你的路由器並使其與恐怖黎明遊戲進行通信。要建立一個互聯網上的服務器，你的路由器必須打開相應的端口。UPnP可以讓恐怖黎明遊戲打開這些端口，並且退出的時候再關閉它們，無需手動設置。
+            tagUPnPHelp=UPnP 協議能控制您的路由器以建立通訊。若要架設網際網路伺服器，你的路由器必須打開相應的端口。UPnP 可以讓顫慄黎明打開這些端口，並在離開遊戲時關閉，無需手動設置。
 #-------------------------------#
     296 :
         標註 : 
         原文 : >-
             tagIPCheckHelp=The network configuration test checks that the local router has a valid external IP address, and that the address matches the external address visible to the internet.
         譯文 : >-
-            tagIPCheckHelp=網絡設置檢測將會檢查路由器是否擁有一個有效的外部IP地址，並且查看該地址是否與互聯網上可見的地址是相同的。
+            tagIPCheckHelp=網路設置檢測將會檢查路由器是否擁有一個有效的外部IP，並檢查該IP是否與網際網路上的可見IP是相同的。
 #-------------------------------#
     298 :
         標註 : 
         原文 : >-
             tagIPCheckFail=The public IP address reported by your router does not match the public IP address externally visible to the Internet.  Usually, this is caused by attempting to host a Grim Dawn Server from behind more than one router.  Please check your router configuration and restart Grim Dawn.
         譯文 : >-
-            tagIPCheckFail=路由器的公共IP地址與互聯網可見的外部IP地址不一致，通常這是因為試圖在途徑多個路由器之內的網絡建立遊戲服務器的緣故。請檢查你的路由器設置並重啟遊戲。
+            tagIPCheckFail=路由器的公開IP與網際網路可見的外部IP不一致，通常是因為試圖在多個路由器節點的網路架設伺服器，請檢查你的路由器設置並重啟遊戲。
 #-------------------------------#
     300 :
         標註 : 
         原文 : >-
             tagIPCheckFailMaybe=The public IP address reported by your router (%t0) is not a valid IP address.  It is possible that your router is functioning properly and did not report the public IP correctly.  However, if you are unable to host a Grim Dawn server, please check your router configuration.  In particular, you should check to make sure that the Grim Dawn server is not behind more than one router.  Some Internet providers use bundled modem/router devices.  If there is another router between the Grim Dawn server and the bundled device you will not be able to host an internet server.
         譯文 : >-
-            tagIPCheckFailMaybe=你的路由器的公共IP地址：(%t0)不是一個有效的IP地址。路由器雖然正常工作但是沒有正確地返回公共地址這種情況也是可能出現的。請檢查你的路由器設置，確保恐怖黎明的遊戲主機不在多於一臺路由器的網絡之中。一些互聯網提供商使用調制解調器和路由器混合的設備。如果該設備與遊戲主機之間有另外一臺路由器的話，你將無法建立互聯網上的遊戲主機。
+            tagIPCheckFailMaybe=路由器的公開IP：(%t0)不是一個有效的IP位址。路由器正常運行卻無法正常回報IP也是有可能發生的。請檢查你的路由器設置，確保伺服器不在多於一臺路由器的網路中。一些網際網路服務提供商使用混和數據機與路由器的設備，如果該設備與遊戲主機之間有另外一臺路由器的話，您將無法設立網際網路伺服器。
 #-------------------------------#
     302 :
         標註 : 
         原文 : >-
             tagIPCheckPass=Network configuration test passed.  The public IP address reported by your router matches that which is externally visible on the internet.
         譯文 : >-
-            tagIPCheckPass=網絡檢測通過，路由器的公共IP地址和互聯網可見的外部地址是相吻合的。
+            tagIPCheckPass=網路檢測通過，路由器的公共IP位址與網際網路可見的外部位址是相同的。
 #-------------------------------#
     304 :
         標註 : 
         原文 : >-
             tagIPCheckUnable=Unable to test network configuration.  This check requires that the local router has the UPnP protocol enabled, and that UPnP support is enabled in Grim Dawn.  If it is not enabled, please enable it, restart Grim Dawn, and re-run this test.
         譯文 : >-
-            tagIPCheckUnable=無法檢測網絡設置。測試需要本地路由器激活UPnP協議，並且恐怖黎明遊戲也要啟用該協議。如果沒有啟用該協議，請啟用協議並重啟遊戲，然後再次運行網絡檢測。
+            tagIPCheckUnable=無法檢測網路設置。測試需要本地路由器啟用UPnP協議，且顫慄黎明也要啟用該協議。若沒有啟用該協議，請啟用協議並重啟遊戲，然後再次運行網路檢測。
 #-------------------------------#
     306 :
         標註 : 
         原文 : >-
             tagIPCheckUnableIP=Unable to obtain the externally visible IP address.  The test cannot be run at this time.
         譯文 : >-
-            tagIPCheckUnableIP=無法獲得外部可見的IP地址，無法運行測試。
+            tagIPCheckUnableIP=無法獲得外部可見的IP位址，無法運行測試。
 #-------------------------------#
     308 :
         標註 : 
         原文 : >-
             tagIPTesting=Testing Configuration...
         譯文 : >-
-            tagIPTesting=正在檢測設置……
+            tagIPTesting=正在檢測設置...
 #-------------------------------#
     309 :
         標註 : 
         原文 : >-
             tagIPLocalPublic=Public IP reported by your router:
         譯文 : >-
-            tagIPLocalPublic=路由器的公共IP地址：
+            tagIPLocalPublic=路由器的公開IP位址：
 #-------------------------------#
     310 :
         標註 : 
         原文 : >-
             tagIPExternalPublic=Public IP visible to the Internet:
         譯文 : >-
-            tagIPExternalPublic=互聯網網可見的公共IP地址：
+            tagIPExternalPublic=網際網路可見的公開IP位址：
 #-------------------------------#
     311 :
         標註 : 
         原文 : >-
             tagIPInvalid=<Unable to obtain address>
         譯文 : >-
-            tagIPInvalid=<無法獲得地址>
+            tagIPInvalid=<無法獲取位址>
 #-------------------------------#
     314 :
         標註 : 
@@ -2050,7 +2050,7 @@ tags_uimain.txt :
         原文 : >-
             tagMultiplayer05=Ping
         譯文 : >-
-            tagMultiplayer05=Ping值
+            tagMultiplayer05=Ping
 #-------------------------------#
     319 :
         標註 : 
@@ -2141,21 +2141,21 @@ tags_uimain.txt :
         原文 : >-
             tagMultiStats04=Elapsed Time :
         譯文 : >-
-            tagMultiStats04=遊戲已進行時間：
+            tagMultiStats04=遊戲進行時間：
 #-------------------------------#
     333 :
         標註 : 
         原文 : >-
             tagMultiStats05=Level Range +/-
         譯文 : >-
-            tagMultiStats05=等級範圍+/-
+            tagMultiStats05=允許玩家等級+/-
 #-------------------------------#
     334 :
         標註 : 
         原文 : >-
             tagMultiButtonRefresh=Refresh
         譯文 : >-
-            tagMultiButtonRefresh=刷新
+            tagMultiButtonRefresh=重新整理
 #-------------------------------#
     335 :
         標註 : 
@@ -2169,14 +2169,14 @@ tags_uimain.txt :
         原文 : >-
             tagDefaultMap=Grim Dawn
         譯文 : >-
-            tagDefaultMap=恐怖黎明
+            tagDefaultMap=顫慄黎明
 #-------------------------------#
     338 :
         標註 : 
         原文 : >-
             tagMenuErrorTitle=Information
         譯文 : >-
-            tagMenuErrorTitle=信息
+            tagMenuErrorTitle=訊息
 #-------------------------------#
     339 :
         標註 : 
@@ -2190,56 +2190,56 @@ tags_uimain.txt :
         原文 : >-
             tagMenuError08=Unable to connect to server.
         譯文 : >-
-            tagMenuError08=無法連接至服務器。
+            tagMenuError08=無法連接至伺服器。
 #-------------------------------#
     341 :
         標註 : 
         原文 : >-
             tagMenuError09=Please select a server.
         譯文 : >-
-            tagMenuError09=請選擇一個服務器。
+            tagMenuError09=請選擇一個伺服器。
 #-------------------------------#
     342 :
         標註 : 
         原文 : >-
             tagMenuError11=Internet service unavailable.
         譯文 : >-
-            tagMenuError11=互聯網服務不可用。
+            tagMenuError11=網際網路服務不可用。
 #-------------------------------#
     343 :
         標註 : 
         原文 : >-
             tagMenuError12=Internet service temporarily unavailable due to scheduled maintenance.
         譯文 : >-
-            tagMenuError12=由於服務器例行維護，互聯網服務暫時不可用。
+            tagMenuError12=由於伺服器例行維護，網際網路服務暫時不可用。
 #-------------------------------#
     344 :
         標註 : 
         原文 : >-
             tagMenuError13=Error connecting to internet service.
         譯文 : >-
-            tagMenuError13=連接到互聯網服務時發生錯誤。
+            tagMenuError13=連接到網際網路服務時發生錯誤。
 #-------------------------------#
     345 :
         標註 : 
         原文 : >-
             tagMenuError14=Network problems detected.
         譯文 : >-
-            tagMenuError14=檢測到網絡問題。
+            tagMenuError14=檢測到網路問題。
 #-------------------------------#
     346 :
         標註 : 
         原文 : >-
             tagMenuError15=Lost connection to server.
         譯文 : >-
-            tagMenuError15=丟失服務器連接。
+            tagMenuError15=失去伺服器連接。
 #-------------------------------#
     347 :
         標註 : 
         原文 : >-
             tagMenuError16=You have been banned from this server.
         譯文 : >-
-            tagMenuError16=你已被該服務器禁止。
+            tagMenuError16=你已被該伺服器加入黑名單。
 #-------------------------------#
     348 :
         標註 : 
@@ -2274,21 +2274,21 @@ tags_uimain.txt :
         原文 : >-
             tagMenuError21=This game requires custom map: {%t0}
         譯文 : >-
-            tagMenuError21=該房間需要自定義地圖：{%t0}
+            tagMenuError21=該房間需要自定地圖：{%t0}
 #-------------------------------#
     353 :
         標註 : 
         原文 : >-
             tagMenuError21a=This game is using an incompatible game mode. Your mode: "{%s0"}, Server's mode: "{%s1}"
         譯文 : >-
-            tagMenuError21a=此遊戲房間使用了一個不匹配的遊戲模式。你的遊戲模式："{%s0}"，服務器的模式："{%s1}"
+            tagMenuError21a=此遊戲房間使用了一個不同的遊戲模式。你的遊戲模式："{%s0}"，伺服器的模式："{%s1}"
 #-------------------------------#
     354 :
         標註 : 
         原文 : >-
             tagMenuError21b=Hardcore and non-hardcore players cannot play together.  Please select another game.
         譯文 : >-
-            tagMenuError21b=專家模式和非專家模式的玩家不能在一起進行遊戲。請選擇其他的遊戲房間。
+            tagMenuError21b=專家模式和非專家模式的玩家不能在一起進行遊戲，請選擇其他的遊戲房間。
 #-------------------------------#
     355 :
         標註 : 
@@ -2302,63 +2302,63 @@ tags_uimain.txt :
         原文 : >-
             tagMenuError23=This game requires characters to be between level {%d0} ~ {%d1}.  Please select another game.
         譯文 : >-
-            tagMenuError23=該遊戲需要人物等級介於{%d0}~{%d1}之間。請選擇其他遊戲房間。
+            tagMenuError23=該遊戲只允許{%d0}~{%d1}等的玩家加入，請選擇其他遊戲房間。
 #-------------------------------#
     357 :
         標註 : 
         原文 : >-
             tagMenuError24=Some of your changes will not take effect until you restart the game.
         譯文 : >-
-            tagMenuError24=一些改動重啟遊戲才會生效。
+            tagMenuError24=一些改動在重啟遊戲後才會生效。
 #-------------------------------#
     358 :
         標註 : 
         原文 : >-
             tagMenuError25=You have made some changes to options in the game.  Do you wish to apply those changes?
         譯文 : >-
-            tagMenuError25=你改變了一些選項，是否應用這些改動？
+            tagMenuError25=你改變了一些選項，是否套用這些改動？
 #-------------------------------#
     359 :
         標註 : 
         原文 : >-
             tagMenuError26=Unable to Connect to Server - Invalid CD Key
         譯文 : >-
-            tagMenuError26=無法連接至服務器，無效的cdkey
+            tagMenuError26=無法連接至伺服器，無效的 CD Key
 #-------------------------------#
     360 :
         標註 : 
         原文 : >-
             tagMenuError28=Invalid CD Key
         譯文 : >-
-            tagMenuError28=無效的cdkey
+            tagMenuError28=無效的 CD Key
 #-------------------------------#
     361 :
         標註 : 
         原文 : >-
             tagMenuError29=CD Key Already in Use
         譯文 : >-
-            tagMenuError29=cdkey已被使用
+            tagMenuError29=CD Key 已被使用
 #-------------------------------#
     362 :
         標註 : 
         原文 : >-
             tagMenuError30=CD Key Has Been Disabled
         譯文 : >-
-            tagMenuError30=cdkey已被禁用
+            tagMenuError30=CD Key 已被禁用
 #-------------------------------#
     363 :
         標註 : 
         原文 : >-
             tagMenuError31=Building server list.  Cancel to view partial server list.
         譯文 : >-
-            tagMenuError31=正在建立服務器名單，取消以顯示部分服務器。
+            tagMenuError31=正在建立伺服器列表，按下取消只會顯示部分服務器。
 #-------------------------------#
     364 :
         標註 : 
         原文 : >-
             tagMenuError32=You do not have the correct version to connect to this server.  Please update.
         譯文 : >-
-            tagMenuError32=需要正確的版本才能連接到該服務器，請更新遊戲。
+            tagMenuError32=需要正確的版本才能連接到該伺服器，請更新遊戲。
 #-------------------------------#
     365 :
         標註 : 
@@ -2372,7 +2372,7 @@ tags_uimain.txt :
         原文 : >-
             tagMenuError34=Virtual memory must be enabled to run Grim Dawn.
         譯文 : >-
-            tagMenuError34=必須激活虛擬內存才能運行恐怖黎明。
+            tagMenuError34=必須啟動虛擬內存才能運行顫慄黎明。
 #-------------------------------#
     367 :
         標註 : 
@@ -2393,7 +2393,7 @@ tags_uimain.txt :
         原文 : >-
             tagMenuError37=A copy of Grim Dawn is already running.
         譯文 : >-
-            tagMenuError37=一個恐怖黎明的遊戲副本已經在運行。
+            tagMenuError37=一個顫慄黎明的遊戲副本已經在運行。
 #-------------------------------#
     370 :
         標註 : 
@@ -2421,14 +2421,14 @@ tags_uimain.txt :
         原文 : >-
             tagMenuError41=Please insert the original Grim Dawn disc.
         譯文 : >-
-            tagMenuError41=請插入恐怖黎明遊戲原盤。
+            tagMenuError41=請插入恐怖黎明遊戲光碟。
 #-------------------------------#
     374 :
         標註 : 
         原文 : >-
             tagMenuError42=Steam authentication failed.
         譯文 : >-
-            tagMenuError42=Steam驗證失敗。
+            tagMenuError42=Steam 驗證失敗。
 #-------------------------------#
     375 :
         標註 : 
@@ -2442,21 +2442,21 @@ tags_uimain.txt :
         原文 : >-
             tagMenuWarning01=Warning:  This will create a copy of your character {%s}.  This copied character can only be used in Custom Games.
         譯文 : >-
-            tagMenuWarning01=警告：這將會創建人物{%s}的副本，且複製的人物只能用於自定義遊戲中。
+            tagMenuWarning01=警告：這將會創建人物{%s}的副本，且複製的人物只能用於自定遊戲中。
 #-------------------------------#
     377 :
         標註 : 
         原文 : >-
             tagMenuWarning02=Would you like to rename this Custom Only Character?
         譯文 : >-
-            tagMenuWarning02=你想要重命名這個自定義人物嗎？
+            tagMenuWarning02=你想要重命名這個自定人物嗎？
 #-------------------------------#
     378 :
         標註 : 
         原文 : >-
             tagMenuWarning03=Leave blank and press "OK" to keep {%s} as the new characters name.
         譯文 : >-
-            tagMenuWarning03=留空並點擊“確定”以保留{%s}作為新角色的名字不變。
+            tagMenuWarning03=留白並點擊「確定」以保留{%s}作為新角色的名字。
 #-------------------------------#
     379 :
         標註 : 
@@ -2491,14 +2491,14 @@ tags_uimain.txt :
         原文 : >-
             tagDeveloperOption01=Video Sync to Refresh 
         譯文 : >-
-            tagDeveloperOption01=圖像同步刷新
+            tagDeveloperOption01=影像同步刷新
 #-------------------------------#
     384 :
         標註 : 
         原文 : >-
             tagDeveloperOption02=Full Screen 
         譯文 : >-
-            tagDeveloperOption02=全屏幕
+            tagDeveloperOption02=全螢幕
 #-------------------------------#
     385 :
         標註 : 
@@ -2519,14 +2519,14 @@ tags_uimain.txt :
         原文 : >-
             tagDeveloperOption05=Send Debug Mail 
         譯文 : >-
-            tagDeveloperOption05=發送調試郵件
+            tagDeveloperOption05=發送除錯郵件
 #-------------------------------#
     388 :
         標註 : 
         原文 : >-
             tagDeveloperOption06=Show Assert Messages 
         譯文 : >-
-            tagDeveloperOption06=顯示斷言信息
+            tagDeveloperOption06=顯示斷言訊息
 #-------------------------------#
     389 :
         標註 : 
@@ -2540,7 +2540,7 @@ tags_uimain.txt :
         原文 : >-
             tagDeveloperOption08=Load Database from Archive
         譯文 : >-
-            tagDeveloperOption08=從壓縮檔中讀取數據庫
+            tagDeveloperOption08=從壓縮檔中讀取資料庫
 #-------------------------------#
     391 :
         標註 : 
@@ -2575,14 +2575,14 @@ tags_uimain.txt :
         原文 : >-
             tagNamePlate02=Custom Game Setup
         譯文 : >-
-            tagNamePlate02=自定義遊戲設置
+            tagNamePlate02=自定遊戲設置
 #-------------------------------#
     396 :
         標註 : 
         原文 : >-
             tagNamePlate03=Options Menu
         譯文 : >-
-            tagNamePlate03=選項菜單
+            tagNamePlate03=選項
 #-------------------------------#
     397 :
         標註 : 
@@ -2596,14 +2596,14 @@ tags_uimain.txt :
         原文 : >-
             tagNamePlate05=LAN
         譯文 : >-
-            tagNamePlate05=局域網
+            tagNamePlate05=區域網路
 #-------------------------------#
     399 :
         標註 : 
         原文 : >-
             tagNamePlate06=Internet
         譯文 : >-
-            tagNamePlate06=互聯網
+            tagNamePlate06=網際網路
 #-------------------------------#
     400 :
         標註 : 
@@ -2624,28 +2624,28 @@ tags_uimain.txt :
         原文 : >-
             tagFrenchPatch=Grim Dawn will now update the original Grim Dawn dialog files to the French version.
         譯文 : >-
-            tagFrenchPatch=恐怖黎明現在要將原始對話文檔更新到法語版本。
+            tagFrenchPatch=顫慄黎明現在要將原始對話文檔更新到法文版本。
 #-------------------------------#
     403 :
         標註 : 
         原文 : >-
             tagGermanPatch=Grim Dawn will now update the original Grim Dawn dialog files to the German version.
         譯文 : >-
-            tagGermanPatch=恐怖黎明現在要將原始對話文檔更新到德語版本。
+            tagGermanPatch=顫慄黎明現在要將原始對話文檔更新到德文版本。
 #-------------------------------#
     404 :
         標註 : 
         原文 : >-
             tagLanguagePatchError=Grim Dawn was unable to update the original Grim Dawn dialog files.
         譯文 : >-
-            tagLanguagePatchError=恐怖黎明無法更新原始對話文檔。
+            tagLanguagePatchError=顫慄黎明無法更新原始對話文檔。
 #-------------------------------#
     405 :
         標註 : 
         原文 : >-
             tagMenuPatcher01=Updating original Grim Dawn files …
         譯文 : >-
-            tagMenuPatcher01=正在更新恐怖黎明原始文件......
+            tagMenuPatcher01=正在更新顫慄黎明原始文件...
 #-------------------------------#
     406 :
         標註 : 
@@ -2701,21 +2701,21 @@ tags_uimain.txt :
         原文 : >-
             tagCharImportTQCampaign=Grim Dawn Campaign Characters
         譯文 : >-
-            tagCharImportTQCampaign=恐怖黎明戰役角色
+            tagCharImportTQCampaign=顫慄黎明戰役角色
 #-------------------------------#
     415 :
         標註 : 
         原文 : >-
             tagCharImportTQCustom=Grim Dawn Custom Characters
         譯文 : >-
-            tagCharImportTQCustom=恐怖黎明自定義角色
+            tagCharImportTQCustom=顫慄黎明自定角色
 #-------------------------------#
     416 :
         標註 : 
         原文 : >-
             tagCharImportTQXCampaign=Grim Dawn Campaign Characters
         譯文 : >-
-            tagCharImportTitle=恐怖黎明自定義角色
+            tagCharImportTitle=顫慄黎明自定義角色
 #-------------------------------#
     417 :
         標註 : 
@@ -2820,14 +2820,14 @@ tags_uimain.txt :
         原文 : >-
             tagLobbySearchTitle=Advanced Search
         譯文 : >-
-            tagLobbySearchTitle=高級搜索
+            tagLobbySearchTitle=進階搜尋
 #-------------------------------#
     433 :
         標註 : 
         原文 : >-
             tagLobbySearchPingBelow=Ping Below
         譯文 : >-
-            tagLobbySearchPingBelow=Ping值低於
+            tagLobbySearchPingBelow=Ping 值低於
 #-------------------------------#
     434 :
         標註 : 
@@ -2890,7 +2890,7 @@ tags_uimain.txt :
         原文 : >-
             tagLobbySearchSearch=Search
         譯文 : >-
-            tagLobbySearchSearch=搜索
+            tagLobbySearchSearch=搜尋
 #-------------------------------#
     443 :
         標註 : 
@@ -2911,14 +2911,14 @@ tags_uimain.txt :
         原文 : >-
             tagLobbyDirectTitle=Set Direct Connect Server Address
         譯文 : >-
-            tagLobbyDirectTitle=設置直連服務器地址：
+            tagLobbyDirectTitle=設置直連伺服器地址：
 #-------------------------------#
     446 :
         標註 : 
         原文 : >-
             tagLobbyDirectIP=IP:
         譯文 : >-
-            tagLobbyDirectIP=IP地址：
+            tagLobbyDirectIP=IP位址：
 #-------------------------------#
     447 :
         標註 : 
@@ -2953,7 +2953,7 @@ tags_uimain.txt :
         原文 : >-
             tagLobbyServerTypeTitle=Server Type:
         譯文 : >-
-            tagLobbyServerTypeTitle=服務器種類：
+            tagLobbyServerTypeTitle=伺服器種類：
 #-------------------------------#
     452 :
         標註 : 
@@ -3002,7 +3002,7 @@ tags_uimain.txt :
         原文 : >-
             tagCharDetailsFaction=Faction Status:
         譯文 : >-
-            tagCharDetailsFaction=勢力狀態
+            tagCharDetailsFaction=勢力狀態：
 #-------------------------------#
     460 :
         標註 : 
@@ -3016,21 +3016,21 @@ tags_uimain.txt :
         原文 : >-
             tagDirectConnectMenuConnecting=Connecting to Server {%t0}
         譯文 : >-
-            tagDirectConnectMenuConnecting=連接到服務器{%t0}
+            tagDirectConnectMenuConnecting=正在連接伺服器{%t0}
 #-------------------------------#
     463 :
         標註 : 
         原文 : >-
             tagDirectConnectMenuStatus1=Contacting Server...
         譯文 : >-
-            tagDirectConnectMenuStatus1=與服務器通訊中……
+            tagDirectConnectMenuStatus1=與伺服器通訊中...
 #-------------------------------#
     464 :
         標註 : 
         原文 : >-
             tagDirectConnectMenuStatus2=Connecting to Server...
         譯文 : >-
-            tagDirectConnectMenuStatus2=正在連接服務器……
+            tagDirectConnectMenuStatus2=正在連接伺服器...
 #-------------------------------#
     465 :
         標註 : 
@@ -3051,7 +3051,7 @@ tags_uimain.txt :
         原文 : >-
             tagFriendOnline=Online
         譯文 : >-
-            tagFriendOnline=在線
+            tagFriendOnline=線上
 #-------------------------------#
     470 :
         標註 : 
@@ -3149,7 +3149,7 @@ tags_uimain.txt :
         原文 : >-
             tagTQ1ModInvalid=This map was created with an older version of Grim Dawn.
         譯文 : >-
-            tagTQ1ModInvalid=這張地圖是在一個較早版本的恐怖黎明遊戲裡創建的。
+            tagTQ1ModInvalid=這張地圖是在一個較早版本的顫慄黎明遊戲裡創建的。
 #-------------------------------#
     486 :
         標註 : 
@@ -3170,7 +3170,7 @@ tags_uimain.txt :
         原文 : >-
             tagGamma=Fullscreen Gamma
         譯文 : >-
-            tagGamma=全屏模式灰度
+            tagGamma=全螢幕模式珈瑪值
 #-------------------------------#
     489 :
         標註 : 
@@ -3212,49 +3212,49 @@ tags_uimain.txt :
         原文 : >-
             tagOverwriteKeymap=The function ^y{%t0}^w has already been mapped to ^y{%t1}^w. Do you wish to overwrite? 
         譯文 : >-
-            tagOverwriteKeymap=該功能^y{%t0}^w已經被映射到^y{%t1}^w了。是否覆蓋？
+            tagOverwriteKeymap=該功能^y{%t0}^w已經被對照到^y{%t1}^w了。是否覆蓋？
 #-------------------------------#
     496 :
         標註 : 
         原文 : >-
             tagHardDiskError=Your computer is currently low on hard drive space.  Grim Dawn may have difficulty saving your game.   To avoid this problem, please create more room on your hardrive.
         譯文 : >-
-            tagHardDiskError=計算機硬盤空間不足，恐怖黎明可能會無法存檔。釋放更多硬盤空間以避免該問題。
+            tagHardDiskError=電腦硬碟空間不足，顫慄黎明可能會無法存檔。請釋放更多硬碟空間以避免該問題。
 #-------------------------------#
     497 :
         標註 : 
         原文 : >-
             tagMenuError10=Unable to connect to server.  The mod or map version does not match the host.
         譯文 : >-
-            tagMenuError10=無法連接至服務器。Mod或者地圖版本與主機不匹配。
+            tagMenuError10=無法連接至服務器。Mod 或者地圖版本與主機不同。
 #-------------------------------#
     499 :
         標註 : 
         原文 : >-
             tagReportUsageStats=Help us improve Grim Dawn by periodically reporting anonymous system and gameplay stats?
         譯文 : >-
-            tagReportUsageStats=是否定性發送匿名的系統和遊戲信息以幫助我們改進恐怖黎明？
+            tagReportUsageStats=是否定期發送匿名的系統與遊戲資訊以幫助我們改進顫慄黎明？
 #-------------------------------#
     500 :
         標註 : 
         原文 : >-
             tagImportToSteamCloud=Steam Cloud Saving is enabled. Import existing characters?
         譯文 : >-
-            tagImportToSteamCloud=已激活Steam雲存檔S功能。是否導入現有人物？
+            tagImportToSteamCloud=已啟用Steam雲端存檔功能。是否載入現有人物？
 #-------------------------------#
     501 :
         標註 : 
         原文 : >-
             tagResetCloudWarning=Are you sure you want to delete all characters and data stored in the cloud?
         譯文 : >-
-            tagResetCloudWarning=你確定要刪除雲存檔中的所有人物和數據嗎？
+            tagResetCloudWarning=你確定要刪除雲端存檔中的所有人物和資料嗎？
 #-------------------------------#
     502 :
         標註 : 
         原文 : >-
             tagDownloadCloudWarning=Are you sure you want to download cloud saves? Locally saved characters and data will be overwritten!
         譯文 : >-
-            tagDownloadCloudWarning=確定下載雲存檔？本地存檔將會被覆蓋！
+            tagDownloadCloudWarning=您確定要下載雲存檔？本地存檔將會被覆蓋！
 #-------------------------------#
     503 :
         標註 : 
