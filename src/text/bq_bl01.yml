@@ -27,14 +27,14 @@ bq_bl01.txt :
         原文 : >-
             The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
-            軍團請求你解決Fleshwarped的威脅。{^n}{^n}為了在這個地區取得勝利，除掉畸形指揮官是勢在必行的。{^n}{^n}任何的協助都將回報以鐵幣。
+            軍團請求你解決Fleshwarped的威脅。{^n}{^n}為了在這個地區取得勝利，除掉Fleshwarped Commanders是勢在必行的。{^n}{^n}任何的協助都將回報以鐵幣。
 #-------------------------------#
     5 :
         標註 : 
         原文 : >-
             Slay Fleshwarped Commanders
         譯文 : >-
-            殺死 畸型指揮官
+            殺死 Fleshwarped Commanders
 #-------------------------------#
     7 :
         標註 : 
@@ -55,4 +55,4 @@ bq_bl01.txt :
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-
-            回到黑色軍團的賞金桌那裡
+            回到Black Legion的賞金桌那裡
