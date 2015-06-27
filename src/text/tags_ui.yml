@@ -188,7 +188,7 @@ tags_ui.txt :
         原文 : >-
             tagRiftgateError01=You cannot use this rift.  It was created by a player not in your group.
         譯文 : >-
-            tagRiftgateError01=你無法使用這個Rift。它由一個不與你同隊伍的玩家創建。
+            tagRiftgateError01=你無法使用這個Rift，因為創建它的玩家與你不同隊伍。
 #-------------------------------#
     39 :
         標註 : 
@@ -3072,7 +3072,7 @@ tags_ui.txt :
         原文 : >-
             tagCharBonusHealthRegen=Bonus Health Regen:
         譯文 : >-
-            tagCharBonusHealthRegen=生命回覆加成:
+            tagCharBonusHealthRegen=生命恢復加成:
 #-------------------------------#
     491 :
         標註 : 
@@ -3086,7 +3086,7 @@ tags_ui.txt :
         原文 : >-
             tagCharBonusEnergyRegen=Bonus Energy Regen:
         譯文 : >-
-            tagCharBonusEnergyRegen=能量回復加成:
+            tagCharBonusEnergyRegen=能量恢復加成:
 #-------------------------------#
     494 :
         標註 : 
@@ -3758,28 +3758,28 @@ tags_ui.txt :
         原文 : >-
             tagCharStatsLifeRegen=Health Regeneration
         譯文 : >-
-            tagCharStatsLifeRegen=生命回覆
+            tagCharStatsLifeRegen=生命恢復
 #-------------------------------#
     607 :
         標註 : 
         原文 : >-
             tagCharStatsLifeRegenInfo=The rate at which your health replenishes while in combat. Percent bonuses only affect regeneration from gear and skills; not base regeneration, which is based on physique.
         譯文 : >-
-            tagCharStatsLifeRegenInfo=戰鬥中生命回覆速度。加成只影響從裝備和技能獲得的回覆速度，不影響基於力量的基本回復速度。
+            tagCharStatsLifeRegenInfo=戰鬥中生命恢復速度。加成只影響從裝備和技能獲得的恢復速度，不影響基於力量的基本恢復速度。
 #-------------------------------#
     608 :
         標註 : 
         原文 : >-
             tagCharStatsEnergyRegen=Energy Regeneration
         譯文 : >-
-            tagCharStatsEnergyRegen=能量回復
+            tagCharStatsEnergyRegen=能量恢復
 #-------------------------------#
     609 :
         標註 : 
         原文 : >-
             tagCharStatsEnergyRegenInfo=The rate at which your energy replenishes. Percent bonuses only affect regeneration from gear and skills; not base regeneration, which is based on spirit.
         譯文 : >-
-            tagCharStatsEnergyRegenInfo=能量值回覆速度。加成只影響從裝備和技能獲得的回覆速度，不影響基於智力的基本回復速度。
+            tagCharStatsEnergyRegenInfo=能量值恢復速度。加成只影響從裝備和技能獲得的恢復速度，不影響基於智力的基本恢復速度。
 #-------------------------------#
     610 :
         標註 : 
@@ -4101,7 +4101,7 @@ tags_ui.txt :
         原文 : >-
             tagCharStatsDamageToHealthInfo=The percent of the weapon attack damage you deal which also replenishes your health.
         譯文 : >-
-            tagCharStatsDamageToHealthInfo=武器傷害用來回復生命的百分比。
+            tagCharStatsDamageToHealthInfo=武器傷害用來恢復生命的百分比。
 #-------------------------------#
     665 :
         標註 : 
@@ -5907,7 +5907,7 @@ tags_ui.txt :
         原文 : >-
             tagCraftingButtonInfo=Combine items placed in the Crafting Window. This button will be highlighted when all required materials are added.
         譯文 : >-
-            tagCraftingButtonInfo=合成放置在鍛造窗口的物品。該按鈕會在添加所有需要的材料後亮起顯示。
+            tagCraftingButtonInfo=合成放置在鍛造視窗的物品。該按鈕會在添加所有需要的材料後亮起顯示。
 #-------------------------------#
     1006 :
         標註 : 
@@ -6439,7 +6439,7 @@ tags_ui.txt :
         原文 : >-
             tagChatCommand03=Reply
         譯文 : >-
-            tagChatCommand03=回覆
+            tagChatCommand03=恢復
 #-------------------------------#
     1105 :
         標註 : 
@@ -6922,14 +6922,14 @@ tags_ui.txt :
         原文 : >-
             tagCharLifeRegen={%+.1f0} {^E}Health Regenerated per second
         譯文 : >-
-            tagCharLifeRegen={^E}每秒生命回覆 {^H}{%+.1f0} 
+            tagCharLifeRegen={^E}每秒生命恢復 {^H}{%+.1f0} 
 #-------------------------------#
     1190 :
         標註 : 
         原文 : >-
             tagCharManaRegen={%+.1f0} {^E}Energy Regenerated per second
         譯文 : >-
-            tagCharManaRegen={^E}每秒能量回復 {^H}{%+.1f0} 
+            tagCharManaRegen={^E}每秒能量恢復 {^H}{%+.1f0} 
 #-------------------------------#
     1192 :
         標註 : 
@@ -6971,7 +6971,7 @@ tags_ui.txt :
         原文 : >-
             tagCharConstitutionModifier={%+.0f0}% {^E}Constitution
         譯文 : >-
-            tagCharLifeRegenModifier={^E}生命回覆速度提高 {^H}{%.0f0}%
+            tagCharLifeRegenModifier={^E}生命恢復速度提高 {^H}{%.0f0}%
 #-------------------------------#
     1198 :
         標註 : 
@@ -6985,7 +6985,7 @@ tags_ui.txt :
         原文 : >-
             tagCharManaRegenModifier={^E}Increases Energy Regeneration by {^H}{%.0f0}%
         譯文 : >-
-            tagCharManaRegenModifier={^E}能量回復速度提高 {^H}{%.0f0}%
+            tagCharManaRegenModifier={^E}能量恢復速度提高 {^H}{%.0f0}%
 #-------------------------------#
     1201 :
         標註 : 
@@ -7104,14 +7104,14 @@ tags_ui.txt :
         原文 : >-
             tagCharLifeRegenR={%+.1f0}-{%.1f1} {^E}Health Regenerated per second
         譯文 : >-
-            tagCharLifeRegenR={%+.1f0}-{%.1f1} {^E}每秒生命回覆
+            tagCharLifeRegenR={%+.1f0}-{%.1f1} {^E}每秒生命恢復
 #-------------------------------#
     1220 :
         標註 : 
         原文 : >-
             tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}Energy Regenerated per second
         譯文 : >-
-            tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}每秒能量回復
+            tagCharManaRegenR={%+.1f0}-{%.1f1} {^E}每秒能量恢復
 #-------------------------------#
     1221 :
         標註 : 
@@ -7153,14 +7153,14 @@ tags_ui.txt :
         原文 : >-
             tagCharLifeRegenModifierR={^E}Increases Health Regeneration by {^H}{%.0f0}-{%.0f1}%
         譯文 : >-
-            tagCharLifeRegenModifierR={^E}生命回覆速度提高 {^H}{%.0f0}-{%.0f1}%
+            tagCharLifeRegenModifierR={^E}生命恢復速度提高 {^H}{%.0f0}-{%.0f1}%
 #-------------------------------#
     1227 :
         標註 : 
         原文 : >-
             tagCharManaRegenModifierR={^E}Increases Energy Regeneration by {^H}{%.0f0}-{%.0f1}%
         譯文 : >-
-            tagCharManaRegenModifierR={^E}能量回復速度提高 {^H}{%.0f0}-{%.0f1}%
+            tagCharManaRegenModifierR={^E}能量恢復速度提高 {^H}{%.0f0}-{%.0f1}%
 #-------------------------------#
     1228 :
         標註 : 
@@ -8469,42 +8469,42 @@ tags_ui.txt :
         原文 : >-
             SkillLifeBonus={%+.1f0} {^E}Health Restored
         譯文 : >-
-            SkillLifeBonus={%+.1f0} {^E}生命回覆
+            SkillLifeBonus={%+.1f0} {^E}生命恢復
 #-------------------------------#
     1425 :
         標註 : 
         原文 : >-
             SkillManaBonus={%+.1f0} {^E}Energy Restored
         譯文 : >-
-            SkillManaBonus={%+.1f0} {^E}能量回復
+            SkillManaBonus={%+.1f0} {^E}能量恢復
 #-------------------------------#
     1426 :
         標註 : 
         原文 : >-
             SkillLifePercent={%.1f0}% {^E}Health Restored
         譯文 : >-
-            SkillLifePercent={%.1f0}% {^E}生命回覆
+            SkillLifePercent={%.1f0}% {^E}生命恢復
 #-------------------------------#
     1427 :
         標註 : 
         原文 : >-
             SkillManaPercent={%.1f0}% {^E}Energy Restored
         譯文 : >-
-            SkillManaPercent= {%.1f0}% {^E}能量回復
+            SkillManaPercent= {%.1f0}% {^E}能量恢復
 #-------------------------------#
     1428 :
         標註 : 
         原文 : >-
             SkillLifeBonusAndPercent={%.0f1}% + {%.0f0} {^E}Health Restored
         譯文 : >-
-            SkillLifeBonusAndPercent= {%.0f1}%+{%.0f0} {^E}生命回覆
+            SkillLifeBonusAndPercent= {%.0f1}%+{%.0f0} {^E}生命恢復
 #-------------------------------#
     1429 :
         標註 : 
         原文 : >-
             SkillManaBonusAndPercent={%.0f1}% + {%.0f0} {^E}Energy Restored
         譯文 : >-
-            SkillManaBonusAndPercent= {%.0f1}%+{%.0f0} {^E}能量回復
+            SkillManaBonusAndPercent= {%.0f1}%+{%.0f0} {^E}能量恢復
 #-------------------------------#
     1430 :
         標註 : 
@@ -12018,7 +12018,7 @@ tags_ui.txt :
         原文 : >-
             tagMPServerName=Server Name :
         譯文 : >-
-            tagMPServerName=服務器名:
+            tagMPServerName=伺服器名:
 #-------------------------------#
     1968 :
         標註 : 
@@ -12039,7 +12039,7 @@ tags_ui.txt :
         原文 : >-
             tagMPServer=Server Name: {%t0}
         譯文 : >-
-            tagMPServer=服務器名:{%t0}
+            tagMPServer=伺服器名:{%t0}
 #-------------------------------#
     1971 :
         標註 : 
@@ -12165,7 +12165,7 @@ tags_ui.txt :
         原文 : >-
             tagChatReply=REPLY
         譯文 : >-
-            tagChatReply=回覆
+            tagChatReply=恢復
 #-------------------------------#
     1989 :
         標註 : 
@@ -12179,21 +12179,21 @@ tags_ui.txt :
         原文 : >-
             tagChatError=No player with that name exists.
         譯文 : >-
-            tagChatError=不存在使用該姓名的玩家。
+            tagChatError=不存在該名稱的玩家。
 #-------------------------------#
     1991 :
         標註 : 
         原文 : >-
             tagChatMuted={%t0} is now muted.
         譯文 : >-
-            tagChatMuted={%t0}現在被靜音。
+            tagChatMuted={%t0}現在被禁言。
 #-------------------------------#
     1992 :
         標註 : 
         原文 : >-
             tagChatUnmuted={%t0} is no longer muted.
         譯文 : >-
-            tagChatUnmuted={%t0}不再被靜音。
+            tagChatUnmuted={%t0}不再被禁言。
 #-------------------------------#
     1993 :
         標註 : 
