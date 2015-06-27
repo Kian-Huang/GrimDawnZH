@@ -6,14 +6,14 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTitle=Tutorial Help
         譯文 : >-
-            tagTutorialTitle=教程幫助
+            tagTutorialTitle=教學說明
 #-------------------------------#
     1 :
         標註 : 
         原文 : >-
             tagTutorialRollOver=Check this box to disable tutorial pop-ups. Once disabled they can be manually re-enabled from the HUD help button.
         譯文 : >-
-            tagTutorialRollOver=選中此框來禁用教程界面。一旦禁用{^n}{^n}可以通過信息面板點擊幫助按鈕重新開啟。
+            tagTutorialRollOver=勾選以停用教學提示。一旦停用{^n}{^n}可以通過訊息面板點擊說明按鈕重新開啟。
 #-------------------------------#
     2 :
         標註 : 
@@ -27,7 +27,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialDisable=Disable Tutorial Tips
         譯文 : >-
-            tagTutorialDisable=禁用教程提示
+            tagTutorialDisable=停用教學提示
 #-------------------------------#
     5 :
         標註 : 
@@ -41,35 +41,35 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip06TextA=You have discovered an abandoned meal, likely left behind by a less fortunate adventurer.{^n}{^n}By consuming it, you restored some of your Constitution.
         譯文 : >-
-            tagTutorialTip06TextA=你找到了被人丟棄的一餐飯，估計是個倒黴的冒險者留下的。{^n}{^n}吃下這頓飯，你會恢復一些體力。
+            tagTutorialTip06TextA=你發現了被人丟下的一頓飯，估計是個倒楣的冒險者留下的。{^n}{^n}吃下這頓飯，你會恢復一些體力。
 #-------------------------------#
     8 :
         標註 : 
         原文 : >-
             tagTutorialTip08Title=Welcome to Grim Dawn
         譯文 : >-
-            tagTutorialTip08Title=歡迎來到恐怖黎明
+            tagTutorialTip08Title=歡迎來到顫慄黎明
 #-------------------------------#
     9 :
         標註 : 
         原文 : >-
             tagTutorialTip08TextA=Thank you again for supporting us and helping to make Grim Dawn possible! We hope that you enjoy this first portion of the game.{^n}{^n}Please remember that this is a pre-release build created by an eight-person indie studio. You will encounter bugs, incomplete features and only the first 2/3rd or so of the game. We welcome your feedback on bugs and general gameplay on our forums at www.grimdawn.com.
         譯文 : >-
-            tagTutorialTip08TextA=再次感謝支持我們並幫助改進恐怖黎明！我們希望你享受遊戲這部分開始的內容。請記住這只是由八個人的工作室製作的預覽版本。你將會遇到bug、未完成的特色內容和大約只有遊戲的第一章第二章和第三章的情況。我們歡迎你們在論壇www.grimdawn.com反饋bug和遊戲體驗。
+            tagTutorialTip08TextA=再次感謝支持並幫助我們改進顫慄黎明！希望你享受這前段的遊戲內容。請記住這是由八個人的工作室製作的預覽版本。你將會遇到BUG、未完成的特色內容與大約只有遊戲的第一章、第二章與第三章的情況。我們歡迎你們在論壇 www.grimdawn.com 回報BUG與遊戲體驗。
 #-------------------------------#
     11 :
         標註 : 
         原文 : >-
             tagTutorialTip09Title=Merchant Window
         譯文 : >-
-            tagTutorialTip09Title=商人界面
+            tagTutorialTip09Title=商人介面
 #-------------------------------#
     12 :
         標註 : 
         原文 : >-
             tagTutorialTip09TextA=Merchants buy and sell weapons and equipment necessary to survive the dangers of Cairn.
         譯文 : >-
-            tagTutorialTip09TextA=商人出售與收購在凱恩世界的險境中生存所必需的武器裝備。
+            tagTutorialTip09TextA=商人出售與收購在 Cairn 的險境中生存所必需的武器裝備。
 #-------------------------------#
     13 :
         標註 : 
@@ -83,35 +83,35 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip10Title=Riftgates
         譯文 : >-
-            tagTutorialTip10Title=傳送裂縫
+            tagTutorialTip10Title=Riftgates
 #-------------------------------#
     16 :
         標註 : 
         原文 : >-
             tagTutorialTip10TextA=Secured Riftgates allow you to traverse quickly between various locations in Cairn. Left-click on a Riftgate to open the {^y}Riftgate Map{^w}.
         譯文 : >-
-            tagTutorialTip10TextA=安全的傳送裂縫允許你在凱恩的眾多地點間快速移動。左鍵點擊傳送裂縫以打開{^y}傳送地圖{^w}。
+            tagTutorialTip10TextA=安全的Riftgates允許你在Cairn的眾多地點間快速移動。左鍵點擊Riftgates以打開{^y}傳送地圖{^w}。
 #-------------------------------#
     17 :
         標註 : 
         原文 : >-
             tagTutorialTip10TextB=You have discovered the Lower Crossing Riftgate. The locations of all the Riftgates you discover in the future will be stored on the {^y}Riftgate Map{^w}.
         譯文 : >-
-            tagTutorialTip10TextB=你發現了下游渡口的傳送裂縫。你將來所發現的所有傳送裂縫的位置會存儲在{^y}傳送地圖{^w}。
+            tagTutorialTip10TextB=你發現了下游渡口的Riftgates。你將來所發現的所有Riftgates會紀錄在{^y}傳送地圖{^w}。
 #-------------------------------#
     18 :
         標註 : 
         原文 : >-
             tagTutorialTip10SubtitleA=Personal Riftgate:
         譯文 : >-
-            tagTutorialTip10SubtitleA=個人傳送裂縫:
+            tagTutorialTip10SubtitleA=個人 Riftgate:
 #-------------------------------#
     19 :
         標註 : 
         原文 : >-
             tagTutorialTip10TextC=As an Aether-touched human, you are capable of opening {^y}Personal Riftgates{^w}. To activate your Personal Riftgate, click on the Rift Travel button on the HUD.
         譯文 : >-
-            tagTutorialTip10TextC=作為一個接觸過虛化之力的人類，你擁有打開{^y}個人傳送裂縫{^w}的能力。要激活你的個人傳送裂縫，點擊信息面板上的傳送旅行按鈕。
+            tagTutorialTip10TextC=作為一個 Aether-touched 的人類，你擁有打開{^y}個人 Riftgates{^w}的能力。欲要開啟你的個人Riftgates，點擊訊息面板上的 Rift 旅行按鈕。
 #-------------------------------#
     20 :
         標註 : 
@@ -125,14 +125,14 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip11Title=Personal Riftgate
         譯文 : >-
-            tagTutorialTip11Title=個人傳送裂縫
+            tagTutorialTip11Title=個人Riftgate
 #-------------------------------#
     23 :
         標註 : 
         原文 : >-
             tagTutorialTip11TextA=Personal Riftgates can be opened anywhere in the world and are linked to the Riftgate network.
         譯文 : >-
-            tagTutorialTip11TextA=個人傳送裂縫可以在世界上任何地點打開並且會連接到傳送裂縫網絡。
+            tagTutorialTip11TextA=個人Riftgate可以在世界上任何地點打開並且會連接到Riftgate網路。
 #-------------------------------#
     24 :
         標註 : 
@@ -146,14 +146,14 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip11TextB=As with the larger Riftgates, left-click on your personal Riftgate to open the {^y}Riftgate Map{^w}. Select any destination on the map to travel there.
         譯文 : >-
-            tagTutorialTip11TextB=與大型傳送裂縫一樣，左鍵點擊你的個人傳送裂縫{^y}傳送地圖{^w}。在地圖上選擇要到達的目的地。
+            tagTutorialTip11TextB=與大型Riftgate一樣，左鍵點擊你的個人Riftgate{^y}傳送地圖{^w}，在地圖上選擇要到達的目的地。
 #-------------------------------#
     26 :
         標註 : 
         原文 : >-
             tagTutorialTip11TextC=Your Riftgate will remain open until you return to it. While it is open, your party members may travel to it as well. You can only have one personal Riftgate open at any given time.
         譯文 : >-
-            tagTutorialTip11TextC=你的傳送裂縫將一直持續開啟直到你的返回。當它開啟的時候，你的隊伍成員也可以傳送到它的位置。在任何時間段內你只能同時開啟一個個人傳送裂縫。
+            tagTutorialTip11TextC=你的Riftgate在你返回前將一直開啟。當它開啟的時候，你的隊伍成員也可以傳送到它的位置。在任何時間內你只能同時開啟一個個人Riftgates。
 #-------------------------------#
     28 :
         標註 : 
@@ -167,21 +167,21 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip14TextA=Health and Energy Potions restore your character's health and energy, respectively. To drink a potion, click on its image on the Quickbar or press the assigned hotkey.
         譯文 : >-
-            tagTutorialTip14TextA=生命與能量藥水分別能夠回覆你的角色的生命和能量。要飲用藥水，點擊快捷欄內的圖標或者按下指定的快捷鍵。
+            tagTutorialTip14TextA=生命與能量藥水分別能夠回復你的角色的生命與能量。點擊快捷欄內的圖示或者按下指定的快捷鍵來飲用藥水。
 #-------------------------------#
     30 :
         標註 : 
         原文 : >-
             tagTutorialTip14TextB=Potions are initially assigned to the last two Quickbar Slots. You can manually assign Potions to any Quickbar slot by right-clicking on an empty slot and selecting a potion from the menu.
         譯文 : >-
-            tagTutorialTip14TextB=藥水默認被分配到快捷欄的最後兩格內。通過右擊空的快捷欄並從菜單選擇一種藥水你可以手動設定藥水到任意快捷欄。
+            tagTutorialTip14TextB=藥水被默認分配到快捷欄的最後兩格內。通過右擊空的快捷欄並從菜單選擇一種藥水，你可以手動將藥水設定到別的快捷鍵。
 #-------------------------------#
     31 :
         標註 : 
         原文 : >-
             tagTutorialTip14TextC=To drink a Potion, click on its image in the Quickbar or press the assigned hotkey.
         譯文 : >-
-            tagTutorialTip14TextC=要飲用藥水，點擊快捷欄內的圖標或者按下指定的快捷鍵。
+            tagTutorialTip14TextC=點擊快捷欄內的圖示或者按下指定的快捷鍵來飲用藥水。
 #-------------------------------#
     33 :
         標註 : 
@@ -195,7 +195,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip15TextA=You have gained a level. Each time your character levels up, you will earn Skill and Attribute points.{^n}{^n}You can assign Skill points in the {^y}Skill Window{^w}.
         譯文 : >-
-            tagTutorialTip15TextA=你提升了一個等級。每次你的角色升級的時候，你會獲得技能點和屬性點。{^n}{^n}你可以在{^y}技能窗口{^w}分配技能點。
+            tagTutorialTip15TextA=你提升了一個等級。每次你的角色升級的時候，你會獲得技能點與屬性點。{^n}{^n}你可以在{^y}技能視窗{^w}分配技能點。
 #-------------------------------#
     35 :
         標註 : 
@@ -209,7 +209,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip15TextB=You can assign Attribute points in the {^y}Character Window{^w}. Each Attribute point increases an attribute by eight.
         譯文 : >-
-            tagTutorialTip15TextB=你可以在{^y}角色窗口{^w}分配屬性點。每個屬性點提升8點屬性。
+            tagTutorialTip15TextB=你可以在{^y}角色視窗{^w}分配屬性點。每個屬性點提升8點屬性。
 #-------------------------------#
     37 :
         標註 : 
@@ -223,35 +223,35 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip15TextC=You can track your experience gain on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. The amount of experience required for your next level is shown on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. When the bar fills up, you will gain a level.
         譯文 : >-
-            tagTutorialTip15TextC=你可以通過在信息面板底部和{^y}角色窗口{^w}中的綠條來監測你的經驗獲取。下一級所需的經驗數量顯示在信息面板的底部和{^y}角色窗口{^w}中的綠條上。當經驗條填滿時，你將提升一個等級。
+            tagTutorialTip15TextC=你可以通過在訊息面板底部與{^y}角色視窗{^w}中的綠條來監測你的經驗獲取。下一級所需的經驗數量顯示在訊息面板的底部與{^y}角色視窗{^w}中的綠條上。當經驗條填滿時，你將提升一個等級。
 #-------------------------------#
     40 :
         標註 : 
         原文 : >-
             tagTutorialTip16Title=Character Window
         譯文 : >-
-            tagTutorialTip16Title=角色窗口
+            tagTutorialTip16Title=角色視窗
 #-------------------------------#
     41 :
         標註 : 
         原文 : >-
             tagTutorialTip16TextA=Use the {^y}Character Window{^w} to equip items, organize your inventory, spend attribute points and see a summary of your character's stats. Hover over stats for additional information.
         譯文 : >-
-            tagTutorialTip16TextA=使用{^y}角色窗口{^w}來裝備物品，管理揹包，花費屬性點和查看角色屬性一覽。把鼠標懸停在屬性上可以獲得更多的信息。
+            tagTutorialTip16TextA=使用{^y}角色視窗{^w}來裝備物品，管理背包，花費屬性點與查看角色屬性一覽。把滑鼠懸停在屬性上可以獲得更多的訊息。
 #-------------------------------#
     42 :
         標註 : 
         原文 : >-
             tagTutorialTip16SubtitleA=Inventory:
         譯文 : >-
-            tagTutorialTip16SubtitleA=揹包：
+            tagTutorialTip16SubtitleA=背包：
 #-------------------------------#
     43 :
         標註 : 
         原文 : >-
             tagTutorialTip16TextB=To equip an item, right-click it from your inventory or move it to an appropriate equipment slot. You may drop an item by moving it out of the character window, or by clicking on it and pressing the "{^b}{%t0}{^w}" key.
         譯文 : >-
-            tagTutorialTip16TextB=要裝備物品，從揹包中右鍵點擊或者將它拖動到適當的裝備槽。你可以將物品拖出角色窗口來扔掉它，或者點擊它然後按下“{^b}{%t0}{^w}”鍵。
+            tagTutorialTip16TextB=要裝備物品，從背包中右鍵點擊或者將它拖動到適當的裝備槽。你可以將物品拖出角色視窗來扔掉它，或者點擊它然後按下“{^b}{%t0}{^w}”鍵。
 #-------------------------------#
     44 :
         標註 : 
@@ -363,14 +363,14 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip21TextA=At level 10, you will have the option to select a second mastery. To select your second mastery, open the {^y}Skill Window{^w}. You are not required to select a second mastery, but you will always have the option after reaching level 10.
         譯文 : >-
-            tagTutorialTip21TextA=在10級時，你將獲得選擇第二個專精的選擇權。要選擇你的第二專精，打開{^y}技能窗口{^w}。第二專精不是必須的，但是在到達10級後你將總會有權選擇它。
+            tagTutorialTip21TextA=在10級時，你將獲得選擇第二個專精的選擇權。要選擇你的第二專精，打開{^y}技能視窗{^w}。第二專精不是必須的，但是在到達10級後你將總會有權選擇它。
 #-------------------------------#
     65 :
         標註 : 
         原文 : >-
             tagTutorialTip22Title=Skill Window
         譯文 : >-
-            tagTutorialTip22Title=技能窗口
+            tagTutorialTip22Title=技能視窗
 #-------------------------------#
     66 :
         標註 : 
@@ -391,7 +391,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip22TextB=If you invest skill points in your skill mastery, you will unlock new tiers of skills. You can increase your mastery level by clicking on the mastery button in the lower left of the {^y}Skill Window{^w}.
         譯文 : >-
-            tagTutorialTip22TextB=如果你投資技能點到技能專精上，你將解鎖新的技能。你可以通過點擊{^y}技能窗口{^w}左下角的專精按鈕來提升專精等級。
+            tagTutorialTip22TextB=如果你投資技能點到技能專精上，你將解鎖新的技能。你可以通過點擊{^y}技能視窗{^w}左下角的專精按鈕來提升專精等級。
 #-------------------------------#
     69 :
         標註 : 
@@ -412,7 +412,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip22TextD=Click on an unlocked skill icon to add points to that skill. The first skill point will allow you to use the ability. Additional skill points will make the ability more powerful.
         譯文 : >-
-            tagTutorialTip22TextD=點擊一個解鎖技能圖標來為技能添加點數。第一個技能點將允許你使用該能力，額外的技能點將使能力增強。
+            tagTutorialTip22TextD=點擊一個解鎖技能圖示來為技能添加點數。第一個技能點將允許你使用該能力，額外的技能點將使能力增強。
 #-------------------------------#
     72 :
         標註 : 
@@ -433,7 +433,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip23TextA=Active skills (square icons) need to be assigned to your mouse buttons or Quickbar before you can use them.{^n}{^n}To assign a skill, right-click on a slot in the Quickbar or on the mouse buttons to the right of it and select the desired skill from the menu.
         譯文 : >-
-            tagTutorialTip23TextA=主動技能（方圖標）需要分配到鼠標或快捷欄才能使用。{^n}{^n}要分配技能，在快捷欄或右面的鼠標按鍵欄上右鍵並從菜單中選擇一個技能。
+            tagTutorialTip23TextA=主動技能（方圖示）需要分配到滑鼠或快捷欄才能使用。{^n}{^n}要分配技能，在快捷欄或右面的滑鼠按鍵欄上右鍵並從菜單中選擇一個技能。
 #-------------------------------#
     76 :
         標註 : 
@@ -447,14 +447,14 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip23TextB=Activate skills on the Quickbar by left-clicking the icon, or by pressing the assigned shortcut.
         譯文 : >-
-            tagTutorialTip23TextB=主動技能在快捷欄上左鍵單擊圖標，或者按下分配好的快捷鍵。
+            tagTutorialTip23TextB=主動技能在快捷欄上左鍵單擊圖示，或者按下分配好的快捷鍵。
 #-------------------------------#
     78 :
         標註 : 
         原文 : >-
             tagTutorialTip23TextC=Passive skills (circular icons) are always active and do not need to be assigned to the Quickbar. Once you assign points to them, they will immediately provide their benefits.{^N}{^N}
         譯文 : >-
-            tagTutorialTip23TextC=被動技能（圓圖標）一直生效且不需要分配到快捷欄上。一旦你為它們分配了技能點，它們會立即提供增益。{^N}{^N}
+            tagTutorialTip23TextC=被動技能（圓圖示）一直生效且不需要分配到快捷欄上。一旦你為它們分配了技能點，它們會立即提供增益。{^N}{^N}
 #-------------------------------#
     80 :
         標註 : 
@@ -468,7 +468,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip24TextA=When your health reaches 0, your character will die.{^n}{^n}Take advantage of your character's rapid health regeneration, which activates when out of combat for a few seconds. When that is not enough, remember to use potions and skills to stay alive.
         譯文 : >-
-            tagTutorialTip24TextA=當你的生命變為0時，你的角色會死亡。{^n}{^n}利用好角色的快速生命恢復機制，它將在脫離戰鬥一定時間後激活。如果生命回覆還是不夠的話，記得使用藥水和技能來確保生存。
+            tagTutorialTip24TextA=當你的生命變為0時，你的角色會死亡。{^n}{^n}利用角色的快速生命恢復機制，它將在脫離戰鬥一定時間後啟動。如果生命恢復還是不夠的話，記得使用藥水與技能來確保生存。
 #-------------------------------#
     82 :
         標註 : 
@@ -489,7 +489,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip26TextA=You can use the Chat Window to send messages to other players in your game session. To send a private message, choose a recipient by clicking on the "{^y}Send To{^w}" button.
         譯文 : >-
-            tagTutorialTip26TextA=在遊戲中你可以使用聊天窗口給其他玩家發送消息。通過點擊"{^y}發送{^w}"按鈕然後選擇一個接受者來發送私人消息。
+            tagTutorialTip26TextA=在遊戲中你可以使用聊天視窗給其他玩家發送消息。通過點擊"{^y}發送{^w}"按鈕然後選擇一個接受者來發送私人消息。
 #-------------------------------#
     86 :
         標註 : 
@@ -503,7 +503,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip26TextB=To link items in the chat, shift-click on the desired item with the chat open. A message will be automatically sent with a link to the item.
         譯文 : >-
-            tagTutorialTip26TextB=要在聊天中加入物品鏈接，打開聊天窗口後按住shift單擊你想要發出的物品。一條帶有物品鏈接的消息會被自動發送出去。
+            tagTutorialTip26TextB=要在聊天中加入物品鏈接，打開聊天視窗後按住shift單擊你想要發出的物品。一條帶有物品鏈接的消息會被自動發送出去。
 #-------------------------------#
     89 :
         標註 : 
@@ -538,7 +538,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip27TextC=You can also chat with other players in the game by using the {^y}Chat Window{^w}.
         譯文 : >-
-            tagTutorialTip27TextC=你也可以使用{^y}聊天窗口{^w}與其他玩家交談。
+            tagTutorialTip27TextC=你也可以使用{^y}聊天視窗{^w}與其他玩家交談。
 #-------------------------------#
     94 :
         標註 : 
@@ -559,14 +559,14 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip28TextA=You can trade items by placing them within your side of the trade window. You can trade iron bits by typing a value next to the icon at the top of the window.
         譯文 : >-
-            tagTutorialTip28TextA=你可以把物品放入你的交易窗口內來進行交易。在窗口頂部輸入鐵幣的數目就能使用鐵幣來進行交易了。
+            tagTutorialTip28TextA=你可以把物品放入你的交易視窗內來進行交易。在視窗頂部輸入鐵幣的數目就能使用鐵幣來進行交易了。
 #-------------------------------#
     98 :
         標註 : 
         原文 : >-
             tagTutorialTip28TextB=Both players must accept the trade before an exchange will take place. If the trade is cancelled, all items and iron bits are returned to player inventories.
         譯文 : >-
-            tagTutorialTip28TextB=在雙方玩家都選擇接受之後，雙方的交換才會生效。如果交易被取消了的話，所有的物品和鐵幣都會被返還到玩家的物品欄內。
+            tagTutorialTip28TextB=在雙方玩家都選擇接受之後，雙方的交換才會生效。如果交易被取消了的話，所有的物品與鐵幣都會被返還到玩家的物品欄內。
 #-------------------------------#
     100 :
         標註 : 
@@ -580,14 +580,14 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip30TextA=You have unassigned active skills. Active skills need to be assigned to the Quickbar or mouse buttons before you can use them.
         譯文 : >-
-            tagTutorialTip30TextA=你有未分配的主動技能。主動技能需要分配到鼠標或快捷欄才能使用。
+            tagTutorialTip30TextA=你有未分配的主動技能。主動技能需要分配到滑鼠或快捷欄才能使用。
 #-------------------------------#
     102 :
         標註 : 
         原文 : >-
             tagTutorialTip30TextB=To assign a skill, right-click on a slot in the Quickbar or on the mouse buttons to the right of it and select the desired skill from the menu.
         譯文 : >-
-            tagTutorialTip30TextB=要分配技能，在快捷欄或右面的鼠標按鍵欄上右鍵並從菜單中選擇一個技能。
+            tagTutorialTip30TextB=要分配技能，在快捷欄或右面的滑鼠按鍵欄上右鍵並從菜單中選擇一個技能。
 #-------------------------------#
     104 :
         標註 : 
@@ -601,14 +601,14 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip31TextA=When your health gets low, consider drinking a health potion. They have a long cooldown, but they restore you to full health. To drink a potion, click on the potion icon on the Quickbar or press the assigned hotkey. 
         譯文 : >-
-            tagTutorialTip31TextA=當你的生命變得很少時，要考慮引用生命藥水。它們有很長的冷卻時間，但是它們能恢復你的全部生命值。要飲用藥水，在快捷欄上點擊藥水圖標或者按下設置好的快捷鍵。
+            tagTutorialTip31TextA=當你的生命變得很少時，要考慮引用生命藥水。它們有很長的冷卻時間，但是它們能恢復你的全部生命值。要飲用藥水，在快捷欄上點擊藥水圖示或者按下設置好的快捷鍵。
 #-------------------------------#
     106 :
         標註 : 
         原文 : >-
             tagTutorialTip31TextB=You will find potions in chests and from monsters, but you can always purchase more from any merchant if you find yourself running low.
         譯文 : >-
-            tagTutorialTip31TextB=你會在箱子裡和怪物身上獲得藥水，但當你藥水所剩無幾時你總是能夠在商人處購買到更多。
+            tagTutorialTip31TextB=你會在箱子裡與怪物身上獲得藥水，但當你藥水所剩無幾時你總是能夠在商人處購買到更多。
 #-------------------------------#
     108 :
         標註 : 
@@ -622,7 +622,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip32TextA=You have unassigned Attribute and/or Skill points. Attribute points can be used to increase your Cunning, Physique and Spirit by 8 per point. Skill points can be used to increase your mastery level, unlock new skills, or improve skills you have already unlocked.
         譯文 : >-
-            tagTutorialTip32TextA=你有未分配的屬性點或技能點。屬性點能夠用來提升你的靈巧體格和精神，每一點提升8屬性點。技能點可以用來提升專精等級，解鎖新技能，或提升已解鎖的技能。
+            tagTutorialTip32TextA=你有未分配的屬性點或技能點。屬性點能夠用來提升你的靈巧體格與精神，每一點提升8屬性點。技能點可以用來提升專精等級，解鎖新技能，或提升已解鎖的技能。
 #-------------------------------#
     111 :
         標註 : 
@@ -643,7 +643,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip33TextB=To apply skill points to an ability, click on an unlocked skill icon in the {^y}Skill Window{^w}. The first skill point will allow you to use the ability. Additional skill points will make the ability more powerful.
         譯文 : >-
-            tagTutorialTip33TextB=要在一項能力上投入技能點，點擊{^y}技能窗口{^w}上的解鎖技能圖標。第一個技能點將允許你使用該能力。額外的技能點將使能力增強。
+            tagTutorialTip33TextB=要在一項能力上投入技能點，點擊{^y}技能視窗{^w}上的解鎖技能圖示。第一個技能點將允許你使用該能力。額外的技能點將使能力增強。
 #-------------------------------#
     115 :
         標註 : 
@@ -657,42 +657,42 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip34TextA=If your inventory becomes full, you may wish to visit a merchant and sell unwanted items.
         譯文 : >-
-            tagTutorialTip34TextA=如果你的揹包滿了，你會想到拜訪商人並出售一些不想要的物品。
+            tagTutorialTip34TextA=如果你的背包滿了，你也許會想找商人出售一些不想要的物品。
 #-------------------------------#
     117 :
         標註 : 
         原文 : >-
             tagTutorialTip34TextB=Merchants can be found in human-controlled sanctuaries, but you may also encounter traveling merchants out in the world. Look for the merchant symbol on the Compass or in the Map Window.
         譯文 : >-
-            tagTutorialTip34TextB=商人可以在人類控制的保護區內找到，但是你也會在世界上遇到旅行商人。在羅盤或在地圖窗口上查看商人圖標。
+            tagTutorialTip34TextB=商人可以在人類控制的保護區內找到，但是你也會在世界上遇到旅行商人。在羅盤或在地圖視窗上查看商人圖示。
 #-------------------------------#
     119 :
         標註 : 
         原文 : >-
             tagTutorialTip35Title=Pets
         譯文 : >-
-            tagTutorialTip35Title=戰寵
+            tagTutorialTip35Title=Pets
 #-------------------------------#
     120 :
         標註 : 
         原文 : >-
             tagTutorialTip35TextA=Pets automatically travel and fight alongside you. If you wish to give your pets direct commands, you can hold down "{^b}{%t0}{^w}" while clicking on the desired pet in the upper left of the screen, then select a target.
         譯文 : >-
-            tagTutorialTip35TextA=戰寵會自動行進與你並肩戰鬥。如果你想要給你的戰寵直接下達命令，你可以在你點擊屏幕左上角指定的戰寵的時候按下“{^b}{%t0}{^w}”，然後選擇一個目標。
+            tagTutorialTip35TextA=Pets會自動行進與你並肩戰鬥。如果你想要給你的Pets直接下達命令，你可以在你點擊屏幕左上角指定的Pets的時候按下“{^b}{%t0}{^w}”，然後選擇一個目標。
 #-------------------------------#
     121 :
         標註 : 
         原文 : >-
             tagTutorialTip35TextB=You can dismiss your pets at any time by right-clicking their portraits and selecting "{^Y}Disband Pet{^w}".
         譯文 : >-
-            tagTutorialTip35TextB=你可以在任何時候通過在它們的頭像上右鍵並選擇“{^Y}解散寵物{^w}”來解散你的戰寵。
+            tagTutorialTip35TextB=你可以在任何時候通過在它們的頭像上右鍵並選擇“{^Y}解散Pets{^w}”來解散你的Pets。
 #-------------------------------#
     122 :
         標註 : 
         原文 : >-
             tagTutorialTip35TextC=You can order all pets to attack or move to a target by commanding them using the {^Y}Pet Attack{^w} skill. To assign this skill, right-click on a slot in the Quickbar or on the mouse buttons to the right of it and select it from the menu.
         譯文 : >-
-            tagTutorialTip35TextC=你可以使用{^Y}戰寵攻擊{^w}技能來命令所有戰寵攻擊或者移動至目標。
+            tagTutorialTip35TextC=你可以使用{^Y}Pets攻擊{^w}技能來命令所有Pets攻擊或者移動至目標。
 #-------------------------------#
     124 :
         標註 : 
@@ -706,7 +706,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip36TextA=Spirit Guides allow you to undo your skill point selections. Click on a skill icon in the Spirit Guide's UI to remove one point from that skill. The cost of doing so increases as you remove subsequent skill points.
         譯文 : >-
-            tagTutorialTip36TextA=靈魂嚮導允許你復原技能點選擇。在靈魂嚮導的界面上點擊技能圖標來從該技能上移除一點技能點。其花費將隨著你移除隨後的技能點而增多。
+            tagTutorialTip36TextA=靈魂嚮導允許你復原技能點選擇。在靈魂嚮導的介面上點擊技能圖示來從該技能上移除一點技能點。其花費將隨著你移除隨後的技能點而增多。
 #-------------------------------#
     126 :
         標註 : 
@@ -720,7 +720,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip37Title=Smuggler Window
         譯文 : >-
-            tagTutorialTip37Title=倉庫窗口
+            tagTutorialTip37Title=倉庫視窗
 #-------------------------------#
     129 :
         標註 : 
@@ -734,7 +734,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip37TextB=Click on Item Transfer to share items with your other characters.
         譯文 : >-
-            tagTutorialTip37TextB=點擊物品轉移來和你的其他角色分享物品。
+            tagTutorialTip37TextB=點擊物品轉移來與你的其他角色分享物品。
 #-------------------------------#
     132 :
         標註 : 
@@ -748,14 +748,14 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip38TextA=Items placed in the Smuggler's Item Transfer UI are shared between all your characters (separated by Normal and Hardcore mode).
         譯文 : >-
-            tagTutorialTip38TextA=放在走私犯的物品轉移界面的物品是在你的所有角色間共享的（區分普通和硬核模式）
+            tagTutorialTip38TextA=放在走私犯的物品轉移介面的物品是在你的所有角色間共享的（區分普通與硬核模式）
 #-------------------------------#
     134 :
         標註 : 
         原文 : >-
             tagTutorialTip38TextB=You can expand your shared storage by purchasing additional tabs, visible along the left side of the UI.{^N}{^N}This will cost you some Iron Bits.
         譯文 : >-
-            tagTutorialTip38TextB=你可以購買額外的裝備欄來擴展你的共享倉庫，在用戶界面的左邊能看到購買它們的按鈕。{^N}{^N}這將花費不少鐵幣。
+            tagTutorialTip38TextB=你可以購買額外的裝備欄來擴展你的共享倉庫，在用戶介面的左邊能看到購買它們的按鈕。{^N}{^N}這將花費不少鐵幣。
 #-------------------------------#
     135 :
         標註 : 
@@ -769,7 +769,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip38TextC=To transfer items, place them in the Item Transfer UI. When you load another character, you can access these items from the Smuggler.
         譯文 : >-
-            tagTutorialTip38TextC=要轉移物品，把他們放在物品轉移界面。當你登陸其他角色時，你可以從走私犯那裡訪問這些物品。
+            tagTutorialTip38TextC=要轉移物品，把他們放在物品轉移介面。當你登陸其他角色時，你可以從走私犯那裡訪問這些物品。
 #-------------------------------#
     137 :
         標註 : 
@@ -797,7 +797,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip39TextA=Inventors are capable of removing Components and Augments from items. Either the item or the component is preserved in the process. Any Augments are lost.
         譯文 : >-
-            tagTutorialTip39TextA=發明家有從物品上移除鑲嵌物和增幅物的能力。物品或鑲嵌物其中一項將在工序中保留下來。任何的增幅物都會丟失。
+            tagTutorialTip39TextA=發明家有從物品上移除鑲嵌物與增幅物的能力。物品或鑲嵌物其中一項將在工序中保留下來。任何的增幅物都會丟失。
 #-------------------------------#
     142 :
         標註 : 
@@ -811,7 +811,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip39TextB=The removal of Components from items costs a fee proportional to the combined value of the item, Augment and the Component. Place an item with a Component in the Inventor's UI to begin.{^N}{^N}You can recover either the item or the component.{^N}{^N}If you recover the item, the Component will be lost. The same goes in reverse.{^N}{^N}
         譯文 : >-
-            tagTutorialTip39TextB=物品上鑲嵌物的移除將按物品，鑲嵌物和增幅物的組合價值的比例收取費用。在發明家的界面上放置一個帶有鑲嵌物的物品來開始移除吧。{^N}{^N}你可以獲取物品或鑲嵌物其中一項。{^N}{^N}如果你獲取物品，鑲嵌物將消失。反之亦然。{^N}{^N}
+            tagTutorialTip39TextB=物品上鑲嵌物的移除將按物品，鑲嵌物與增幅物的組合價值的比例收取費用。在發明家的介面上放置一個帶有鑲嵌物的物品來開始移除吧。{^N}{^N}你可以獲取物品或鑲嵌物其中一項。{^N}{^N}如果你獲取物品，鑲嵌物將消失。反之亦然。{^N}{^N}
 #-------------------------------#
     144 :
         標註 : 
@@ -825,7 +825,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip39TextC=Whenever you choose to remove just an Augment, the item and Component are unchanged.{^N}{^N}If a Soulbound Augment is removed this way, and the item was not originally Soulbound, the Soulbound status will be removed as well.{^N}{^N}
         譯文 : >-
-            tagTutorialTip39TextC=無論何時你只移除增幅物的話，物品和鑲嵌物都會被保留下來。{^N}{^N}如果一件靈魂綁定的增幅物以這種方式移除，而且物品原本並非靈魂綁定，那麼物品的靈魂綁定狀態也將會被移除。{^N}{^N}
+            tagTutorialTip39TextC=無論何時你只移除增幅物的話，物品與鑲嵌物都會被保留下來。{^N}{^N}如果一件靈魂綁定的增幅物以這種方式移除，而且物品原本並非靈魂綁定，那麼物品的靈魂綁定狀態也將會被移除。{^N}{^N}
 #-------------------------------#
     148 :
         標註 : 
@@ -867,7 +867,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip42TextC=To begin crafting an item, select a recipe in the Crafting UI. Place the required items into the designated spaces in the UI or shift-click them within your inventory.{^N}{^N}When all required materials are in the UI, press the Combine button to craft the item.{^N}{^N}
         譯文 : >-
-            tagTutorialTip42TextC=要製作一個物品，在製作界面選擇配方。在界面的指定空間放入需要的物品或者在揹包中右擊他們。{^N}{^N}當所有需要的材料都在界面中時，按下合成按鈕來製作物品。{^N}{^N}
+            tagTutorialTip42TextC=要製作一個物品，在製作介面選擇配方。在介面的指定空間放入需要的物品或者在背包中右擊他們。{^N}{^N}當所有需要的材料都在介面中時，按下合成按鈕來製作物品。{^N}{^N}
 #-------------------------------#
     155 :
         標註 : 
@@ -888,7 +888,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip43TextB=To learn a blueprint, right-click on it. If you have not yet learned this blueprint, it will be added to your Blacksmith's list of items.{^n}{^n}Blueprints are stored across all characters (separated by Normal and Hardcore mode) and you can only learn each Blueprint once.
         譯文 : >-
-            tagTutorialTip43TextB=要學習一個設計圖，在它上面右擊。如果你還沒學過這個設計圖，它會被加入到你的鐵匠物品列表中。{^n}{^n}設計圖在所有角色間存儲（區分普通和硬核模式）並且每張設計圖只可以學一次。
+            tagTutorialTip43TextB=要學習一個設計圖，在它上面右擊。如果你還沒學過這個設計圖，它會被加入到你的鐵匠物品列表中。{^n}{^n}設計圖在所有角色間存儲（區分普通與硬核模式）並且每張設計圖只可以學一次。
 #-------------------------------#
     159 :
         標註 : 
@@ -923,14 +923,14 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip45TextA=When combat ends and your health bar is not full, a secondary regeneration system activates called Constitution.{^N}{^N}Constitution will rapidly refill your health bar, but will also be drained in the process. The yellow indicator over your health bar is your Constitution.{^N}{^N}
         譯文 : >-
-            tagTutorialTip45TextA=當戰鬥結束你的生命值未滿時，一個叫做體力的次級回覆系統就會激活。{^N}{^N}體力會快速補滿你的生命，但是在這個過程中也會被消耗。在你的生命槽內的黃色能量槽顯示的就是體力的多少。{^N}{^N}
+            tagTutorialTip45TextA=當戰鬥結束你的生命值未滿時，一個叫做體力的次級回覆系統就會啟動。{^N}{^N}體力會快速補滿你的生命，但是在這個過程中也會被消耗。在你的生命槽內的黃色能量槽顯示的就是體力的多少。{^N}{^N}
 #-------------------------------#
     165 :
         標註 : 
         原文 : >-
             tagTutorialTip45TextB=Constitution automatically refills when you find Food Rations or Vital Essence, and when you reach the next Character Level or Die.{^N}{^N}If your Constitution runs out, you will no longer rapidly regenerate health outside of combat.{^N}{^N}
         譯文 : >-
-            tagTutorialTip45TextB=當你找到食物給養和生命精華的時候體力會自動進行補充，升級或者角色死亡亦會如此。{^N}{^N}如果你的體力消耗完了，脫離戰鬥後生命值不會再快速回復。{^N}{^N}
+            tagTutorialTip45TextB=當你找到食物給養與生命精華的時候體力會自動進行補充，升級或者角色死亡亦會如此。{^N}{^N}如果你的體力消耗完了，脫離戰鬥後生命值不會再快速回復。{^N}{^N}
 #-------------------------------#
     167 :
         標註 : 
@@ -944,7 +944,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip46TextA=You have run out of Constitution and will no longer rapidly regenerate health out of combat. You can restore your Constitution with Food Rations or Vital Essence.
         譯文 : >-
-            tagTutorialTip46TextA=你的體力消耗完了，脫離戰鬥後生命值不會再快速回復。你可以通過收集食物給養和生命精華來補充體力。
+            tagTutorialTip46TextA=你的體力消耗完了，脫離戰鬥後生命值不會再快速回復。你可以通過收集食物給養與生命精華來補充體力。
 #-------------------------------#
     170 :
         標註 : 
@@ -972,7 +972,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip47TextB=To Dismantle an item, you will require Dynamite and iron bits. A Dismantled item is destroyed forever. Place an item of at least Magical quality in the Inventor's Dismantling UI to begin.{^N}{^N}Upon pressing the Dismantle button, the required Dynamite and iron bits cost is deducted from your inventory and the item is converted to basic parts.{^N}{^N}
         譯文 : >-
-            tagTutorialTip47TextB=要分解一件物品，你需要炸藥和一些鐵幣。被分解的物品會被永久摧毀，在發明家的界面放上一件魔法品質以上的裝備來開始分解吧。{^N}{^N}按下分解按鈕，炸藥和一些鐵幣會被消耗，然後該物品就會被分解。{^N}{^N}
+            tagTutorialTip47TextB=要分解一件物品，你需要炸藥與一些鐵幣。被分解的物品會被永久摧毀，在發明家的介面放上一件魔法品質以上的裝備來開始分解吧。{^N}{^N}按下分解按鈕，炸藥與一些鐵幣會被消耗，然後該物品就會被分解。{^N}{^N}
 #-------------------------------#
     175 :
         標註 : 
@@ -986,7 +986,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip49TextA=When you hover over an item in your inventory. You will see a side-by-side comparison of that item with what you currently have equipped. In the case of weapons, you will also see additional information comparing the Damage per Second (DPS).
         譯文 : >-
-            tagTutorialTip49TextA=當鼠標停留在物品欄中的一件裝備上時，會自動與你已裝備的物品進行比較。對於武器來說，會額外比較每秒的傷害(DPS)。
+            tagTutorialTip49TextA=當滑鼠停留在物品欄中的一件裝備上時，會自動與你已裝備的物品進行比較。對於武器來說，會額外比較每秒的傷害(DPS)。
 #-------------------------------#
     177 :
         標註 : 
@@ -1021,7 +1021,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip50TextB=To use an augment, right-click on it. You can then apply it to an appropriate item. Once applied, an Augment cannot be removed, but it can be replaced with another.
         譯文 : >-
-            tagTutorialTip50TextB=要使用增幅物進行附魔，右鍵點擊它。一旦附魔過後，增幅物是不能被移除的，不過它可以再次附魔來被覆蓋掉。
+            tagTutorialTip50TextB=右鍵點擊增幅物進行附魔。一旦附魔過後，增幅物是不能被移除的。不過它可以重新附魔。
 #-------------------------------#
     184 :
         標註 : 
@@ -1049,7 +1049,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip52TextA=You have gained some reputation with one of Cairn's factions through a quest.{^N}{^N}Quests are an excellent way to improve your relations with factions, but they are not the only method. You can learn more about factions in the {^y}Faction Window{^w}.
         譯文 : >-
-            tagTutorialTip52TextA=你通過一項任務獲得了凱恩世界內眾多勢力中一股勢力的聲望。{^N}{^N}完成任務是一種提升你與勢力之間的關係的絕佳手段，但這並非唯一的方法。你可以通過{^y}勢力窗口{^w}來了解更多信息。
+            tagTutorialTip52TextA=你通過一項任務獲得了Cairn世界內眾多勢力中一股勢力的聲望。{^N}{^N}完成任務是一種提升你與勢力之間的關係的絕佳手段，但這並非唯一的方法。你可以通過{^y}勢力視窗{^w}來了解更多訊息。
 #-------------------------------#
     189 :
         標註 : 
@@ -1098,21 +1098,21 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip54TextA=You have reached the next level of reputation with a faction. This entitles you to discounted goods at all of the faction's merchants and access to better equipment from their Faction Quartermaster.{^N}{^N}Look around as new quests may have become available.
         譯文 : >-
-            tagTutorialTip54TextA=你與一股勢力之間的聲望提升了一個等級。你將有資格享受屬於該勢力的商人所販賣物品的折扣和在該勢力的營地獲取到更好的裝備。{^N}{^N}四處看一看，或許有你有新的任務可以領取了。
+            tagTutorialTip54TextA=你與一股勢力之間的聲望提升了一個等級。你將有資格享受屬於該勢力的商人所販賣物品的折扣與在該勢力的營地獲取到更好的裝備。{^N}{^N}四處看一看，或許有你有新的任務可以領取了。
 #-------------------------------#
     199 :
         標註 : 
         原文 : >-
             tagTutorialTip55Title=Faction Window
         譯文 : >-
-            tagTutorialTip55Title=勢力窗口
+            tagTutorialTip55Title=勢力視窗
 #-------------------------------#
     200 :
         標註 : 
         原文 : >-
             tagTutorialTip55TextA=Use the {^y}Faction Window{^w} to keep track of your progress with Cairn's various factions and to determine what you need to do in order to gain their favor.
         譯文 : >-
-            tagTutorialTip55TextA=使用{^y}勢力窗口{^w}來查看你與凱恩世界中各股勢力的關係，這將決定你為了贏得他們的青睞而需要做的事情。
+            tagTutorialTip55TextA=使用{^y}勢力視窗{^w}來查看你與凱恩世界中各股勢力的關係，這將決定你為了贏得他們的青睞而需要做的事情。
 #-------------------------------#
     201 :
         標註 : 
@@ -1126,7 +1126,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip55TextB=Each faction has unique desires and goals. You can see how to earn their respect by looking at the {^y}Reputation Gained From{^w} section.{^N}{^N}Note that as you become more renowned, you will need to defeat tougher monsters to gain reputation from kills.
         譯文 : >-
-            tagTutorialTip55TextB=每股勢力都有其獨有的訴求和目標。你可以通過查看{^y}獲得聲望{^w}一欄來知曉如何贏得該勢力的敬意。{^N}{^N}請注意如果你的聲望越顯赫，那麼你就要通過擊殺更強大的敵人才能獲得更多的聲望。
+            tagTutorialTip55TextB=每股勢力都有其獨有的訴求與目標。你可以通過查看{^y}獲得聲望{^w}一欄來知曉如何贏得該勢力的敬意。{^N}{^N}請注意如果你的聲望越顯赫，那麼你就要通過擊殺更強大的敵人才能獲得更多的聲望。
 #-------------------------------#
     204 :
         標註 : 
@@ -1224,7 +1224,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip60Title=Devotion Window
         譯文 : >-
-            tagTutorialTip60Title=虔誠窗口
+            tagTutorialTip60Title=虔誠視窗
 #-------------------------------#
     222 :
         標註 : 
