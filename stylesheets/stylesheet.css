@@ -7,10 +7,12 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #606c71; }
+  color: #CBCBCB; 
+  background: url(http://www.grimdawn.com/webfiles/mainbackground.jpg);
+}
 
 a {
-  color: #1e6bb8;
+  color: #40C2FF;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -24,7 +26,7 @@ a {
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+  /* transition: color 0.2s, background-color 0.2s, border-color 0.2s; */ }
   .btn + .btn {
     margin-left: 1rem; }
 
@@ -54,10 +56,29 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
-  text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+    color: #FFF;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.4) 10%, rgb(90, 0, 0) 40%, transparent);
+}
+
+.page-header img {
+  position:relative;
+  animation: header-down 1.8s;
+}
+
+@keyframes header-down {
+  0% {
+    top: -100px;
+  }
+  30% {
+    top: 20px;
+  }
+  100% {
+    top: 0px;
+  }
+}
+
 
 @media screen and (min-width: 64em) {
   .page-header {
@@ -104,6 +125,10 @@ a {
   .project-tagline {
     font-size: 1rem; } }
 
+.content-lay {
+  
+}
+
 .main-content :first-child {
   margin-top: 0; }
 .main-content img {
@@ -112,7 +137,7 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color: #FF9E4B; }
 .main-content p {
   margin-bottom: 1em; }
 .main-content code {
@@ -205,6 +230,8 @@ a {
 
 @media screen and (min-width: 64em) {
   .main-content {
+    opacity:0.8;
+    background: black;
     max-width: 64rem;
     padding: 2rem 6rem;
     margin: 0 auto;
@@ -212,13 +239,17 @@ a {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .main-content {
+    opacity:0.8;
+    background: black;
     padding: 2rem 4rem;
     font-size: 1.1rem; } }
 
 @media screen and (max-width: 42em) {
   .main-content {
     padding: 2rem 1rem;
-    font-size: 1rem; } }
+    font-size: 1rem; 
+    opacity:0.8;
+    background: black;} }
 
 .site-footer {
   padding-top: 2rem;
