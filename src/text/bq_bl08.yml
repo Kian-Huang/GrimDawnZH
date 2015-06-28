@@ -11,7 +11,7 @@ bq_bl08.txt :
     1 :
         標註 : 
         原文 : >-
-            Bounty: Gluttrius'Maw
+            Bounty: 飽食之胃
         譯文 : >-
             賞金：飽食之胃
 #-------------------------------#
@@ -27,14 +27,14 @@ bq_bl08.txt :
         原文 : >-
             The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named Gluttrius'Maw is terrorizing our forces in the Blood Grove. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
-            軍團要你幫忙解決那些陰險的冥神的邪教徒。{^n}{^n}一頭叫做飽食之胃的冥靈正在威脅著我們在血森林裡的部隊。這頭怪物神出鬼沒，而且十分危險。消滅它已經成為了我們的首要目標。{^n}{^n}任何的協助都會得到軍團的倉儲裡的材料作為獎賞。
+            The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named Gluttrius'Maw is terrorizing our forces in the Blood Grove. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores。
 #-------------------------------#
     7 :
         標註 : 
         原文 : >-
             Slay Gluttrius'Maw
         譯文 : >-
-            殺死飽食之胃
+            Slay Gluttrius'Maw
 #-------------------------------#
     9 :
         標註 : 
@@ -48,11 +48,11 @@ bq_bl08.txt :
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
-            你完成了黑色軍團的賞金任務，你應該回到賞金桌領取獎賞。
+            你完成了Black Legion的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
     11 :
         標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-
-            回到黑色軍團的賞金桌那裡
+            回到Black Legion的賞金桌那裡
