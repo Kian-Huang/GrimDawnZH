@@ -13,7 +13,7 @@ bq_bl04.txt :
         原文 : >-
             Bounty: Ol' Bloodbriar
         譯文 : >-
-            賞金: 血荊棘
+            賞金: Ol' Bloodbriar
 #-------------------------------#
     2 :
         標註 : 
@@ -27,14 +27,14 @@ bq_bl04.txt :
         原文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A Briarthorn known as Ol' Bloodbriar has eluded our hunters. His lair is believed to be hidden somewhere in the Shaded Basin.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
-            軍團請求協助獵殺怪物。{^n}{^n}一隻被稱為血荊棘的荊棘怪物從我們的獵人手中逃走了。它的巢穴被認為藏在幽暗盆地的某處。{^n}{^n}任何的協助都將回報以鐵幣。
+            The Legion requests assistance with a monster hunt.{^n}{^n}A Briarthorn known as Ol' Bloodbriar has eluded our hunters. His lair is believed to be hidden somewhere in the Shaded Basin.{^n}{^n}Any assistance will be compensated with iron bits。
 #-------------------------------#
     5 :
         標註 : 
         原文 : >-
             Slay Ol' Bloodbriar
         譯文 : >-
-            殺死 血荊棘
+            Slay Ol' Bloodbriar
 #-------------------------------#
     7 :
         標註 : 
@@ -48,11 +48,11 @@ bq_bl04.txt :
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
-            你完成了黑色軍團的賞金任務，你應該回到賞金桌領取獎賞。
+            你完成了Black Legion的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
     9 :
         標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-
-            回到黑色軍團的賞金桌那裡
+            回到Black Legion的賞金桌那裡
