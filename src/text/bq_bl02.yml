@@ -13,7 +13,7 @@ bq_bl02.txt :
         原文 : >-
             Bounty: Doomsayers
         譯文 : >-
-            賞金: 末日預言者
+            賞金: Doomsayers
 #-------------------------------#
     2 :
         標註 : 
@@ -27,14 +27,14 @@ bq_bl02.txt :
         原文 : >-
             The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}Bloodsworn Doomsayers are wreaking havoc across our lines in the Blood Grove. They are to be considered primary targets by all Legion agents.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
-            軍團請求援助以對抗陰險的冥神教。{^n}{^n}血誓末日預言者正在血森林跨過我們的防線在肆虐破壞。他們被所有的軍團特使都認定為是主要的目標。{^n}{^n}任何的協助都將回報以鐵幣。
+            The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}Bloodsworn Doomsayers are wreaking havoc across our lines in the Blood Grove. They are to be considered primary targets by all Legion agents.{^n}{^n}Any assistance will be compensated with iron bits。
 #-------------------------------#
     5 :
         標註 : 
         原文 : >-
             Slay Bloodsworn Doomsayers
         譯文 : >-
-            殺死 血誓 末日預言者
+            Slay Bloodsworn Doomsayers
 #-------------------------------#
     7 :
         標註 : 
@@ -48,11 +48,11 @@ bq_bl02.txt :
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
-            你完成了黑色軍團的賞金任務，你應該回到賞金桌領取獎賞。
+            你完成了Black Legion的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
     9 :
         標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-
-            回到黑色軍團的賞金桌那裡
+            回到Black Legion的賞金桌那裡
