@@ -13,7 +13,7 @@ bq_bl05.txt :
         原文 : >-
             Bounty: The Tainted Vizier
         譯文 : >-
-            賞金：腐化的蟲群領袖
+            賞金：The Tainted Vizier
 #-------------------------------#
     2 :
         標註 : 
@@ -27,14 +27,14 @@ bq_bl05.txt :
         原文 : >-
             The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the Rotting Cropland has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
-            軍團要你幫忙解決一個革翅目蟲子的威脅。{^n}{^n}一頭在腐壞田地的革翅目巢穴中的蟲群領袖受到了虛化力量的感染。 如果虛靈利用了這一點的話，它們很快就會有整個巢穴的蟲子聽命於它們的麾下。這頭被感染的蟲群領袖必須馬上被消滅。{^n}{^n}任何的幫助都會得到鐵幣作為獎賞。
+            The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the Rotting Cropland has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}Any assistance will be compensated with iron bits。
 #-------------------------------#
     5 :
         標註 : 
         原文 : >-
             Slay Vizier Anoxis
         譯文 : >-
-            殺死領袖阿諾克斯
+            Slay Vizier Anoxis
 #-------------------------------#
     7 :
         標註 : 
@@ -48,11 +48,11 @@ bq_bl05.txt :
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
-            你完成了黑色軍團的賞金任務，你應該回到賞金桌領取獎賞。
+            你完成了Black Legion的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
     9 :
         標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-
-            回到黑色軍團的賞金桌那裡
+            回到Black Legion的賞金桌那裡
