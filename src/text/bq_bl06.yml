@@ -13,7 +13,7 @@ bq_bl06.txt :
         原文 : >-
             Bounty: Bane'Gargoth
         譯文 : >-
-            賞金：夢魘 加戈斯
+            賞金：Bane'Gargoth
 #-------------------------------#
     2 :
         標註 : 
@@ -27,14 +27,14 @@ bq_bl06.txt :
         原文 : >-
             The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near Sorrow's Bastion. There, an obsidian monster known as Bane'Gargoth commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
         譯文 : >-
-            軍團要你幫助解決從虛空中召喚出的生物。{^n}{^n}在悲傷城堡有一道連接至虛空的裂隙被打開了。在那裡有一頭叫做夢魘·加戈斯的黑曜石怪物領導著冥靈要進攻我們的世界。必須要有勇士敢於進入虛空然後消滅它來保護整個人類。{^n}{^n}任何的幫助都會得到一大筆賞錢。
+            The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near Sorrow's Bastion. There, an obsidian monster known as Bane'Gargoth commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits。
 #-------------------------------#
     5 :
         標註 : 
         原文 : >-
             Slay Bane'Gargoth
         譯文 : >-
-            殺了夢魘 加戈斯
+            Slay Bane'Gargoth
 #-------------------------------#
     7 :
         標註 : 
@@ -48,11 +48,11 @@ bq_bl06.txt :
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
-            你完成了黑色軍團的賞金任務，你應該回到賞金桌領取獎賞。
+            你完成了Black Legion的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
     9 :
         標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-
-            回到黑色軍團的賞金桌那裡
+            回到Black Legion的賞金桌那裡
