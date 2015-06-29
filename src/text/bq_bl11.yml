@@ -13,7 +13,7 @@ bq_bl11.txt :
         原文 : >-
             Bounty: Chthonic Seal
         譯文 : >-
-            賞金：冥靈魔印
+            賞金：Chthonic Seal
 #-------------------------------#
     2 :
         標註 : 
@@ -27,18 +27,18 @@ bq_bl11.txt :
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a Chthonic Seal will be compensated with iron bits.
         譯文 : >-
-            軍團要你幫助收集敵人的情報。{^n}{^n}冥神的邪教徒們在召喚儀式中使用了奇特的魔印。要想實施反制，我們必須瞭解這些東西的作用。{^n}{^n}送來一塊冥靈魔印將得到鐵幣作為獎賞。
+            The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a Chthonic Seal will be compensated with iron bits。
 #-------------------------------#
     5 :
         標註 : 
         原文 : >-
             Collect Chthonic Seal
         譯文 : >-
-            收集冥靈魔印
+            Collect Chthonic Seal
 #-------------------------------#
     6 :
         標註 : 
         原文 : >-
             Deliver the Chthonic Seal to the Black Legion Bounty Table
         譯文 : >-
-            把冥靈魔印送回黑色軍團的賞金桌。
+            Deliver the Chthonic Seal to the Black Legion Bounty Table。
