@@ -6,7 +6,7 @@ tags_uimain.txt :
         原文 : >-
             ﻿tagTitleScreenText=Grim Dawn Early Access{^n}©2015 Crate Entertainment, LLC{^n}{^n}Welcome to Grim Dawn Early Access! We appreciate your feedback.{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!
         譯文 : >-
-            tagTitleScreenText=顫慄黎明早期先行版 ©2015 Crate Entertainment, LLC{^n}{^n}歡迎來到顫慄黎明早期先行版！感謝您的回復！{^n}{^n}請訪問我們的官網 www.grimdawn.com 一同參與開發過程！
+            tagTitleScreenText=顫慄黎明早期測試版 ©2015 Crate Entertainment, LLC{^n}{^n}歡迎來到顫慄黎明早期測試版！感謝您的回復！{^n}{^n}請訪問我們的官網 www.grimdawn.com 一同參與開發過程！
 #-------------------------------#
     1 :
         標註 : 
@@ -27,7 +27,7 @@ tags_uimain.txt :
         原文 : >-
             tagMenu02=Custom Game
         譯文 : >-
-            tagMenu02=自定遊戲
+            tagMenu02=自訂遊戲
 #-------------------------------#
     4 :
         標註 : 
@@ -524,7 +524,7 @@ tags_uimain.txt :
         原文 : >-
             tagPlayGameModeCustom=Custom Game
         譯文 : >-
-            tagPlayGameModeCustom=自定遊戲
+            tagPlayGameModeCustom=自訂遊戲
 #-------------------------------#
     82 :
         標註 : 
@@ -636,7 +636,7 @@ tags_uimain.txt :
         原文 : >-
             tagGameplayDesc23=Updates per second when the game window is inactive.
         譯文 : >-
-            tagGameplayDesc23=當遊戲窗口未激活時仍更新顯示
+            tagGameplayDesc23=當遊戲視窗未開啟時仍更新顯示
 #-------------------------------#
     103 :
         標註 : 
@@ -1623,7 +1623,7 @@ tags_uimain.txt :
         原文 : >-
             tagVideoOption09=Bloom
         譯文 : >-
-            tagVideoOption09=高光漫射效果
+            tagVideoOption09=Bloom
 #-------------------------------#
     244 :
         標註 : 
@@ -1917,7 +1917,7 @@ tags_uimain.txt :
         原文 : >-
             tagUPnPCheckFail=UPnP Services are not available to configure your router to host a Grim Dawn Server.  Please check your router settings and enable UPnP, or, if that is not possible, manually configure your router to open port 27016 for both the UDP and TCP protocols.
         譯文 : >-
-            tagUPnPCheckFail=UPnP服務無法設置你的路由器以搭建一個恐怖黎明服務器。請檢查你的路由器設置並開啟UPnP，或者如果不行的話，手動設置你的路由器，為UDP協議和TCP協議打開27016端口。
+            tagUPnPCheckFail=UPnP服務無法設置你的路由器以搭建一個顫慄黎明服務器。請檢查你的路由器設置並開啟UPnP，或者如果不行的話，手動設置你的路由器，為UDP協議和TCP協議打開27016端口。
 #-------------------------------#
     289 :
         標註 : 
@@ -2085,7 +2085,7 @@ tags_uimain.txt :
         原文 : >-
             tagMultiplayer11=Hide Locked Games
         譯文 : >-
-            tagMultiplayer11=隱藏已鎖的遊戲房間
+            tagMultiplayer11=隱藏已上鎖的遊戲房間
 #-------------------------------#
     324 :
         標註 : 
@@ -2274,7 +2274,7 @@ tags_uimain.txt :
         原文 : >-
             tagMenuError21=This game requires custom map: {%t0}
         譯文 : >-
-            tagMenuError21=該房間需要自定地圖：{%t0}
+            tagMenuError21=該房間需要自訂地圖：{%t0}
 #-------------------------------#
     353 :
         標註 : 
@@ -2351,7 +2351,7 @@ tags_uimain.txt :
         原文 : >-
             tagMenuError31=Building server list.  Cancel to view partial server list.
         譯文 : >-
-            tagMenuError31=正在建立伺服器列表，按下取消只會顯示部分服務器。
+            tagMenuError31=正在建立伺服器列表，按下取消只會顯示部分伺服器。
 #-------------------------------#
     364 :
         標註 : 
@@ -2386,7 +2386,7 @@ tags_uimain.txt :
         原文 : >-
             tagMenuError36=Are you sure you wish to exit Grim Dawn?
         譯文 : >-
-            tagMenuError36=確定要退出恐怖黎明遊戲？
+            tagMenuError36=確定要退出顫慄黎明遊戲？
 #-------------------------------#
     369 :
         標註 : 
@@ -2421,7 +2421,7 @@ tags_uimain.txt :
         原文 : >-
             tagMenuError41=Please insert the original Grim Dawn disc.
         譯文 : >-
-            tagMenuError41=請插入恐怖黎明遊戲光碟。
+            tagMenuError41=請插入顫慄黎明遊戲光碟。
 #-------------------------------#
     374 :
         標註 : 
@@ -2442,14 +2442,14 @@ tags_uimain.txt :
         原文 : >-
             tagMenuWarning01=Warning:  This will create a copy of your character {%s}.  This copied character can only be used in Custom Games.
         譯文 : >-
-            tagMenuWarning01=警告：這將會創建人物{%s}的副本，且複製的人物只能用於自定遊戲中。
+            tagMenuWarning01=警告：這將會創建人物{%s}的副本，且複製的人物只能用於自訂遊戲中。
 #-------------------------------#
     377 :
         標註 : 
         原文 : >-
             tagMenuWarning02=Would you like to rename this Custom Only Character?
         譯文 : >-
-            tagMenuWarning02=你想要重命名這個自定人物嗎？
+            tagMenuWarning02=你想要重命名這個自訂人物嗎？
 #-------------------------------#
     378 :
         標註 : 
@@ -2575,7 +2575,7 @@ tags_uimain.txt :
         原文 : >-
             tagNamePlate02=Custom Game Setup
         譯文 : >-
-            tagNamePlate02=自定遊戲設置
+            tagNamePlate02=自訂遊戲設置
 #-------------------------------#
     396 :
         標註 : 
@@ -2708,14 +2708,14 @@ tags_uimain.txt :
         原文 : >-
             tagCharImportTQCustom=Grim Dawn Custom Characters
         譯文 : >-
-            tagCharImportTQCustom=顫慄黎明自定角色
+            tagCharImportTQCustom=顫慄黎明自訂角色
 #-------------------------------#
     416 :
         標註 : 
         原文 : >-
             tagCharImportTQXCampaign=Grim Dawn Campaign Characters
         譯文 : >-
-            tagCharImportTitle=顫慄黎明自定義角色
+            tagCharImportTitle=顫慄黎明自訂義角色
 #-------------------------------#
     417 :
         標註 : 
@@ -3009,7 +3009,7 @@ tags_uimain.txt :
         原文 : >-
             tagCharDetailsActiveQuests=Active Quests:
         譯文 : >-
-            tagCharDetailsActiveQuests=已激活的任務：
+            tagCharDetailsActiveQuests=進行中的任務：
 #-------------------------------#
     462 :
         標註 : 
