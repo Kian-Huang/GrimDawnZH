@@ -11,7 +11,7 @@ bq_bl14.txt :
     1 :
         標註 : 
         原文 : >-
-            Bounty: Aether Cluster
+            Bounty: 虛化集簇
         譯文 : >-
             賞金：虛化集簇
 #-------------------------------#
@@ -27,18 +27,18 @@ bq_bl14.txt :
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters, found only from the largest Aether Crystals and Aetherial Obelisks, appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an Aether Cluster will be compensated with materials from the Legion stores.
         譯文 : >-
-            軍團要你幫助收集敵人的情報。{^n}{^n}最為強大的虛化水晶集簇來自於大型的虛化水晶和虛靈方尖碑，這種水晶似乎蘊含著大量的原始能量。軍團希望瞭解這種水晶的功效。{^n}{^n}送來一塊虛化集簇將得到材料作為獎賞。
+            The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters, found only from the largest Aether Crystals and Aetherial Obelisks, appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an Aether Cluster will be compensated with materials from the Legion stores。
 #-------------------------------#
     5 :
         標註 : 
         原文 : >-
             Collect Aether Cluster
         譯文 : >-
-            收集虛化集簇
+            Collect Aether Cluster
 #-------------------------------#
     6 :
         標註 : 
         原文 : >-
             Deliver the Aether Cluster to the Black Legion Bounty Table
         譯文 : >-
-            將虛化集簇送至黑色軍團的賞金桌
+            Deliver the Aether Cluster to the Black Legion Bounty Table
