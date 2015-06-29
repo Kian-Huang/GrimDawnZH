@@ -13,7 +13,7 @@ bq_bl15.txt :
         原文 : >-
             Bounty: Tainted Brain
         譯文 : >-
-            賞金：感染大腦
+            賞金：Tainted Brain
 #-------------------------------#
     2 :
         標註 : 
@@ -27,18 +27,18 @@ bq_bl15.txt :
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}It appears that the act of Aetherial possession inherently alters the chemical structure of the brain. The Legion wishes to study this further, but requires a specimen.{^n}{^n}Delivery of a Tainted Brain Matter will be compensated with materials from the Legion stores.
         譯文 : >-
-            軍團要你幫助收集敵人的情報。{^n}{^n}似乎虛靈的佔據行為會改變大腦原有的化學結構。軍團想要更深入地研究這些改變，這需要一個樣本。{^n}{^n}送來一個感染大腦將得到材料作為獎賞。
+            The Legion requests assistance with gathering enemy intelligence.{^n}{^n}It appears that the act of Aetherial possession inherently alters the chemical structure of the brain. The Legion wishes to study this further, but requires a specimen.{^n}{^n}Delivery of a Tainted Brain Matter will be compensated with materials from the Legion stores。
 #-------------------------------#
     5 :
         標註 : 
         原文 : >-
             Collect Tainted Brain Matter
         譯文 : >-
-            收集感染大腦
+           Collect Tainted Brain Matter
 #-------------------------------#
     6 :
         標註 : 
         原文 : >-
             Deliver the Tainted Brain Matter to the Black Legion Bounty Table
         譯文 : >-
-            把感染大腦送至黑色軍團的賞金桌
+            Deliver the Tainted Brain Matter to the Black Legion Bounty Table
