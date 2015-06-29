@@ -7,2818 +7,2776 @@
     狀態 : 未翻譯
     註解 : >-
         無
-#-------------------------------#
+#--------------------------------------------------------#
 內文 :
 
-#-------------------------------#
+#------------- 第 1 行 -------------#
     0 :
         原文 : >-
             ﻿tagTitleScreenText=Grim Dawn Early Access{^n}©2015 Crate Entertainment, LLC{^n}{^n}Welcome to Grim Dawn Early Access! We appreciate your feedback.{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!
         譯文 : >-
             tagTitleScreenText=顫慄黎明早期測試版 ©2015 Crate Entertainment, LLC{^n}{^n}歡迎來到顫慄黎明早期測試版！感謝您的回復！{^n}{^n}請訪問我們的官網 www.grimdawn.com 一同參與開發過程！
-#-------------------------------#
+#------------- 第 2 行 -------------#
     1 :
         原文 : >-
             tagDemoScreenText=Thanks for  playing!{^n}{^n}Grim Dawn is currently available on Steam Early Access, or via our website at www.grimdawn.com
         譯文 : >-
             tagDemoScreenText=Thanks for playing!{^n}{^n}Grim Dawn is currently available on Steam Early Access, or via our website at www.grimdawn.com
-#-------------------------------#
+#------------- 第 3 行 -------------#
     2 :
         原文 : >-
             tagMenu01=Play Game
         譯文 : >-
             tagMenu01=開始遊戲
-#-------------------------------#
+#------------- 第 4 行 -------------#
     3 :
         原文 : >-
             tagMenu02=Custom Game
         譯文 : >-
             tagMenu02=自訂遊戲
-#-------------------------------#
+#------------- 第 5 行 -------------#
     4 :
         原文 : >-
             tagMenu03=Information
         譯文 : >-
             tagMenu03=訊息
-#-------------------------------#
+#------------- 第 6 行 -------------#
     5 :
         原文 : >-
             tagMenu04=Options
         譯文 : >-
             tagMenu04=選項
-#-------------------------------#
+#------------- 第 7 行 -------------#
     6 :
         原文 : >-
             tagMenu05=Credits
         譯文 : >-
             tagMenu05=製作人員
-#-------------------------------#
+#------------- 第 8 行 -------------#
     7 :
         原文 : >-
             tagMenu06=Updates
         譯文 : >-
             tagMenu06=更新
-#-------------------------------#
+#------------- 第 9 行 -------------#
     8 :
         原文 : >-
             tagMenu07=Exit
         譯文 : >-
             tagMenu07=退出
-#-------------------------------#
+#------------- 第 10 行 -------------#
     9 :
         原文 : >-
             tagMenu08=Survival Mode
         譯文 : >-
             tagMenu08=生存模式
-#-------------------------------#
+#------------- 第 11 行 -------------#
     10 :
         原文 : >-
             tagMenuButton01=Create Character
         譯文 : >-
             tagMenuButton01=創建人物
-#-------------------------------#
+#------------- 第 12 行 -------------#
     11 :
         原文 : >-
             tagMenuButton02=Import
         譯文 : >-
             tagMenuButton02=導入人物
-#-------------------------------#
+#------------- 第 13 行 -------------#
     12 :
         原文 : >-
             tagMenuButton03=Delete Character
         譯文 : >-
             tagMenuButton03=刪除人物
-#-------------------------------#
+#------------- 第 14 行 -------------#
     13 :
         原文 : >-
             tagMenuButton04=Back
         譯文 : >-
             tagMenuButton04=返回
-#-------------------------------#
+#------------- 第 15 行 -------------#
     14 :
         原文 : >-
             tagMenuButton05=Start
         譯文 : >-
             tagMenuButton05=開始
-#-------------------------------#
+#------------- 第 16 行 -------------#
     15 :
         原文 : >-
             tagMenuButton06=Cancel
         譯文 : >-
             tagMenuButton06=取消
-#-------------------------------#
+#------------- 第 17 行 -------------#
     16 :
         原文 : >-
             tagMenuButton07=Apply
         譯文 : >-
             tagMenuButton07=套用
-#-------------------------------#
+#------------- 第 18 行 -------------#
     17 :
         原文 : >-
             tagMenuButton08=Default
         譯文 : >-
             tagMenuButton08=默認
-#-------------------------------#
+#------------- 第 19 行 -------------#
     18 :
         原文 : >-
             tagMenuButton09=Ok
         譯文 : >-
             tagMenuButton09=確定
-#-------------------------------#
+#------------- 第 20 行 -------------#
     19 :
         原文 : >-
             tagMenuButton10=Create
         譯文 : >-
             tagMenuButton10=創建
-#-------------------------------#
+#------------- 第 21 行 -------------#
     20 :
         原文 : >-
             tagMenuChar={%d0} ~ {%d1}
         譯文 : >-
             tagMenuChar={%d0}~{%d1}
-#-------------------------------#
+#------------- 第 22 行 -------------#
     21 :
         原文 : >-
             tagCharLevelClass=Level {%d0} {%t1}
         譯文 : >-
             tagCharLevelClass= {%d0} 等{%t1}
-#-------------------------------#
-    23 :
-        原文 : >-
-            # Temporary popup message for alpha multiplayer build warning
-        譯文 : >-
-            # Temporary popup message for alpha multiplayer build warning
-#-------------------------------#
+#------------- 第 25 行 -------------#
     24 :
         原文 : >-
             tagMenuMPWarning=Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.
         譯文 : >-
             tagMenuMPWarning=歡迎加入多人遊戲測試！警告：於測試期間，你會遇到BUG、遊戲崩潰與性能問題。請到顫慄黎明論壇回應這些問題。
-#-------------------------------#
-    26 :
-        原文 : >-
-            #
-        譯文 : >-
-            #
-#-------------------------------#
-    27 :
-        原文 : >-
-            # Play Menu
-        譯文 : >-
-            # Play Menu
-#-------------------------------#
-    28 :
-        原文 : >-
-            #
-        譯文 : >-
-            #
-#-------------------------------#
+#------------- 第 31 行 -------------#
     30 :
         原文 : >-
             tagMenuGame01=Single Player
         譯文 : >-
             tagMenuGame01=單人遊戲
-#-------------------------------#
+#------------- 第 32 行 -------------#
     31 :
         原文 : >-
             tagMenuGame02=Join Multiplayer
         譯文 : >-
             tagMenuGame02=加入多人遊戲
-#-------------------------------#
+#------------- 第 33 行 -------------#
     32 :
         原文 : >-
             tagMenuGame03=Host Multiplayer
         譯文 : >-
             tagMenuGame03=建立多人遊戲
-#-------------------------------#
+#------------- 第 34 行 -------------#
     33 :
         原文 : >-
             tagMenuGame04=Internet
         譯文 : >-
             tagMenuGame04=網際網路
-#-------------------------------#
+#------------- 第 35 行 -------------#
     34 :
         原文 : >-
             tagMenuGame05=LAN
         譯文 : >-
             tagMenuGame05=區域網路
-#-------------------------------#
+#------------- 第 36 行 -------------#
     35 :
         原文 : >-
             tagMenuGame06=Game Name
         譯文 : >-
             tagMenuGame06=房間名稱
-#-------------------------------#
+#------------- 第 37 行 -------------#
     36 :
         原文 : >-
             tagMenuGame07=Password
         譯文 : >-
             tagMenuGame07=密碼
-#-------------------------------#
+#------------- 第 38 行 -------------#
     37 :
         原文 : >-
             tagMenuGame08=Max. Players
         譯文 : >-
             tagMenuGame08=最大玩家數
-#-------------------------------#
+#------------- 第 39 行 -------------#
     38 :
         原文 : >-
             tagMenuGame09=Level Range
         譯文 : >-
             tagMenuGame09=允許玩家等級
-#-------------------------------#
+#------------- 第 40 行 -------------#
     39 :
         原文 : >-
             tagMenuGame10=-
         譯文 : >-
             tagMenuGame10=-
-#-------------------------------#
+#------------- 第 41 行 -------------#
     40 :
         原文 : >-
             tagMenuGame11=Map
         譯文 : >-
             tagMenuGame11=地圖
-#-------------------------------#
+#------------- 第 42 行 -------------#
     41 :
         原文 : >-
             tagMenuGame12=Difficulty
         譯文 : >-
             tagMenuGame11=難度
-#-------------------------------#
+#------------- 第 43 行 -------------#
     42 :
         原文 : >-
             tagMenuGame13=Enable Player vs. Player Combat
         譯文 : >-
             tagMenuGame13=啟動PVP模式
-#-------------------------------#
+#------------- 第 44 行 -------------#
     43 :
         原文 : >-
             tagDifficultyUnlock01=You have unlocked the Veteran level of difficulty.
         譯文 : >-
             tagDifficultyUnlock01=你解鎖了老兵難度。
-#-------------------------------#
+#------------- 第 45 行 -------------#
     44 :
         原文 : >-
             tagDifficultyUnlock02=You have unlocked the Elite level of difficulty.
         譯文 : >-
             tagDifficultyUnlock02=你解鎖了精英難度。
-#-------------------------------#
+#------------- 第 46 行 -------------#
     45 :
         原文 : >-
             tagMenuCreate01=Create Character
         譯文 : >-
             tagMenuCreate01=創建人物
-#-------------------------------#
+#------------- 第 47 行 -------------#
     46 :
         原文 : >-
             tagMenuCreate02=Name
         譯文 : >-
             tagMenuCreate02=名字
-#-------------------------------#
+#------------- 第 48 行 -------------#
     47 :
         原文 : >-
             tagMenuCreate03=Male
         譯文 : >-
             tagMenuCreate03=男
-#-------------------------------#
+#------------- 第 49 行 -------------#
     48 :
         原文 : >-
             tagMenuCreate04=Female
         譯文 : >-
             tagMenuCreate04=女
-#-------------------------------#
+#------------- 第 50 行 -------------#
     49 :
         原文 : >-
             tagMenuCreate05=Enter a name for your character.
         譯文 : >-
             tagMenuCreate05=為您的角色命名
-#-------------------------------#
+#------------- 第 51 行 -------------#
     50 :
         原文 : >-
             tagTunicColor=Outfit Color
         譯文 : >-
             tagTunicColor=服裝顏色
-#-------------------------------#
+#------------- 第 52 行 -------------#
     51 :
         原文 : >-
             tagMenuImport01=Import Campaign Character {%s}
         譯文 : >-
             tagMenuImport01=導入戰役人物{%s}
-#-------------------------------#
+#------------- 第 53 行 -------------#
     52 :
         原文 : >-
             tagMenuImport02=Select a Character
         譯文 : >-
             tagMenuImport02=選擇一個人物
-#-------------------------------#
+#------------- 第 54 行 -------------#
     53 :
         原文 : >-
             tagMenuImport03=Name
         譯文 : >-
             tagMenuImport03=名字
-#-------------------------------#
+#------------- 第 55 行 -------------#
     54 :
         原文 : >-
             tagMenuImport04=Class
         譯文 : >-
             tagMenuImport04=職業
-#-------------------------------#
+#------------- 第 56 行 -------------#
     55 :
         原文 : >-
             tagMenuImport05=Level
         譯文 : >-
             tagMenuImport05=等級
-#-------------------------------#
+#------------- 第 57 行 -------------#
     56 :
         原文 : >-
             tagMenuImport06=Rename Character:
         譯文 : >-
             tagMenuImport06=角色重新命名：
-#-------------------------------#
+#------------- 第 59 行 -------------#
     58 :
         原文 : >-
             tagRDifficultyTitle01=Normal
         譯文 : >-
             tagRDifficultyTitle01=普通
-#-------------------------------#
+#------------- 第 60 行 -------------#
     59 :
         原文 : >-
             tagRDifficultyTitle02=Elite
         譯文 : >-
             tagRDifficultyTitle02=精英
-#-------------------------------#
+#------------- 第 61 行 -------------#
     60 :
         原文 : >-
             tagRDifficultyTitle03=Ultimate
         譯文 : >-
             tagRDifficultyTitle03=終極
-#-------------------------------#
+#------------- 第 62 行 -------------#
     61 :
         原文 : >-
             tagChallengeDifficulty=Veteran
         譯文 : >-
             tagChallengeDifficulty=老兵
-#-------------------------------#
+#------------- 第 63 行 -------------#
     62 :
         原文 : >-
             tagHardcore=Hardcore
         譯文 : >-
             tagHardcore=專家模式
-#-------------------------------#
+#------------- 第 64 行 -------------#
     63 :
         原文 : >-
             tagChallenge=Veteran
         譯文 : >-
             tagChallenge=老兵難度
-#-------------------------------#
+#------------- 第 65 行 -------------#
     64 :
         原文 : >-
             tagRDifficultyDesc01=Complete this difficulty mode to unlock harder difficulty modes.
         譯文 : >-
             tagRDifficultyDesc01=完成該難度以解鎖更高的難度。
-#-------------------------------#
+#------------- 第 66 行 -------------#
     65 :
         原文 : >-
             tagRDifficultyDesc02=The game must be completed in Normal difficulty to play Veteran difficulty.
         譯文 : >-
             tagRDifficultyDesc02=必須完成普通難度才能解鎖老兵難度。
-#-------------------------------#
+#------------- 第 67 行 -------------#
     66 :
         原文 : >-
             tagRDifficultyDesc03=The game must be completed in Veteran difficulty to play Elite difficulty.
         譯文 : >-
             tagRDifficultyDesc03=必須完成老兵難度才能解鎖精英難度。
-#-------------------------------#
+#------------- 第 68 行 -------------#
     67 :
         原文 : >-
             tagDifficultyTitleSet=Choose Difficulty:
         譯文 : >-
             tagDifficultyTitleSet=選擇難度：
-#-------------------------------#
+#------------- 第 69 行 -------------#
     68 :
         原文 : >-
             tagDifficultyTitleShow=Difficulties Available to Join:
         譯文 : >-
             tagDifficultyTitleShow=可加入難度：
-#-------------------------------#
+#------------- 第 70 行 -------------#
     69 :
         原文 : >-
             tagDifficultyNormal=Normal Difficulty
         譯文 : >-
             tagDifficultyNormal=普通難度
-#-------------------------------#
+#------------- 第 71 行 -------------#
     70 :
         原文 : >-
             tagDifficultyNormalVeteran=Veteran Difficulty
         譯文 : >-
             tagDifficultyNormalVeteran=老兵難度
-#-------------------------------#
+#------------- 第 72 行 -------------#
     71 :
         原文 : >-
             tagDifficultyElite=Elite Difficulty
         譯文 : >-
             tagDifficultyElite=精英難度
-#-------------------------------#
+#------------- 第 73 行 -------------#
     72 :
         原文 : >-
             tagDifficultyUltimate=Ultimate Difficulty
         譯文 : >-
             tagDifficultyUltimate=終極難度
-#-------------------------------#
+#------------- 第 74 行 -------------#
     73 :
         原文 : >-
             tagDifficultyJoinNormal=Normal Difficulty Only
         譯文 : >-
             tagDifficultyJoinNormal=只加入普通難度
-#-------------------------------#
+#------------- 第 75 行 -------------#
     74 :
         原文 : >-
             tagDifficultyJoinElite=Up to Elite Difficulty
         譯文 : >-
             tagDifficultyJoinElite=精英難度以下
-#-------------------------------#
+#------------- 第 76 行 -------------#
     75 :
         原文 : >-
             tagDifficultyJoinUltimate=Up to Ultimate Difficulty
         譯文 : >-
             tagDifficultyJoinUltimate=終極難度以下
-#-------------------------------#
+#------------- 第 77 行 -------------#
     76 :
         原文 : >-
             tagDifficultyJoinAny=Any Difficulty
         譯文 : >-
             tagDifficultyJoinAny=所有難度
-#-------------------------------#
+#------------- 第 79 行 -------------#
     78 :
         原文 : >-
             tagPlayOptionsAccept=Accept
         譯文 : >-
             tagPlayOptionsAccept=接受
-#-------------------------------#
+#------------- 第 80 行 -------------#
     79 :
         原文 : >-
             tagPlayOptionsCancel=Cancel
         譯文 : >-
             tagPlayOptionsCancel=取消
-#-------------------------------#
+#------------- 第 81 行 -------------#
     80 :
         原文 : >-
             tagPlayGameModeCampaign=Main Campaign
         譯文 : >-
             tagPlayGameModeCampaign=主線劇情
-#-------------------------------#
+#------------- 第 82 行 -------------#
     81 :
         原文 : >-
             tagPlayGameModeCustom=Custom Game
         譯文 : >-
             tagPlayGameModeCustom=自訂遊戲
-#-------------------------------#
+#------------- 第 83 行 -------------#
     82 :
         原文 : >-
             tagPlayGameModeSurvival=Survival Mode
         譯文 : >-
             tagPlayGameModeSurvival=生存模式
-#-------------------------------#
+#------------- 第 85 行 -------------#
     84 :
         原文 : >-
             tagGameStateInit=Initializing...
         譯文 : >-
             tagGameStateInit=初始化...
-#-------------------------------#
+#------------- 第 86 行 -------------#
     85 :
         原文 : >-
             tagGameStateLoading=Loading...
         譯文 : >-
             tagGameStateLoading=讀取中...
-#-------------------------------#
+#------------- 第 87 行 -------------#
     86 :
         原文 : >-
             tagGameStateStarting=Starting Game...
         譯文 : >-
             tagGameStateStarting=正在開始遊戲...
-#-------------------------------#
+#------------- 第 88 行 -------------#
     87 :
         原文 : >-
             tagGameStateConnecting=Connecting to Server...
         譯文 : >-
             tagGameStateConnecting=正在連接至伺服器...
-#-------------------------------#
+#------------- 第 89 行 -------------#
     88 :
         原文 : >-
             tagGameStateData=Waiting for Server...
         譯文 : >-
             tagGameStateData=等待伺服器...
-#-------------------------------#
+#------------- 第 91 行 -------------#
     90 :
         原文 : >-
             tagGogMustBeSignedIn=You must be logged into GOG Galaxy to play Grim Dawn in Multiplayer mode. Please login to GOG Galaxy and launch Grim Dawn from the GOG launcher!
         譯文 : >-
             tagGogMustBeSignedIn=你必須登錄 GOG Galaxy 才能進行多人遊戲。登錄 GOG Galaxy 後從 GOG 啟動器中啟動顫慄黎明!
-#-------------------------------#
-    92 :
-        原文 : >-
-            #
-        譯文 : >-
-            #
-#-------------------------------#
-    93 :
-        原文 : >-
-            # Options
-        譯文 : >-
-            # Options
-#-------------------------------#
-    94 :
-        原文 : >-
-            #
-        譯文 : >-
-            #
-#-------------------------------#
+#------------- 第 97 行 -------------#
     96 :
         原文 : >-
             tagGameplayTitle=General
         譯文 : >-
             tagGameplayTitle=基本設定
-#-------------------------------#
+#------------- 第 98 行 -------------#
     97 :
         原文 : >-
             tagGameplayDesc01=This will display help pop-ups in the game.
         譯文 : >-
             tagGameplayDesc01=在遊戲中顯示說明小視窗。
-#-------------------------------#
+#------------- 第 99 行 -------------#
     98 :
         原文 : >-
             tagGameplayDesc02=This enables a right click sell option when using the market window.
         譯文 : >-
             tagGameplayDesc02=啟用交易介面的右鍵出售功能。
-#-------------------------------#
+#------------- 第 100 行 -------------#
     99 :
         原文 : >-
             tagGameplayDesc03=This enables item pop-ups when mousing over equipment in the world.
         譯文 : >-
             tagGameplayDesc03=滑鼠移到地上裝備時，顯示性能對比小視窗。
-#-------------------------------#
+#------------- 第 101 行 -------------#
     100 :
         原文 : >-
             tagGameplayDesc04=Display damage numbers when you hit enemies.
         譯文 : >-
             tagGameplayDesc04=顯示對敵方造成的傷害。
-#-------------------------------#
+#------------- 第 102 行 -------------#
     101 :
         原文 : >-
             tagGameplayDesc22=Display critical hit multipliers when you crit enemies.
         譯文 : >-
             tagGameplayDesc22=當你暴擊時，顯示爆擊倍數。
-#-------------------------------#
+#------------- 第 103 行 -------------#
     102 :
         原文 : >-
             tagGameplayDesc23=Updates per second when the game window is inactive.
         譯文 : >-
             tagGameplayDesc23=當遊戲視窗未開啟時仍更新顯示
-#-------------------------------#
+#------------- 第 104 行 -------------#
     103 :
         原文 : >-
             tagGameplayOption01=Display Help
         譯文 : >-
             tagGameplayOption01=顯示說明
-#-------------------------------#
+#------------- 第 105 行 -------------#
     104 :
         原文 : >-
             tagGameplayOption02=Enable Quicksell (Right Mouse)
         譯文 : >-
             tagGameplayOption02=開啟快速出售(滑鼠右鍵)
-#-------------------------------#
+#------------- 第 106 行 -------------#
     105 :
         原文 : >-
             tagGameplayOption03=Auto Item Tooltips
         譯文 : >-
             tagGameplayOption03=開啟物品對比
-#-------------------------------#
+#------------- 第 107 行 -------------#
     106 :
         原文 : >-
             tagGameplayOption04=Display Damage
         譯文 : >-
             tagGameplayOption04=顯示傷害數值
-#-------------------------------#
+#------------- 第 108 行 -------------#
     107 :
         原文 : >-
             tagGameplayOption05=Enable Optional Roll-Overs
         譯文 : >-
             tagGameplayOption05=開啟可選翻轉
-#-------------------------------#
+#------------- 第 109 行 -------------#
     108 :
         原文 : >-
             tagGameplayOption06=Show Enemy Level
         譯文 : >-
             tagGameplayOption06=顯示敵人等級
-#-------------------------------#
+#------------- 第 110 行 -------------#
     109 :
         原文 : >-
             tagGameplayOption07=Disable Auto Camera Movement
         譯文 : >-
             tagGameplayOption07=關閉自動鏡頭
-#-------------------------------#
+#------------- 第 111 行 -------------#
     110 :
         原文 : >-
             tagGameplayOption08=Disable Text Scroll
         譯文 : >-
             tagGameplayOption08=關閉文字展開
-#-------------------------------#
+#------------- 第 112 行 -------------#
     111 :
         原文 : >-
             tagGameplayOption09=Language
         譯文 : >-
             tagGameplayOption09=語言
-#-------------------------------#
+#------------- 第 113 行 -------------#
     112 :
         原文 : >-
             tagGameplayOption10=Internet Connection
         譯文 : >-
             tagGameplayOption10=網路連線
-#-------------------------------#
+#------------- 第 114 行 -------------#
     113 :
         原文 : >-
             tagGameplayOption10A=Dial Up
         譯文 : >-
             tagGameplayOption10A=撥號連線
-#-------------------------------#
+#------------- 第 115 行 -------------#
     114 :
         原文 : >-
             tagGameplayOption10B=Medium
         譯文 : >-
             tagGameplayOption10B=中等
-#-------------------------------#
+#------------- 第 116 行 -------------#
     115 :
         原文 : >-
             tagGameplayOption10C=Fast
         譯文 : >-
             tagGameplayOption10C=高速網路
-#-------------------------------#
+#------------- 第 117 行 -------------#
     116 :
         原文 : >-
             tagGameplayOption11=Lock Item Pickup
         譯文 : >-
             tagGameplayOption11=物品拾取鎖定
-#-------------------------------#
+#------------- 第 118 行 -------------#
     117 :
         原文 : >-
             tagGameplayOption12=Always Show Loot
         譯文 : >-
             tagGameplayOption12=總是顯示戰利品
-#-------------------------------#
+#------------- 第 119 行 -------------#
     118 :
         原文 : >-
             tagGameplayOption13=Crit Shake
         譯文 : >-
             tagGameplayOption13=暴擊震動畫面
-#-------------------------------#
+#------------- 第 120 行 -------------#
     119 :
         原文 : >-
             tagGameplayOption14=Target Outline
         譯文 : >-
             tagGameplayOption14=顯示目標大綱
-#-------------------------------#
+#------------- 第 121 行 -------------#
     120 :
         原文 : >-
             tagGameplayOption15=Lock Map Rotation
         譯文 : >-
             tagGameplayOption15=鎖定地圖旋轉
-#-------------------------------#
+#------------- 第 122 行 -------------#
     121 :
         原文 : >-
             tagGameplayOption16=Gore
         譯文 : >-
             tagGameplayOption16=暴力
-#-------------------------------#
+#------------- 第 123 行 -------------#
     122 :
         原文 : >-
             tagGameplayOption17=Blood
         譯文 : >-
             tagGameplayOption17=血腥
-#-------------------------------#
+#------------- 第 124 行 -------------#
     123 :
         原文 : >-
             tagGameplayOption18=Tutorial Tips
         譯文 : >-
             tagGameplayOption18=教學
-#-------------------------------#
+#------------- 第 125 行 -------------#
     124 :
         原文 : >-
             tagGameplayOption19=Corpse Persistence
         譯文 : >-
             tagGameplayOption19=屍體保留程度
-#-------------------------------#
+#------------- 第 126 行 -------------#
     125 :
         原文 : >-
             tagGameplayOption20=Classic Targeting
         譯文 : >-
             tagGameplayOption20=經典目標選取方式
-#-------------------------------#
+#------------- 第 127 行 -------------#
     126 :
         原文 : >-
             tagGameplayOption21=Report Anonymous Statistics
         譯文 : >-
             tagGameplayOption21=回報匿名數據
-#-------------------------------#
+#------------- 第 128 行 -------------#
     127 :
         原文 : >-
             tagGameplayOption22=Show Crit Multipliers
         譯文 : >-
             tagGameplayOption22=顯示暴擊倍數
-#-------------------------------#
+#------------- 第 129 行 -------------#
     128 :
         原文 : >-
             tagGameplayOption23=Background FPS
         譯文 : >-
             tagGameplayOption23=背景幀數
-#-------------------------------#
+#------------- 第 130 行 -------------#
     129 :
         原文 : >-
             tagAlwaysShowLootOff=Off
         譯文 : >-
             tagAlwaysShowLootOff=關閉
-#-------------------------------#
+#------------- 第 131 行 -------------#
     130 :
         原文 : >-
             tagAlwaysShowLootCommon=Common+
         譯文 : >-
             tagAlwaysShowLootCommon=普通以上品質
-#-------------------------------#
+#------------- 第 132 行 -------------#
     131 :
         原文 : >-
             tagAlwaysShowLootMagic=Magic+
         譯文 : >-
             tagAlwaysShowLootMagic=附魔以上品質
-#-------------------------------#
+#------------- 第 133 行 -------------#
     132 :
         原文 : >-
             tagAlwaysShowLootRare=Rare+
         譯文 : >-
             tagAlwaysShowLootRare=稀有以上品質
-#-------------------------------#
+#------------- 第 134 行 -------------#
     133 :
         原文 : >-
             tagAlwaysShowLootEpic=Epic+
         譯文 : >-
             tagAlwaysShowLootEpic=史詩以上品質
-#-------------------------------#
+#------------- 第 135 行 -------------#
     134 :
         原文 : >-
             tagAlwaysShowLootLegendary=Legendary+
         譯文 : >-
             tagAlwaysShowLootLegendary=傳奇以上品質
-#-------------------------------#
+#------------- 第 136 行 -------------#
     135 :
         原文 : >-
             tagNone=None
         譯文 : >-
             tagNone=無
-#-------------------------------#
+#------------- 第 137 行 -------------#
     136 :
         原文 : >-
             tagRed=Red
         譯文 : >-
             tagRed=紅色
-#-------------------------------#
+#------------- 第 138 行 -------------#
     137 :
         原文 : >-
             tagGreen=Green
         譯文 : >-
             tagGreen=綠色
-#-------------------------------#
+#------------- 第 139 行 -------------#
     138 :
         原文 : >-
             tagBlue=Blue
         譯文 : >-
             tagBlue=藍色
-#-------------------------------#
+#------------- 第 140 行 -------------#
     139 :
         原文 : >-
             tagGameplayDesc05=This will turn off roll-over support help on the HUD.
         譯文 : >-
             tagGameplayDesc05=關閉支持翻頁的說明視窗。
-#-------------------------------#
+#------------- 第 141 行 -------------#
     140 :
         原文 : >-
             tagGameplayDesc06=This displays an enemy's level when targeted.
         譯文 : >-
             tagGameplayDesc06=顯示被選取敵人的等級。
-#-------------------------------#
+#------------- 第 142 行 -------------#
     141 :
         原文 : >-
             tagGameplayDesc07=This disables auto camera movement.
         譯文 : >-
             tagGameplayDesc07=禁用視角自動移動。
-#-------------------------------#
+#------------- 第 143 行 -------------#
     142 :
         原文 : >-
             tagGameplayDesc08=This disable text scrolling when speaking to NPC's
         譯文 : >-
             tagGameplayDesc08=與 NPC 對話禁用文字展開。
-#-------------------------------#
+#------------- 第 144 行 -------------#
     143 :
         原文 : >-
             tagGameplayDesc09=This allows you to change languages.  IT will require you to restart the game.
         譯文 : >-
             tagGameplayDesc09=此選項可切換遊戲的顯示語言，需要重啟遊戲。
-#-------------------------------#
+#------------- 第 145 行 -------------#
     144 :
         原文 : >-
             tagGameplayDesc18=Enables/disables display of tutorial tips.
         譯文 : >-
             tagGameplayDesc18=開啟/關閉教學。
-#-------------------------------#
+#------------- 第 146 行 -------------#
     145 :
         原文 : >-
             tagGameplayDesc19=Check to enable classic ARPG targeting with target-lock. Uncheck to use our new targeting scheme without hard target-lock.
         譯文 : >-
             tagGameplayDesc19=開啟經典ARPG目標鎖定方式，不勾選則使用不含目標鎖定的新方法。
-#-------------------------------#
+#------------- 第 147 行 -------------#
     146 :
         原文 : >-
             tagLanguage01=English (US)
         譯文 : >-
             tagLanguage01=英文(美國)
-#-------------------------------#
+#------------- 第 148 行 -------------#
     147 :
         原文 : >-
             tagLanguage02=English (GB)
         譯文 : >-
             tagLanguage02=英文(英國)
-#-------------------------------#
+#------------- 第 149 行 -------------#
     148 :
         原文 : >-
             tagLanguage03=Español
         譯文 : >-
             tagLanguage03=西班牙文
-#-------------------------------#
+#------------- 第 150 行 -------------#
     149 :
         原文 : >-
             tagLanguage04=Français
         譯文 : >-
             tagLanguage04=法文
-#-------------------------------#
+#------------- 第 151 行 -------------#
     150 :
         原文 : >-
             tagLanguage05=Deutsch
         譯文 : >-
             tagLanguage05=德文
-#-------------------------------#
+#------------- 第 152 行 -------------#
     151 :
         原文 : >-
             tagLanguage06=Italiano
         譯文 : >-
             tagLanguage06=義大利文
-#-------------------------------#
+#------------- 第 153 行 -------------#
     152 :
         原文 : >-
             tagKeybindingTitle01=Keybinding
         譯文 : >-
             tagKeybindingTitle01=按鍵設定
-#-------------------------------#
+#------------- 第 154 行 -------------#
     153 :
         原文 : >-
             tagKeybindingTitle02=Function
         譯文 : >-
             tagKeybindingTitle02=功能
-#-------------------------------#
+#------------- 第 155 行 -------------#
     154 :
         原文 : >-
             tagKeybindingTitle03=Primary
         譯文 : >-
             tagKeybindingTitle03=第一鍵位
-#-------------------------------#
+#------------- 第 156 行 -------------#
     155 :
         原文 : >-
             tagKeybindingTitle04=Secondary
         譯文 : >-
             tagKeybindingTitle04=第二鍵位
-#-------------------------------#
+#------------- 第 157 行 -------------#
     156 :
         原文 : >-
             tagKeybindingButton01=Clear
         譯文 : >-
             tagKeybindingButton01=清除
-#-------------------------------#
+#------------- 第 158 行 -------------#
     157 :
         原文 : >-
             tagKeybindingMessage01=Press the key to bind to {%t0}
         譯文 : >-
             tagKeybindingMessage01=按下按鍵以設定成{%t0}
-#-------------------------------#
+#------------- 第 159 行 -------------#
     158 :
         原文 : >-
             tagKeybind01=Character Window
         譯文 : >-
             tagKeybind01=角色視窗
-#-------------------------------#
+#------------- 第 160 行 -------------#
     159 :
         原文 : >-
             tagKeybind02=Skill Window
         譯文 : >-
             tagKeybind02=技能視窗
-#-------------------------------#
+#------------- 第 161 行 -------------#
     160 :
         原文 : >-
             tagKeybind03=Mission Window
         譯文 : >-
             tagKeybind03=任務視窗
-#-------------------------------#
+#------------- 第 162 行 -------------#
     161 :
         原文 : >-
             tagKeybind04=Map Window
         譯文 : >-
             tagKeybind04=地圖視窗
-#-------------------------------#
+#------------- 第 163 行 -------------#
     162 :
         原文 : >-
             tagKeybind05=Chat Window
         譯文 : >-
             tagKeybind05=聊天視窗
-#-------------------------------#
+#------------- 第 164 行 -------------#
     163 :
         原文 : >-
             tagKeybind06=Group Window
         譯文 : >-
             tagKeybind06=組隊視窗
-#-------------------------------#
+#------------- 第 165 行 -------------#
     164 :
         原文 : >-
             tagKeybind07=Game Menu
         譯文 : >-
             tagKeybind07=遊戲選單
-#-------------------------------#
+#------------- 第 166 行 -------------#
     165 :
         原文 : >-
             tagKeybind08=Quickbar Slot 01
         譯文 : >-
             tagKeybind08=快捷技能欄01
-#-------------------------------#
+#------------- 第 167 行 -------------#
     166 :
         原文 : >-
             tagKeybind09=Quickbar Slot 02
         譯文 : >-
             tagKeybind09=快捷技能欄02
-#-------------------------------#
+#------------- 第 168 行 -------------#
     167 :
         原文 : >-
             tagKeybind10=Quickbar Slot 03
         譯文 : >-
             tagKeybind10=快捷技能欄03
-#-------------------------------#
+#------------- 第 169 行 -------------#
     168 :
         原文 : >-
             tagKeybind11=Quickbar Slot 04
         譯文 : >-
             tagKeybind11=快捷技能欄04
-#-------------------------------#
+#------------- 第 170 行 -------------#
     169 :
         原文 : >-
             tagKeybind12=Quickbar Slot 05
         譯文 : >-
             tagKeybind12=快捷技能欄05
-#-------------------------------#
+#------------- 第 171 行 -------------#
     170 :
         原文 : >-
             tagKeybind13=Quickbar Slot 06
         譯文 : >-
             tagKeybind13=快捷技能欄06
-#-------------------------------#
+#------------- 第 172 行 -------------#
     171 :
         原文 : >-
             tagKeybind14=Quickbar Slot 07
         譯文 : >-
             tagKeybind14=快捷技能欄07
-#-------------------------------#
+#------------- 第 173 行 -------------#
     172 :
         原文 : >-
             tagKeybind15=Quickbar Slot 08
         譯文 : >-
             tagKeybind15=快捷技能欄08
-#-------------------------------#
+#------------- 第 174 行 -------------#
     173 :
         原文 : >-
             tagKeybind16=Quickbar Slot 09
         譯文 : >-
             tagKeybind16=快捷技能欄09
-#-------------------------------#
+#------------- 第 175 行 -------------#
     174 :
         原文 : >-
             tagKeybind17=Quickbar Slot 10
         譯文 : >-
             tagKeybind17=快捷技能欄10
-#-------------------------------#
+#------------- 第 176 行 -------------#
     175 :
         原文 : >-
             tagKeybind18=Drink Health Potion
         譯文 : >-
             tagKeybind18=飲用生命藥劑
-#-------------------------------#
+#------------- 第 177 行 -------------#
     176 :
         原文 : >-
             tagKeybind19=Drink Energy Potion
         譯文 : >-
             tagKeybind19=飲用能量藥劑
-#-------------------------------#
+#------------- 第 178 行 -------------#
     177 :
         原文 : >-
             tagKeybind20=Camera Zoom In
         譯文 : >-
             tagKeybind20=鏡頭拉近
-#-------------------------------#
+#------------- 第 179 行 -------------#
     178 :
         原文 : >-
             tagKeybind21=Camera Zoom Out
         譯文 : >-
             tagKeybind21=鏡頭拉遠
-#-------------------------------#
+#------------- 第 180 行 -------------#
     179 :
         原文 : >-
             tagKeybind22=Camera Max Zoom In
         譯文 : >-
             tagKeybind22=鏡頭拉至最近
-#-------------------------------#
+#------------- 第 181 行 -------------#
     180 :
         原文 : >-
             tagKeybind23=Camera Max Zoom Out
         譯文 : >-
             tagKeybind23=鏡頭拉至最遠
-#-------------------------------#
+#------------- 第 182 行 -------------#
     181 :
         原文 : >-
             tagKeybind26=Drop Item
         譯文 : >-
             tagKeybind26=丟棄物品
-#-------------------------------#
+#------------- 第 183 行 -------------#
     182 :
         原文 : >-
             tagKeybind27=Show Items (No Filter)
         譯文 : >-
             tagKeybind27=顯示物品（無過濾選項）
-#-------------------------------#
+#------------- 第 184 行 -------------#
     183 :
         原文 : >-
             tagKeybind28=Show Item Tooltips
         譯文 : >-
             tagKeybind28=顯示物品說明
-#-------------------------------#
+#------------- 第 185 行 -------------#
     184 :
         原文 : >-
             tagKeybind29=Show Items (Filter Common)
         譯文 : >-
             tagKeybind29=顯示物品（過濾器為普通品質）
-#-------------------------------#
+#------------- 第 186 行 -------------#
     185 :
         原文 : >-
             tagKeybind30=Center Map (Map Window)
         譯文 : >-
             tagKeybind30=地圖居中（地圖視窗）
-#-------------------------------#
+#------------- 第 187 行 -------------#
     186 :
         原文 : >-
             tagKeybind31=Activate Portal Stone
         譯文 : >-
             tagKeybind31=啟用傳送門
-#-------------------------------#
+#------------- 第 188 行 -------------#
     187 :
         原文 : >-
             tagKeybind32=Help Window
         譯文 : >-
             tagKeybind32=說明視窗
-#-------------------------------#
+#------------- 第 189 行 -------------#
     188 :
         原文 : >-
             tagKeybind33=Switch Weapons
         譯文 : >-
             tagKeybind33=切換武器
-#-------------------------------#
+#------------- 第 190 行 -------------#
     189 :
         原文 : >-
             tagKeybind34=Camera Default View
         譯文 : >-
             tagKeybind34=默認鏡頭視角
-#-------------------------------#
+#------------- 第 191 行 -------------#
     190 :
         原文 : >-
             tagKeybind35=Target Pet (Hold Key and Click)
         譯文 : >-
             tagKeybind35=Pet目標（按住熱鍵然後點擊目標）
-#-------------------------------#
+#------------- 第 192 行 -------------#
     191 :
         原文 : >-
             tagKeybind36=Stationary Attack (Hold Key and Click)
         譯文 : >-
             tagKeybind36=原地攻擊（按住熱鍵然後點擊目標）
-#-------------------------------#
+#------------- 第 193 行 -------------#
     192 :
         原文 : >-
             tagKeybind37=Pause Game (Single Player Only)
         譯文 : >-
             tagKeybind37=暫停遊戲（只能用於單人遊戲）
-#-------------------------------#
+#------------- 第 194 行 -------------#
     193 :
         原文 : >-
             tagKeybind38=Toggle Pet Display
         譯文 : >-
             tagKeybind38=開啟或關閉Pet頭像顯示
-#-------------------------------#
+#------------- 第 195 行 -------------#
     194 :
         原文 : >-
             tagKeybind39=Toggle Party Display
         譯文 : >-
             tagKeybind39=開關隊伍成員顯示
-#-------------------------------#
+#------------- 第 196 行 -------------#
     195 :
         原文 : >-
             tagKeybind40=Quickbar Switch
         譯文 : >-
             tagKeybind40=切換快捷技能欄
-#-------------------------------#
+#------------- 第 197 行 -------------#
     196 :
         原文 : >-
             tagKeybind41=Chat Command : Party
         譯文 : >-
             tagKeybind41=聊天命令：隊伍
-#-------------------------------#
+#------------- 第 198 行 -------------#
     197 :
         原文 : >-
             tagKeybind42=Chat Command : Tell
         譯文 : >-
             tagKeybind42=聊天命令：發送消息
-#-------------------------------#
+#------------- 第 199 行 -------------#
     198 :
         原文 : >-
             tagKeybind43=Chat Command : Reply
         譯文 : >-
             tagKeybind43=聊天命令：回覆
-#-------------------------------#
+#------------- 第 200 行 -------------#
     199 :
         原文 : >-
             tagKeybind44=Camera Rotate Left
         譯文 : >-
             tagKeybind44=鏡頭左轉
-#-------------------------------#
+#------------- 第 201 行 -------------#
     200 :
         原文 : >-
             tagKeybind45=Camera Rotate Right
         譯文 : >-
             tagKeybind45=鏡頭右轉
-#-------------------------------#
+#------------- 第 202 行 -------------#
     201 :
         原文 : >-
             tagKeybind46=Camera Rotate
         譯文 : >-
             tagKeybind46=鏡頭旋轉
-#-------------------------------#
+#------------- 第 203 行 -------------#
     202 :
         原文 : >-
             tagKeybind47=Factions Window
         譯文 : >-
             tagKeybind47=勢力視窗
-#-------------------------------#
+#------------- 第 204 行 -------------#
     203 :
         原文 : >-
             tagKeybind48=Achievements Window
         譯文 : >-
             tagKeybind48=成就視窗
-#-------------------------------#
+#------------- 第 205 行 -------------#
     204 :
         原文 : >-
             tagKeybindTitle01=General Keybindings
         譯文 : >-
             tagKeybindTitle01=通用按鍵設定
-#-------------------------------#
+#------------- 第 206 行 -------------#
     205 :
         原文 : >-
             tagKeybindTitle02=Chat Keybindings
         譯文 : >-
             tagKeybindTitle02=聊天按鍵設定
-#-------------------------------#
+#------------- 第 207 行 -------------#
     206 :
         原文 : >-
             tagAudioTitle=Audio
         譯文 : >-
             tagAudioTitle=音效
-#-------------------------------#
+#------------- 第 208 行 -------------#
     207 :
         原文 : >-
             tagAudioOption01=Master Volume
         譯文 : >-
             tagAudioOption01=主音量
-#-------------------------------#
+#------------- 第 209 行 -------------#
     208 :
         原文 : >-
             tagAudioOption02=Music Volume
         譯文 : >-
             tagAudioOption02=音樂音量
-#-------------------------------#
+#------------- 第 210 行 -------------#
     209 :
         原文 : >-
             tagAudioOption03=Sound FX Volume
         譯文 : >-
             tagAudioOption03=音效音量
-#-------------------------------#
+#------------- 第 211 行 -------------#
     210 :
         原文 : >-
             tagAudioOption04=Dialog Volume
         譯文 : >-
             tagAudioOption04=對話音量
-#-------------------------------#
+#------------- 第 212 行 -------------#
     211 :
         原文 : >-
             tagAudioOption05=Ambient Music Frequency
         譯文 : >-
             tagAudioOption05=環境音效頻率
-#-------------------------------#
+#------------- 第 213 行 -------------#
     212 :
         原文 : >-
             tagAudioOption06=Less Often
         譯文 : >-
             tagAudioOption06=較少
-#-------------------------------#
+#------------- 第 214 行 -------------#
     213 :
         原文 : >-
             tagAudioOption07=Default
         譯文 : >-
             tagAudioOption07=默認
-#-------------------------------#
+#------------- 第 215 行 -------------#
     214 :
         原文 : >-
             tagAudioOption08=More Often
         譯文 : >-
             tagAudioOption08=更頻繁
-#-------------------------------#
+#------------- 第 216 行 -------------#
     215 :
         原文 : >-
             tagAudioOption09=Enable EAX
         譯文 : >-
             tagAudioOption09=啟用環境音效
-#-------------------------------#
+#------------- 第 217 行 -------------#
     216 :
         原文 : >-
             tagAudioOption10=Enable Hardware Mixing
         譯文 : >-
             tagAudioOption10=啟用硬體混音
-#-------------------------------#
+#------------- 第 218 行 -------------#
     217 :
         原文 : >-
             tagAudioOption11=Ambient FX Volume
         譯文 : >-
             tagAudioOption11=環境音效音量
-#-------------------------------#
+#------------- 第 219 行 -------------#
     218 :
         原文 : >-
             tagSoundDevice=Audio Device
         譯文 : >-
             tagSoundDevice=音效設備
-#-------------------------------#
+#------------- 第 220 行 -------------#
     219 :
         原文 : >-
             tagSpeakerSetup=Speaker Setup
         譯文 : >-
             tagSpeakerSetup=喇叭設置
-#-------------------------------#
+#------------- 第 221 行 -------------#
     220 :
         原文 : >-
             tagHeadphoneSpeakers=Headphones
         譯文 : >-
             tagHeadphoneSpeakers=耳機
-#-------------------------------#
+#------------- 第 222 行 -------------#
     221 :
         原文 : >-
             tagStereoSpeakers=Stereo
         譯文 : >-
             tagStereoSpeakers=立體聲
-#-------------------------------#
+#------------- 第 223 行 -------------#
     222 :
         原文 : >-
             tagQuadraphonicSpeakers=Quadraphonic
         譯文 : >-
             tagQuadraphonicSpeakers=四聲道立體聲
-#-------------------------------#
+#------------- 第 224 行 -------------#
     223 :
         原文 : >-
             tagSurroundSpeakers=Surround
         譯文 : >-
             tagSurroundSpeakers=環繞聲
-#-------------------------------#
+#------------- 第 225 行 -------------#
     224 :
         原文 : >-
             tag51Speakers=5.1 Surround
         譯文 : >-
             tag51Speakers=5.1聲道環繞聲
-#-------------------------------#
+#------------- 第 226 行 -------------#
     225 :
         原文 : >-
             tag71Speakers=7.1 Surround
         譯文 : >-
             tag71Speakers=7.1聲道環繞聲
-#-------------------------------#
+#------------- 第 227 行 -------------#
     226 :
         原文 : >-
             tagVideoTitle=Video
         譯文 : >-
             tagVideoTitle=視訊
-#-------------------------------#
+#------------- 第 228 行 -------------#
     227 :
         原文 : >-
             tagVideoResolution01=800 x 600
         譯文 : >-
             tagVideoResolution01=800x600
-#-------------------------------#
+#------------- 第 229 行 -------------#
     228 :
         原文 : >-
             tagVideoResolution02=1024 x 768
         譯文 : >-
             tagVideoResolution02=1024x768
-#-------------------------------#
+#------------- 第 230 行 -------------#
     229 :
         原文 : >-
             tagVideoResolution03=1280 x 1024
         譯文 : >-
             tagVideoResolution03=1280x1024
-#-------------------------------#
+#------------- 第 231 行 -------------#
     230 :
         原文 : >-
             tagVideoLevel01=High
         譯文 : >-
             tagVideoLevel01=高
-#-------------------------------#
+#------------- 第 232 行 -------------#
     231 :
         原文 : >-
             tagVideoLevel02=Medium
         譯文 : >-
             tagVideoLevel02=中
-#-------------------------------#
+#------------- 第 233 行 -------------#
     232 :
         原文 : >-
             tagVideoLevel03=Low
         譯文 : >-
             tagVideoLevel03=低
-#-------------------------------#
+#------------- 第 234 行 -------------#
     233 :
         原文 : >-
             tagVideoLevel04=Very High
         譯文 : >-
             tagVideoLevel04=非常高
-#-------------------------------#
+#------------- 第 235 行 -------------#
     234 :
         原文 : >-
             tagVideoLevel05=Disabled
         譯文 : >-
             tagVideoLevel05=關閉
-#-------------------------------#
+#------------- 第 236 行 -------------#
     235 :
         原文 : >-
             tagVideoOption01=Screen Resolution
         譯文 : >-
             tagVideoOption01=解析度
-#-------------------------------#
+#------------- 第 237 行 -------------#
     236 :
         原文 : >-
             tagVideoOption02=Textures
         譯文 : >-
             tagVideoOption02=紋理
-#-------------------------------#
+#------------- 第 238 行 -------------#
     237 :
         原文 : >-
             tagVideoOption03=Shadows
         譯文 : >-
             tagVideoOption03=陰影
-#-------------------------------#
+#------------- 第 239 行 -------------#
     238 :
         原文 : >-
             tagVideoOption04=Reflections
         譯文 : >-
             tagVideoOption04=反射
-#-------------------------------#
+#------------- 第 240 行 -------------#
     239 :
         原文 : >-
             tagVideoOption05=Shaders
         譯文 : >-
             tagVideoOption05=著色器
-#-------------------------------#
+#------------- 第 241 行 -------------#
     240 :
         原文 : >-
             tagVideoOption06=Terrain
         譯文 : >-
             tagVideoOption06=地形
-#-------------------------------#
+#------------- 第 242 行 -------------#
     241 :
         原文 : >-
             tagVideoOption07=Foliage
         譯文 : >-
             tagVideoOption07=植物
-#-------------------------------#
+#------------- 第 243 行 -------------#
     242 :
         原文 : >-
             tagVideoOption08=Effects
         譯文 : >-
             tagVideoOption08=特效
-#-------------------------------#
+#------------- 第 244 行 -------------#
     243 :
         原文 : >-
             tagVideoOption09=Bloom
         譯文 : >-
             tagVideoOption09=Bloom
-#-------------------------------#
+#------------- 第 245 行 -------------#
     244 :
         原文 : >-
             tagVideoOption10=Pixel Shader
         譯文 : >-
             tagVideoOption10=像素著色
-#-------------------------------#
+#------------- 第 246 行 -------------#
     245 :
         原文 : >-
             tagVideoOption11=Vertical Sync
         譯文 : >-
             tagVideoOption11=垂直同步
-#-------------------------------#
+#------------- 第 247 行 -------------#
     246 :
         原文 : >-
             tagVideoOption12=Gamma
         譯文 : >-
             tagVideoOption12=珈瑪值
-#-------------------------------#
+#------------- 第 248 行 -------------#
     247 :
         原文 : >-
             tagVideoOption13=Anti-aliasing
         譯文 : >-
             tagVideoOption13=反鋸齒
-#-------------------------------#
+#------------- 第 249 行 -------------#
     248 :
         原文 : >-
             tagVideoOption14=CPU Quality
         譯文 : >-
             tagVideoOption14=處理器品質
-#-------------------------------#
+#------------- 第 250 行 -------------#
     249 :
         原文 : >-
             tagVideoOption15=Graphics Quality
         譯文 : >-
             tagVideoOption15=圖形質量
-#-------------------------------#
+#------------- 第 251 行 -------------#
     250 :
         原文 : >-
             tagVideoOption16=Physics Quality
         譯文 : >-
             tagVideoOption16=物理效果
-#-------------------------------#
+#------------- 第 252 行 -------------#
     251 :
         原文 : >-
             tagVideoOption17=Advanced
         譯文 : >-
             tagVideoOption17=進階
-#-------------------------------#
+#------------- 第 253 行 -------------#
     252 :
         原文 : >-
             tagVideoOption18=Bit Depth
         譯文 : >-
             tagVideoOption18=位元深度
-#-------------------------------#
+#------------- 第 254 行 -------------#
     253 :
         原文 : >-
             tagVideoOption19=Detail Objects
         譯文 : >-
             tagVideoOption19=物體細節
-#-------------------------------#
+#------------- 第 255 行 -------------#
     254 :
         原文 : >-
             tagVideoOption20=Texture Filtering
         譯文 : >-
             tagVideoOption20=紋理過濾
-#-------------------------------#
+#------------- 第 256 行 -------------#
     255 :
         原文 : >-
             tagVideoOption21=Window Mode
         譯文 : >-
             tagVideoOption21=視窗模式
-#-------------------------------#
+#------------- 第 257 行 -------------#
     256 :
         原文 : >-
             tagVideoOption22=Enable IME
         譯文 : >-
             tagVideoOption22=開啟輸入法
-#-------------------------------#
+#------------- 第 258 行 -------------#
     257 :
         原文 : >-
             tagVideoOption23=Widescreen
         譯文 : >-
             tagVideoOption23=寬螢幕
-#-------------------------------#
+#------------- 第 259 行 -------------#
     258 :
         原文 : >-
             tagVideoOption24=Detail Level
         譯文 : >-
             tagVideoOption24=細節級別
-#-------------------------------#
+#------------- 第 260 行 -------------#
     259 :
         原文 : >-
             tagVideoOption25=Anisotropic Filtering
         譯文 : >-
             tagVideoOption25=各向異性過濾
-#-------------------------------#
+#------------- 第 261 行 -------------#
     260 :
         原文 : >-
             tagVideoOption26=Weather
         譯文 : >-
             tagVideoOption26=天氣
-#-------------------------------#
+#------------- 第 262 行 -------------#
     261 :
         原文 : >-
             tagVideoOption27=FX
         譯文 : >-
             tagVideoOption27=特效
-#-------------------------------#
+#------------- 第 263 行 -------------#
     262 :
         原文 : >-
             tagVideoOption28=Lighting
         譯文 : >-
             tagVideoOption28=光線
-#-------------------------------#
+#------------- 第 264 行 -------------#
     263 :
         原文 : >-
             tagVideoOption29=Window Mode
         譯文 : >-
             tagVideoOption29=視窗模式
-#-------------------------------#
+#------------- 第 265 行 -------------#
     264 :
         原文 : >-
             tagVideoOption30=Render Device
         譯文 : >-
             tagVideoOption30=渲染設備
-#-------------------------------#
+#------------- 第 266 行 -------------#
     265 :
         原文 : >-
             tagFullscreen=Fullscreen
         譯文 : >-
             tagFullscreen=全螢幕
-#-------------------------------#
+#------------- 第 267 行 -------------#
     266 :
         原文 : >-
             tagFullscreenWindowed=Windowed (FullScreen)
         譯文 : >-
             tagFullscreenWindowed=窗口全螢幕
-#-------------------------------#
+#------------- 第 268 行 -------------#
     267 :
         原文 : >-
             tagWindowed=Windowed
         譯文 : >-
             tagWindowed=視窗
-#-------------------------------#
+#------------- 第 269 行 -------------#
     268 :
         原文 : >-
             tagVideoOptionDepthOfField=Depth of Field
         譯文 : >-
             tagVideoOptionDepthOfField=景深
-#-------------------------------#
+#------------- 第 270 行 -------------#
     269 :
         原文 : >-
             tagVideoOptionSoftParticles=Soft Particles
         譯文 : >-
             tagVideoOptionSoftParticles=柔和粒子
-#-------------------------------#
+#------------- 第 271 行 -------------#
     270 :
         原文 : >-
             tagVideoOptionUIScale=UI Scale
         譯文 : >-
             tagVideoOptionUIScale=使用者介面調整
-#-------------------------------#
+#------------- 第 272 行 -------------#
     271 :
         原文 : >-
             tagVideoOptionA2C=Alpha To Coverage
         譯文 : >-
             tagVideoOptionA2C=通道印射
-#-------------------------------#
+#------------- 第 274 行 -------------#
     273 :
         原文 : >-
             tagNetworkTitle=Network
         譯文 : >-
             tagNetworkTitle=網路
-#-------------------------------#
+#------------- 第 275 行 -------------#
     274 :
         原文 : >-
             tagUpnpTitle=UPnP:
         譯文 : >-
             tagUpnpTitle=UPnP 協議:
-#-------------------------------#
+#------------- 第 276 行 -------------#
     275 :
         原文 : >-
             tagUpnpStatus=UPnP Status:
         譯文 : >-
             tagUpnpStatus=UPnP 協議狀態：
-#-------------------------------#
+#------------- 第 277 行 -------------#
     276 :
         原文 : >-
             tagUpnpAvailable=Available
         譯文 : >-
             tagUpnpAvailable=可用
-#-------------------------------#
+#------------- 第 278 行 -------------#
     277 :
         原文 : >-
             tagUpnpNotAvailable=Not Available
         譯文 : >-
             tagUpnpNotAvailable=不可用
-#-------------------------------#
+#------------- 第 279 行 -------------#
     278 :
         原文 : >-
             tagUpnpHelp=Help
         譯文 : >-
             tagUpnpHelp=說明
-#-------------------------------#
+#------------- 第 280 行 -------------#
     279 :
         原文 : >-
             tagUpnpControl=Enable UPnP
         譯文 : >-
             tagUpnpControl=啟用 UPnP
-#-------------------------------#
+#------------- 第 281 行 -------------#
     280 :
         原文 : >-
             tagNetworkStatusTitle=Network Status:
         譯文 : >-
             tagNetworkStatusTitle=網絡狀態：
-#-------------------------------#
+#------------- 第 282 行 -------------#
     281 :
         原文 : >-
             tagNetworkStatusTest=Test
         譯文 : >-
             tagNetworkStatusTest=測試
-#-------------------------------#
+#------------- 第 283 行 -------------#
     282 :
         原文 : >-
             tagNetworkNoOpts=Network Options are unavailable in game.{^n}Please exit to the Main Menu and open the Options Menu.
         譯文 : >-
             tagNetworkNoOpts=遊戲中網路選項是不可用的。{^n}請退出到主選單再打開網路選項。
-#-------------------------------#
+#------------- 第 284 行 -------------#
     283 :
         原文 : >-
             tagCloudSaving=Enable Cloud Saving
         譯文 : >-
             tagCloudSaving=開啟雲端存檔
-#-------------------------------#
+#------------- 第 285 行 -------------#
     284 :
         原文 : >-
             tagResetCloud=Delete Cloud Saves
         譯文 : >-
             tagResetCloud=刪除雲端存檔
-#-------------------------------#
+#------------- 第 286 行 -------------#
     285 :
         原文 : >-
             tagDownloadCloud=Download Cloud Saves
         譯文 : >-
             tagDownloadCloud=下載雲端存檔
-#-------------------------------#
+#------------- 第 288 行 -------------#
     287 :
         原文 : >-
             tagUPnPCheckFail=UPnP Services are not available to configure your router to host a Grim Dawn Server.  Please check your router settings and enable UPnP, or, if that is not possible, manually configure your router to open port 27016 for both the UDP and TCP protocols.
         譯文 : >-
             tagUPnPCheckFail=UPnP服務無法設置你的路由器以搭建一個顫慄黎明服務器。請檢查你的路由器設置並開啟UPnP，或者如果不行的話，手動設置你的路由器，為UDP協議和TCP協議打開27016端口。
-#-------------------------------#
+#------------- 第 290 行 -------------#
     289 :
         原文 : >-
             tagUPnPNotAvailableHelp=UPnP is not available.  Grim Dawn will not be able to auto-configure your router to Host an Internet server.  Please check your router settings and enable UPnP or manually configure your router to open port 27016 for both the UDP and TCP protocols.
         譯文 : >-
             tagUPnPNotAvailableHelp=UPnP 協議無法使用。 顫慄黎明無法自動設定你的路由以架設網際網路伺服器。 請檢查您的路由器與啟用 UPnP 協議，或手動設定您的路由器為 UDP 協議、 TCP 協議啟用 port 27016。
-#-------------------------------#
+#------------- 第 292 行 -------------#
     291 :
         原文 : >-
             tagUPnPEnabledHelp=UPnP is enabled.  No manual configuration is needed.
         譯文 : >-
             tagUPnPEnabledHelp=已開啟UPnP，不需要手動設置。
-#-------------------------------#
+#------------- 第 293 行 -------------#
     292 :
         原文 : >-
             tagUPnPDisabledHelp=UPnP is disabled.  Port 27016 must be opened on your router for both the UDP and TCP protocols to host a Grim Dawn server.
         譯文 : >-
             tagUPnPDisabledHelp=已開啟UPnP，您的路由器上必須為 UDP 協議和 TCP 協議啟用 port 27016 才能架設顫慄黎明的服務器。
-#-------------------------------#
+#------------- 第 295 行 -------------#
     294 :
         原文 : >-
             tagUPnPHelp=UPnP is a protocol that allows Grim Dawn to Communicate with and control your router.  To host an Internet server, ports must be opened on your router.  UPnP allows Grim Dawn to open those ports, and close them on exit, with no manual configuration required.
         譯文 : >-
             tagUPnPHelp=UPnP 協議能控制您的路由器以建立通訊。若要架設網際網路伺服器，你的路由器必須打開相應的端口。UPnP 可以讓顫慄黎明打開這些端口，並在離開遊戲時關閉，無需手動設置。
-#-------------------------------#
+#------------- 第 297 行 -------------#
     296 :
         原文 : >-
             tagIPCheckHelp=The network configuration test checks that the local router has a valid external IP address, and that the address matches the external address visible to the internet.
         譯文 : >-
             tagIPCheckHelp=網路設置檢測將會檢查路由器是否擁有一個有效的外部IP，並檢查該IP是否與網際網路上的可見IP是相同的。
-#-------------------------------#
+#------------- 第 299 行 -------------#
     298 :
         原文 : >-
             tagIPCheckFail=The public IP address reported by your router does not match the public IP address externally visible to the Internet.  Usually, this is caused by attempting to host a Grim Dawn Server from behind more than one router.  Please check your router configuration and restart Grim Dawn.
         譯文 : >-
             tagIPCheckFail=路由器的公開IP與網際網路可見的外部IP不一致，通常是因為試圖在多個路由器節點的網路架設伺服器，請檢查你的路由器設置並重啟遊戲。
-#-------------------------------#
+#------------- 第 301 行 -------------#
     300 :
         原文 : >-
             tagIPCheckFailMaybe=The public IP address reported by your router (%t0) is not a valid IP address.  It is possible that your router is functioning properly and did not report the public IP correctly.  However, if you are unable to host a Grim Dawn server, please check your router configuration.  In particular, you should check to make sure that the Grim Dawn server is not behind more than one router.  Some Internet providers use bundled modem/router devices.  If there is another router between the Grim Dawn server and the bundled device you will not be able to host an internet server.
         譯文 : >-
             tagIPCheckFailMaybe=路由器的公開IP：(%t0)不是一個有效的IP位址。路由器正常運行卻無法正常回報IP也是有可能發生的。請檢查你的路由器設置，確保伺服器不在多於一臺路由器的網路中。一些網際網路服務提供商使用混和數據機與路由器的設備，如果該設備與遊戲主機之間有另外一臺路由器的話，您將無法設立網際網路伺服器。
-#-------------------------------#
+#------------- 第 303 行 -------------#
     302 :
         原文 : >-
             tagIPCheckPass=Network configuration test passed.  The public IP address reported by your router matches that which is externally visible on the internet.
         譯文 : >-
             tagIPCheckPass=網路檢測通過，路由器的公共IP位址與網際網路可見的外部位址是相同的。
-#-------------------------------#
+#------------- 第 305 行 -------------#
     304 :
         原文 : >-
             tagIPCheckUnable=Unable to test network configuration.  This check requires that the local router has the UPnP protocol enabled, and that UPnP support is enabled in Grim Dawn.  If it is not enabled, please enable it, restart Grim Dawn, and re-run this test.
         譯文 : >-
             tagIPCheckUnable=無法檢測網路設置。測試需要本地路由器啟用UPnP協議，且顫慄黎明也要啟用該協議。若沒有啟用該協議，請啟用協議並重啟遊戲，然後再次運行網路檢測。
-#-------------------------------#
+#------------- 第 307 行 -------------#
     306 :
         原文 : >-
             tagIPCheckUnableIP=Unable to obtain the externally visible IP address.  The test cannot be run at this time.
         譯文 : >-
             tagIPCheckUnableIP=無法獲得外部可見的IP位址，無法運行測試。
-#-------------------------------#
+#------------- 第 309 行 -------------#
     308 :
         原文 : >-
             tagIPTesting=Testing Configuration...
         譯文 : >-
             tagIPTesting=正在檢測設置...
-#-------------------------------#
+#------------- 第 310 行 -------------#
     309 :
         原文 : >-
             tagIPLocalPublic=Public IP reported by your router:
         譯文 : >-
             tagIPLocalPublic=路由器的公開IP位址：
-#-------------------------------#
+#------------- 第 311 行 -------------#
     310 :
         原文 : >-
             tagIPExternalPublic=Public IP visible to the Internet:
         譯文 : >-
             tagIPExternalPublic=網際網路可見的公開IP位址：
-#-------------------------------#
+#------------- 第 312 行 -------------#
     311 :
         原文 : >-
             tagIPInvalid=<Unable to obtain address>
         譯文 : >-
             tagIPInvalid=<無法獲取位址>
-#-------------------------------#
+#------------- 第 315 行 -------------#
     314 :
         原文 : >-
             tagMultiplayer01=Game Name
         譯文 : >-
             tagMultiplayer01=遊戲房間名稱
-#-------------------------------#
+#------------- 第 316 行 -------------#
     315 :
         原文 : >-
             tagMultiplayer02=Difficulty
         譯文 : >-
             tagMultiplayer02=難度
-#-------------------------------#
+#------------- 第 317 行 -------------#
     316 :
         原文 : >-
             tagMultiplayer03=Map
         譯文 : >-
             tagMultiplayer03=地圖
-#-------------------------------#
+#------------- 第 318 行 -------------#
     317 :
         原文 : >-
             tagMultiplayer04=Players
         譯文 : >-
             tagMultiplayer04=玩家
-#-------------------------------#
+#------------- 第 319 行 -------------#
     318 :
         原文 : >-
             tagMultiplayer05=Ping
         譯文 : >-
             tagMultiplayer05=Ping
-#-------------------------------#
+#------------- 第 320 行 -------------#
     319 :
         原文 : >-
             tagMultiplayer06=Summary
         譯文 : >-
             tagMultiplayer06=概述
-#-------------------------------#
+#------------- 第 321 行 -------------#
     320 :
         原文 : >-
             tagMultiplayer07=Game Name Filter:
         譯文 : >-
             tagMultiplayer07=房間名稱過濾：
-#-------------------------------#
+#------------- 第 322 行 -------------#
     321 :
         原文 : >-
             tagMultiplayer09=Map Unavailable
         譯文 : >-
             tagMultiplayer09=不可用的地圖
-#-------------------------------#
+#------------- 第 323 行 -------------#
     322 :
         原文 : >-
             tagMultiplayer10=Hide Full Games
         譯文 : >-
             tagMultiplayer10=隱藏已滿的遊戲房間
-#-------------------------------#
+#------------- 第 324 行 -------------#
     323 :
         原文 : >-
             tagMultiplayer11=Hide Locked Games
         譯文 : >-
             tagMultiplayer11=隱藏已上鎖的遊戲房間
-#-------------------------------#
+#------------- 第 325 行 -------------#
     324 :
         原文 : >-
             tagMultiplayer12={%d0} / {%d1}
         譯文 : >-
             tagMultiplayer12={%d0}/{%d1}
-#-------------------------------#
+#------------- 第 326 行 -------------#
     325 :
         原文 : >-
             tagMultiplayer13={%d0} hr {%d1} min {%d2} sec
         譯文 : >-
             tagMultiplayer13={%d0}小時{%d1}分{%d2}秒
-#-------------------------------#
+#------------- 第 327 行 -------------#
     326 :
         原文 : >-
             tagMultiplayer14=Locked
         譯文 : >-
             tagMultiplayer14=上鎖的
-#-------------------------------#
+#------------- 第 328 行 -------------#
     327 :
         原文 : >-
             tagMultiplayer15=Version
         譯文 : >-
             tagMultiplayer15=版本
-#-------------------------------#
+#------------- 第 330 行 -------------#
     329 :
         原文 : >-
             tagMultiStats01=Map :
         譯文 : >-
             tagMultiStats01=地圖：
-#-------------------------------#
+#------------- 第 331 行 -------------#
     330 :
         原文 : >-
             tagMultiStats02=Players :  {%d0} / {%d1}
         譯文 : >-
             tagMultiStats02=玩家：{%d0}/{%d1}
-#-------------------------------#
+#------------- 第 332 行 -------------#
     331 :
         原文 : >-
             tagMultiStats03=Difficulty :
         譯文 : >-
             tagMultiStats03=難度：
-#-------------------------------#
+#------------- 第 333 行 -------------#
     332 :
         原文 : >-
             tagMultiStats04=Elapsed Time :
         譯文 : >-
             tagMultiStats04=遊戲進行時間：
-#-------------------------------#
+#------------- 第 334 行 -------------#
     333 :
         原文 : >-
             tagMultiStats05=Level Range +/-
         譯文 : >-
             tagMultiStats05=允許玩家等級+/-
-#-------------------------------#
+#------------- 第 335 行 -------------#
     334 :
         原文 : >-
             tagMultiButtonRefresh=Refresh
         譯文 : >-
             tagMultiButtonRefresh=重新整理
-#-------------------------------#
+#------------- 第 336 行 -------------#
     335 :
         原文 : >-
             tagMultiNameFormat={%t0} (Level {%d0})
         譯文 : >-
             tagMultiNameFormat={%t0}(等級{%d0})
-#-------------------------------#
+#------------- 第 338 行 -------------#
     337 :
         原文 : >-
             tagDefaultMap=Grim Dawn
         譯文 : >-
             tagDefaultMap=顫慄黎明
-#-------------------------------#
+#------------- 第 339 行 -------------#
     338 :
         原文 : >-
             tagMenuErrorTitle=Information
         譯文 : >-
             tagMenuErrorTitle=訊息
-#-------------------------------#
+#------------- 第 340 行 -------------#
     339 :
         原文 : >-
             tagMenuError07=Please select a name for your character.
         譯文 : >-
             tagMenuError07=請為你的人物選擇一個名字。
-#-------------------------------#
+#------------- 第 341 行 -------------#
     340 :
         原文 : >-
             tagMenuError08=Unable to connect to server.
         譯文 : >-
             tagMenuError08=無法連接至伺服器。
-#-------------------------------#
+#------------- 第 342 行 -------------#
     341 :
         原文 : >-
             tagMenuError09=Please select a server.
         譯文 : >-
             tagMenuError09=請選擇一個伺服器。
-#-------------------------------#
+#------------- 第 343 行 -------------#
     342 :
         原文 : >-
             tagMenuError11=Internet service unavailable.
         譯文 : >-
             tagMenuError11=網際網路服務不可用。
-#-------------------------------#
+#------------- 第 344 行 -------------#
     343 :
         原文 : >-
             tagMenuError12=Internet service temporarily unavailable due to scheduled maintenance.
         譯文 : >-
             tagMenuError12=由於伺服器例行維護，網際網路服務暫時不可用。
-#-------------------------------#
+#------------- 第 345 行 -------------#
     344 :
         原文 : >-
             tagMenuError13=Error connecting to internet service.
         譯文 : >-
             tagMenuError13=連接到網際網路服務時發生錯誤。
-#-------------------------------#
+#------------- 第 346 行 -------------#
     345 :
         原文 : >-
             tagMenuError14=Network problems detected.
         譯文 : >-
             tagMenuError14=檢測到網路問題。
-#-------------------------------#
+#------------- 第 347 行 -------------#
     346 :
         原文 : >-
             tagMenuError15=Lost connection to server.
         譯文 : >-
             tagMenuError15=失去伺服器連接。
-#-------------------------------#
+#------------- 第 348 行 -------------#
     347 :
         原文 : >-
             tagMenuError16=You have been banned from this server.
         譯文 : >-
             tagMenuError16=你已被該伺服器加入黑名單。
-#-------------------------------#
+#------------- 第 349 行 -------------#
     348 :
         原文 : >-
             tagMenuError17=A password is required to join this game.
         譯文 : >-
             tagMenuError17=需要密碼才能加入遊戲。
-#-------------------------------#
+#------------- 第 350 行 -------------#
     349 :
         原文 : >-
             tagMenuError18=Unable to connect.  The game you are trying to join is full.
         譯文 : >-
             tagMenuError18=無法連接，該房間已滿。
-#-------------------------------#
+#------------- 第 351 行 -------------#
     350 :
         原文 : >-
             tagMenuError19=Unable to connect.  You have not unlocked that difficulty level with this character.
         譯文 : >-
             tagMenuError19=無法連接，你的人物還沒有解鎖該難度。
-#-------------------------------#
+#------------- 第 352 行 -------------#
     351 :
         原文 : >-
             tagMenuError20=Invalid Password.
         譯文 : >-
             tagMenuError20=無效的密碼。
-#-------------------------------#
+#------------- 第 353 行 -------------#
     352 :
         原文 : >-
             tagMenuError21=This game requires custom map: {%t0}
         譯文 : >-
             tagMenuError21=該房間需要自訂地圖：{%t0}
-#-------------------------------#
+#------------- 第 354 行 -------------#
     353 :
         原文 : >-
             tagMenuError21a=This game is using an incompatible game mode. Your mode: "{%s0"}, Server's mode: "{%s1}"
         譯文 : >-
             tagMenuError21a=此遊戲房間使用了一個不同的遊戲模式。你的遊戲模式："{%s0}"，伺服器的模式："{%s1}"
-#-------------------------------#
+#------------- 第 355 行 -------------#
     354 :
         原文 : >-
             tagMenuError21b=Hardcore and non-hardcore players cannot play together.  Please select another game.
         譯文 : >-
             tagMenuError21b=專家模式和非專家模式的玩家不能在一起進行遊戲，請選擇其他的遊戲房間。
-#-------------------------------#
+#------------- 第 356 行 -------------#
     355 :
         原文 : >-
             tagMenuError22=This game is full.  Please select another.
         譯文 : >-
             tagMenuError22=該遊戲已滿，請選擇其他遊戲房間。
-#-------------------------------#
+#------------- 第 357 行 -------------#
     356 :
         原文 : >-
             tagMenuError23=This game requires characters to be between level {%d0} ~ {%d1}.  Please select another game.
         譯文 : >-
             tagMenuError23=該遊戲只允許{%d0}~{%d1}等的玩家加入，請選擇其他遊戲房間。
-#-------------------------------#
+#------------- 第 358 行 -------------#
     357 :
         原文 : >-
             tagMenuError24=Some of your changes will not take effect until you restart the game.
         譯文 : >-
             tagMenuError24=一些改動在重啟遊戲後才會生效。
-#-------------------------------#
+#------------- 第 359 行 -------------#
     358 :
         原文 : >-
             tagMenuError25=You have made some changes to options in the game.  Do you wish to apply those changes?
         譯文 : >-
             tagMenuError25=你改變了一些選項，是否套用這些改動？
-#-------------------------------#
+#------------- 第 360 行 -------------#
     359 :
         原文 : >-
             tagMenuError26=Unable to Connect to Server - Invalid CD Key
         譯文 : >-
             tagMenuError26=無法連接至伺服器，無效的 CD Key
-#-------------------------------#
+#------------- 第 361 行 -------------#
     360 :
         原文 : >-
             tagMenuError28=Invalid CD Key
         譯文 : >-
             tagMenuError28=無效的 CD Key
-#-------------------------------#
+#------------- 第 362 行 -------------#
     361 :
         原文 : >-
             tagMenuError29=CD Key Already in Use
         譯文 : >-
             tagMenuError29=CD Key 已被使用
-#-------------------------------#
+#------------- 第 363 行 -------------#
     362 :
         原文 : >-
             tagMenuError30=CD Key Has Been Disabled
         譯文 : >-
             tagMenuError30=CD Key 已被禁用
-#-------------------------------#
+#------------- 第 364 行 -------------#
     363 :
         原文 : >-
             tagMenuError31=Building server list.  Cancel to view partial server list.
         譯文 : >-
             tagMenuError31=正在建立伺服器列表，按下取消只會顯示部分伺服器。
-#-------------------------------#
+#------------- 第 365 行 -------------#
     364 :
         原文 : >-
             tagMenuError32=You do not have the correct version to connect to this server.  Please update.
         譯文 : >-
             tagMenuError32=需要正確的版本才能連接到該伺服器，請更新遊戲。
-#-------------------------------#
+#------------- 第 366 行 -------------#
     365 :
         原文 : >-
             tagMenuError33=Couldn't initialize graphics engine.
         譯文 : >-
             tagMenuError33=無法初始化遊戲引擎。
-#-------------------------------#
+#------------- 第 367 行 -------------#
     366 :
         原文 : >-
             tagMenuError34=Virtual memory must be enabled to run Grim Dawn.
         譯文 : >-
             tagMenuError34=必須啟動虛擬內存才能運行顫慄黎明。
-#-------------------------------#
+#------------- 第 368 行 -------------#
     367 :
         原文 : >-
             tagMenuError35=Are you sure you wish to save and exit your game?
         譯文 : >-
             tagMenuError35=確定保存並退出遊戲？
-#-------------------------------#
+#------------- 第 369 行 -------------#
     368 :
         原文 : >-
             tagMenuError36=Are you sure you wish to exit Grim Dawn?
         譯文 : >-
             tagMenuError36=確定要退出顫慄黎明遊戲？
-#-------------------------------#
+#------------- 第 370 行 -------------#
     369 :
         原文 : >-
             tagMenuError37=A copy of Grim Dawn is already running.
         譯文 : >-
             tagMenuError37=一個顫慄黎明的遊戲副本已經在運行。
-#-------------------------------#
+#------------- 第 371 行 -------------#
     370 :
         原文 : >-
             tagMenuError38=A character with that name already exists.
         譯文 : >-
             tagMenuError38=已存在使用該名字的人物
-#-------------------------------#
+#------------- 第 372 行 -------------#
     371 :
         原文 : >-
             tagMenuError39=Error downloading update file.
         譯文 : >-
             tagMenuError39=下載更新文件錯誤。
-#-------------------------------#
+#------------- 第 373 行 -------------#
     372 :
         原文 : >-
             tagMenuError40=Invalid player file.
         譯文 : >-
             tagMenuError40=無效的玩家存檔。
-#-------------------------------#
+#------------- 第 374 行 -------------#
     373 :
         原文 : >-
             tagMenuError41=Please insert the original Grim Dawn disc.
         譯文 : >-
             tagMenuError41=請插入顫慄黎明遊戲光碟。
-#-------------------------------#
+#------------- 第 375 行 -------------#
     374 :
         原文 : >-
             tagMenuError42=Steam authentication failed.
         譯文 : >-
             tagMenuError42=Steam 驗證失敗。
-#-------------------------------#
+#------------- 第 376 行 -------------#
     375 :
         原文 : >-
             tagConnectAborted=Connect Aborted.
         譯文 : >-
             tagConnectAborted=連接中斷。
-#-------------------------------#
+#------------- 第 377 行 -------------#
     376 :
         原文 : >-
             tagMenuWarning01=Warning:  This will create a copy of your character {%s}.  This copied character can only be used in Custom Games.
         譯文 : >-
             tagMenuWarning01=警告：這將會創建人物{%s}的副本，且複製的人物只能用於自訂遊戲中。
-#-------------------------------#
+#------------- 第 378 行 -------------#
     377 :
         原文 : >-
             tagMenuWarning02=Would you like to rename this Custom Only Character?
         譯文 : >-
             tagMenuWarning02=你想要重命名這個自訂人物嗎？
-#-------------------------------#
+#------------- 第 379 行 -------------#
     378 :
         原文 : >-
             tagMenuWarning03=Leave blank and press "OK" to keep {%s} as the new characters name.
         譯文 : >-
             tagMenuWarning03=留白並點擊「確定」以保留{%s}作為新角色的名字。
-#-------------------------------#
+#------------- 第 380 行 -------------#
     379 :
         原文 : >-
             tagMenuUpdate01=No updates available at this time.
         譯文 : >-
             tagMenuUpdate01=沒有可用更新。
-#-------------------------------#
+#------------- 第 381 行 -------------#
     380 :
         原文 : >-
             tagMenuUpdate02=Downloading Update
         譯文 : >-
             tagMenuUpdate02=正在下載更新
-#-------------------------------#
+#------------- 第 382 行 -------------#
     381 :
         原文 : >-
             tagMenuDelete01=Are you sure you want to permanently delete this character?
         譯文 : >-
             tagMenuDelete01=確定永久刪除該角色？
-#-------------------------------#
+#------------- 第 383 行 -------------#
     382 :
         原文 : >-
             tagDeveloperTitle=Developer
         譯文 : >-
             tagDeveloperTitle=開發者
-#-------------------------------#
+#------------- 第 384 行 -------------#
     383 :
         原文 : >-
             tagDeveloperOption01=Video Sync to Refresh
         譯文 : >-
             tagDeveloperOption01=影像同步刷新
-#-------------------------------#
+#------------- 第 385 行 -------------#
     384 :
         原文 : >-
             tagDeveloperOption02=Full Screen
         譯文 : >-
             tagDeveloperOption02=全螢幕
-#-------------------------------#
+#------------- 第 386 行 -------------#
     385 :
         原文 : >-
             tagDeveloperOption03=Show Tag Errors
         譯文 : >-
             tagDeveloperOption03=顯示標籤錯誤
-#-------------------------------#
+#------------- 第 387 行 -------------#
     386 :
         原文 : >-
             tagDeveloperOption04=Use Archives
         譯文 : >-
             tagDeveloperOption04=使用壓縮檔
-#-------------------------------#
+#------------- 第 388 行 -------------#
     387 :
         原文 : >-
             tagDeveloperOption05=Send Debug Mail
         譯文 : >-
             tagDeveloperOption05=發送除錯郵件
-#-------------------------------#
+#------------- 第 389 行 -------------#
     388 :
         原文 : >-
             tagDeveloperOption06=Show Assert Messages
         譯文 : >-
             tagDeveloperOption06=顯示斷言訊息
-#-------------------------------#
+#------------- 第 390 行 -------------#
     389 :
         原文 : >-
             tagDeveloperOption07=Auto-Close Archives
         譯文 : >-
             tagDeveloperOption07=自動關閉壓縮檔
-#-------------------------------#
+#------------- 第 391 行 -------------#
     390 :
         原文 : >-
             tagDeveloperOption08=Load Database from Archive
         譯文 : >-
             tagDeveloperOption08=從壓縮檔中讀取資料庫
-#-------------------------------#
+#------------- 第 392 行 -------------#
     391 :
         原文 : >-
             tagDeveloperOption09=Show Intro Movies
         譯文 : >-
             tagDeveloperOption09=播放開場動畫
-#-------------------------------#
+#------------- 第 393 行 -------------#
     392 :
         原文 : >-
             tagDeveloperOption10=Force Single Processor Mode
         譯文 : >-
             tagDeveloperOption10=強制單處理器模式
-#-------------------------------#
+#------------- 第 394 行 -------------#
     393 :
         原文 : >-
             tagDeveloperOption11=Max Resource Threads
         譯文 : >-
             tagDeveloperOption11=最大資源線程
-#-------------------------------#
+#------------- 第 395 行 -------------#
     394 :
         原文 : >-
             tagNamePlate01=Grim Dawn Game Setup
         譯文 : >-
             tagNamePlate01=標準遊戲設置
-#-------------------------------#
+#------------- 第 396 行 -------------#
     395 :
         原文 : >-
             tagNamePlate02=Custom Game Setup
         譯文 : >-
             tagNamePlate02=自訂遊戲設置
-#-------------------------------#
+#------------- 第 397 行 -------------#
     396 :
         原文 : >-
             tagNamePlate03=Options Menu
         譯文 : >-
             tagNamePlate03=選項
-#-------------------------------#
+#------------- 第 398 行 -------------#
     397 :
         原文 : >-
             tagNamePlate04=Credits
         譯文 : >-
             tagNamePlate04=製作人員
-#-------------------------------#
+#------------- 第 399 行 -------------#
     398 :
         原文 : >-
             tagNamePlate05=LAN
         譯文 : >-
             tagNamePlate05=區域網路
-#-------------------------------#
+#------------- 第 400 行 -------------#
     399 :
         原文 : >-
             tagNamePlate06=Internet
         譯文 : >-
             tagNamePlate06=網際網路
-#-------------------------------#
+#------------- 第 401 行 -------------#
     400 :
         原文 : >-
             tagPreviewError=This feature is disabled.
         譯文 : >-
             tagPreviewError=該功能已關閉
-#-------------------------------#
+#------------- 第 402 行 -------------#
     401 :
         原文 : >-
             tagLoading=Loading
         譯文 : >-
             tagLoading=讀取中
-#-------------------------------#
+#------------- 第 403 行 -------------#
     402 :
         原文 : >-
             tagFrenchPatch=Grim Dawn will now update the original Grim Dawn dialog files to the French version.
         譯文 : >-
             tagFrenchPatch=顫慄黎明現在要將原始對話文檔更新到法文版本。
-#-------------------------------#
+#------------- 第 404 行 -------------#
     403 :
         原文 : >-
             tagGermanPatch=Grim Dawn will now update the original Grim Dawn dialog files to the German version.
         譯文 : >-
             tagGermanPatch=顫慄黎明現在要將原始對話文檔更新到德文版本。
-#-------------------------------#
+#------------- 第 405 行 -------------#
     404 :
         原文 : >-
             tagLanguagePatchError=Grim Dawn was unable to update the original Grim Dawn dialog files.
         譯文 : >-
             tagLanguagePatchError=顫慄黎明無法更新原始對話文檔。
-#-------------------------------#
+#------------- 第 406 行 -------------#
     405 :
         原文 : >-
             tagMenuPatcher01=Updating original Grim Dawn files …
         譯文 : >-
             tagMenuPatcher01=正在更新顫慄黎明原始文件...
-#-------------------------------#
+#------------- 第 407 行 -------------#
     406 :
         原文 : >-
             tagMenuPatcher02=Error with file :
         譯文 : >-
             tagMenuPatcher02=文件錯誤：
-#-------------------------------#
+#------------- 第 408 行 -------------#
     407 :
         原文 : >-
             tagGameSummary={%d0} Games / {%d1} Players
         譯文 : >-
             tagGameSummary={%d0}遊戲房間/{%d1}玩家
-#-------------------------------#
+#------------- 第 410 行 -------------#
     409 :
         原文 : >-
             tagCharCreatePVP=PVP
         譯文 : >-
             tagCharCreatePVP=PVP
-#-------------------------------#
+#------------- 第 411 行 -------------#
     410 :
         原文 : >-
             tagCharCreateAutoParty=Auto-Party
         譯文 : >-
             tagCharCreateAutoParty=自動組隊
-#-------------------------------#
+#------------- 第 412 行 -------------#
     411 :
         原文 : >-
             tagCharCreatePVPwarning=You have just enabled PVP (Player Versus Player) mode.  In this mode, you can attack other players, and they can attack you.  Note: A game can be either PVP or Auto-Party, but not both.
         譯文 : >-
             tagCharCreatePVPwarning=你開啟了PVP模式。在這個模式中，你能攻擊其他玩家，他們也能攻擊你。注意：在一場遊戲中，PVP模式和自動組隊模式只能任選其一，不可同時開啟。
-#-------------------------------#
+#------------- 第 413 行 -------------#
     412 :
         原文 : >-
             tagCharCreateNeverShow=Never show this warning again.
         譯文 : >-
             tagCharCreateNeverShow=不再顯示該警告。
-#-------------------------------#
+#------------- 第 414 行 -------------#
     413 :
         原文 : >-
             tagCharImportProgress=Importing character(s) from Grim Dawn.  This could take several minutes.
         譯文 : >-
             tagCharImportProgress=正在導入遊戲角色，這可能會花幾分鐘時間。
-#-------------------------------#
+#------------- 第 415 行 -------------#
     414 :
         原文 : >-
             tagCharImportTQCampaign=Grim Dawn Campaign Characters
         譯文 : >-
             tagCharImportTQCampaign=顫慄黎明戰役角色
-#-------------------------------#
+#------------- 第 416 行 -------------#
     415 :
         原文 : >-
             tagCharImportTQCustom=Grim Dawn Custom Characters
         譯文 : >-
             tagCharImportTQCustom=顫慄黎明自訂角色
-#-------------------------------#
+#------------- 第 417 行 -------------#
     416 :
         原文 : >-
             tagCharImportTQXCampaign=Grim Dawn Campaign Characters
         譯文 : >-
             tagCharImportTitle=顫慄黎明自訂義角色
-#-------------------------------#
+#------------- 第 418 行 -------------#
     417 :
         原文 : >-
             tagCharImportTitle=Import Character
         譯文 : >-
             tagCharImportTitle=導入角色
-#-------------------------------#
+#------------- 第 419 行 -------------#
     418 :
         原文 : >-
             tagInstancedLoot=Instanced Loot
         譯文 : >-
             tagInstancedLoot=組隊獨立戰利品掉落
-#-------------------------------#
+#------------- 第 421 行 -------------#
     420 :
         原文 : >-
             tagLobbyLock=Password Locked
         譯文 : >-
             tagLobbyLock=房間已上鎖
-#-------------------------------#
+#------------- 第 422 行 -------------#
     421 :
         原文 : >-
             tagLobbyDifficulty=Difficulty
         譯文 : >-
             tagLobbyDifficulty=難度
-#-------------------------------#
+#------------- 第 423 行 -------------#
     422 :
         原文 : >-
             tagLobbyAutoparty=Auto-Party Enabled
         譯文 : >-
             tagLobbyAutoparty=已開啟自動組隊
-#-------------------------------#
+#------------- 第 424 行 -------------#
     423 :
         原文 : >-
             tagLobbyInstancedLoot=Instanced Loot
         譯文 : >-
             tagLobbyInstancedLoot=組隊獨立戰利品掉落
-#-------------------------------#
+#------------- 第 425 行 -------------#
     424 :
         原文 : >-
             tagLobbyLanguage=Language
         譯文 : >-
             tagLobbyLanguage=語言
-#-------------------------------#
+#------------- 第 426 行 -------------#
     425 :
         原文 : >-
             tagLobbyPVP=PVP Enabled
         譯文 : >-
             tagLobbyPVP=已開啟PVP
-#-------------------------------#
+#------------- 第 427 行 -------------#
     426 :
         原文 : >-
             tagLobbyHardcore=Hardcore Enabled
         譯文 : >-
             tagLobbyHardcore=已開啟專家模式
-#-------------------------------#
+#------------- 第 428 行 -------------#
     427 :
         原文 : >-
             tagLobbyNormalDifficulty=Normal Difficulty
         譯文 : >-
             tagLobbyNormalDifficulty=普通難度
-#-------------------------------#
+#------------- 第 429 行 -------------#
     428 :
         原文 : >-
             tagLobbyEliteDifficulty=Elite Difficulty
         譯文 : >-
             tagLobbyEliteDifficulty=精英難度
-#-------------------------------#
+#------------- 第 430 行 -------------#
     429 :
         原文 : >-
             tagLobbyUltimateDifficulty=Ultimate Difficulty
         譯文 : >-
             tagLobbyUltimateDifficulty=終極難度
-#-------------------------------#
+#------------- 第 431 行 -------------#
     430 :
         原文 : >-
             tagLobbyChallenge=Veteran Difficulty
         譯文 : >-
             tagLobbyChallenge=老兵難度
-#-------------------------------#
+#------------- 第 432 行 -------------#
     431 :
         原文 : >-
             tagLobbyPlayers=Players in Game/Max Players
         譯文 : >-
             tagLobbyPlayers=房間內玩家數/最大玩家數
-#-------------------------------#
+#------------- 第 433 行 -------------#
     432 :
         原文 : >-
             tagLobbySearchTitle=Advanced Search
         譯文 : >-
             tagLobbySearchTitle=進階搜尋
-#-------------------------------#
+#------------- 第 434 行 -------------#
     433 :
         原文 : >-
             tagLobbySearchPingBelow=Ping Below
         譯文 : >-
             tagLobbySearchPingBelow=Ping 值低於
-#-------------------------------#
+#------------- 第 435 行 -------------#
     434 :
         原文 : >-
             tagLobbySearchMaxPlayers=Max Players
         譯文 : >-
             tagLobbySearchMaxPlayers=最大玩家數
-#-------------------------------#
+#------------- 第 436 行 -------------#
     435 :
         原文 : >-
             tagLobbySearchShow=Show
         譯文 : >-
             tagLobbySearchShow=顯示
-#-------------------------------#
+#------------- 第 437 行 -------------#
     436 :
         原文 : >-
             tagLobbySearchHide=Hide
         譯文 : >-
             tagLobbySearchHide=隱藏
-#-------------------------------#
+#------------- 第 438 行 -------------#
     437 :
         原文 : >-
             tagLobbySearchFull=Full
         譯文 : >-
             tagLobbySearchFull=已滿
-#-------------------------------#
+#------------- 第 439 行 -------------#
     438 :
         原文 : >-
             tagLobbySearchLocked=Locked
         譯文 : >-
             tagLobbySearchLocked=已上鎖
-#-------------------------------#
+#------------- 第 440 行 -------------#
     439 :
         原文 : >-
             tagLobbySearchPVP=PVP
         譯文 : >-
             tagLobbySearchPVP=PVP
-#-------------------------------#
+#------------- 第 441 行 -------------#
     440 :
         原文 : >-
             tagLobbySearchAutoParty=Auto-Party
         譯文 : >-
             tagLobbySearchAutoParty=自動組隊
-#-------------------------------#
+#------------- 第 442 行 -------------#
     441 :
         原文 : >-
             tagLobbySearchLanguage=Language:
         譯文 : >-
             tagLobbySearchLanguage=語言
-#-------------------------------#
+#------------- 第 443 行 -------------#
     442 :
         原文 : >-
             tagLobbySearchSearch=Search
         譯文 : >-
             tagLobbySearchSearch=搜尋
-#-------------------------------#
+#------------- 第 444 行 -------------#
     443 :
         原文 : >-
             tagLobbySearchCancel=Cancel
         譯文 : >-
             tagLobbySearchCancel=取消
-#-------------------------------#
+#------------- 第 445 行 -------------#
     444 :
         原文 : >-
             tagLobbyDirect=Direct
         譯文 : >-
             tagLobbyDirect=直連
-#-------------------------------#
+#------------- 第 446 行 -------------#
     445 :
         原文 : >-
             tagLobbyDirectTitle=Set Direct Connect Server Address
         譯文 : >-
             tagLobbyDirectTitle=設置直連伺服器地址：
-#-------------------------------#
+#------------- 第 447 行 -------------#
     446 :
         原文 : >-
             tagLobbyDirectIP=IP:
         譯文 : >-
             tagLobbyDirectIP=IP位址：
-#-------------------------------#
+#------------- 第 448 行 -------------#
     447 :
         原文 : >-
             tagLobbyDirectPort=Port:
         譯文 : >-
             tagLobbyDirectPort=端口：
-#-------------------------------#
+#------------- 第 449 行 -------------#
     448 :
         原文 : >-
             tagLobbyDirectSave=Save
         譯文 : >-
             tagLobbyDirectSave=保存
-#-------------------------------#
+#------------- 第 450 行 -------------#
     449 :
         原文 : >-
             tagLobbyDirectCancel=Cancel
         譯文 : >-
             tagLobbyDirectCancel=取消
-#-------------------------------#
+#------------- 第 451 行 -------------#
     450 :
         原文 : >-
             tagLobbyPlayersTitle=Players:
         譯文 : >-
             tagLobbyPlayersTitle=玩家：
-#-------------------------------#
+#------------- 第 452 行 -------------#
     451 :
         原文 : >-
             tagLobbyServerTypeTitle=Server Type:
         譯文 : >-
             tagLobbyServerTypeTitle=伺服器種類：
-#-------------------------------#
+#------------- 第 453 行 -------------#
     452 :
         原文 : >-
             tagLobbyServerTypeAll=All
         譯文 : >-
             tagLobbyServerTypeAll=所有
-#-------------------------------#
+#------------- 第 454 行 -------------#
     453 :
         原文 : >-
             tagLobbyServerTypeFriends=Friends
         譯文 : >-
             tagLobbyServerTypeFriends=好友
-#-------------------------------#
+#------------- 第 455 行 -------------#
     454 :
         原文 : >-
             tagLobbyServerTypeRecent=Recent
         譯文 : >-
             tagLobbyServerTypeRecent=最近的玩家
-#-------------------------------#
+#------------- 第 457 行 -------------#
     456 :
         原文 : >-
             tagCharDetailsPlayerLevel=Level:
         譯文 : >-
             tagCharDetailsPlayerLevel=等級：
-#-------------------------------#
+#------------- 第 458 行 -------------#
     457 :
         原文 : >-
             tagCharDetailsItemLevel=Item Level:
         譯文 : >-
             tagCharDetailsItemLevel=物品等級：
-#-------------------------------#
+#------------- 第 459 行 -------------#
     458 :
         原文 : >-
             tagCharDetailsPlayerLocation=Location:
         譯文 : >-
             tagCharDetailsPlayerLocation=位置：
-#-------------------------------#
+#------------- 第 460 行 -------------#
     459 :
         原文 : >-
             tagCharDetailsFaction=Faction Status:
         譯文 : >-
             tagCharDetailsFaction=勢力狀態：
-#-------------------------------#
+#------------- 第 461 行 -------------#
     460 :
         原文 : >-
             tagCharDetailsActiveQuests=Active Quests:
         譯文 : >-
             tagCharDetailsActiveQuests=進行中的任務：
-#-------------------------------#
+#------------- 第 463 行 -------------#
     462 :
         原文 : >-
             tagDirectConnectMenuConnecting=Connecting to Server {%t0}
         譯文 : >-
             tagDirectConnectMenuConnecting=正在連接伺服器{%t0}
-#-------------------------------#
+#------------- 第 464 行 -------------#
     463 :
         原文 : >-
             tagDirectConnectMenuStatus1=Contacting Server...
         譯文 : >-
             tagDirectConnectMenuStatus1=與伺服器通訊中...
-#-------------------------------#
+#------------- 第 465 行 -------------#
     464 :
         原文 : >-
             tagDirectConnectMenuStatus2=Connecting to Server...
         譯文 : >-
             tagDirectConnectMenuStatus2=正在連接伺服器...
-#-------------------------------#
+#------------- 第 466 行 -------------#
     465 :
         原文 : >-
             tagDirectConnectMenuStatus3=Connection complete, launching game.
         譯文 : >-
             tagDirectConnectMenuStatus3=連接完成，正在啟動遊戲。
-#-------------------------------#
+#------------- 第 469 行 -------------#
     468 :
         原文 : >-
             tagFriendOffline=Offline
         譯文 : >-
             tagFriendOffline=離線
-#-------------------------------#
+#------------- 第 470 行 -------------#
     469 :
         原文 : >-
             tagFriendOnline=Online
         譯文 : >-
             tagFriendOnline=線上
-#-------------------------------#
+#------------- 第 471 行 -------------#
     470 :
         原文 : >-
             tagFriendBusy=Busy
         譯文 : >-
             tagFriendBusy=忙碌
-#-------------------------------#
+#------------- 第 472 行 -------------#
     471 :
         原文 : >-
             tagFriendAway=Away
         譯文 : >-
             tagFriendAway=離開
-#-------------------------------#
+#------------- 第 473 行 -------------#
     472 :
         原文 : >-
             tagFriendUnknown=Status Unknown
         譯文 : >-
             tagFriendUnknown=未知狀態
-#-------------------------------#
+#------------- 第 474 行 -------------#
     473 :
         原文 : >-
             tagFriendPlayingGrimDawnSP=In Game (Single Player)
         譯文 : >-
             tagFriendPlayingGrimDawnSP=遊戲中（單人遊戲）
-#-------------------------------#
+#------------- 第 475 行 -------------#
     474 :
         原文 : >-
             tagFriendPlayingGrimDawnMP=In Game (Multiplayer)
         譯文 : >-
             tagFriendPlayingGrimDawnMP=遊戲中（多人遊戲）
-#-------------------------------#
+#------------- 第 476 行 -------------#
     475 :
         原文 : >-
             tagFriendAddButton=Add Friend
         譯文 : >-
             tagFriendAddButton=添加好友
-#-------------------------------#
+#------------- 第 477 行 -------------#
     476 :
         原文 : >-
             tagFriendJoinGameButton=Join Game
         譯文 : >-
             tagFriendJoinGameButton=加入遊戲
-#-------------------------------#
+#------------- 第 480 行 -------------#
     479 :
         原文 : >-
             tagOptionOff=Off
         譯文 : >-
             tagOptionOff=關閉
-#-------------------------------#
+#------------- 第 481 行 -------------#
     480 :
         原文 : >-
             tagVideoOptionTripleBuffering=Triple Buffering
         譯文 : >-
             tagVideoOptionTripleBuffering=三重緩衝
-#-------------------------------#
+#------------- 第 482 行 -------------#
     481 :
         原文 : >-
             tagVideoOptionCameraShake=Camera Shake
         譯文 : >-
             tagVideoOptionCameraShake=鏡頭晃動
-#-------------------------------#
+#------------- 第 483 行 -------------#
     482 :
         原文 : >-
             tagVideoOptionAdvancedEffects=Post Processing
         譯文 : >-
             tagVideoOptionAdvancedEffects=後置處理
-#-------------------------------#
+#------------- 第 484 行 -------------#
     483 :
         原文 : >-
             tagVideoOptionDetailObjects=Detail Objects
         譯文 : >-
             tagVideoOptionDetailObjects=物體細節
-#-------------------------------#
+#------------- 第 485 行 -------------#
     484 :
         原文 : >-
             tagLobbyLocation=Location:
         譯文 : >-
             tagLobbyLocation=位置：
-#-------------------------------#
+#------------- 第 486 行 -------------#
     485 :
         原文 : >-
             tagTQ1ModInvalid=This map was created with an older version of Grim Dawn.
         譯文 : >-
             tagTQ1ModInvalid=這張地圖是在一個較早版本的顫慄黎明遊戲裡創建的。
-#-------------------------------#
+#------------- 第 487 行 -------------#
     486 :
         原文 : >-
             tagBrightness=Brightness
         譯文 : >-
             tagBrightness=亮度
-#-------------------------------#
+#------------- 第 488 行 -------------#
     487 :
         原文 : >-
             tagContrast=Contrast
         譯文 : >-
             tagContrast=對比度
-#-------------------------------#
+#------------- 第 489 行 -------------#
     488 :
         原文 : >-
             tagGamma=Fullscreen Gamma
         譯文 : >-
             tagGamma=全螢幕模式珈瑪值
-#-------------------------------#
+#------------- 第 490 行 -------------#
     489 :
         原文 : >-
             tagColorblind=Color Blindness
         譯文 : >-
             tagColorblind=色盲
-#-------------------------------#
+#------------- 第 491 行 -------------#
     490 :
         原文 : >-
             tagNormal=Normal
         譯文 : >-
             tagNormal=正常
-#-------------------------------#
+#------------- 第 492 行 -------------#
     491 :
         原文 : >-
             tagProtanopia=Protanopia
         譯文 : >-
             tagProtanopia=紅色盲
-#-------------------------------#
+#------------- 第 493 行 -------------#
     492 :
         原文 : >-
             tagDeuteranopia=Deuteranopia
         譯文 : >-
             tagDeuteranopia=綠色盲
-#-------------------------------#
+#------------- 第 494 行 -------------#
     493 :
         原文 : >-
             tagTritanopia=Tritanopia
         譯文 : >-
             tagTritanopia=藍色盲
-#-------------------------------#
+#------------- 第 496 行 -------------#
     495 :
         原文 : >-
             tagOverwriteKeymap=The function ^y{%t0}^w has already been mapped to ^y{%t1}^w. Do you wish to overwrite?
         譯文 : >-
             tagOverwriteKeymap=該功能^y{%t0}^w已經被對照到^y{%t1}^w了。是否覆蓋？
-#-------------------------------#
+#------------- 第 497 行 -------------#
     496 :
         原文 : >-
             tagHardDiskError=Your computer is currently low on hard drive space.  Grim Dawn may have difficulty saving your game.   To avoid this problem, please create more room on your hardrive.
         譯文 : >-
             tagHardDiskError=電腦硬碟空間不足，顫慄黎明可能會無法存檔。請釋放更多硬碟空間以避免該問題。
-#-------------------------------#
+#------------- 第 498 行 -------------#
     497 :
         原文 : >-
             tagMenuError10=Unable to connect to server.  The mod or map version does not match the host.
         譯文 : >-
             tagMenuError10=無法連接至服務器。Mod 或者地圖版本與主機不同。
-#-------------------------------#
+#------------- 第 500 行 -------------#
     499 :
         原文 : >-
             tagReportUsageStats=Help us improve Grim Dawn by periodically reporting anonymous system and gameplay stats?
         譯文 : >-
             tagReportUsageStats=是否定期發送匿名的系統與遊戲資訊以幫助我們改進顫慄黎明？
-#-------------------------------#
+#------------- 第 501 行 -------------#
     500 :
         原文 : >-
             tagImportToSteamCloud=Steam Cloud Saving is enabled. Import existing characters?
         譯文 : >-
             tagImportToSteamCloud=已啟用Steam雲端存檔功能。是否載入現有人物？
-#-------------------------------#
+#------------- 第 502 行 -------------#
     501 :
         原文 : >-
             tagResetCloudWarning=Are you sure you want to delete all characters and data stored in the cloud?
         譯文 : >-
             tagResetCloudWarning=你確定要刪除雲端存檔中的所有人物和資料嗎？
-#-------------------------------#
+#------------- 第 503 行 -------------#
     502 :
         原文 : >-
             tagDownloadCloudWarning=Are you sure you want to download cloud saves? Locally saved characters and data will be overwritten!
         譯文 : >-
             tagDownloadCloudWarning=您確定要下載雲存檔？本地存檔將會被覆蓋！
-#-------------------------------#
+#------------- 第 504 行 -------------#
     503 :
         原文 : >-
             tagWorking=Working...

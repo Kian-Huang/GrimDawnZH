@@ -12,14 +12,14 @@ return %Q[
     狀態 : #{state}
     註解 : >-
         #{comment}
-#-------------------------------#
+#--------------------------------------------------------#
 內文 :
 ]
 end
 
 def makeLineYaml( line , en , cn )
     return %Q[
-#-------------------------------#
+#------------- 第 #{line+1} 行 -------------#
     #{line} :
         原文 : >-
             #{en}
@@ -30,6 +30,7 @@ end
 def validString( str )
     return false if str.all_blink?
     return false if str.empty?
+    return false if str[0] == "#"
     return true
 end
 
@@ -39,6 +40,7 @@ def makeYaml( )
         cnFileMap = makeFileMap( Path::CN + fileName)
         str = makeInfo(fileName)
         enFileMap.each_pair do |k,v|
+            next if not validString(v)
             str << makeLineYaml( k, v, cnFileMap[k] )
         end
         yamlPath = Path::TEXT + fileName[0..-4] + "yml"
