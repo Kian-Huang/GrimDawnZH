@@ -159,7 +159,7 @@
         原文 : >-
             tagTutorialTip14TextB=Potions are initially assigned to the last two Quickbar Slots. You can manually assign Potions to any Quickbar slot by right-clicking on an empty slot and selecting a potion from the menu.
         譯文 : >-
-            tagTutorialTip14TextB=藥水被默認分配到快捷欄的最後兩格內。通過右擊空的快捷欄並從菜單選擇一種藥水，你可以手動將藥水設定到別的快捷鍵。
+            tagTutorialTip14TextB=藥水被默認分配到快捷欄的最後兩格內。通過右擊空的快捷欄並從選單選擇一種藥水，你可以手動將藥水設定到別的快捷鍵。
 #------------- 第 32 行 -------------#
     31 :
         原文 : >-
@@ -381,7 +381,7 @@
         原文 : >-
             tagTutorialTip23TextA=Active skills (square icons) need to be assigned to your mouse buttons or Quickbar before you can use them.{^n}{^n}To assign a skill, right-click on a slot in the Quickbar or on the mouse buttons to the right of it and select the desired skill from the menu.
         譯文 : >-
-            tagTutorialTip23TextA=主動技能（方圖示）需要分配到滑鼠或快捷欄才能使用。{^n}{^n}要分配技能，在快捷欄或右面的滑鼠按鍵欄上右鍵並從菜單中選擇一個技能。
+            tagTutorialTip23TextA=主動技能（方圖示）需要分配到滑鼠或快捷欄才能使用。{^n}{^n}要分配技能，在快捷欄或右面的滑鼠按鍵欄上右鍵並從選單中選擇一個技能。
 #------------- 第 77 行 -------------#
     76 :
         原文 : >-
@@ -513,7 +513,7 @@
         原文 : >-
             tagTutorialTip30TextB=To assign a skill, right-click on a slot in the Quickbar or on the mouse buttons to the right of it and select the desired skill from the menu.
         譯文 : >-
-            tagTutorialTip30TextB=要分配技能，在快捷欄或右面的滑鼠按鍵欄上右鍵並從菜單中選擇一個技能。
+            tagTutorialTip30TextB=要分配技能，在快捷欄或右面的滑鼠按鍵欄上右鍵並從選單中選擇一個技能。
 #------------- 第 105 行 -------------#
     104 :
         原文 : >-

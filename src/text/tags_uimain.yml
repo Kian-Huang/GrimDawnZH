@@ -1515,7 +1515,7 @@
         原文 : >-
             tagFullscreenWindowed=Windowed (FullScreen)
         譯文 : >-
-            tagFullscreenWindowed=窗口全螢幕
+            tagFullscreenWindowed=視窗全螢幕
 #------------- 第 268 行 -------------#
     267 :
         原文 : >-
@@ -1629,7 +1629,7 @@
         原文 : >-
             tagUPnPCheckFail=UPnP Services are not available to configure your router to host a Grim Dawn Server.  Please check your router settings and enable UPnP, or, if that is not possible, manually configure your router to open port 27016 for both the UDP and TCP protocols.
         譯文 : >-
-            tagUPnPCheckFail=UPnP服務無法設置你的路由器以搭建一個顫慄黎明服務器。請檢查你的路由器設置並開啟UPnP，或者如果不行的話，手動設置你的路由器，為UDP協議和TCP協議打開27016端口。
+            tagUPnPCheckFail=UPnP服務無法設置你的路由器以搭建一個顫慄黎明伺服器。請檢查你的路由器設置並開啟UPnP，或者如果不行的話，手動設置你的路由器，為UDP協議和TCP協議打開27016端口。
 #------------- 第 290 行 -------------#
     289 :
         原文 : >-
@@ -1647,7 +1647,7 @@
         原文 : >-
             tagUPnPDisabledHelp=UPnP is disabled.  Port 27016 must be opened on your router for both the UDP and TCP protocols to host a Grim Dawn server.
         譯文 : >-
-            tagUPnPDisabledHelp=已開啟UPnP，您的路由器上必須為 UDP 協議和 TCP 協議啟用 port 27016 才能架設顫慄黎明的服務器。
+            tagUPnPDisabledHelp=已開啟UPnP，您的路由器上必須為 UDP 協議和 TCP 協議啟用 port 27016 才能架設顫慄黎明的伺服器。
 #------------- 第 295 行 -------------#
     294 :
         原文 : >-
@@ -2751,7 +2751,7 @@
         原文 : >-
             tagMenuError10=Unable to connect to server.  The mod or map version does not match the host.
         譯文 : >-
-            tagMenuError10=無法連接至服務器。Mod 或者地圖版本與主機不同。
+            tagMenuError10=無法連接至伺服器。Mod 或者地圖版本與主機不同。
 #------------- 第 500 行 -------------#
     499 :
         原文 : >-
