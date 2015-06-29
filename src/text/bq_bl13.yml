@@ -13,7 +13,7 @@ bq_bl13.txt :
         原文 : >-
             Bounty: Aether Shard
         譯文 : >-
-            賞金：虛化碎片
+            賞金：Aether Shard
 #-------------------------------#
     2 :
         標註 : 
@@ -27,18 +27,18 @@ bq_bl13.txt :
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an Aether Shard will be compensated with materials from the Legion stores.
         譯文 : >-
-            軍團要你協助收集敵人的情報。{^n}{^n}虛靈從多種水晶中汲取能量。軍團需要這種水晶標本才能想辦法實施反制。{^n}{^n}送來一塊虛化碎片將會得到材料作為獎賞。
+            The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an Aether Shard will be compensated with materials from the Legion stores。
 #-------------------------------#
     5 :
         標註 : 
         原文 : >-
             Collect Aether Shard
         譯文 : >-
-            收集虛化碎片
+            Collect Aether Shard
 #-------------------------------#
     6 :
         標註 : 
         原文 : >-
             Deliver the Aether Shard to the Black Legion Bounty Table
         譯文 : >-
-            將虛化碎片送到黑色軍團的賞金桌
+            Deliver the Aether Shard to the Black Legion Bounty Table
