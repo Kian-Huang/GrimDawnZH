@@ -1,36 +1,31 @@
-npc_refugee_01.txt : 
+npc_refugee_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Gertrude
         譯文 : >-
             格特魯德
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Finally, some real equipment. Duncan was utterly worthless without that hammer.
         譯文 : >-
             總算有些趁手的傢伙了。鄧肯沒了那把錘子就成了廢人一個。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I miss real food. I'm not used to eating this...I think it's meat?
         譯文 : >-
             我想念真正的食物。我不習慣吃這些...我想這是肉麼？
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

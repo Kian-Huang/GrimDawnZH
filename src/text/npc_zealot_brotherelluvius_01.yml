@@ -1,596 +1,511 @@
-npc_zealot_brotherelluvius_01.txt : 
+npc_zealot_brotherelluvius_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Brother Elluvius
         譯文 : >-
             Brother Elluvius
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Father Kymon speaks very highly of you, [[ms]brother[fs]sister].
         譯文 : >-
             Father Kymon speaks very highly of you, [[ms]brother[fs]sister].
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             There is something you should know about Kymon.
         譯文 : >-
             There is something you should know about Kymon.
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Do not strain yourself, [[ms]brother[fs]sister]. I've heard all the praises.
         譯文 : >-
             Do not strain yourself, [[ms]brother[fs]sister]. I've heard all the praises.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Kymon has made a deal with a Primordial, not Empyrion.
         譯文 : >-
             Kymon has made a deal with a Primordial, not Empyrion.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You speak blasphemy. I will hear no more of this nonsense.{^n}{^n}Purge your mind of such wicked ideas.
         譯文 : >-
             You speak blasphemy. I will hear no more of this nonsense.{^n}{^n}Purge your mind of such wicked ideas.
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             You don't understand, I saw it with my own eyes.
         譯文 : >-
             You don't understand, I saw it with my own eyes.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Our Prophet has brought us hope in desperate times.{^n}{^n}I will not allow you to tear his work apart. Leave me be.
         譯文 : >-
             Our Prophet has brought us hope in desperate times.{^n}{^n}I will not allow you to tear his work apart. Leave me be.
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Stubborn son of a slith.
         譯文 : >-
             Stubborn son of a slith.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Fine...
         譯文 : >-
             Fine...
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             I...nevermind.
         譯文 : >-
             I...nevermind.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             You're right. Farewell.
         譯文 : >-
             You're right. Farewell.
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             I hear we were successful against the wretched Order of Death's Vigil, [[ms]brother[fs]sister].{^n}{^n}You serve Empyrion well.
         譯文 : >-
             I hear we were successful against the wretched Order of Death's Vigil, [[ms]brother[fs]sister].{^n}{^n}You serve Empyrion well.
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Father Kymon has requested your presence. Do not make him wait.
         譯文 : >-
             Father Kymon has requested your presence. Do not make him wait.
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             What can you tell me about Father Kymon?
         譯文 : >-
             What can you tell me about Father Kymon?
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             He is our prophet, the Voice of Empyrion.{^n}{^n}His guidance has brought us strength when we needed it most. He embodies hope in a world with none.
         譯文 : >-
             He is our prophet, the Voice of Empyrion.{^n}{^n}His guidance has brought us strength when we needed it most. He embodies hope in a world with none.
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             I see. Thank you.
         譯文 : >-
             I see. Thank you.
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Rumors travel fast. Your allies are working with the vile Order.{^n}{^n}I cannot trust you with our work when you have such questionable company.
         譯文 : >-
             Rumors travel fast. Your allies are working with the vile Order.{^n}{^n}I cannot trust you with our work when you have such questionable company.
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             May the Light of Empyrion guide your path.
         譯文 : >-
             May the Light of Empyrion guide your path.
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Have you dealt with Ravok?
         譯文 : >-
             Have you dealt with Ravok?
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             I have slain the necromancer.
         譯文 : >-
             I have slain the necromancer.
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             You have exceeded even the Blessed Father's expectations.{^n}{^n}He wishes to speak with you. Do not make him wait, [[ms]brother[fs]sister].
         譯文 : >-
             You have exceeded even the Blessed Father's expectations.{^n}{^n}He wishes to speak with you. Do not make him wait, [[ms]brother[fs]sister].
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             I will speak to him now.
         譯文 : >-
             I will speak to him now.
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             I must rest after the ordeal.
         譯文 : >-
             I must rest after the ordeal.
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             Have you dealt with Ravok?
         譯文 : >-
             Have you dealt with Ravok?
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             Where should I be looking?
         譯文 : >-
             Where should I be looking?
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             Master Ravok is in Fort Haron, in the northern Blood Grove.{^n}{^n}Do not fail us.
         譯文 : >-
             Master Ravok is in Fort Haron, in the northern 血森林.{^n}{^n}Do not fail us.
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             I will go there now.
         譯文 : >-
             I will go there now.
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             I've barely started.
         譯文 : >-
             I've barely started.
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             Father Kymon is impressed with your recent actions against the Cult of Ch'thon.{^n}{^n}I am to entrust you with a critical mission. Do not fail the Father's trust.
         譯文 : >-
             Father Kymon is impressed with your recent actions against the Cult of Ch'thon.{^n}{^n}I am to entrust you with a critical mission. Do not fail the Father's trust.
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             What is the mission?
         譯文 : >-
             What is the mission?
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             In the northern Blood Grove, there is a stronghold known as Fort Haron. It is an old arms storage facility that could prove useful. Unsurprisingly, it has become infested with the Order's vermin.{^n}{^n}Travel to the fort and eliminate all who would oppose you. Find their leader, a Master Ravok, and make an example of her.{^n}{^n}Go forth with the confidence that Empyrion is with you, as I shall bestow a blessing upon you to guide your hand in battle.
         譯文 : >-
             In the northern 血森林, there is a stronghold known as Fort Haron. It is an old arms storage facility that could prove useful. Unsurprisingly, it has become infested with the Order's vermin.{^n}{^n}Travel to the fort and eliminate all who would oppose you. Find their leader, a Master Ravok, and make an example of her.{^n}{^n}Go forth with the confidence that Empyrion is with you, as I shall bestow a blessing upon you to guide your hand in battle.
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             I will eliminate Ravok.
         譯文 : >-
             I will eliminate Ravok.
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             Sounds like suicide.
         譯文 : >-
             Sounds like suicide.
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             I have already dealt with Master Ravok.
         譯文 : >-
             I have already dealt with Master Ravok.
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             I cannot right now.
         譯文 : >-
             I cannot right now.
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             Have you dealt with the heretic?
         譯文 : >-
             Have you dealt with the heretic?
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Bolvar lies dead.
         譯文 : >-
             Bolvar lies dead.
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out his will. That's good. You will need it for what lies ahead.
         譯文 : >-
             Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out his will. That's good. You will need it for what lies ahead.
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             What must be done?
         譯文 : >-
             What must be done?
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             Not interested.
         譯文 : >-
             Not interested.
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             Have you dealt with the heretics?
         譯文 : >-
             Have you dealt with the heretics?
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             Where should I be looking?
         譯文 : >-
             Where should I be looking?
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             Bolvar the Bloodbinder has been spotted around the Blood Grove, to the north.{^n}{^n}By Kymon's will, hunt him down and act out Empyrion's vengeance.
         譯文 : >-
             Bolvar the Bloodbinder has been spotted around the 血森林, to the north.{^n}{^n}By Kymon's will, hunt him down and act out Empyrion's vengeance.
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             I will.
         譯文 : >-
             I will.
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             Not yet.
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             You have crippled the cult's rituals, but that is not enough. So long as the cult is allowed to act without fear, they shall wreak havoc upon what's left of humanity.{^n}{^n}We have tolerated their movements for too long.
         譯文 : >-
             You have crippled the cult's rituals, but that is not enough. So long as the cult is allowed to act without fear, they shall wreak havoc upon what's left of humanity.{^n}{^n}We have tolerated their movements for too long.
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             What must be done?
         譯文 : >-
             What must be done?
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             Father Kymon demands that one of the cult's higher ranked members be exterminated as the vermin he is. I speak specifically of Bolvar the Bloodbinder.{^n}{^n}This individual is responsible for more sacrifices to Ch'thon than any other cultist in the area. By Kymon's will, hunt him down in the Blood Grove to the north and act out Empyrion's vengeance upon him.
         譯文 : >-
             Father Kymon demands that one of the cult's higher ranked members be exterminated as the vermin he is. I speak specifically of Bolvar the Bloodbinder.{^n}{^n}This individual is responsible for more sacrifices to Ch'thon than any other cultist in the area. By Kymon's will, hunt him down in the 血森林 to the north and act out Empyrion's vengeance upon him.
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             I will slay him.
         譯文 : >-
             I will 殺了him.
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             Find someone else to be your assassin.
         譯文 : >-
             Find someone else to be your assassin.
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             I have already dealt with Bolvar.
         譯文 : >-
             I have already dealt with Bolvar.
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             As if guided by Empyrion Himself, you act before even asked. Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out Kymon's will. Will you be his blade against the Order?
         譯文 : >-
             As if guided by Empyrion Himself, you act before even asked. Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out Kymon's will. Will you be his blade against the Order?
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             Not interested.
         譯文 : >-
             Not interested.
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             I must deal with other matters.
         譯文 : >-
             I must deal with other matters.
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             Do you have the Chthonic Seals?
         譯文 : >-
             Do you have the 冥靈魔印?
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             Are these the Seals you seek?
         譯文 : >-
             Are these the Seals you seek?
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             Good, without these the cult's rituals will suffer and their foul implements will burn in righteous fire.{^n}{^n}You have proven yourself, initiate. Are you prepared to fight in Kymon's name?
         譯文 : >-
             Good, without these the cult's rituals will suffer and their foul implements will burn in righteous fire.{^n}{^n}You have proven yourself, initiate. Are you prepared to fight in Kymon's name?
 #-------------------------------#
     68 :
-        標註 : 
         原文 : >-
             What does Kymon require?
         譯文 : >-
             What does Kymon require?
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             Perhaps later.
         譯文 : >-
             Perhaps later.
 #-------------------------------#
     71 :
-        標註 : 
         原文 : >-
             Do you have the Chthonic Seals?
         譯文 : >-
             Do you have the 冥靈魔印?
 #-------------------------------#
     72 :
-        標註 : 
         原文 : >-
             Where should I be looking?
         譯文 : >-
             Where should I be looking?
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             The Cult of Ch'thon uses the Seals for their summoning rituals. The more powerful the member, the more likely they are to carry one.{^n}{^n}Hunt down the cultists around the Blood Grove and beyond, then return to me with the Seals.
         譯文 : >-
             The Cult of Ch'thon uses the Seals for their summoning rituals. The more powerful the member, the more likely they are to carry one.{^n}{^n}Hunt down the cultists around the 血森林 and beyond, then return to me with the Seals.
 #-------------------------------#
     74 :
-        標註 : 
         原文 : >-
             It will be done.
         譯文 : >-
             It will be done.
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             Not yet.
 #-------------------------------#
     76 :
-        標註 : 
         原文 : >-
             If you wish to prove yourself to the Chosen of Kymon, then first I require proof of your purity of spirit.{^n}{^n}Show us that you are not aligned with the forces of the Void.
         譯文 : >-
             If you wish to prove yourself to the Chosen of Kymon, then first I require proof of your purity of spirit.{^n}{^n}Show us that you are not aligned with the forces of the Void.
 #-------------------------------#
     77 :
-        標註 : 
         原文 : >-
             What must I do?
         譯文 : >-
             What must I do?
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             The vile Cult of Ch'thon has long been an agent of corruption and chaos within Cairn, but their activities since the Grim Dawn are reaching catastrophic levels.{^n}{^n}Even now they summon creatures from the Void using their heathen blood rituals. These rituals must be stopped at any cost. The cultists are known to use special Seals of Binding when practicing their art. Their most powerful members often carry them on their person.If you truly are interested in Father Kymon's mission, then you must recover these Seals and bring them to me so that they can be incinerated in Empyrion's fire.
         譯文 : >-
             The vile Cult of Ch'thon has long been an agent of corruption and chaos within Cairn, but their activities since 恐怖黎明 are reaching catastrophic levels.{^n}{^n}Even now they summon creatures from the Void using their heathen blood rituals. These rituals must be stopped at any cost. The cultists are known to use special Seals of Binding when practicing their art. Their most powerful members often carry them on their person.If you truly are interested in Father Kymon's mission, then you must recover these Seals and bring them to me so that they can be incinerated in Empyrion's fire.
 #-------------------------------#
     79 :
-        標註 : 
         原文 : >-
             I will gather the Seals.
         譯文 : >-
             I will gather the Seals.
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             Find someone else.
         譯文 : >-
             Find someone else.
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             Are these the seals?
         譯文 : >-
             Are these the seals?
 #-------------------------------#
     83 :
-        標註 : 
         原文 : >-
             Empyrion's fire?
         譯文 : >-
             Empyrion's fire?
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             Yes, the sacred flame of Empyrion, the Light of the World.{^n}{^n}Empyrion, the first of the gods and protector of Cairn has returned to us in our darkest hour. His will is made known to us through Father Kymon, our prophet.
         譯文 : >-
             Yes, the sacred flame of Empyrion, the Light of the World.{^n}{^n}Empyrion, the first of the gods and protector of Cairn has returned to us in our darkest hour. His will is made known to us through Father Kymon, our prophet.
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             I will gather the Seals.
         譯文 : >-
             I will gather the Seals.
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             Find someone else.
         譯文 : >-
             Find someone else.
 #-------------------------------#
     88 :
-        標註 : 
         原文 : >-
             I will return later to discuss this.
         譯文 : >-
             I will return later to discuss this.
 #-------------------------------#
     89 :
-        標註 : 
         原文 : >-
             You are the one the Legion sent?{^n}{^n}You are later than I've expected.
         譯文 : >-
             You are the one the Legion sent?{^n}{^n}You are later than I've expected.
 #-------------------------------#
     90 :
-        標註 : 
         原文 : >-
             You wanted to speak with me?
         譯文 : >-
             You wanted to speak with me?
 #-------------------------------#
     92 :
-        標註 : 
         原文 : >-
             May the Light of Empyrion guide your path.
         譯文 : >-
             May the Light of Empyrion guide your path.
 #-------------------------------#
     93 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

@@ -1,57 +1,49 @@
-bq_bl09.txt : 
+bq_bl09.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Sicrix
         譯文 : >-
             賞金：Sicrix
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as Sicrix has evaded the Legion hunters, but they have tracked it down into the highly dangerous Mountain Deeps. Additional reinforcements are requested to taken down the critter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as Sicrix has evaded the Legion hunters, but they have tracked it down into the highly dangerous Mountain Deeps. Additional reinforcements are requested to taken down the critter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Sicrix
         譯文 : >-
             Slay Sicrix
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了Black Legion的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-

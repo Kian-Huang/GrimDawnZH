@@ -1,197 +1,169 @@
-npc_jailor_01.txt : 
+npc_jailor_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Hangman Jarvis
         譯文 : >-
             劊子手·賈維斯
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             You may have the whole damn place fooled, but I won't fall to your slith tongue, 'Taken'.
         譯文 : >-
             你或許把他孃的這裡的人都騙倒了，可我是不會相信你那條蛇人一樣的舌頭的，“被佔據者”。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             What is your problem with me?
         譯文 : >-
             你到底為什麼跟我過不去？
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             My problem? My problem is that you're standing right there instead of burning up in the pile of 'Taken' corpses,{^n}{^n}Now I don't know what game you're playing here, but you're bound to slip up. You can be sure I'll be watching.{^n}{^n}Off with you.
         譯文 : >-
             我跟你過不去？因為你現在站在這兒而沒有和那一堆“被佔據者”的屍體一起被燒成灰。{^n}{^n}我不知道你在玩什麼把戲，但是你一定會露出馬腳的。我一定會盯著的。{^n}{^n}盯著你這個傢伙。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Fine. I'm going.
         譯文 : >-
             好吧，我走了。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             I think I'll be going.
         譯文 : >-
             我想我該上路了。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Killed the Warden, eh? So one bastard killed another. Makes little difference when one survived.
         譯文 : >-
             殺了典獄長，對麼？這叫一個混球殺了另外一個，剩下一個還活著也沒多大區別。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             You can't be serious.
         譯文 : >-
             你一定是在逗我。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Just keeping my good eye on the time bomb in our midst. Go about your way, 'Taken'.
         譯文 : >-
             我得好好盯著我們這幫人裡面的定時炸彈，好好走你的路，“被佔據者”。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Fine then.
         譯文 : >-
             好吧。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Um, right. I'll be going now.
         譯文 : >-
             額，好的。我這就走。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             So Bourbon let you stay? Bah! Man is far too trusting. You'll slip eventually. Don't be going far. My noose is lonely.
         譯文 : >-
             波旁讓你留下了？呸！他怎麼這麼容易就相信別人，你小子早晚要變異的。別跑遠了，我這絞索可正閒得發慌呢。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Alright then.
         譯文 : >-
             好吧。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             So you've cleared out Burial Hill? Didn't just tell your 'Taken' brothers to flee? Heh.{^n}{^n}Best let the Captain know. He could use some good news.
         譯文 : >-
             你掃蕩完了殮葬山？你是不是叫你那些“被佔據者”兄弟們逃走了？呵呵！{^n}{^n}最好讓隊長知道這事，他就能利用一下這個好消息了。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             I will speak to the Captain.
         譯文 : >-
             我會和隊長談談的。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             The Captain says you're alright, but I've seen what the 'Taken' are capable of. I've got my eye on you.
         譯文 : >-
             隊長說你沒問題，不過我知道“被佔據者”是什麼德行。我要好好看著你。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Very well then.
         譯文 : >-
             沒問題。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             What're you standing around here for? If you're not gonna make yourself useful, we may as well get another noose ready. {^n}{^n}No sense in keeping around another mouth to feed.
         譯文 : >-
             你在這兒瞎轉什麼？如果你不能讓自己變得有用，絞索就是給你準備的。{^n}{^n}沒必要再多養一張吃飯的嘴。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Who am I supposed to talk to again?
         譯文 : >-
             我該去和誰談談呢？
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             You slow or something? Captain Bourbon is up the road, by the stone bridge. Now move!
         譯文 : >-
             你是走得慢還是怎麼回事？波旁隊長就在石橋那裡的路邊。趕緊去！
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             I'm on my way.
         譯文 : >-
             我這就走。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Still drawing breath, I see. You're one lucky bastard, I'll give you that. Best go speak to Captain Bourbon right away. He seems to have a plan for you now that we've spared your life.
         譯文 : >-
             我看見了，還有氣兒。我得承認，你是個幸運的混蛋。你最好趕緊去找波旁隊長，看起來他留你一條命是著有長遠的打算。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             I don't... what's going on? Where am I?
         譯文 : >-
             我不記得……發生了什麼事？我在哪兒？
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             Welcome to Devil's Crossing, possibly the last refuge of humanity. {^n}{^n}You were possessed, so we strung you up as we do with all Aetherial 'Taken'. Seems the spirit fled your body before your life ran out. {^n}{^n}I'd have left you to hang but the Captain had other plans. He sees some purpose in you and I'm not going to argue.
         譯文 : >-
             歡迎來到惡魔十字，這兒可能是人類最後的避難所了。{^n}{^n}你被佔據了，所以我們就把你捆了起來，就像對待所有被虛靈侵佔的人一樣。看起來在你小命玩完之前，虛靈離開了你的身體。{^n}{^n}我本來是想絞死你的，不過波旁隊長似乎另有打算。他看你有些用處，我不準備跟他爭這個。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Where can I find this Captain then?
         譯文 : >-
             我去哪裡找波旁隊長？
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             He's up the road, in the courtyard, probably coordinating our defenses against the Dead. Don't make me regret cutting you down.
         譯文 : >-
             他就站在這條路的前面的庭院那裡，可能在調整我們對死屍的佈防。別讓我後悔割斷繩子救下你這條小命。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             I'll be on my way then.
         譯文 : >-
             我這就走。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             It can wait.
         譯文 : >-

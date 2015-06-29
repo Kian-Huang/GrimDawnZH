@@ -1,57 +1,49 @@
-bq_bl25.txt : 
+bq_bl25.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: The Bloodlord
         譯文 : >-
             賞金：血領主
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}One of the Cult's leaders has finally shown himself at the Necropolis. Bloodlord Thalonis is part of the elite actively trying to resurrect a Chthonian demigod. We cannot allow this to happen. Bloodlord Thalonis must be stopped at all costs. The Legion calls to all of its able-bodied allies to assist in this matter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             軍團要你幫助解決一個高優先級的目標。{^n}{^n}一個邪教徒的領導者終於在古代墓地現身了。血領主·泰隆尼斯積極地參與著復活一個冥靈半身的行動。我們絕不能讓他們得逞。必須不惜一切代價阻止血領主·泰隆尼斯。軍團召喚所有的盟友來協助這場行動。{^n}{^n}任何的幫助都將得到材料作為獎賞。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Bloodlord Thalonis
         譯文 : >-
             殺了血領主·泰隆尼斯
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了黑色軍團的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-

@@ -1,99 +1,85 @@
-sq_lost_caravan.txt : 
+sq_lost_caravan.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Devil's Crossing
         譯文 : >-
             惡魔十字
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             The Lost Caravan
         譯文 : >-
             迷失的商隊
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Found Caravan
         譯文 : >-
             找到商隊
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You happened upon a wrecked caravan along the road near the Foggy Bank. Though there are signs of a fight, no driver can be seen. {^n}{^n}Slith tracks and blood can be seen leading deeper into the swamp. Perhaps the driver yet lives. Check the Slith camps around the Foggy Bank for the unfortunate traveler.
         譯文 : >-
             你在迷霧河畔發現了一輛損壞的大篷車。儘管有打鬥的跡象，但是找不到駕駛者。{^n}{^n}蛇人的足跡還有血跡指向了沼澤的深處。可能駕駛者還活著。查看迷霧河畔的蛇人營地來尋找那個不幸的旅行者。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Search for the Caravan Driver at the Slith Camps along Burrwitch Road
         譯文 : >-
             在去往伯爾維治路旁的蛇人營地中尋找貨車的駕駛者
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Speak to Caravan Driver
         譯文 : >-
             和貨車的駕駛者交談
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Luther Graves is badly injured, trapped inside of a Slith cage along the Foggy Bank. Judging from the human corpses around him, he was the lucky one. {^n}{^n}Speak to him and find out what happened.
         譯文 : >-
             盧瑟·格雷夫斯傷的很重，被關在迷霧河畔的蛇人營地裡。從他附近的人類屍骨來看，他很幸運。{^n}{^n}跟他談談，瞭解發生了什麼事。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Speak to the captured Caravan Driver
         譯文 : >-
             和被囚禁的貨車駕駛者交談
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Portal Luther Graves to Safety (Backup for old characters, should no longer be applicable)
         譯文 : >-
             把盧瑟·格雷夫斯傳送到安全的地方(舊版人物備份)
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Luther Graves is badly injured, trapped inside of a Slith cage along the Foggy Bank. Judging from the human corpses around him, he was the lucky one. {^n}{^n}Speak to him and find out what happened.
         譯文 : >-
             盧瑟·格雷夫斯傷的很重，被關在迷霧河畔的蛇人營地裡。從他附近的人類屍骨來看，他很幸運。{^n}{^n}跟他談談，瞭解發生了什麼事。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Speak to the captured Caravan Driver
         譯文 : >-
             和被囚禁的貨車駕駛者交談
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Check on Luther Graves in DC
         譯文 : >-
             問候惡魔十字的盧瑟·格雷夫斯
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Luther Graves should be safe back in Devil's Crossing. {^n}{^n}Speak to him to see how he is faring.
         譯文 : >-
             盧瑟·格雷夫斯應該安全地返回了惡魔十字。{^n}{^n}跟他談談他的境遇如何。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Speak to Luther Graves at Devil's Crossing
         譯文 : >-

@@ -1,127 +1,109 @@
-npc_outlawdefector02.txt : 
+npc_outlawdefector02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Frankie "The Knife"
         譯文 : >-
             “刀子” 弗蘭基
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Hope you make that madman suffer for all he's done.{^n}{^n}We're getting out of here as soon as the coast is clear.
         譯文 : >-
             希望你能讓那個瘋子自作自受。{^n}{^n}你放了我們的話，我們立刻就走。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Get moving.
         譯文 : >-
             我要走了。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Hold on, hold on! We're on your side!{^n}{^n}Don't kill us.
         譯文 : >-
             等等，等一下！我和你們立場一致！{^n}{^n}別殺我們。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             My side? Why are you in a cage?
         譯文 : >-
             和我們？你為什麼會在籠子裡？
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             The stuff going on out here? That's nothing compared to what's in the mine. Cronley's building himself an army of "ascended" and we want nothing to do with it.{^n}{^n}Course, he don't take too kindly to people leaving his little cult. Got caught trying to leave. Now we're awaiting our turn with the Pitmaster. He tears people apart like an animal. I don't want to be here when he gets bored with the guts splattering the arena walls.{^n}{^n}You let us go, we won't cause no trouble no more. That's a promise.
         譯文 : >-
             這裡發生的事情和礦井裡面的事相比可不是一個級別的。克隆利在為他自己建立一支“超凡”的軍隊，我們跟這事可沒有任何關係。{^n}{^n}因為，克隆利對逃離他的狂熱信仰的人可不會心慈手軟。我逃走的時候被抓住了。現在我們等著被礦主解決呢，他殺人就像殺牲口一樣輕鬆。我可不想等他在那個血肉橫飛的競技場玩煩了還被關在這裡。{^n}{^n}你放我們走，我們保證不再作惡。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             You're outlaws. Why should I spare you?
         譯文 : >-
             你們是匪徒，為什麼我要放了你們？
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Look, um, Cronley's gone off the deep end, crazy with power from those...those green crystals.{^n}{^n}I've seen what he does with his inner circle. Takes them to a secret room where he plunges shards into their flesh. That's when I was sure I wanted outta this gig.{^n}{^n}I get it. You're here to end it. You're one of them good people. But I can help you. Let us go and I'll tell you where he hides the big crystal. Then you can end this madness for good.
         譯文 : >-
             聽著，克隆利已經泥足深陷了，他為了那些……綠色的水晶而瘋狂。{^n}{^n}我看見過他怎麼對待他的親信的。他把他們帶到一個隱祕的房間裡，然後把水晶碎片直接插在他們身上。那時我確信這個龍套角色我不能再演下去了。{^n}{^n}我懂了，你是來結束這一切的人。你是一位好人，我可以幫助你的。放我們走，我就告訴你他把大塊的水晶藏在了哪兒。然後你就能終結這瘋狂的一切了。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             I don't care, you're still a criminal. (Attack)
         譯文 : >-
             我不管，你還是個罪犯。(攻擊)
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             I'll give you a clean kill. (Attack)
         譯文 : >-
             我會給你一個痛快的。(攻擊)
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             You're outlaws. Why should I spare you?
         譯文 : >-
             你們是匪徒，為什麼我要放了你們？
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Look, um, we don't want nothing to do with Cronley no more. Guy's gone off the deep end, crazy with power from those...those green crystals.{^n}{^n}I've seen what he does with his inner circle. Takes them to a secret room where he plunges shards into their flesh. That's when I was sure I wanted outta this gig.{^n}{^n}I get it. You're here to end it. You're one of them good people. But I can help you. Let us go and I'll tell you where he hides the big crystal. Then you can end this madness for good.
         譯文 : >-
             聽著，我們不想在跟克隆利有什麼關係了。那傢伙陷得太深了，他為了那些……那些水晶的力量已經發瘋了。{^n}{^n}我看見過他怎麼對待他的親信的。他把他們帶到一個隱祕的房間裡，然後把水晶碎片直接插在他們身上。那時我確信這個龍套角色我不能再演下去了。{^n}{^n}我懂了，你是來結束這一切的人。你是一位好人，我可以幫助你的。放我們走，我就告訴你他把大塊的水晶藏在了哪兒。然後你就能終結這瘋狂的一切了。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Alright, I'm listening.
         譯文 : >-
             好吧，我在聽著呢。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             There I thought you were gonna kill us. Alright, so Cronley don't leave the mine much no more. He's too busy creating more of his "ascended".{^n}{^n}You're gonna have to get through them before you even see his ugly mug. But if you somehow survive, check behind Cronley's bed. There's a gap in the wall that leads to his little hideout.{^n}{^n}That's where Cronley does all his twisted experiments. Wreck the place and nobody's gonna think twice about using those crystals again.
         譯文 : >-
             我還以為你要殺了我們。克隆利不再管什麼礦井了，他忙著製造他那支“超凡”的軍隊。{^n}{^n}你得戰勝他們之後才能見到克隆利的那張醜臉。如果你要是活下來了，去克隆利的床後面看看，那兒的牆上會有處通向他隱祕房間的缺口。{^n}{^n}那是就是克隆利進行他那些扭曲實驗的地方。毀掉那裡，這樣就沒有人再會去使用那些水晶了。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Thanks, now get out of here.
         譯文 : >-
             謝謝，趕緊滾吧。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Perfect, after I'm done with you, I'll deal with Cronley. (Attack)
         譯文 : >-
             很好，幹掉你之後，就輪到克隆利了。(攻擊)
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I don't care, you're still a criminal. (Attack)
         譯文 : >-
             我不管，你還是個罪犯。(攻擊)
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Death to all outlaws! (Attack them)
         譯文 : >-

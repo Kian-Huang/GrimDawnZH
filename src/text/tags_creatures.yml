@@ -1,5594 +1,5095 @@
-tags_creatures.txt : 
+tags_creatures.txt :
 
 #-------------------------------#
+    0 :
+        原文 : >-
+            #CreatureAllSurvivors
+        譯文 : >-
+            #CreatureAllSurvivors
+#-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             tagSurvivorGuardGenericRangedA01=Survivor ~ Scout
         譯文 : >-
             tagSurvivorGuardGenericRangedA01=倖存者 ~ 偵察兵
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             tagSurvivorGuardGenericRangedB01=Survivor ~ Skirmisher
         譯文 : >-
             tagSurvivorGuardGenericRangedB01=倖存者 ~ 遊擊兵
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             tagSurvivorGuardGenericMeleeA01=Survivor ~ Defender
         譯文 : >-
             tagSurvivorGuardGenericMeleeA01=倖存者 ~ 防禦者
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             tagSurvivorGuardGenericMeleeB01=Survivor ~ Guardian
         譯文 : >-
             tagSurvivorGuardGenericMeleeB01=倖存者 ~ 守衛
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             tagHumanRover_GuardGeneric_MeleeA01=Rover Enforcer
         譯文 : >-
             tagHumanRover_GuardGeneric_MeleeA01=流浪強制者
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             tagBlackLegion_GuardMeleeA01=Black Legion ~ Footman
         譯文 : >-
             tagBlackLegion_GuardMeleeA01=黑色軍團 ~ 步兵
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             tagBlackLegion_GuardRangedA01=Black Legion ~ Marksman
         譯文 : >-
             tagBlackLegion_GuardRangedA01=黑色軍團 ~ 射手
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             tagBlackLegion_MeleeA01=Black Legion ~ Myrmidon
         譯文 : >-
             tagBlackLegion_MeleeA01=黑色軍團 ~ 近衛
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             tagBlackLegion_MeleeB01=Black Legion ~ Vanguard
         譯文 : >-
             tagBlackLegion_MeleeB01=黑色軍團 ~ 先鋒
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             tagBlackLegion_RangedA01=Black Legion ~ Deathmark
         譯文 : >-
             tagBlackLegion_RangedA01=黑色軍團 ~ 死亡印記
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             tagBlackLegion_CasterB01=Black Legion ~ Battlemage
         譯文 : >-
             tagBlackLegion_CasterB01=黑色軍團 ~ 戰法師
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             tagBlackLegion_CasterB02=Black Legion ~ Combat Medic
         譯文 : >-
             tagBlackLegion_CasterB02=黑色軍團 ~ 軍醫
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             tagBlackLegion_ChampionC01=Black Legion ~ Captain
         譯文 : >-
             tagBlackLegion_ChampionC01=黑色軍團 ~ 指揮官
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             tagNecromancer_CasterA01=Death's Vigil ~ Neophyte
         譯文 : >-
             tagNecromancer_CasterA01=死亡守夜人 ~ 初階信徒
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             tagNecromancer_MeleeA01=Death's Vigil ~ Neophyte
         譯文 : >-
             tagNecromancer_MeleeA01=死亡守夜人 ~ 初階信徒
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             tagNecromancer_CasterB01=Death's Vigil ~ Acolyte
         譯文 : >-
             tagNecromancer_CasterB01=死亡守夜人 ~ 侍僧
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             tagNecromancer_ChampionC01=Death's Vigil ~ Dreadlord
         譯文 : >-
             tagNecromancer_ChampionC01=死亡守夜人 ~ 恐懼領主
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             tagNecromancerH01=Urokoraa, Speaker for the Dead
         譯文 : >-
             tagNecromancerH01=亡者代言人 尤若克拉
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             tagNecromancerH02=Nokultaak, the Reaper
         譯文 : >-
             tagNecromancerH02=死神 諾酷塔克
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             tagNecromancerH03=Naakala ~ Regenerator
         譯文 : >-
             tagNecromancerH03=納卡拉 ~ 回覆者
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             tagNecromancerH04=Misonaak ~ Shielded
         譯文 : >-
             tagNecromancerH04=米索納克 ~ 護盾
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             tagNecromancer_Boss01=Master Ravok, the Death's Whisper
         譯文 : >-
             tagNecromancer_Boss01=死亡暗語者 拉沃克大師
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             tagNecromancer_Boss02=Malkadarr, Champion of Death's Vigil
         譯文 : >-
             tagNecromancer_Boss02=死亡守夜人勇士 馬卡達
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             tagZealot_MeleeA01=Kymon's Chosen ~ Zealot
         譯文 : >-
             tagZealot_MeleeA01=凱蒙的神選戰士 ~ 狂戰士
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             tagZealot_RangedA01=Kymon's Chosen ~ Zealot
         譯文 : >-
             tagZealot_RangedA01=凱蒙的神選戰士 ~ 狂戰士
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             tagZealot_CasterB01=Kymon's Chosen ~ Stormbearer
         譯文 : >-
             tagZealot_CasterB01=凱蒙的神選戰士 ~ 馭雷者
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             tagZealot_ChampionC01=Kymon's Chosen ~ Blade Maiden
         譯文 : >-
             tagZealot_ChampionC01=凱蒙的神選戰士 ~ 劍姬
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             tagZealotH01=Sister Oseltia, the Storm Maiden
         譯文 : >-
             tagZealotH01=暴風少女 奧賽蒂亞姐妹
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             tagZealotH02=Brother Baldris, Charge of Empyrion
         譯文 : >-
-            tagZealotH02=至高神使 鮑德里斯兄弟 
+            tagZealotH02=至高神使 鮑德里斯兄弟
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             tagZealotH03=Sister Thandria ~ Defender
         譯文 : >-
             tagZealotH03=山德莉亞姐妹 ~ 防禦者
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             tagZealotH04=Brother Handrick ~ Burning
         譯文 : >-
             tagZealotH04=漢德瑞克兄弟 ~ 燃燒
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             tagZealot_Boss01=Sister Bravna, the Skybreaker
         譯文 : >-
-            tagZealot_Boss01=裂天者 布拉夫娜姐妹 
+            tagZealot_Boss01=裂天者 布拉夫娜姐妹
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             tagZealot_Boss02=Sharanatu, Harbinger of the Void
         譯文 : >-
             tagZealot_Boss02=虛空使者 莎拉那圖
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             tagZealot_AncestralSpirit=Archon Barthollem
         譯文 : >-
             tagZealot_AncestralSpirit=執政官 巴託雷姆
 #-------------------------------#
+    42 :
+        原文 : >-
+            #CreatureAetherial
+        譯文 : >-
+            #CreatureAetherial
+#-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             tagAetherCrystalA01=Aether Crystal
         譯文 : >-
             tagAetherCrystalA01=虛化水晶
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             tagAetherCrystalA02=Aether Crystal Cluster
         譯文 : >-
             tagAetherCrystalA02=虛化水晶集簇
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             tagAetherCrystalA03=Aether Crystal Formation
         譯文 : >-
             tagAetherCrystalA03=虛化水晶體
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             tagAnomalyB01=Warp Elemental
         譯文 : >-
             tagAnomalyB01=扭曲元素
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             tagWindDevil_PoisonA01=Poison Wind Devil
         譯文 : >-
             tagWindDevil_PoisonA01=毒風惡魔
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             tagAetherObeliskA01=Aetherial Obelisk
         譯文 : >-
             tagAetherObeliskA01=虛靈方尖碑
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             tagAetherObeliskB01=Aetherial Terraformer
         譯文 : >-
             tagAetherObeliskB01=虛靈大地塑型者
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             tagBossAetherObelisk01=Herald of the Flame
         譯文 : >-
             tagBossAetherObelisk01=烈焰使者
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             tagBossAetherObelisk02=Herald of Destruction
         譯文 : >-
             tagBossAetherObelisk02=毀滅使者
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             tagEnemyAetherialA01=Aetherial Watcher
         譯文 : >-
             tagEnemyAetherialA01=虛靈看守
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             tagEnemyAetherialB01=Aetherial Wraith
         譯文 : >-
             tagEnemyAetherialB01=虛靈幻影
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             tagEnemyAetherialC01=Aetherial Spectre
         譯文 : >-
             tagEnemyAetherialC01=虛靈幽魂
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             tagAetherialHeroH01=Azar, the Wrathful
         譯文 : >-
             tagAetherialHeroH01=憤怒的阿扎爾
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             tagAetherialHeroH02=Mondrak, the Everburning
         譯文 : >-
             tagAetherialHeroH02=永恆燃燒的蒙德拉克
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             tagAetherialHeroH03=Intesius
         譯文 : >-
             tagAetherialHeroH03=英特希爾斯
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             tagEnemyAetherialAbominationB01=Aetherial Abomination
         譯文 : >-
             tagEnemyAetherialAbominationB01=虛靈惡煞
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             tagEnemyAetherialAbominationC01=Fused Terror
         譯文 : >-
             tagEnemyAetherialAbominationC01=熔岩恐獸
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             tagAetherialAbominationBoss01=The Amalgamation
         譯文 : >-
             tagAetherialAbominationBoss01=混元體
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             tagAetherialCommanderBoss01=Commander Lucius
         譯文 : >-
             tagAetherialCommanderBoss01=指揮官盧修斯
 #-------------------------------#
+    69 :
+        原文 : >-
+            #CreatureBoar
+        譯文 : >-
+            #CreatureBoar
+#-------------------------------#
     71 :
-        標註 : 
         原文 : >-
             tagEnemyBoarA01=Stonetusk
         譯文 : >-
             tagEnemyBoarA01=石牙野豬
 #-------------------------------#
     72 :
-        標註 : 
         原文 : >-
             tagEnemyBoarA02=Gargantuan Stonetusk
         譯文 : >-
             tagEnemyBoarA02=巨型石牙野豬
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             tagEnemyBoarB01=Ironhide Stonetusk
         譯文 : >-
             tagEnemyBoarB01=硬皮石牙野豬
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             tagBoarHeroH01=Dreadtusk, the Hunter's Bane
         譯文 : >-
             tagBoarHeroH01=獵人夢魘 恐怖獠牙
 #-------------------------------#
     76 :
-        標註 : 
         原文 : >-
             tagBoarHeroH02=Ragesnout ~ Swift
         譯文 : >-
             tagBoarHeroH02=怒目 ~ 迅捷
 #-------------------------------#
     77 :
-        標註 : 
         原文 : >-
             tagBoarHeroH03=Hellmane ~ Burning
         譯文 : >-
             tagBoarHeroH03=地獄鬃毛 ~ 燃燒
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             tagBoarHeroH04=Rotmane ~ Diseased
         譯文 : >-
             tagBoarHeroH04=腐壞鬃毛 ~ 疾病
 #-------------------------------#
     79 :
-        標註 : 
         原文 : >-
             tagBoarHeroH05=Aetherean ~ Corrupted
         譯文 : >-
             tagBoarHeroH05=虛化之裔 ~ 腐化
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             tagBoarHeroH06=Riftsnout ~ Voidtouched
         譯文 : >-
             tagBoarHeroH06=裂隙之面 ~ 虛空之觸
 #-------------------------------#
+    83 :
+        原文 : >-
+            #CreatureBoneRat
+        譯文 : >-
+            #CreatureBoneRat 骨背鼠
+#-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             tagEnemyBoneRatMeleeA01=Boneback Gnasher
         譯文 : >-
             tagEnemyBoneRatMeleeA01=骨背齧咬者
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             tagEnemyBoneRatRangedA01=Boneback
         譯文 : >-
             tagEnemyBoneRatRangedA01=骨背鼠
 #-------------------------------#
     88 :
-        標註 : 
         原文 : >-
             tagEnemyBoneRatMeleeB01=Rabid Boneback
         譯文 : >-
             tagEnemyBoneRatMeleeB01=狂暴骨背鼠
 #-------------------------------#
     89 :
-        標註 : 
         原文 : >-
             tagEnemyBoneRatMeleeB02=Boneback Plaguebearer
         譯文 : >-
             tagEnemyBoneRatMeleeB02=骨背瘟疫散佈者
 #-------------------------------#
     91 :
-        標註 : 
         原文 : >-
             tagEnemyBoneRatMeleeB02_Summon=Halion's Wittle Rat
         譯文 : >-
             tagEnemyBoneRatMeleeB02_Summon=海里昂白鼠
 #-------------------------------#
     93 :
-        標註 : 
         原文 : >-
             tagBoneRatHeroH01=Maledictus
         譯文 : >-
             tagBoneRatHeroH01=詛咒者
 #-------------------------------#
     94 :
-        標註 : 
         原文 : >-
             tagBoneRatHeroH02=Razorback
         譯文 : >-
             tagBoneRatHeroH02=剃刀背
 #-------------------------------#
     95 :
-        標註 : 
         原文 : >-
             tagBoneRatHeroH03=Rotbite ~ Diseased
         譯文 : >-
             tagBoneRatHeroH03=腐壞之咬 ~ 疾病
 #-------------------------------#
     96 :
-        標註 : 
         原文 : >-
             tagBoneRatHeroH04=Bilewart ~ Swift
         譯文 : >-
             tagBoneRatHeroH04=憤怒之瘤 ~ 迅捷
 #-------------------------------#
     97 :
-        標註 : 
         原文 : >-
             tagBoneRatHeroH05=Rimeclaw ~ Frozen
         譯文 : >-
             tagBoneRatHeroH05=寒霜之爪 ~ 冰凍
 #-------------------------------#
     98 :
-        標註 : 
         原文 : >-
             tagBoneRatHeroH06=Wrathclaw ~ Corrupted
         譯文 : >-
             tagBoneRatHeroH06=暴怒之爪 ~ 腐化
 #-------------------------------#
     100 :
-        標註 : 
         原文 : >-
             tagBoneRatMiniBoss01=Grundleplith the Hoarder
         譯文 : >-
             tagBoneRatMiniBoss01=貯藏者 格蘭德佩里斯
 #-------------------------------#
     101 :
-        標註 : 
         原文 : >-
             tagBoneRatMiniBoss02=Pusquill the Hoarder
         譯文 : >-
             tagBoneRatMiniBoss02=貯藏者 普斯貴爾
 #-------------------------------#
+    103 :
+        原文 : >-
+            #CreatureCelestial
+        譯文 : >-
+            #CreatureCelestial 天神
+#-------------------------------#
     105 :
-        標註 : 
         原文 : >-
             tagEnemyCelestial_QuestA01=Celestial Thing
         譯文 : >-
             tagEnemyCelestial_QuestA01=Celestial Thing
 #-------------------------------#
+    108 :
+        原文 : >-
+            #CreatureChthonian
+        譯文 : >-
+            #CreatureChthonian 冥靈
+#-------------------------------#
     110 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianAbomination=Chthonian Unraveler
         譯文 : >-
             tagEnemyChthonianAbomination=冥靈拆解者
 #-------------------------------#
     112 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianMinionA01=Chthonian Harbinger
         譯文 : >-
             tagEnemyChthonianMinionA01=冥靈先鋒
 #-------------------------------#
     113 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianMinionB01=Chthonian Bloodletter
         譯文 : >-
             tagEnemyChthonianMinionB01=冥靈放血者
 #-------------------------------#
     114 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianMinionC01=Chthonian Blightbringer
         譯文 : >-
             tagEnemyChthonianMinionC01=冥靈凋零使者
 #-------------------------------#
     116 :
-        標註 : 
         原文 : >-
             tagChthonianMinionHeroH01=Charn'Daroth
         譯文 : >-
             tagChthonianMinionHeroH01=恰恩·達若斯
 #-------------------------------#
     117 :
-        標註 : 
         原文 : >-
             tagChthonianMinionHeroH02=Elnar'Daroth
         譯文 : >-
             tagChthonianMinionHeroH02=埃爾納·達若斯
 #-------------------------------#
     118 :
-        標註 : 
         原文 : >-
             tagChthonianMinionHeroH03=Fos'Daroth
         譯文 : >-
             tagChthonianMinionHeroH03=福斯·達若斯
 #-------------------------------#
     119 :
-        標註 : 
         原文 : >-
             tagChthonianMinionHeroH04=Ordran'Daroth
         譯文 : >-
             tagChthonianMinionHeroH04=奧爾杜安·達若斯
 #-------------------------------#
     120 :
-        標註 : 
         原文 : >-
             tagChthonianMinionHeroH05=Pulv'Daroth
         譯文 : >-
             tagChthonianMinionHeroH05=帕爾夫·達若斯
 #-------------------------------#
     121 :
-        標註 : 
         原文 : >-
             tagChthonianMinionHeroH06=Maga'Lugal ~ Defender
         譯文 : >-
             tagChthonianMinionHeroH06=瑪戈·盧加爾 ~ 防禦者
 #-------------------------------#
     122 :
-        標註 : 
         原文 : >-
             tagChthonianMinionHeroH07=Sharanatu ~ Shielded
         譯文 : >-
             tagChthonianMinionHeroH07=沙拉那圖 ~ 護盾
 #-------------------------------#
     124 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianDreadguardA01=Chthonian Vanguard
         譯文 : >-
             tagEnemyChthonianDreadguardA01=Chthonian Vanguard
 #-------------------------------#
     125 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianDreadguardB01=Chthonian Dreadguard
         譯文 : >-
             tagEnemyChthonianDreadguardB01=Chthonian Dreadguard
 #-------------------------------#
     126 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianDreadguardC01=Chthonian Tyrant
         譯文 : >-
             tagEnemyChthonianDreadguardC01=Chthonian Tyrant
 #-------------------------------#
     128 :
-        標註 : 
         原文 : >-
             tagChthonianDreadguardHeroH01=Shar'Oruuth
         譯文 : >-
             tagChthonianDreadguardHeroH01=Shar'Oruuth
 #-------------------------------#
     129 :
-        標註 : 
         原文 : >-
             tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
         譯文 : >-
             tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
 #-------------------------------#
     130 :
-        標註 : 
         原文 : >-
             tagChthonianDreadguardHeroH03=Zalyth'Uthax ~Electrified
         譯文 : >-
             tagChthonianDreadguardHeroH03=Zalyth'Uthax ~Electrified
 #-------------------------------#
     131 :
-        標註 : 
         原文 : >-
             tagChthonianDreadguardHeroH04=Jugak'Siin ~ Reflective
         譯文 : >-
             tagChthonianDreadguardHeroH04=Jugak'Siin ~ Reflective
 #-------------------------------#
     132 :
-        標註 : 
         原文 : >-
             tagChthonianDreadguardHeroH05=Sarmaz'Din ~ Frozen
         譯文 : >-
             tagChthonianDreadguardHeroH05=Sarmaz'Din ~ Frozen
 #-------------------------------#
     134 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianLeechA01=Void Parasite
         譯文 : >-
             tagEnemyChthonianLeechA01=Void Parasite
 #-------------------------------#
     135 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianLeechB01=Void Leech
         譯文 : >-
             tagEnemyChthonianLeechB01=Void Leech
 #-------------------------------#
     136 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianLeechB02=Void Souldrinker
         譯文 : >-
             tagEnemyChthonianLeechB02=Void Souldrinker
 #-------------------------------#
     138 :
-        標註 : 
         原文 : >-
             tagChthonianLeechHeroH01=Vom'Anatu
         譯文 : >-
             tagChthonianLeechHeroH01=Vom'Anatu
 #-------------------------------#
     139 :
-        標註 : 
         原文 : >-
             tagChthonianLeechHeroH02=Gawtok'Anatu
         譯文 : >-
             tagChthonianLeechHeroH02=Gawtok'Anatu
 #-------------------------------#
     140 :
-        標註 : 
         原文 : >-
             tagChthonianLeechHeroH03=Ekket'Anatu
         譯文 : >-
             tagChthonianLeechHeroH03=Ekket'Anatu
 #-------------------------------#
     141 :
-        標註 : 
         原文 : >-
             tagChthonianLeechHeroH04=Orudin'Anatu ~ Diseased
         譯文 : >-
             tagChthonianLeechHeroH04=Orudin'Anatu ~ Diseased
 #-------------------------------#
     142 :
-        標註 : 
         原文 : >-
             tagChthonianLeechHeroH05=Yakwa'Anatu ~ Unstoppable
         譯文 : >-
             tagChthonianLeechHeroH05=Yakwa'Anatu ~ Unstoppable
 #-------------------------------#
     144 :
-        標註 : 
         原文 : >-
             tagChthonianBoss01=Lagoth'Ak, Harbinger of Blood
         譯文 : >-
             tagChthonianBoss01=鮮血使者 拉苟扎克
 #-------------------------------#
     145 :
-        標註 : 
         原文 : >-
             tagChthonianBoss02=Shar'Zul, Harbinger of Chaos
         譯文 : >-
             tagChthonianBoss02=混沌使者 沙祖爾
 #-------------------------------#
     146 :
-        標註 : 
         原文 : >-
             tagChthonianBoss03=Bane'Gargol, Guardian of the Gates
         譯文 : >-
             tagChthonianBoss03=Bane'Gargol, Guardian of the Gates
 #-------------------------------#
     147 :
-        標註 : 
         原文 : >-
             tagChthonianBoss04=Balok'Anatu, Bloodfiend
         譯文 : >-
             tagChthonianBoss04=Balok'Anatu, Bloodfiend
 #-------------------------------#
+    149 :
+        原文 : >-
+            #CreatureChthonianFiend
+        譯文 : >-
+            #CreatureChthonianFiend
+#-------------------------------#
     151 :
-        標註 : 
         原文 : >-
             tagEnemyVoidFiendA01=Voidfiend
         譯文 : >-
             tagEnemyVoidFiendA01=虛空惡魔
 #-------------------------------#
     152 :
-        標註 : 
         原文 : >-
             tagEnemyVoidFiendA02=Voidfiend Incinterator
         譯文 : >-
             tagEnemyVoidFiendA02=虛空焚燒者
 #-------------------------------#
     153 :
-        標註 : 
         原文 : >-
             tagEnemyVoidFiendC01=Voidfiend Hellion
         譯文 : >-
             tagEnemyVoidFiendC01=虛空地獄獸
 #-------------------------------#
     155 :
-        標註 : 
         原文 : >-
             tagVoidFiendHeroH01=Innugaru, Terror of the Void
         譯文 : >-
             tagVoidFiendHeroH01=虛空恐懼 因努蓋如
 #-------------------------------#
     156 :
-        標註 : 
         原文 : >-
             tagVoidFiendHeroH02=Hiln'Raz, the Dark Omen
         譯文 : >-
             tagVoidFiendHeroH02=黑暗預兆 海爾恩·拉茲
 #-------------------------------#
     157 :
-        標註 : 
         原文 : >-
             tagVoidFiendHeroH03=Sen'Thel Voidbringer
         譯文 : >-
             tagVoidFiendHeroH03=虛空使者 森·特爾
 #-------------------------------#
     158 :
-        標註 : 
         原文 : >-
             tagVoidFiendHeroH04=Nii'Thel ~ Bruiser
         譯文 : >-
             tagVoidFiendHeroH04=尼·特爾 ~ 壓碎者
 #-------------------------------#
     159 :
-        標註 : 
         原文 : >-
             tagVoidFiendHeroH05=Gurgoth'Siin ~ Burning
         譯文 : >-
             tagVoidFiendHeroH05=古爾哥特·西恩 ~ 燃燒
 #-------------------------------#
     161 :
-        標註 : 
         原文 : >-
             tagVoidFiendBoss01=Ballog'Nath, the Hellfire
         譯文 : >-
             tagVoidFiendBoss01=地獄之火 巴洛格·納斯
 #-------------------------------#
+    164 :
+        原文 : >-
+            #CreatureChthonianDevourer
+        譯文 : >-
+            #CreatureChthonianDevourer
+#-------------------------------#
     166 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianDevourerA00=Chthonian Swarmer
         譯文 : >-
             tagEnemyChthonianDevourerA00=冥靈遊蕩者
 #-------------------------------#
     167 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianDevourerA01=Chthonian Hungerer
         譯文 : >-
             tagEnemyChthonianDevourerA01=冥靈飢餓者
 #-------------------------------#
     168 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianDevourerB01=Chthonian Devourer
         譯文 : >-
             tagEnemyChthonianDevourerB01=冥靈吞噬者
 #-------------------------------#
     169 :
-        標註 : 
         原文 : >-
             tagEnemyChthonianDevourerB02=Chthonian Gorger
         譯文 : >-
             tagEnemyChthonianDevourerB02=冥靈飽食者
 #-------------------------------#
     171 :
-        標註 : 
         原文 : >-
             tagChthonianDevourerHeroH01=Nur'Garu, Jaws of Oblivion
         譯文 : >-
             tagChthonianDevourerHeroH01=湮滅之爪 紐加魯
 #-------------------------------#
     172 :
-        標註 : 
         原文 : >-
             tagChthonianDevourerHeroH02=Sargo'Din, the Hungering Maw
         譯文 : >-
             tagChthonianDevourerHeroH02=飢餓之胃 薩戈丁
 #-------------------------------#
     173 :
-        標註 : 
         原文 : >-
             tagChthonianDevourerHeroH03=Narl'Maash, the Engorged
         譯文 : >-
             tagChthonianDevourerHeroH03=暴食者 納爾·瑪什
 #-------------------------------#
     174 :
-        標註 : 
         原文 : >-
             tagChthonianDevourerHeroH04=Nye'Kazul, the Maw of Fire
         譯文 : >-
-            tagChthonianDevourerHeroH03=烈焰魔口 奈卡祖爾 
+            tagChthonianDevourerHeroH03=烈焰魔口 奈卡祖爾
 #-------------------------------#
     175 :
-        標註 : 
         原文 : >-
             tagChthonianDevourerHeroH05=Waban'Ak, the Sparkmaw
         譯文 : >-
             tagChthonianDevourerHeroH04=火花巨口 沃班納
 #-------------------------------#
     177 :
-        標註 : 
         原文 : >-
             tagChthonianDevourerBossB01=Rag'Nadar, the Great Maw
         譯文 : >-
             tagChthonianDevourerBossB01=巨胃 拉格·納達
 #-------------------------------#
+    180 :
+        原文 : >-
+            #CreatureDranghoul
+        譯文 : >-
+            #CreatureDranghoul 咆哮巨獸
+#-------------------------------#
     182 :
-        標註 : 
         原文 : >-
             tagEnemyDrangoulWarriorA01=Dranghoul Enforcer
         譯文 : >-
             tagEnemyDrangoulWarriorA01=咆哮巨獸 執行者
 #-------------------------------#
     183 :
-        標註 : 
         原文 : >-
             tagEnemyDrangoulWarriorB01=Dranghoul Tyrant
         譯文 : >-
             tagEnemyDrangoulWarriorB01=咆哮巨獸 暴君
 #-------------------------------#
     185 :
-        標註 : 
         原文 : >-
             tagDranghoulMiniBoss01=Gutworm, the Maneater
         譯文 : >-
             tagDranghoulMiniBoss01=食人者 格特沃姆
 #-------------------------------#
     186 :
-        標註 : 
         原文 : >-
             tagDranghoulMiniBoss02=Bloodfeast the Ruthless
         譯文 : >-
             tagDranghoulMiniBoss02=血之盛宴 殘忍巨獸
 #-------------------------------#
     188 :
-        標註 : 
         原文 : >-
             tagDranghoulHeroH01=Ralture, the Untouchable
         譯文 : >-
             tagDranghoulHeroH01=無影無形的拉爾切
 #-------------------------------#
     189 :
-        標註 : 
         原文 : >-
             tagDranghoulHeroH02=Rugaru, the Houndmaster
         譯文 : >-
             tagDranghoulHeroH02=馴犬師 魯迦魯
 #-------------------------------#
     190 :
-        標註 : 
         原文 : >-
             tagDranghoulHeroH03=Ooglar ~ Unstoppable
         譯文 : >-
             tagDranghoulHeroH03=奧格拉 ~ 免疫控制
 #-------------------------------#
     191 :
-        標註 : 
         原文 : >-
             tagDranghoulHeroH04=Reeve ~ Burning
         譯文 : >-
             tagDranghoulHeroH04=裡夫 ~ 燃燒
 #-------------------------------#
     192 :
-        標註 : 
         原文 : >-
             tagDranghoulHeroH05=Wovaar ~ Frozen
         譯文 : >-
             tagDranghoulHeroH05=沃瓦爾 ~ 冰凍
 #-------------------------------#
     193 :
-        標註 : 
         原文 : >-
             tagDranghoulHeroH06=Ravadaar ~ Corrupted
         譯文 : >-
             tagDranghoulHeroH06=拉瓦達 ~ 腐化
 #-------------------------------#
     194 :
-        標註 : 
         原文 : >-
             tagDranghoulHeroH07=Vinaldaar ~ Voidtouched
         譯文 : >-
             tagDranghoulHeroH07=維納達 ~ 虛空之觸
 #-------------------------------#
+    196 :
+        原文 : >-
+            #CreatureFleshHulk
+        譯文 : >-
+            #CreatureFleshHulk 血肉巨人
+#-------------------------------#
     198 :
-        標註 : 
         原文 : >-
             tagEnemyFleshHulkA01=Flesh Hulk
         譯文 : >-
             tagEnemyFleshHulkA01=血肉巨人
 #-------------------------------#
     199 :
-        標註 : 
         原文 : >-
             tagEnemyFleshHulkB01=Ironside Hulk
         譯文 : >-
             tagEnemyFleshHulkB01=石膚巨人
 #-------------------------------#
     200 :
-        標註 : 
         原文 : >-
             tagEnemyFleshHulkC01=Rage Hulk
         譯文 : >-
             tagEnemyFleshHulkC01=暴怒巨人
 #-------------------------------#
     202 :
-        標註 : 
         原文 : >-
             tagFleshHulkHeroH01=Bonebreaker
         譯文 : >-
             tagFleshHulkHeroH01=碎骨者
 #-------------------------------#
     203 :
-        標註 : 
         原文 : >-
             tagFleshHulkHeroH02=Faldonir Aetherborn
         譯文 : >-
             tagFleshHulkHeroH02=虛化之裔 法爾多尼
 #-------------------------------#
     204 :
-        標註 : 
         原文 : >-
             tagFleshHulkHeroH03=Malnotris ~ Unstoppable
         譯文 : >-
             tagFleshHulkHeroH03=馬諾崔斯 ~ 免疫控制
 #-------------------------------#
     205 :
-        標註 : 
         原文 : >-
             tagFleshHulkHeroH04=Festerlis ~ Bruiser
         譯文 : >-
             tagFleshHulkHeroH04=菲斯特利斯 ~ 壓碎者
 #-------------------------------#
+    207 :
+        原文 : >-
+            #CreatureGazer
+        譯文 : >-
+            #CreatureGazer
+#-------------------------------#
     209 :
-        標註 : 
         原文 : >-
             tagEnemyGazerA01=Corruption
         譯文 : >-
             tagEnemyGazerA01=腐化者
 #-------------------------------#
     210 :
-        標註 : 
         原文 : >-
             tagEnemyGazerB01=Overseer
         譯文 : >-
             tagEnemyGazerB01=監察者
 #-------------------------------#
     211 :
-        標註 : 
         原文 : >-
             tagEnemyGazerC01=Overmind
         譯文 : >-
             tagEnemyGazerC01=主宰者
 #-------------------------------#
     213 :
-        標註 : 
         原文 : >-
             tagGazerHeroH01=Mesmer
         譯文 : >-
             tagGazerHeroH01=麥斯默
 #-------------------------------#
     214 :
-        標註 : 
         原文 : >-
             tagGazerHeroH02=Bane'Zal, the Hellborn
         譯文 : >-
             tagGazerHeroH02=地獄降生 貝恩扎爾
 #-------------------------------#
     215 :
-        標註 : 
         原文 : >-
             tagGazerHeroH03=Darlax, Devourer of Dreams
         譯文 : >-
             tagGazerHeroH03=食夢者 達拉克斯
 #-------------------------------#
     216 :
-        標註 : 
         原文 : >-
             tagGazerHeroH04=Beholdan ~ Reflective
         譯文 : >-
             tagGazerHeroH04=觀察者 ~ 傷害反彈
 #-------------------------------#
     217 :
-        標註 : 
         原文 : >-
             tagGazerHeroH05=Garminix ~ Regenerator
         譯文 : >-
             tagGazerHeroH05=加米尼斯 ~ 回覆者
 #-------------------------------#
     218 :
-        標註 : 
         原文 : >-
             tagGazerHeroH06=Illumin ~ Electrified
         譯文 : >-
             tagGazerHeroH06=亮光 ~ 帶電
 #-------------------------------#
+    220 :
+        原文 : >-
+            #CreatureGhost
+        譯文 : >-
+            #CreatureGhost
+#-------------------------------#
     222 :
-        標註 : 
         原文 : >-
             tagEnemyGhostA01=Apparition
         譯文 : >-
             tagEnemyGhostA01=幽靈
 #-------------------------------#
     223 :
-        標註 : 
         原文 : >-
             tagEnemyGhostB01=Haunted Noble
         譯文 : >-
             tagEnemyGhostB01=幽靈貴族
 #-------------------------------#
     224 :
-        標註 : 
         原文 : >-
             tagEnemyGhostB02=Haunted Champion
         譯文 : >-
             tagEnemyGhostB02=幽靈勇士
 #-------------------------------#
     226 :
-        標註 : 
         原文 : >-
             tagHeroGhostH01=Lady Valavan, the Wandering Soul
         譯文 : >-
             tagHeroGhostH01=遊魂 瓦拉凡女士
 #-------------------------------#
     227 :
-        標註 : 
         原文 : >-
             tagHeroGhostH02=Lord Blacktail ~ Reflective
         譯文 : >-
             tagHeroGhostH02=黑尾領主 ~ 傷害反彈
 #-------------------------------#
     228 :
-        標註 : 
         原文 : >-
             tagHeroGhostH03=Lady Rosenthal ~ Regenerator
         譯文 : >-
             tagHeroGhostH03=羅森塔爾女士 ~ 回覆者
 #-------------------------------#
     229 :
-        標註 : 
         原文 : >-
             tagHeroGhostH04=Stormshriek ~ Electrified
         譯文 : >-
             tagHeroGhostH04=風暴尖嘯 ~ 帶電
 #-------------------------------#
     230 :
-        標註 : 
         原文 : >-
             tagHeroGhostH05=Lord Oldrakan ~ Swift
         譯文 : >-
             tagHeroGhostH05=奧爾德拉康領主 ~ 迅捷
 #-------------------------------#
     231 :
-        標註 : 
         原文 : >-
             tagHeroGhostH06=Aetherwraith ~ Corrupted
         譯文 : >-
             tagHeroGhostH06=虛化之魂 ~ 腐化
 #-------------------------------#
     233 :
-        標註 : 
         原文 : >-
             tagGhostBoss01=Baron Wradlith, Lord of the Lost Souls
         譯文 : >-
             tagGhostBoss01=墮落之魂領主 瓦德里斯男爵
 #-------------------------------#
     234 :
-        標註 : 
         原文 : >-
             tagGhostBoss02=Nomos Dred
         譯文 : >-
             tagGhostBoss02=諾莫斯·德雷德
 #-------------------------------#
     235 :
-        標註 : 
         原文 : >-
             tagGhostBoss03=Laudos Vagra
         譯文 : >-
             tagGhostBoss03=勞多斯·瓦格拉
 #-------------------------------#
     236 :
-        標註 : 
         原文 : >-
             tagGhostBoss04=Rhovena Kur
         譯文 : >-
             tagGhostBoss04=羅文納·庫爾
 #-------------------------------#
     237 :
-        標註 : 
         原文 : >-
             tagGhostBoss05=Alkamos, Lord Executioner
         譯文 : >-
             tagGhostBoss05=行刑者領主 阿卡莫斯
 #-------------------------------#
     238 :
-        標註 : 
         原文 : >-
             tagGhostBoss06=Wraith of Sorrows
         譯文 : >-
             tagGhostBoss06=悲傷魂靈
 #-------------------------------#
+    240 :
+        原文 : >-
+            #Ghoul
+        譯文 : >-
+            #Ghoul 食屍鬼
+#-------------------------------#
     242 :
-        標註 : 
         原文 : >-
             tagEnemyGhoulA01=Ghoul
         譯文 : >-
             tagEnemyGhoulA01=食屍鬼
 #-------------------------------#
     243 :
-        標註 : 
         原文 : >-
             tagEnemyGhoulB01=Ghoul Corpse-eater
         譯文 : >-
             tagEnemyGhoulB01=食屍鬼 食屍者
 #-------------------------------#
     244 :
-        標註 : 
         原文 : >-
             tagEnemyGhoulB02=Ghoul Blood-drinker
         譯文 : >-
             tagEnemyGhoulB02=食屍鬼 飲血者
 #-------------------------------#
     245 :
-        標註 : 
         原文 : >-
             tagEnemyGhoulC01=Ghoul Necrolyte
         譯文 : >-
             tagEnemyGhoulC01=食屍鬼 死靈法師
 #-------------------------------#
     247 :
-        標註 : 
         原文 : >-
             tagEnemyGhoulH01=Necrolask
         譯文 : >-
             tagEnemyGhoulH01=Necrolask
 #-------------------------------#
     248 :
-        標註 : 
         原文 : >-
             tagEnemyGhoulH02=Rot-Eye
         譯文 : >-
             tagEnemyGhoulH02=Rot-Eye
 #-------------------------------#
     249 :
-        標註 : 
         原文 : >-
             tagEnemyGhoulH03=Corpselick
         譯文 : >-
             tagEnemyGhoulH03=Corpselick
 #-------------------------------#
     250 :
-        標註 : 
         原文 : >-
             tagEnemyGhoulH04=Corpran ~ Corrupted
         譯文 : >-
             tagEnemyGhoulH04=Corpran ~ Corrupted
 #-------------------------------#
     251 :
-        標註 : 
         原文 : >-
             tagEnemyGhoulH05=Vilnius ~ Voidtouched
         譯文 : >-
             tagEnemyGhoulH05=Vilnius ~ Voidtouched
 #-------------------------------#
     253 :
-        標註 : 
         原文 : >-
             tagGhoulBoss01=Nacrathan, the Timeless
         譯文 : >-
             tagGhoulBoss01=永恆的那卡森
 #-------------------------------#
     254 :
-        標註 : 
         原文 : >-
             tagGhoulBoss02=Plagius, the Decrepit
         譯文 : >-
             tagGhoulBoss02=Plagius, the Decrepit
 #-------------------------------#
+    257 :
+        原文 : >-
+            #CreatureGolem
+        譯文 : >-
+            #CreatureGolem 傀儡
+#-------------------------------#
     259 :
-        標註 : 
         原文 : >-
             tagEnemyGolemRockA01=Earthen Shambler
         譯文 : >-
             tagEnemyGolemRockA01=大地蹣跚者
 #-------------------------------#
     260 :
-        標註 : 
         原文 : >-
             tagEnemyGolemRockB01=Mossy Shambler
         譯文 : >-
             tagEnemyGolemRockB01=苔蘚蹣跚者
 #-------------------------------#
     261 :
-        標註 : 
         原文 : >-
             tagEnemyGolemRockC01=Stonewrought  Shambler
         譯文 : >-
             tagEnemyGolemRockC01=巨石蹣跚者
 #-------------------------------#
     262 :
-        標註 : 
         原文 : >-
             tagEnemyGolemRockMiniBoss01=Ancient Shambler
         譯文 : >-
             tagEnemyGolemRockMiniBoss01=遠古蹣跚者
 #-------------------------------#
     264 :
-        標註 : 
         原文 : >-
             tagGolemRockHeroH01=Hammerton
         譯文 : >-
             tagGolemRockHeroH01=哈默頓
 #-------------------------------#
     265 :
-        標註 : 
         原文 : >-
             tagGolemRockHeroH02=Haldras Flamespitter
         譯文 : >-
             tagGolemRockHeroH02=噴火者 哈德拉斯
 #-------------------------------#
     266 :
-        標註 : 
         原文 : >-
             tagGolemRockHeroH03=Stoneheart ~ Reflective
         譯文 : >-
             tagGolemRockHeroH03=石心 ~ 傷害反彈
 #-------------------------------#
     267 :
-        標註 : 
         原文 : >-
             tagGolemRockHeroH04=Stonegrinder ~ Charger
         譯文 : >-
             tagGolemRockHeroH04=石磨 ~ 衝鋒
 #-------------------------------#
     268 :
-        標註 : 
         原文 : >-
             tagGolemRockHeroH05=Rimestone ~ Frozen
         譯文 : >-
             tagGolemRockHeroH05=霜石 ~ 冰凍
 #-------------------------------#
     269 :
-        標註 : 
         原文 : >-
             tagGolemRockHeroH06=Voidstone ~ Voidtouched
         譯文 : >-
             tagGolemRockHeroH06=虛空之石 ~ 虛空之觸
 #-------------------------------#
+    271 :
+        原文 : >-
+            #CreatureGrobles
+        譯文 : >-
+            #CreatureGrobles
+#-------------------------------#
     273 :
-        標註 : 
         原文 : >-
             tagEnemySnakeClanScavengerA01=Groble ~ Snake Clan Scavenger
         譯文 : >-
             tagEnemySnakeClanScavengerA01=格羅布 ~ 蛇之部落 拾荒者
 #-------------------------------#
     274 :
-        標註 : 
         原文 : >-
             tagEnemySnakeClanRangedA01=Groble ~ Snake Clan Tracker
         譯文 : >-
             tagEnemySnakeClanRangedA01=格羅布 ~ 蛇之部落 追蹤者
 #-------------------------------#
     275 :
-        標註 : 
         原文 : >-
             tagEnemySnakeClanWarriorA01=Groble ~ Snake Clan Warrior
         譯文 : >-
             tagEnemySnakeClanWarriorA01=格羅布 ~ 蛇之部落 戰士
 #-------------------------------#
     276 :
-        標註 : 
         原文 : >-
             tagEnemySnakeClanWarriorB01=Groble ~ Snake Clan Champion
         譯文 : >-
             tagEnemySnakeClanWarriorB01=格羅布 ~ 蛇之部落 勇士
 #-------------------------------#
     278 :
-        標註 : 
         原文 : >-
             tagEnemySnakeClanShamanA01=Groble ~ Snake Clan Witchdoctor
         譯文 : >-
             tagEnemySnakeClanShamanA01=格羅布 ~ 蛇之部落 巫醫
 #-------------------------------#
     279 :
-        標註 : 
         原文 : >-
             tagEnemySnakeClanShamanB01=Groble ~ Snake Clan Venomancer
         譯文 : >-
             tagEnemySnakeClanShamanB01=格羅布 ~ 蛇之部落 劇毒術士
 #-------------------------------#
     281 :
-        標註 : 
         原文 : >-
             tagEnemySkyClanScavengerA01=Groble ~ Sky Clan Scavenger
         譯文 : >-
             tagEnemySkyClanScavengerA01=格羅布 ~ 天之部落 拾荒者
 #-------------------------------#
     282 :
-        標註 : 
         原文 : >-
             tagEnemySkyClanRangedA01=Groble ~ Sky Clan Tracker
         譯文 : >-
             tagEnemySkyClanRangedA01=格羅布 ~ 天之部落 追蹤者
 #-------------------------------#
     283 :
-        標註 : 
         原文 : >-
             tagEnemySkyClanWarriorA01=Groble ~ Sky Clan Warrior
         譯文 : >-
             tagEnemySkyClanWarriorA01=格羅布 ~ 天之部落 戰士
 #-------------------------------#
     284 :
-        標註 : 
         原文 : >-
             tagEnemySkyClanWarriorB01=Groble ~ Sky Clan Champion
         譯文 : >-
             tagEnemySkyClanWarriorB01=格羅布 ~ 天之部落 勇士
 #-------------------------------#
     286 :
-        標註 : 
         原文 : >-
             tagEnemySkyClanShamanA01=Groble ~ Sky Clan Witchdoctor
         譯文 : >-
             tagEnemySkyClanShamanA01=格羅布 ~ 天之部落 巫醫
 #-------------------------------#
     287 :
-        標註 : 
         原文 : >-
             tagEnemySkyClanShamanB01=Groble ~ Sky Clan Stormcaller
         譯文 : >-
             tagEnemySkyClanShamanB01=格羅布 ~ 天之部落 風暴召喚者
 #-------------------------------#
     289 :
-        標註 : 
         原文 : >-
             tagEnemyStoneClanScavengerA01=Groble ~ Stone Clan Scavenger
         譯文 : >-
             tagEnemyStoneClanScavengerA01=格羅布 ~ 石之部落 拾荒者
 #-------------------------------#
     290 :
-        標註 : 
         原文 : >-
             tagEnemyStoneClanRangedA01=Groble ~ Stone Clan Tracker
         譯文 : >-
             tagEnemyStoneClanRangedA01=格羅布 ~ 石之部落 追蹤者
 #-------------------------------#
     291 :
-        標註 : 
         原文 : >-
             tagEnemyStoneClanWarriorA01=Groble ~ Stone Clan Warrior
         譯文 : >-
             tagEnemyStoneClanWarriorA01=格羅布 ~ 石之部落 戰士
 #-------------------------------#
     292 :
-        標註 : 
         原文 : >-
             tagEnemyStoneClanWarriorB01=Groble ~ Stone Clan Champion
         譯文 : >-
             tagEnemyStoneClanWarriorB01=格羅布 ~ 石之部落 勇士
 #-------------------------------#
     294 :
-        標註 : 
         原文 : >-
             tagEnemyStoneClanShamanA01=Groble ~ Stone Clan Witchdoctor
         譯文 : >-
             tagEnemyStoneClanShamanA01=格羅布 ~ 石之部落 巫醫
 #-------------------------------#
     295 :
-        標註 : 
         原文 : >-
             tagEnemyStoneClanShamanB01=Groble ~ Stone Clan Geomancer
         譯文 : >-
             tagEnemyStoneClanShamanB01=格羅布 ~ 石之部落 地卜師
 #-------------------------------#
     297 :
-        標註 : 
         原文 : >-
             tagEnemyEmberClanScavengerA01=Groble ~ Ember Clan Scavenger
         譯文 : >-
             tagEnemyEmberClanScavengerA01=格羅布 ~ 火之部落 拾荒者
 #-------------------------------#
     298 :
-        標註 : 
         原文 : >-
             tagEnemyEmberClanRangedA01=Groble ~ Ember Clan Tracker
         譯文 : >-
             tagEnemyEmberClanRangedA01=格羅布 ~ 火之部落 追蹤者
 #-------------------------------#
     299 :
-        標註 : 
         原文 : >-
             tagEnemyEmberClanRangedB01=Groble ~ Ember Clan Huntmaster
         譯文 : >-
             tagEnemyEmberClanRangedB01=格羅布 ~ 火之部落 狩獵大師
 #-------------------------------#
     300 :
-        標註 : 
         原文 : >-
             tagEnemyEmberClanWarriorA01=Groble ~ Ember Clan Warrior
         譯文 : >-
             tagEnemyEmberClanWarriorA01=格羅布 ~ 火之部落 戰士
 #-------------------------------#
     301 :
-        標註 : 
         原文 : >-
             tagEnemyEmberClanWarriorB01=Groble ~ Ember Clan Champion
         譯文 : >-
             tagEnemyEmberClanWarriorB01=格羅布 ~ 火之部落 勇士
 #-------------------------------#
     303 :
-        標註 : 
         原文 : >-
             tagEnemyEmberClanShamanA01=Groble ~ Ember Clan Witchdoctor
         譯文 : >-
             tagEnemyEmberClanShamanA01=格羅布 ~ 火之部落 巫醫
 #-------------------------------#
     304 :
-        標註 : 
         原文 : >-
             tagEnemyEmberClanShamanB01=Groble ~ Ember Clan Pyromancer
         譯文 : >-
             tagEnemyEmberClanShamanB01=格羅布 ~ 火之部落 烈焰術士
 #-------------------------------#
     306 :
-        標註 : 
         原文 : >-
             tagEnemyDeathClanScavengerA01=Groble ~ Death Clan Scavenger
         譯文 : >-
             tagEnemyDeathClanScavengerA01=格羅布 ~ 死之部落 拾荒者
 #-------------------------------#
     307 :
-        標註 : 
         原文 : >-
             tagEnemyDeathClanRangedA01=Groble ~ Death Clan Tracker
         譯文 : >-
             tagEnemyDeathClanRangedA01=格羅布 ~ 死之部落 追蹤者
 #-------------------------------#
     308 :
-        標註 : 
         原文 : >-
             tagEnemyDeathClanWarriorA01=Groble ~ Death Clan Warrior
         譯文 : >-
             tagEnemyDeathClanWarriorA01=格羅布 ~ 死之部落 戰士
 #-------------------------------#
     309 :
-        標註 : 
         原文 : >-
             tagEnemyDeathClanWarriorB01=Groble ~ Death Clan Champion
         譯文 : >-
             tagEnemyDeathClanWarriorB01=格羅布 ~ 死之部落 勇士
 #-------------------------------#
     311 :
-        標註 : 
         原文 : >-
             tagEnemyDeathClanShamanA01=Groble ~ Death Clan Witchdoctor
         譯文 : >-
             tagEnemyDeathClanShamanA01=格羅布 ~ 死之部落 巫醫
 #-------------------------------#
     312 :
-        標註 : 
         原文 : >-
             tagEnemyDeathClanShamanB01=Groble ~ Death Clan Bonecaster
         譯文 : >-
             tagEnemyDeathClanShamanB01=格羅布 ~ 死之部落 白骨法師
 #-------------------------------#
     314 :
-        標註 : 
         原文 : >-
             tagGrobleShamanHeroH01=Deshigu Chillbane
         譯文 : >-
             tagGrobleShamanHeroH01=冰冷刺骨 德士古
 #-------------------------------#
     315 :
-        標註 : 
         原文 : >-
             tagGrobleShamanHeroH02=Nabinok
         譯文 : >-
             tagGrobleShamanHeroH02=納比諾克
 #-------------------------------#
     316 :
-        標註 : 
         原文 : >-
             tagGrobleShamanHeroH03=Nirlamnack ~ Reflective
         譯文 : >-
             tagGrobleShamanHeroH03=尼爾拉姆納克 ~ 傷害反彈
 #-------------------------------#
     317 :
-        標註 : 
         原文 : >-
             tagGrobleHeroH01=Torgru, the Flametouched
         譯文 : >-
             tagGrobleHeroH01=烈火之觸 托爾格魯
 #-------------------------------#
     318 :
-        標註 : 
         原文 : >-
             tagGrobleHeroH02=Arbagol, the Shank
         譯文 : >-
             tagGrobleHeroH02=小腿 阿爾巴戈
 #-------------------------------#
     319 :
-        標註 : 
         原文 : >-
             tagGrobleHeroH03=Uldagu Flame-Eater
         譯文 : >-
             tagGrobleHeroH03=食火者 烏達古
 #-------------------------------#
     320 :
-        標註 : 
         原文 : >-
             tagGrobleHeroH04=Molbagdal Stormcaller
         譯文 : >-
             tagGrobleHeroH04=風暴召喚者 摩爾巴格達
 #-------------------------------#
     321 :
-        標註 : 
         原文 : >-
             tagGrobleHeroH05=Holborack ~ Defender
         譯文 : >-
             tagGrobleHeroH05=霍爾伯拉克 ~ 防禦者
 #-------------------------------#
+    323 :
+        原文 : >-
+            #Harpy
+        譯文 : >-
+            #Harpy 鷹身女妖
+#-------------------------------#
     325 :
-        標註 : 
         原文 : >-
             tagEnemyHarpyA01=Harpy Flesh Ripper
         譯文 : >-
             tagEnemyHarpyA01=鷹身女妖 血肉撕裂者
 #-------------------------------#
     326 :
-        標註 : 
         原文 : >-
             tagEnemyHarpyB01=Harpy Death Wind
         譯文 : >-
             tagEnemyHarpyB01=鷹身女妖 死亡之風
 #-------------------------------#
     327 :
-        標註 : 
         原文 : >-
             tagEnemyHarpyC01=Harpy Accursed Oracle
         譯文 : >-
             tagEnemyHarpyC01=鷹身女妖 厄運神使
 #-------------------------------#
     329 :
-        標註 : 
         原文 : >-
             tagHarpyHeroH01=Malexna, the Stormweaver
         譯文 : >-
             tagHarpyHeroH01=風暴編織者 瑪萊克絲娜
 #-------------------------------#
     330 :
-        標註 : 
         原文 : >-
             tagHarpyHeroH02=Blazewing
         譯文 : >-
             tagHarpyHeroH02=烈火之翼
 #-------------------------------#
     331 :
-        標註 : 
         原文 : >-
             tagHarpyHeroH03=Tyrronax, the Great Watcher
         譯文 : >-
             tagHarpyHeroH03=守望者 泰若納克絲
 #-------------------------------#
     332 :
-        標註 : 
         原文 : >-
             tagHarpyHeroH04=Scyliss, the Stormtouched ~ Electrified
         譯文 : >-
             tagHarpyHeroH04=風暴之觸 賽麗絲 ~ 帶電
 #-------------------------------#
     333 :
-        標註 : 
         原文 : >-
             tagHarpyHeroH05=Holdrexna, the Windwalker ~ Swift
         譯文 : >-
             tagHarpyHeroH05=風行者 霍德雷克斯娜 ~ 迅捷
 #-------------------------------#
     334 :
-        標註 : 
         原文 : >-
             tagHarpyHeroH06=Wrathwing ~ Corrupted
         譯文 : >-
             tagHarpyHeroH06=憤怒之翼 ~ 腐化
 #-------------------------------#
     336 :
-        標註 : 
         原文 : >-
             tagHarpyBossB01=Lutra the Abandoned
         譯文 : >-
             tagHarpyBossB01=被遺忘的盧特拉
 #-------------------------------#
+    338 :
+        原文 : >-
+            #CreatureHarvestman
+        譯文 : >-
+            #CreatureHarvestman
+#-------------------------------#
     340 :
-        標註 : 
         原文 : >-
             tagEnemyHarvestmanA01=Haunted Scarecrow
         譯文 : >-
             tagEnemyHarvestmanA01=鬼怪稻草人
 #-------------------------------#
     341 :
-        標註 : 
         原文 : >-
             tagEnemyHarvestmanB01=Haunted Harvester
         譯文 : >-
             tagEnemyHarvestmanB01=幽魂收割者
 #-------------------------------#
     343 :
-        標註 : 
         原文 : >-
             tagHarvestmanHeroH01=Nemedian, the Reaper
         譯文 : >-
             tagHarvestmanHeroH01=死神 內米笛安
 #-------------------------------#
     344 :
-        標註 : 
         原文 : >-
             tagHarvestmanHeroH02=Effigus, the Infested
         譯文 : >-
             tagHarvestmanHeroH02=感染者 艾菲格斯
 #-------------------------------#
     345 :
-        標註 : 
         原文 : >-
             tagHarvestmanHeroH03=Asper ~ Swift
         譯文 : >-
             tagHarvestmanHeroH03=阿斯珀 ~ 迅捷
 #-------------------------------#
     346 :
-        標註 : 
         原文 : >-
             tagHarvestmanHeroH04=Crowfiend ~ Bruiser
         譯文 : >-
             tagHarvestmanHeroH04=烏鴉凶煞 ~ 壓碎者
 #-------------------------------#
+    348 :
+        原文 : >-
+            #CreatureHuman
+        譯文 : >-
+            #CreatureHuman
+#-------------------------------#
     350 :
-        標註 : 
         原文 : >-
             tagEnemyBloodswornA01=Bloodsworn Adulant
         譯文 : >-
             tagEnemyBloodswornA01=血誓 崇拜者
 #-------------------------------#
     351 :
-        標註 : 
         原文 : >-
             tagEnemyBloodswornB01=Bloodsworn Zealot
         譯文 : >-
             tagEnemyBloodswornB01=血誓 狂熱者
 #-------------------------------#
     352 :
-        標註 : 
         原文 : >-
             tagEnemyBloodswornB02=Bloodsworn Summoner
         譯文 : >-
             tagEnemyBloodswornB02=血誓 召喚者
 #-------------------------------#
     353 :
-        標註 : 
         原文 : >-
             tagEnemyBloodswornB03=Bloodsworn Void-Caller
         譯文 : >-
             tagEnemyBloodswornB03=血誓 虛空召喚者
 #-------------------------------#
     354 :
-        標註 : 
         原文 : >-
             tagEnemyBloodswornC01=Bloodsworn Priest
         譯文 : >-
             tagEnemyBloodswornC01=血誓 牧師
 #-------------------------------#
     355 :
-        標註 : 
         原文 : >-
             tagEnemyBloodswornC02=Bloodsworn Doomsayer
         譯文 : >-
             tagEnemyBloodswornC02=血誓 末日預言者
 #-------------------------------#
     358 :
-        標註 : 
         原文 : >-
             tagHumanCultistHeroH01=Julius Crowley, the Mindbender
         譯文 : >-
             tagHumanCultistHeroH01=摧心者 朱利葉斯·克羅利
 #-------------------------------#
     359 :
-        標註 : 
         原文 : >-
             tagHumanCultistHeroH02=Lucius Bloodboil
         譯文 : >-
             tagHumanCultistHeroH02=血沸 盧修斯
 #-------------------------------#
     360 :
-        標註 : 
         原文 : >-
             tagHumanCultistHeroH03=Nathalian, the Houndcaller
         譯文 : >-
             tagHumanCultistHeroH03=獵犬召喚者 奈達利安
 #-------------------------------#
     361 :
-        標註 : 
         原文 : >-
             tagHumanCultistHeroH04=Ignacius ~ Burning
         譯文 : >-
             tagHumanCultistHeroH04=依格納修斯 ~ 燃燒
 #-------------------------------#
     362 :
-        標註 : 
         原文 : >-
             tagHumanCultistHeroH05=Bolivar the Bloodthirsty ~ Regenerator
         譯文 : >-
             tagHumanCultistHeroH05=嗜血者 玻利瓦 ~ 回覆者
 #-------------------------------#
     363 :
-        標註 : 
         原文 : >-
             tagEnemyBloodswornMiniBoss01=Salazar, Blade of Ch'thon
         譯文 : >-
             tagEnemyBloodswornMiniBoss01=冥神之刃 薩拉查
 #-------------------------------#
     364 :
-        標註 : 
         原文 : >-
             tagEnemyBloodswornMiniBoss02=Bolvar, the Bloodbinder
         譯文 : >-
             tagEnemyBloodswornMiniBoss02=血之羈絆 伯瓦爾
 #-------------------------------#
     365 :
-        標註 : 
         原文 : >-
             tagEnemyBloodswornMiniBoss03=Zaria, the Carver
         譯文 : >-
             tagEnemyBloodswornMiniBoss03=屠刀 扎里亞
 #-------------------------------#
     366 :
-        標註 : 
         原文 : >-
             tagBloodswornBoss01=Bloodlord Thalonis
         譯文 : >-
             tagBloodswornBoss01=血領主 泰隆尼斯
 #-------------------------------#
     367 :
-        標註 : 
         原文 : >-
             tagBloodswornBoss02=Karroz, Sigil of Ch'thon
         譯文 : >-
             tagBloodswornBoss02=冥神魔印 卡若茲
 #-------------------------------#
     369 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_Wightmire_MeleeA01=Convict ~ Lackey
         譯文 : >-
             tagEnemyHumanOutlaw_Wightmire_MeleeA01=罪犯 ~ 侍從
 #-------------------------------#
     370 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_Wightmire_MeleeB01=Convict ~ Thug
         譯文 : >-
             tagEnemyHumanOutlaw_Wightmire_MeleeB01=罪犯 ~ 惡棍
 #-------------------------------#
     371 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_Wightmire_MeleeB02=Convict ~ Brute
         譯文 : >-
             tagEnemyHumanOutlaw_Wightmire_MeleeB02=罪犯 ~ 暴徒
 #-------------------------------#
     372 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_Wightmire_MeleeB03=Convict ~ Sadist
         譯文 : >-
             tagEnemyHumanOutlaw_Wightmire_MeleeB03=罪犯 ~ 施虐者
 #-------------------------------#
     373 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_Wightmire_RangedA01=Convict ~ Gunman
         譯文 : >-
             tagEnemyHumanOutlaw_Wightmire_RangedA01=罪犯 ~ 槍手
 #-------------------------------#
     374 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_Wightmire_RangedB01=Convict ~ Skirmisher
         譯文 : >-
             tagEnemyHumanOutlaw_Wightmire_RangedB01=罪犯 ~ 遊擊兵
 #-------------------------------#
     376 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_MeleeA01=Cronley's Gang ~ Lackey
         譯文 : >-
             tagEnemyHumanOutlaw_MeleeA01=克隆利幫 ~ 侍從
 #-------------------------------#
     377 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_MeleeB01=Cronley's Gang ~ Thug
         譯文 : >-
             tagEnemyHumanOutlaw_MeleeB01=克隆利幫 ~ 惡棍
 #-------------------------------#
     378 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_MeleeB02=Cronley's Gang ~ Brute
         譯文 : >-
             tagEnemyHumanOutlaw_MeleeB02=克隆利幫 ~ 暴徒
 #-------------------------------#
     379 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_MeleeB03=Cronley's Gang ~ Sadist
         譯文 : >-
             tagEnemyHumanOutlaw_MeleeB03=克隆利幫 ~ 施虐者
 #-------------------------------#
     380 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_RangedA01=Cronley's Gang ~ Gunman
         譯文 : >-
             tagEnemyHumanOutlaw_RangedA01=克隆利幫 ~ 槍手
 #-------------------------------#
     381 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_RangedB01=Cronley's Gang ~ Skirmisher
         譯文 : >-
             tagEnemyHumanOutlaw_RangedB01=克隆利幫 ~ 遊擊兵
 #-------------------------------#
     382 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_ArsonistC01=Cronley's Gang ~ Arsonist
         譯文 : >-
             tagEnemyHumanOutlaw_ArsonistC01=克隆利幫 ~ 縱火犯
 #-------------------------------#
     383 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_MurdererC01=Cronley's Gang ~ Murderer
         譯文 : >-
             tagEnemyHumanOutlaw_MurdererC01=克隆利幫 ~ 殺人犯
 #-------------------------------#
     384 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_HereticC01=Cronley's Gang ~ Heretic
         譯文 : >-
             tagEnemyHumanOutlaw_HereticC01=克隆利幫 ~ 異教徒
 #-------------------------------#
     386 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_AetherA01=Cronley's Gang ~ Chosen
         譯文 : >-
             tagEnemyHumanOutlaw_AetherA01=克隆利幫 ~ 精銳
 #-------------------------------#
     387 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_AetherA02=Cronley's Gang ~ Chosen
         譯文 : >-
             tagEnemyHumanOutlaw_AetherA02=克隆利幫 ~ 精銳
 #-------------------------------#
     388 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_AetherB01=Cronley's Gang ~ Destined
         譯文 : >-
             tagEnemyHumanOutlaw_AetherB01=克隆利幫 ~ 命運選招
 #-------------------------------#
     389 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_AetherB02=Cronley's Gang ~ Champion
         譯文 : >-
             tagEnemyHumanOutlaw_AetherB02=克隆利幫 ~ 優選戰士
 #-------------------------------#
     390 :
-        標註 : 
         原文 : >-
             tagEnemyHumanOutlaw_AetherC01=Cronley's Gang ~ Ascended
         譯文 : >-
             tagEnemyHumanOutlaw_AetherC01=克隆利幫 ~ 超凡的戰士
 #-------------------------------#
     392 :
-        標註 : 
         原文 : >-
             tagHumanOutlawLeader01=Darius Cronley
         譯文 : >-
             tagHumanOutlawLeader01=德萊厄斯·克隆利
 #-------------------------------#
     393 :
-        標註 : 
         原文 : >-
             tagHumanOutlawMiniBoss01=Edmund "Shanks" Doyle
         譯文 : >-
             tagHumanOutlawMiniBoss01=“長腿” 埃德蒙·道爾
 #-------------------------------#
     394 :
-        標註 : 
         原文 : >-
             tagHumanOutlawMiniBoss02=Silas "The Skinner"
         譯文 : >-
             tagHumanOutlawMiniBoss02=“剝皮人” 塞拉斯
 #-------------------------------#
     395 :
-        標註 : 
         原文 : >-
             tagHumanOutlawMiniBoss03=Dravko "The Torch"
         譯文 : >-
             tagHumanOutlawMiniBoss03=“火把” 德拉沃科
 #-------------------------------#
     396 :
-        標註 : 
         原文 : >-
             tagHumanOutlawMiniBoss04="Madman" Wilcox
         譯文 : >-
             tagHumanOutlawMiniBoss04=“瘋子” 威爾克斯
 #-------------------------------#
     397 :
-        標註 : 
         原文 : >-
             tagHumanOutlawMiniBoss05=Sleyvak "The Breaker"
         譯文 : >-
             tagHumanOutlawMiniBoss05=“破壞者” 斯雷瓦克
 #-------------------------------#
     398 :
-        標註 : 
         原文 : >-
             tagHumanOutlawMiniBoss06="Boomer" Slocum
         譯文 : >-
             tagHumanOutlawMiniBoss06=“轟鳴” 斯洛克姆
 #-------------------------------#
     399 :
-        標註 : 
         原文 : >-
             tagHumanOutlawMiniBoss07=Ashe "The Wall" Farrell
         譯文 : >-
             tagHumanOutlawMiniBoss07=“牆壁” 阿什·法雷爾
 #-------------------------------#
     400 :
-        標註 : 
         原文 : >-
             tagHumanOutlawMiniBoss08=Nicholas Balthazar
         譯文 : >-
             tagHumanOutlawMiniBoss08=尼古拉斯·巴爾薩澤
 #-------------------------------#
     402 :
-        標註 : 
         原文 : >-
             tagHumanOutlawHeroH01=Leander "Blackwater" Greene
         譯文 : >-
             tagHumanOutlawHeroH01=“黑水” 利安德·格林
 #-------------------------------#
     403 :
-        標註 : 
         原文 : >-
             tagHumanHeroH01=Bloody Jack
         譯文 : >-
             tagHumanHeroH01=血腥傑克
 #-------------------------------#
     404 :
-        標註 : 
         原文 : >-
             tagHumanHeroH02=Delnar Black Eye
         譯文 : >-
             tagHumanHeroH02=德爾納·黑眼
 #-------------------------------#
     405 :
-        標註 : 
         原文 : >-
             tagHumanHeroH03=Hudson Fury
         譯文 : >-
             tagHumanHeroH03=哈德森·福瑞
 #-------------------------------#
     406 :
-        標註 : 
         原文 : >-
             tagHumanHeroH04=Nadra, the Shadow
         譯文 : >-
             tagHumanHeroH04=暗影 納德拉
 #-------------------------------#
     407 :
-        標註 : 
         原文 : >-
             tagHumanHeroH05=Serul Shadesong
         譯文 : >-
             tagHumanHeroH05=塞魯·暗歌
 #-------------------------------#
     408 :
-        標註 : 
         原文 : >-
             tagHumanHeroH06=Wiley, the Slasher ~ Swift
         譯文 : >-
             tagHumanHeroH06=切割者 威利 ~ 迅捷
 #-------------------------------#
     409 :
-        標註 : 
         原文 : >-
             tagHumanHeroH07=Everett, the Bloodbound ~ Burning
         譯文 : >-
             tagHumanHeroH07=血咒 埃弗雷特 ~ 燃燒
 #-------------------------------#
     410 :
-        標註 : 
         原文 : >-
             tagHumanHeroH08=Dred One-Eye
         譯文 : >-
             tagHumanHeroH08=德雷德·獨眼
 #-------------------------------#
     411 :
-        標註 : 
         原文 : >-
             tagHumanHeroH09=Meric Aether-Touched ~ Charger
         譯文 : >-
             tagHumanHeroH09=梅力克·虛化之觸 ~ 衝鋒
 #-------------------------------#
     412 :
-        標註 : 
         原文 : >-
             tagHumanHeroH10=Eldon "Snakeskin" ~ Regenerator
         譯文 : >-
             tagHumanHeroH10=“蛇皮” 埃爾登 ~ 回覆者
 #-------------------------------#
     414 :
-        標註 : 
         原文 : >-
             tagHumanBoss01="Moneybags" Martin
         譯文 : >-
             tagHumanBoss01=“守財奴” 馬丁
 #-------------------------------#
     415 :
-        標註 : 
         原文 : >-
             tagHumanBoss02=Halion "The Rat"
         譯文 : >-
             tagHumanBoss02=“耗子” 海里昂
 #-------------------------------#
     416 :
-        標註 : 
         原文 : >-
             tagHumanBoss03=Nicholas Balthazar
         譯文 : >-
             tagHumanBoss03=尼古拉斯·巴爾薩澤
 #-------------------------------#
     417 :
-        標註 : 
         原文 : >-
             tagHumanBoss04=Boris, Master of the Pit
         譯文 : >-
             tagHumanBoss04=競技場主 鮑里斯
 #-------------------------------#
     419 :
-        標註 : 
         原文 : >-
             tagHumanRoverA_A01=Rover
         譯文 : >-
             tagHumanRoverA_A01=流浪者
 #-------------------------------#
     420 :
-        標註 : 
         原文 : >-
             tagHumanRoverA_B01=Rover Scout
         譯文 : >-
             tagHumanRoverA_B01=流浪者 偵察兵
 #-------------------------------#
     421 :
-        標註 : 
         原文 : >-
             tagHumanRoverA_C01=Rover Enforcer
         譯文 : >-
             tagHumanRoverA_C01=流浪者 強制者
 #-------------------------------#
+    423 :
+        原文 : >-
+            #CreatureHumanPossessed
+        譯文 : >-
+            #CreatureHumanPossessed 被佔據人類
+#-------------------------------#
     425 :
-        標註 : 
         原文 : >-
             tagHumanPossessedA01=Possessed Apprentice
         譯文 : >-
             tagHumanPossessedA01=失心學徒
 #-------------------------------#
     426 :
-        標註 : 
         原文 : >-
             tagHumanPossessedA02=Possessed Arcanist
         譯文 : >-
             tagHumanPossessedA02=失心祕術師
 #-------------------------------#
     427 :
-        標註 : 
         原文 : >-
             tagHumanPossessedB01=Possessed Elementalist
         譯文 : >-
             tagHumanPossessedB01=失心元素師
 #-------------------------------#
     428 :
-        標註 : 
         原文 : >-
             tagHumanPossessedC01=Possessed Archmage
         譯文 : >-
             tagHumanPossessedC01=失心大法師
 #-------------------------------#
     430 :
-        標註 : 
         原文 : >-
             tagHumanPossessedHeroH01=Allara Starfire
         譯文 : >-
             tagHumanPossessedHeroH01=星火 阿臘拉
 #-------------------------------#
     431 :
-        標註 : 
         原文 : >-
             tagHumanPossessedHeroH02=Aetherblaze
         譯文 : >-
             tagHumanPossessedHeroH02=虛化烈焰
 #-------------------------------#
     432 :
-        標註 : 
         原文 : >-
             tagHumanPossessedHeroH03=Kamladris, the Rimeheart
         譯文 : >-
             tagHumanPossessedHeroH03=霜心 卡姆拉德瑞斯
 #-------------------------------#
     433 :
-        標註 : 
         原文 : >-
             tagHumanPossessedHeroH04=Corpusia ~ Reflective
         譯文 : >-
             tagHumanPossessedHeroH04=科普西亞 ~ 傷害反彈
 #-------------------------------#
     434 :
-        標註 : 
         原文 : >-
             tagHumanPossessedHeroH05=Espiria ~ Supporter
         譯文 : >-
             tagHumanPossessedHeroH05=埃斯匹瑞亞 ~ 支援者
 #-------------------------------#
     436 :
-        標註 : 
         原文 : >-
             tagHumanPossessedBoss01=Noveria Stormfire
         譯文 : >-
             tagHumanPossessedBoss01=風暴之火 諾維利亞
 #-------------------------------#
+    438 :
+        原文 : >-
+            #CreatureInsectDermapteran
+        譯文 : >-
+            #CreatureInsectDermapteran 革翅目
+#-------------------------------#
     440 :
-        標註 : 
         原文 : >-
             tagEnemyDermapteranA01=Dermapteran Weavil
         譯文 : >-
             tagEnemyDermapteranA01=革翅目象甲蟲
 #-------------------------------#
     441 :
-        標註 : 
         原文 : >-
             tagEnemyDermapteranB01=Dermapteran Sentinel
         譯文 : >-
             tagEnemyDermapteranB01=革翅目哨兵
 #-------------------------------#
     442 :
-        標註 : 
         原文 : >-
             tagEnemyDermapteranB02=Dermapteran Reaver
         譯文 : >-
             tagEnemyDermapteranB02=革翅目掠奪者
 #-------------------------------#
     443 :
-        標註 : 
         原文 : >-
             tagEnemyDermapteranC01=Dermapteran Vizier
         譯文 : >-
             tagEnemyDermapteranC01=革翅目元老
 #-------------------------------#
     444 :
-        標註 : 
         原文 : >-
             tagEnemyDermapteranC02=Dermapteran Progenitor
         譯文 : >-
             tagEnemyDermapteranC02=革翅目先祖
 #-------------------------------#
     446 :
-        標註 : 
         原文 : >-
             tagEnemySummonWeavilA01=Infestor
         譯文 : >-
             tagEnemySummonWeavilA01=感染者
 #-------------------------------#
     448 :
-        標註 : 
         原文 : >-
             tagDermapteranHeroH01=Harpallax, the Suneater
         譯文 : >-
             tagDermapteranHeroH01=噬日者 哈爾帕拉克斯
 #-------------------------------#
     449 :
-        標註 : 
         原文 : >-
             tagDermapteranHeroH02=Corrosinax
         譯文 : >-
             tagDermapteranHeroH02=科羅西納克斯
 #-------------------------------#
     450 :
-        標註 : 
         原文 : >-
             tagDermapteranHeroH03=Wasparex ~ Swift
         譯文 : >-
             tagDermapteranHeroH03=沃斯巴萊克斯 ~ 迅捷
 #-------------------------------#
     451 :
-        標註 : 
         原文 : >-
             tagDermapteranHeroH04=Olmarix ~ Electrified
         譯文 : >-
             tagDermapteranHeroH04=奧馬里克斯 ~ 帶電
 #-------------------------------#
     452 :
-        標註 : 
         原文 : >-
             tagDermapteranHeroH05=Vildrix ~ Voidtouched
         譯文 : >-
             tagDermapteranHeroH05=維爾德里克斯 ~ 虛空之觸
 #-------------------------------#
     454 :
-        標註 : 
         原文 : >-
             tagDermapteranBoss01=Grand Vizier Lozakal
         譯文 : >-
             tagDermapteranBoss01=蟲群領袖 洛扎克
 #-------------------------------#
     455 :
-        標註 : 
         原文 : >-
             tagDermapteranBoss02=Grand Vizier Inixil
         譯文 : >-
             tagDermapteranBoss02=蟲群領袖 伊尼克希爾
 #-------------------------------#
     456 :
-        標註 : 
         原文 : >-
             tagDermapteranBoss03=Swarm Queen Ravna
         譯文 : >-
             tagDermapteranBoss03=蟲後 拉夫娜
 #-------------------------------#
     457 :
-        標註 : 
         原文 : >-
             tagDermapteranBoss04=Vizier Anoxis, the Tainted
         譯文 : >-
-            tagDermapteranBoss04=領袖 汙染者 阿諾克斯 
+            tagDermapteranBoss04=領袖 汙染者 阿諾克斯
+#-------------------------------#
+    459 :
+        原文 : >-
+            #CreatureInsectMosquito
+        譯文 : >-
+            #CreatureInsectMosquito 蚊子
 #-------------------------------#
     460 :
-        標註 : 
         原文 : >-
             tagEnemyInsectMosquitoA01=Mireborn Bloodgorger
         譯文 : >-
             tagEnemyInsectMosquitoA01=泥沼食血者
 #-------------------------------#
     461 :
-        標註 : 
         原文 : >-
             tagEnemyInsectMosquitoB01=Mireborn Bloodfiend
         譯文 : >-
             tagEnemyInsectMosquitoB01=泥沼血惡魔
 #-------------------------------#
     462 :
-        標註 : 
         原文 : >-
             tagEnemyInsectMosquitoC01=Mireborn Matriarch
         譯文 : >-
             tagEnemyInsectMosquitoC01=泥沼女王
 #-------------------------------#
     463 :
-        標註 : 
         原文 : >-
             tagEnemyInsectMosquitoA02=Festerborn Bloodgorger
         譯文 : >-
             tagEnemyInsectMosquitoA02=潰爛之裔 食血者
 #-------------------------------#
     464 :
-        標註 : 
         原文 : >-
             tagEnemyInsectMosquitoB02=Festerborn Bloodfiend
         譯文 : >-
             tagEnemyInsectMosquitoB02=潰爛之裔 血惡魔
 #-------------------------------#
     465 :
-        標註 : 
         原文 : >-
             tagEnemyInsectMosquitoC02=Festerborn Matriarch
         譯文 : >-
             tagEnemyInsectMosquitoC02=潰爛之裔 女王
 #-------------------------------#
     467 :
-        標註 : 
         原文 : >-
             tagInsectMosquitoHeroH01=Vladox, the Bloodletter
         譯文 : >-
             tagInsectMosquitoHeroH01=放血者 弗拉多克斯
 #-------------------------------#
     468 :
-        標註 : 
         原文 : >-
             tagInsectMosquitoHeroH02=Sarlap ~ Electrified
         譯文 : >-
             tagInsectMosquitoHeroH02=薩拉普 ~ 帶電
 #-------------------------------#
     469 :
-        標註 : 
         原文 : >-
             tagInsectMosquitoHeroH03=Jornax, the Voracious ~ Swift
         譯文 : >-
             tagInsectMosquitoHeroH03=貪食的喬納克斯 ~ 迅捷
 #-------------------------------#
     470 :
-        標註 : 
         原文 : >-
             tagInsectMosquitoHeroH04=Narlax ~ Corrupted
         譯文 : >-
             tagInsectMosquitoHeroH04=那爾拉克斯 ~ 腐化
 #-------------------------------#
     471 :
-        標註 : 
         原文 : >-
             tagInsectMosquitoHeroH05=Oorlax ~ Voidtouched
         譯文 : >-
             tagInsectMosquitoHeroH05=奧拉克斯 ~ 虛空之觸
 #-------------------------------#
+    473 :
+        原文 : >-
+            #CreatureInsectWasp
+        譯文 : >-
+            #CreatureInsectWasp 蜂群
+#-------------------------------#
     475 :
-        標註 : 
         原文 : >-
             tagEnemyInsectWaspA01=Venomwing Drone
         譯文 : >-
             tagEnemyInsectWaspA01=毒翼工蜂
 #-------------------------------#
     476 :
-        標註 : 
         原文 : >-
             tagEnemyInsectWaspB01=Venomwing Stinger
         譯文 : >-
             tagEnemyInsectWaspB01=毒翼刺蜂
 #-------------------------------#
     477 :
-        標註 : 
         原文 : >-
             tagEnemyInsectWaspC01=Venomwing Queen
         譯文 : >-
             tagEnemyInsectWaspC01=毒翼蜂后
 #-------------------------------#
     479 :
-        標註 : 
         原文 : >-
             tagInsectWaspHeroH01=Scarprax, the Frenzied
         譯文 : >-
             tagInsectWaspHeroH01=狂亂者 斯卡普萊克斯
 #-------------------------------#
     480 :
-        標註 : 
         原文 : >-
             tagInsectWaspHeroH02=Caraprax ~ Defender
         譯文 : >-
             tagInsectWaspHeroH02=卡拉普萊克斯 ~ 防禦者
 #-------------------------------#
     481 :
-        標註 : 
         原文 : >-
             tagInsectWaspHeroH03=Harprax, the Queen's Will ~ Supporter
         譯文 : >-
             tagInsectWaspHeroH03=蜂后之意志 哈爾普萊克斯 ~ 支援者
 #-------------------------------#
     482 :
-        標註 : 
         原文 : >-
             tagInsectWaspHeroH04=Ralkara ~ Regenerator
         譯文 : >-
             tagInsectWaspHeroH04=拉爾卡拉 ~ 回覆者
 #-------------------------------#
     483 :
-        標註 : 
         原文 : >-
             tagInsectWaspHeroH05=Folcrax ~ Frozen
         譯文 : >-
             tagInsectWaspHeroH05=福爾克拉克斯 ~ 冰凍
 #-------------------------------#
     484 :
-        標註 : 
         原文 : >-
             tagInsectWaspHeroH06=Walacrax ~ Corrupted
         譯文 : >-
             tagInsectWaspHeroH06=瓦拉克拉克斯 ~ 腐化
 #-------------------------------#
     485 :
-        標註 : 
         原文 : >-
             tagInsectWaspHeroH07=Ooldacrax ~ Voidtouched
         譯文 : >-
             tagInsectWaspHeroH07=奧達克拉克斯 ~ 虛空之觸
 #-------------------------------#
     487 :
-        標註 : 
         原文 : >-
             tagInsectWaspBoss01=Ulraprax, the Hive Matriarch
         譯文 : >-
             tagInsectWaspBoss01=蜂巢女王 尤拉普萊克斯
 #-------------------------------#
     488 :
-        標註 : 
         原文 : >-
             tagInsectWaspBoss02=Ronaprax, the Grand Queen
         譯文 : >-
             tagInsectWaspBoss02=至高女皇 羅納普萊克斯
 #-------------------------------#
+    490 :
+        原文 : >-
+            #CreatureInsectSwarm
+        譯文 : >-
+            #CreatureInsectSwarm 蟲群
+#-------------------------------#
     492 :
-        標註 : 
         原文 : >-
             tagEnemyInsectSwarmA01=Devouring Swarm
         譯文 : >-
             tagEnemyInsectSwarmA01=吞噬蟲群
 #-------------------------------#
     493 :
-        標註 : 
         原文 : >-
             tagEnemyInsectSwarmB01=Pestilent Swarm
         譯文 : >-
             tagEnemyInsectSwarmB01=疫病蟲群
 #-------------------------------#
     495 :
-        標註 : 
         原文 : >-
             tagEnemyInsectSwarm_PossessedA01=Possessed Swarm
         譯文 : >-
             tagEnemyInsectSwarm_PossessedA01=失心蟲群
 #-------------------------------#
     497 :
-        標註 : 
         原文 : >-
             tagInsectSwarmHeroH01=Issk, the Hive Mind
         譯文 : >-
             tagInsectSwarmHeroH01=蟲巢主腦 依絲克
 #-------------------------------#
     498 :
-        標註 : 
         原文 : >-
             tagInsectSwarmHeroH02=Avarix ~ Electrified
         譯文 : >-
             tagInsectSwarmHeroH02=阿瓦里克斯 ~ 帶電
 #-------------------------------#
     499 :
-        標註 : 
         原文 : >-
             tagInsectSwarmHeroH03=Omnol, the Blight ~ Diseased
         譯文 : >-
             tagInsectSwarmHeroH03=災荒 奧姆諾 ~ 疾病
 #-------------------------------#
+    501 :
+        原文 : >-
+            #CreatureManticores
+        譯文 : >-
+            #CreatureManticores 蠍尾獅
+#-------------------------------#
     503 :
-        標註 : 
         原文 : >-
             tagEnemyManticoreA01=Manticore Whitemane
         譯文 : >-
             tagEnemyManticoreA01=白鬃蠍尾獅
 #-------------------------------#
     504 :
-        標註 : 
         原文 : >-
             tagEnemyManticoreA02=Manticore Blackmane
         譯文 : >-
             tagEnemyManticoreA02=黑鬃蠍尾獅
 #-------------------------------#
     505 :
-        標註 : 
         原文 : >-
             tagEnemyManticoreB01=Manticore Wastestalker
         譯文 : >-
             tagEnemyManticoreB01=蠍尾獅廢土追獵者
 #-------------------------------#
     506 :
-        標註 : 
         原文 : >-
             tagEnemyManticoreB02=Manticore Nightstalker
         譯文 : >-
             tagEnemyManticoreB02=蠍尾獅夜行者
 #-------------------------------#
     507 :
-        標註 : 
         原文 : >-
             tagEnemyManticoreC01=Manticore Alpha
         譯文 : >-
             tagEnemyManticoreC01=蠍尾獅領袖
 #-------------------------------#
     509 :
-        標註 : 
         原文 : >-
             tagEnemyManticoreAetherA01=Fleshwarped Manticore
         譯文 : >-
             tagEnemyManticoreAetherA01=奇型蠍尾獅
 #-------------------------------#
     510 :
-        標註 : 
         原文 : >-
             tagEnemyManticoreAetherB01=Fleshwarped Wastestalker
         譯文 : >-
             tagEnemyManticoreAetherB01=奇型廢土追獵者
 #-------------------------------#
     511 :
-        標註 : 
         原文 : >-
             tagEnemyManticoreAetherC01=Fleshwarped Aethermane
         譯文 : >-
             tagEnemyManticoreAetherC01=奇型虛化之裔
 #-------------------------------#
     513 :
-        標註 : 
         原文 : >-
             tagManticoreHeroH01=Raxa, the Jade Huntress
         譯文 : >-
             tagManticoreHeroH01=翡翠獵手 拉科薩
 #-------------------------------#
     514 :
-        標註 : 
         原文 : >-
             tagManticoreHeroH02=Neleron, the Eyes of Death
         譯文 : >-
             tagManticoreHeroH02=死亡之眼 奈隆
 #-------------------------------#
     515 :
-        標註 : 
         原文 : >-
             tagManticoreHeroH03=Ar'kall, the Black Heart
         譯文 : >-
             tagManticoreHeroH03=黑心 阿卡奧
 #-------------------------------#
     516 :
-        標註 : 
         原文 : >-
             tagManticoreHeroH04=Uroxis Swiftclaw ~ Swift
         譯文 : >-
             tagManticoreHeroH04=迅爪 尤若克西斯 ~ 迅捷
 #-------------------------------#
     517 :
-        標註 : 
         原文 : >-
             tagManticoreHeroH05=Waroxis Crimsonclaw ~ Bruiser
         譯文 : >-
             tagManticoreHeroH05=猩紅之爪 瓦羅克西斯 ~ 壓碎者
 #-------------------------------#
     518 :
-        標註 : 
         原文 : >-
             tagManticoreHeroH06=Blazara Firemane
         譯文 : >-
             tagManticoreHeroH06=炎鬃 布拉澤拉
 #-------------------------------#
     520 :
-        標註 : 
         原文 : >-
             tagManticoreBoss01=Mogara, the Prime Matriarch
         譯文 : >-
             tagManticoreBoss01=女王 莫伽拉
 #-------------------------------#
+    522 :
+        原文 : >-
+            #CreatureObsidianDefiler
+        譯文 : >-
+            #CreatureObsidianDefiler 黑曜石蠍子
+#-------------------------------#
     524 :
-        標註 : 
         原文 : >-
             tagEnemyObsidianDefilerA01=Obsidian Shaleborn
         譯文 : >-
             tagEnemyObsidianDefilerA01=黑曜岩降生者
 #-------------------------------#
     525 :
-        標註 : 
         原文 : >-
             tagEnemyObsidianDefilerB01=Obsidian Defiler
         譯文 : >-
             tagEnemyObsidianDefilerB01=黑曜石褻瀆者
 #-------------------------------#
     526 :
-        標註 : 
         原文 : >-
             tagEnemyObsidianDefilerC01=Obsidian Ravager
         譯文 : >-
             tagEnemyObsidianDefilerC01=黑曜石掠奪者
 #-------------------------------#
     527 :
-        標註 : 
         原文 : >-
             tagEnemyObsidianDefilerC02=Obsidian Annihilator
         譯文 : >-
             tagEnemyObsidianDefilerC02=黑曜石殲滅者
 #-------------------------------#
     529 :
-        標註 : 
         原文 : >-
             tagObsidianDefilerHeroH01=Obsidius, the Titan
         譯文 : >-
             tagObsidianDefilerHeroH01=泰坦 奧珀西迪斯
 #-------------------------------#
     530 :
-        標註 : 
         原文 : >-
             tagObsidianDefilerHeroH02=Ch'thallis, the Usurper
         譯文 : >-
             tagObsidianDefilerHeroH02=篡位者 薩里斯
 #-------------------------------#
     531 :
-        標註 : 
         原文 : >-
             tagObsidianDefilerHeroH03=Kelphat'Idoth ~ Electrified
         譯文 : >-
             tagObsidianDefilerHeroH03=凱爾法·依多斯 ~ 帶電
 #-------------------------------#
     532 :
-        標註 : 
         原文 : >-
             tagObsidianDefilerHeroH04=Orudin'Idoth ~ Frozen
         譯文 : >-
             tagObsidianDefilerHeroH04=奧魯金·依多斯 ~ 冰凍
 #-------------------------------#
     533 :
-        標註 : 
         原文 : >-
             tagObsidianDefilerHeroH05=Drygol'Ukog ~ Charger
         譯文 : >-
             tagObsidianDefilerHeroH05=卓格·尤考格 ~ 衝鋒
 #-------------------------------#
     535 :
-        標註 : 
         原文 : >-
             tagObsidianDefilerBoss01=Bane'Gargoth
         譯文 : >-
             tagObsidianDefilerBoss01=夢魘 加戈斯
 #-------------------------------#
+    537 :
+        原文 : >-
+            #CreaturePrawns
+        譯文 : >-
+            #CreaturePrawns 蝦
+#-------------------------------#
     539 :
-        標註 : 
         原文 : >-
             tagEnemyPrawnA01=Scrapheap Rift Scourge
         譯文 : >-
             tagEnemyPrawnA01=食腐者 裂隙之災
 #-------------------------------#
     540 :
-        標註 : 
         原文 : >-
             tagEnemyPrawnA02=Acidbile Rift Scourge
         譯文 : >-
             tagEnemyPrawnA02=酸液之怒 裂隙之災
 #-------------------------------#
     541 :
-        標註 : 
         原文 : >-
             tagEnemyPrawnB01=Stormscale Rift Scourge
         譯文 : >-
             tagEnemyPrawnB01=雷鱗 裂隙之災
 #-------------------------------#
     542 :
-        標註 : 
         原文 : >-
             tagEnemyPrawnB02=Bladespine Rift Scourge
         譯文 : >-
             tagEnemyPrawnB02=劍脊 裂隙之災
 #-------------------------------#
     543 :
-        標註 : 
         原文 : >-
             tagEnemyPrawnC01=Infested Rift Scourge
         譯文 : >-
             tagEnemyPrawnC01=被感染者 裂隙之災
 #-------------------------------#
     544 :
-        標註 : 
         原文 : >-
             tagEnemyPrawnSummonA01=Swarmborn Rift Scourge
         譯文 : >-
             tagEnemyPrawnSummonA01=聚生者 裂隙之災
 #-------------------------------#
     546 :
-        標註 : 
         原文 : >-
             tagEnemyCavePrawnA01=Pale Cavern Crawler
         譯文 : >-
             tagEnemyCavePrawnA01=蒼白的穴居爬行者
 #-------------------------------#
     547 :
-        標註 : 
         原文 : >-
             tagEnemyCavePrawnA02=Terrorspark Cavern Crawler
         譯文 : >-
             tagEnemyCavePrawnA02=恐怖的穴居爬行者
 #-------------------------------#
     548 :
-        標註 : 
         原文 : >-
             tagEnemyCavePrawnB01=Albino Cavern Crawler
         譯文 : >-
             tagEnemyCavePrawnB01=白化的穴居爬行者
 #-------------------------------#
     549 :
-        標註 : 
         原文 : >-
             tagEnemyCavePrawnC01=Bursting Cavern Crawler
         譯文 : >-
             tagEnemyCavePrawnC01=凶暴的穴居爬行者
 #-------------------------------#
     550 :
-        標註 : 
         原文 : >-
             tagEnemyCavePrawnSummonA01=Swarming Cavern Crawler
         譯文 : >-
             tagEnemyCavePrawnSummonA01=成群的穴居爬行者
 #-------------------------------#
     552 :
-        標註 : 
         原文 : >-
             tagPrawnHeroH01=Ravacrix, the Ravenous
         譯文 : >-
             tagPrawnHeroH01=貪婪的拉娃克里克斯
 #-------------------------------#
     553 :
-        標註 : 
         原文 : >-
             tagPrawnHeroH02=Palacrix, the Ancient
         譯文 : >-
             tagPrawnHeroH02=先祖 帕拉克里克斯
 #-------------------------------#
     554 :
-        標註 : 
         原文 : >-
             tagPrawnHeroH03=Velacrix, the Plagueswarm
         譯文 : >-
             tagPrawnHeroH03=毒裔 維拉克里克斯
 #-------------------------------#
     555 :
-        標註 : 
         原文 : >-
             tagPrawnHeroH04=Elcrix ~ Electrified
         譯文 : >-
             tagPrawnHeroH04=艾爾克里克斯 ~ 帶電
 #-------------------------------#
     556 :
-        標註 : 
         原文 : >-
             tagPrawnHeroH05=Flocrix ~ Burning
         譯文 : >-
             tagPrawnHeroH05=弗洛克裡克斯 ~ 燃燒
 #-------------------------------#
     558 :
-        標註 : 
         原文 : >-
             tagCavePrawnHeroH01=Terrocrix
         譯文 : >-
             tagCavePrawnHeroH01=泰若克里克斯
 #-------------------------------#
     559 :
-        標註 : 
         原文 : >-
             tagCavePrawnHeroH02=Chiricrix ~ Frozen
         譯文 : >-
             tagCavePrawnHeroH02=基裡克里克斯 ~ 冰凍
 #-------------------------------#
     560 :
-        標註 : 
         原文 : >-
             tagCavePrawnHeroH03=Blucrix ~ Defender
         譯文 : >-
             tagCavePrawnHeroH03=布魯克裡克斯 ~ 防禦者
 #-------------------------------#
     562 :
-        標註 : 
         原文 : >-
             tagCavePrawnBoss01=Ikrix, the Ravener
         譯文 : >-
             tagCavePrawnBoss01=捕食者 伊克里克斯
 #-------------------------------#
+    564 :
+        原文 : >-
+            #CreatureRaptor
+        譯文 : >-
+            #CreatureRaptor 猛禽
+#-------------------------------#
     566 :
-        標註 : 
         原文 : >-
             tagEnemyRaptorA_JuvenileA01=Carrion Raptor ~ Hatchling
         譯文 : >-
             tagEnemyRaptorA_JuvenileA01=食腐猛禽 ~ 雛鳥
 #-------------------------------#
     567 :
-        標註 : 
         原文 : >-
             tagEnemyRaptorA_MeleeA01=Carrion Raptor ~ Hunter
         譯文 : >-
             tagEnemyRaptorA_MeleeA01=食腐猛禽 ~ 獵手
 #-------------------------------#
     568 :
-        標註 : 
         原文 : >-
             tagEnemyRaptorA_RangedA01=Carrion Raptor ~ Screecher
         譯文 : >-
             tagEnemyRaptorA_RangedA01=食腐猛禽 ~ 尖嘯
 #-------------------------------#
     569 :
-        標註 : 
         原文 : >-
             tagEnemyRaptorA_ChampionA01=Carrion Raptor ~ Viper Lord
         譯文 : >-
             tagEnemyRaptorA_ChampionA01=食腐猛禽 ~ 毒蛇領主
 #-------------------------------#
     571 :
-        標註 : 
         原文 : >-
             tagEnemyRaptorB_JuvenileA01=Wind Raptor ~ Juvenile
         譯文 : >-
             tagEnemyRaptorB_JuvenileA01=風之猛禽 ~ 幼鳥
 #-------------------------------#
     572 :
-        標註 : 
         原文 : >-
             tagEnemyRaptorB_MeleeA01=Wind Raptor ~ Stalker
         譯文 : >-
             tagEnemyRaptorB_MeleeA01=風之猛禽 ~ 追獵者
 #-------------------------------#
     573 :
-        標註 : 
         原文 : >-
             tagEnemyRaptorB_RangedA01=Wind Raptor ~ Assassin
         譯文 : >-
             tagEnemyRaptorB_RangedA01=風之猛禽 ~ 暗殺者
 #-------------------------------#
     574 :
-        標註 : 
         原文 : >-
             tagEnemyRaptorB_ChampionA01=Wind Raptor ~ Sky Lord
         譯文 : >-
             tagEnemyRaptorB_ChampionA01=風之猛禽 ~ 天空領主
 #-------------------------------#
     576 :
-        標註 : 
         原文 : >-
             tagRaptorHeroH01=Soulrend
         譯文 : >-
             tagRaptorHeroH01=撕魂
 #-------------------------------#
     577 :
-        標註 : 
         原文 : >-
             tagRaptorHeroH02=Aragonax, the Spirit Eater
         譯文 : >-
             tagRaptorHeroH02=噬靈者 阿拉格納克斯
 #-------------------------------#
     578 :
-        標註 : 
         原文 : >-
             tagRaptorHeroH03=Baldim, the Chaosbringer
         譯文 : >-
             tagRaptorHeroH03=混亂使者 巴爾丁
 #-------------------------------#
     579 :
-        標註 : 
         原文 : >-
             tagRaptorHeroH04=Bonesnarl ~ Unstoppable
         譯文 : >-
             tagRaptorHeroH04=靈魂咆哮 ~ 勇不可擋
 #-------------------------------#
     580 :
-        標註 : 
         原文 : >-
             tagRaptorHeroH05=Idran, the Anomaly ~ Regenerator
         譯文 : >-
             tagRaptorHeroH05=畸形的依德蘭 ~ 回覆者
 #-------------------------------#
     581 :
-        標註 : 
         原文 : >-
             tagRaptorHeroH06=Balra ~ Voidtouched
         譯文 : >-
             tagRaptorHeroH06=巴爾拉 ~ 虛空之觸
 #-------------------------------#
+    583 :
+        原文 : >-
+            #CreatureRiftHound
+        譯文 : >-
+            #CreatureRiftHound 裂隙魔犬
+#-------------------------------#
     585 :
-        標註 : 
         原文 : >-
             tagEnemyRiftHoundA01=Rifthound
         譯文 : >-
             tagEnemyRiftHoundA01=裂隙魔犬
 #-------------------------------#
     586 :
-        標註 : 
         原文 : >-
             tagEnemyRiftHoundB01=Rifthound ~ Howler
         譯文 : >-
             tagEnemyRiftHoundB01=裂隙魔犬 ~ 咆哮者
 #-------------------------------#
     587 :
-        標註 : 
         原文 : >-
             tagEnemyRiftHoundC01=Rifthound ~ Azure Matriarch
         譯文 : >-
             tagEnemyRiftHoundC01=裂隙魔犬 ~ 天空女王
 #-------------------------------#
     588 :
-        標註 : 
         原文 : >-
             tagEnemyRiftHoundA02=Plaguehound
         譯文 : >-
             tagEnemyRiftHoundA02=災疫獵犬
 #-------------------------------#
     589 :
-        標註 : 
         原文 : >-
             tagEnemyRiftHoundB02=Plaguehound ~ Roteater
         譯文 : >-
             tagEnemyRiftHoundB02=災疫獵犬 ~ 食腐者
 #-------------------------------#
     590 :
-        標註 : 
         原文 : >-
             tagEnemyRiftHoundC02=Plaguehound ~ Alpha
         譯文 : >-
             tagEnemyRiftHoundC02=災疫獵犬 ~ 首領
 #-------------------------------#
     592 :
-        標註 : 
         原文 : >-
             tagEnemyPlanesHoundA01=Planeshound
         譯文 : >-
             tagEnemyPlanesHoundA01=位面魔犬
 #-------------------------------#
     593 :
-        標註 : 
         原文 : >-
             tagEnemyPlanesHoundB01=Planeshound ~ Pack Leader
         譯文 : >-
             tagEnemyPlanesHoundB01=位面魔犬 ~ 犬群之首
 #-------------------------------#
     595 :
-        標註 : 
         原文 : >-
             tagEnemyVoidHoundA01=Voidhound
         譯文 : >-
             tagEnemyVoidHoundA01=虛空魔犬
 #-------------------------------#
     596 :
-        標註 : 
         原文 : >-
             tagEnemyVoidHoundB01=Voidhound ~ Pack Leader
         譯文 : >-
             tagEnemyVoidHoundB01=虛空魔犬 ~ 犬群之首
 #-------------------------------#
     598 :
-        標註 : 
         原文 : >-
             tagRiftHoundHeroH01=Charrus
         譯文 : >-
             tagRiftHoundHeroH01=查瑞斯
 #-------------------------------#
     599 :
-        標註 : 
         原文 : >-
             tagRiftHoundHeroH02=Plaguelord
         譯文 : >-
             tagRiftHoundHeroH02=瘟疫領主
 #-------------------------------#
     600 :
-        標註 : 
         原文 : >-
             tagRiftHoundHeroH03=Voidrage
         譯文 : >-
             tagRiftHoundHeroH03=虛空狂怒
 #-------------------------------#
     601 :
-        標註 : 
         原文 : >-
             tagRiftHoundHeroH04=Wolvin, the Inferno
         譯文 : >-
             tagRiftHoundHeroH04=煉獄 沃爾文
 #-------------------------------#
     602 :
-        標註 : 
         原文 : >-
             tagRiftHoundHeroH05=Jarlax, Rage of the Swamp ~ Charger
         譯文 : >-
             tagRiftHoundHeroH05=沼地之怒 賈拉克斯 ~ 衝鋒
 #-------------------------------#
     603 :
-        標註 : 
         原文 : >-
             tagRiftHoundHeroH06=Garn, the Packhunter ~ Defender
         譯文 : >-
             tagRiftHoundHeroH06=犬群獵手 加恩 ~ 防禦者
 #-------------------------------#
     605 :
-        標註 : 
         原文 : >-
             tagBossRifthoundB01=Kalis Ka, the Bonehunter
         譯文 : >-
             tagBossRifthoundB01=Kalis Ka, the Bonehunter
 #-------------------------------#
+    607 :
+        原文 : >-
+            #CreatureScavenger
+        譯文 : >-
+            #CreatureScavenger 食腐動物
+#-------------------------------#
     609 :
-        標註 : 
         原文 : >-
             tagEnemyScavengerA01=Scavenger
         譯文 : >-
             tagEnemyScavengerA01=食腐者
 #-------------------------------#
     610 :
-        標註 : 
         原文 : >-
             tagEnemyScavengerB01=Frenzied Scavenger
         譯文 : >-
             tagEnemyScavengerB01=狂怒食腐者
 #-------------------------------#
     611 :
-        標註 : 
         原文 : >-
             tagEnemyScavengerC01=Scavenger Alpha
         譯文 : >-
             tagEnemyScavengerC01=食腐者統領
 #-------------------------------#
     613 :
-        標註 : 
         原文 : >-
             tagScavengerHeroH01=Scarsnout, the Cannibal
         譯文 : >-
             tagScavengerHeroH01=食人者 刀疤臉
 #-------------------------------#
     614 :
-        標註 : 
         原文 : >-
             tagScavengerHeroH02=Bloodclaw
         譯文 : >-
             tagScavengerHeroH02=血爪
 #-------------------------------#
     615 :
-        標註 : 
         原文 : >-
             tagScavengerHeroH03=Whitemane, the Thunderstruck
         譯文 : >-
             tagScavengerHeroH03=雷擊者 白鬃
 #-------------------------------#
     616 :
-        標註 : 
         原文 : >-
             tagScavengerHeroH04=Ernol Carrioneater ~ Diseased
         譯文 : >-
             tagScavengerHeroH04=食腐者 厄諾爾 ~ 疾病
 #-------------------------------#
     617 :
-        標註 : 
         原文 : >-
             tagScavengerHeroH05=Crimsontail ~ Supporter
         譯文 : >-
             tagScavengerHeroH05=猩紅之尾 ~ 支援者
 #-------------------------------#
     618 :
-        標註 : 
         原文 : >-
             tagScavengerHeroH06=Rav ~ Voidtouched
         譯文 : >-
             tagScavengerHeroH06=拉夫 ~ 虛空之觸
 #-------------------------------#
+    620 :
+        原文 : >-
+            #CreatureShadowman
+        譯文 : >-
+            #CreatureShadowman 影人
+#-------------------------------#
     622 :
-        標註 : 
         原文 : >-
             tagEnemyShadowmanA01=Shadowman
         譯文 : >-
             tagEnemyShadowmanA01=影人
 #-------------------------------#
     623 :
-        標註 : 
         原文 : >-
             tagEnemyShadowmanB01=Shadowman Deceiver
         譯文 : >-
             tagEnemyShadowmanB01=影人 欺詐者
 #-------------------------------#
     624 :
-        標註 : 
         原文 : >-
             tagEnemyShadowmanC01=Shadowman Eidolon
         譯文 : >-
             tagEnemyShadowmanC01=影人 幻靈
 #-------------------------------#
+    626 :
+        原文 : >-
+            #CreatureSkeletal Golem
+        譯文 : >-
+            #CreatureSkeletal Golem 骷髏傀儡
+#-------------------------------#
     628 :
-        標註 : 
         原文 : >-
             tagEnemySkeletalGolemB01=Skeletal Gargantuan
         譯文 : >-
             tagEnemySkeletalGolemB01=骸骨巨人
 #-------------------------------#
     629 :
-        標註 : 
         原文 : >-
             tagEnemySkeletalGolemC01=Skeletal Monstrosity
         譯文 : >-
             tagEnemySkeletalGolemC01=骸骨巨獸
 #-------------------------------#
     631 :
-        標註 : 
         原文 : >-
             tagSkeletalGolemHeroH01=Grulgor, the Tormented ~ Diseased
         譯文 : >-
             tagSkeletalGolemHeroH01=痛苦的格魯高 ~ 疾病
 #-------------------------------#
     632 :
-        標註 : 
         原文 : >-
             tagSkeletalGolemHeroH02=Falgarr, the Ice Watcher ~ Frozen
         譯文 : >-
             tagSkeletalGolemHeroH02=寒冰守衛 法加爾 ~ 冰凍
 #-------------------------------#
     633 :
-        標註 : 
         原文 : >-
             tagSkeletalGolemHeroH03=Bralgarr, the Flame Watcher ~ Burning
         譯文 : >-
             tagSkeletalGolemHeroH03=火焰守衛 布拉加爾 ~ 燃燒
 #-------------------------------#
     634 :
-        標註 : 
         原文 : >-
             tagSkeletalGolemHeroH04=Wralgarr, the Aethertouched ~ Corrupted
         譯文 : >-
             tagSkeletalGolemHeroH04=虛化之觸 沃拉加爾 ~ 腐化
 #-------------------------------#
     635 :
-        標註 : 
         原文 : >-
             tagSkeletalGolemHeroH05=Olagarr, the Chaosbringer ~ Voidtouched
         譯文 : >-
             tagSkeletalGolemHeroH05=混亂使者 奧拉加爾 ~ 虛空之觸
 #-------------------------------#
     638 :
-        標註 : 
         原文 : >-
             tagSkeletalGolemBossB01=Ilgorr, the Eternal
         譯文 : >-
             tagSkeletalGolemBossB01=不朽者 伊爾戈
 #-------------------------------#
     639 :
-        標註 : 
         原文 : >-
             tagSkeletalGolemBossB02=Uroboruuk's Guardian
         譯文 : >-
             tagSkeletalGolemBossB02=尤若布魯克的守衛
 #-------------------------------#
+    641 :
+        原文 : >-
+            #CreatureSkeleton
+        譯文 : >-
+            #CreatureSkeleton 骷髏
+#-------------------------------#
     643 :
-        標註 : 
         原文 : >-
             tagEnemySkeletonA01=Skeletal Warrior
         譯文 : >-
             tagEnemySkeletonA01=骷髏戰士
 #-------------------------------#
     644 :
-        標註 : 
         原文 : >-
             tagEnemySkeletonA02=Skeletal Archer
         譯文 : >-
             tagEnemySkeletonA02=骷髏弓箭手
 #-------------------------------#
     645 :
-        標註 : 
         原文 : >-
             tagEnemySkeletonB01=Skeletal Deathbolt Archer
         譯文 : >-
             tagEnemySkeletonB01=骷髏死亡之箭弓箭手
 #-------------------------------#
     646 :
-        標註 : 
         原文 : >-
             tagEnemySkeletonB02=Skeletal Knight
         譯文 : >-
             tagEnemySkeletonB02=骷髏騎士
 #-------------------------------#
     647 :
-        標註 : 
         原文 : >-
             tagEnemySkeletonB03=Skeletal Priest
         譯文 : >-
             tagEnemySkeletonB03=骷髏祭司
 #-------------------------------#
     648 :
-        標註 : 
         原文 : >-
             tagEnemySkeletonB04=Skeletal Warlock
         譯文 : >-
             tagEnemySkeletonB04=骷髏術士
 #-------------------------------#
     649 :
-        標註 : 
         原文 : >-
             tagEnemySkeletonC01=Flame Revenant
         譯文 : >-
             tagEnemySkeletonC01=火焰亡魂
 #-------------------------------#
     650 :
-        標註 : 
         原文 : >-
             tagEnemySkeletonC02=Frost Revenant
         譯文 : >-
             tagEnemySkeletonC02=霜凍亡魂
 #-------------------------------#
     651 :
-        標註 : 
         原文 : >-
             tagEnemySkeletonC03=Storm Revenant
         譯文 : >-
             tagEnemySkeletonC03=風暴亡魂
 #-------------------------------#
     652 :
-        標註 : 
         原文 : >-
             tagEnemySkeletonC04=Death Revenant
         譯文 : >-
             tagEnemySkeletonC04=死亡亡魂
 #-------------------------------#
     654 :
-        標註 : 
         原文 : >-
             tagSkeletonHeroH01=Tenebris, the Blood Drinker
         譯文 : >-
             tagSkeletonHeroH01=飲血者 泰布里斯
 #-------------------------------#
     655 :
-        標註 : 
         原文 : >-
             tagSkeletonHeroH02=Balrazar, Eternal Servant of Dreeg
         譯文 : >-
             tagSkeletonHeroH02=德里格的永世僕役 巴拉扎爾
 #-------------------------------#
     656 :
-        標註 : 
         原文 : >-
             tagSkeletonHeroH03=Lord Harris, the Damned
         譯文 : >-
             tagSkeletonHeroH03=受詛咒者 領主哈里斯
 #-------------------------------#
     657 :
-        標註 : 
         原文 : >-
             tagSkeletonHeroH04=Hellwraith ~ Burning
         譯文 : >-
             tagSkeletonHeroH04=地獄幽魂 ~ 燃燒
 #-------------------------------#
     658 :
-        標註 : 
         原文 : >-
             tagSkeletonHeroH05=Lord Alistar Hernsworth ~ Reflective
         譯文 : >-
             tagSkeletonHeroH05=領主阿里斯塔·赫斯沃斯 ~ 傷害反彈
 #-------------------------------#
     659 :
-        標註 : 
         原文 : >-
             tagSkeletonHeroH06=Chillheart ~ Frozen
         譯文 : >-
             tagSkeletonHeroH06=寒冰之心 ~ 冰凍
 #-------------------------------#
     661 :
-        標註 : 
         原文 : >-
             tagSkeletonBoss01=Kilrian, the Tainted Soul
         譯文 : >-
             tagSkeletonBoss01=汙染之魂 基爾安
 #-------------------------------#
     662 :
-        標註 : 
         原文 : >-
             tagSkeletonBoss02=Grand Priest Zarthuzellan
         譯文 : >-
             tagSkeletonBoss02=大祭司 扎爾澤蘭
 #-------------------------------#
     663 :
-        標註 : 
         原文 : >-
             tagSkeletonBoss03=Shade of Elnadrin
         譯文 : >-
             tagSkeletonBoss03=埃爾納德林的鬼魂
 #-------------------------------#
     664 :
-        標註 : 
         原文 : >-
             tagSkeletonBoss04=High Priest Rolderathis
         譯文 : >-
             tagSkeletonBoss04=大祭司 羅德拉西斯
 #-------------------------------#
     666 :
-        標註 : 
         原文 : >-
             tagGravestone_Skeleton01=Robert
         譯文 : >-
             tagGravestone_Skeleton01=羅伯特
 #-------------------------------#
     667 :
-        標註 : 
         原文 : >-
             tagGravestone_Skeleton02=Rockford
         譯文 : >-
             tagGravestone_Skeleton02=羅克福德
 #-------------------------------#
     668 :
-        標註 : 
         原文 : >-
             tagGravestone_Skeleton03=Ryan
         譯文 : >-
             tagGravestone_Skeleton03=瑞恩
 #-------------------------------#
+    670 :
+        原文 : >-
+            #CreatureSlith
+        譯文 : >-
+            #CreatureSlith 蛇人
+#-------------------------------#
     672 :
-        標註 : 
         原文 : >-
             tagEnemyDeepMire_SlithWarriorA01=Deepmire Warrior
         譯文 : >-
             tagEnemyDeepMire_SlithWarriorA01=泥潭戰士
 #-------------------------------#
     673 :
-        標註 : 
         原文 : >-
             tagEnemyDeepMire_SlithWarriorB01=Deepmire Vanguard
         譯文 : >-
             tagEnemyDeepMire_SlithWarriorB01=泥潭先鋒
 #-------------------------------#
     674 :
-        標註 : 
         原文 : >-
             tagEnemyDeepMire_SlithWarriorC01=Deepmire Champion
         譯文 : >-
             tagEnemyDeepMire_SlithWarriorC01=泥潭勇士
 #-------------------------------#
     675 :
-        標註 : 
         原文 : >-
             tagEnemyDeepMire_SlithWarriorC02=Deepmire Tidehunter
         譯文 : >-
             tagEnemyDeepMire_SlithWarriorC02=泥潭潮汐獵人
 #-------------------------------#
     676 :
-        標註 : 
         原文 : >-
             tagEnemyDeepMire_SlithShamanB01=Deepmire Shaman
         譯文 : >-
             tagEnemyDeepMire_SlithShamanB01=泥潭薩滿
 #-------------------------------#
     677 :
-        標註 : 
         原文 : >-
             tagEnemyDeepMire_SlithShamanB02=Deepmire Scourge-Tamer
         譯文 : >-
             tagEnemyDeepMire_SlithShamanB02=泥潭馴獸師
 #-------------------------------#
     678 :
-        標註 : 
         原文 : >-
             tagEnemyDeepMire_SlithShamanC01=Deepmire Evocator
         譯文 : >-
             tagEnemyDeepMire_SlithShamanC01=泥潭召喚者
 #-------------------------------#
     679 :
-        標註 : 
         原文 : >-
             tagEnemyDeepMire_SlithShamanC02=Deepmire Pureblood
         譯文 : >-
             tagEnemyDeepMire_SlithShamanC02=泥潭純種蛇人
 #-------------------------------#
     681 :
-        標註 : 
         原文 : >-
             tagEnemyVenomtongue_SlithWarriorA01=Venomtongue Warrior
         譯文 : >-
             tagEnemyVenomtongue_SlithWarriorA01=毒舌戰士
 #-------------------------------#
     682 :
-        標註 : 
         原文 : >-
             tagEnemyVenomtongue_SlithWarriorB01=Venomtongue Vanguard
         譯文 : >-
             tagEnemyVenomtongue_SlithWarriorB01=毒舌先鋒
 #-------------------------------#
     683 :
-        標註 : 
         原文 : >-
             tagEnemyVenomtongue_SlithWarriorC01=Venomtongue Champion
         譯文 : >-
             tagEnemyVenomtongue_SlithWarriorC01=毒舌勇士
 #-------------------------------#
     684 :
-        標註 : 
         原文 : >-
             tagEnemyVenomtongue_SlithShamanB01=Venomtongue Shaman
         譯文 : >-
             tagEnemyVenomtongue_SlithShamanB01=毒舌薩滿
 #-------------------------------#
     685 :
-        標註 : 
         原文 : >-
             tagEnemyVenomtongue_SlithShamanC01=Venomtongue Evocator
         譯文 : >-
             tagEnemyVenomtongue_SlithShamanC01=毒舌召喚者
 #-------------------------------#
     687 :
-        標註 : 
         原文 : >-
             tagEnemyBloodscale_SlithWarriorA01=Bloodscale Warrior
         譯文 : >-
             tagEnemyBloodscale_SlithWarriorA01=血鱗戰士
 #-------------------------------#
     688 :
-        標註 : 
         原文 : >-
             tagEnemyBloodscale_SlithWarriorB01=Bloodscale Vanguard
         譯文 : >-
             tagEnemyBloodscale_SlithWarriorB01=血鱗先鋒
 #-------------------------------#
     689 :
-        標註 : 
         原文 : >-
             tagEnemyBloodscale_SlithWarriorC01=Bloodscale Champion
         譯文 : >-
             tagEnemyBloodscale_SlithWarriorC01=血鱗勇士
 #-------------------------------#
     690 :
-        標註 : 
         原文 : >-
             tagEnemyBloodscale_SlithShamanB01=Bloodscale Shaman
         譯文 : >-
             tagEnemyBloodscale_SlithShamanB01=血鱗薩滿
 #-------------------------------#
     691 :
-        標註 : 
         原文 : >-
             tagEnemyBloodscale_SlithShamanC01=Bloodscale Evocator
         譯文 : >-
             tagEnemyBloodscale_SlithShamanC01=血鱗召喚者
 #-------------------------------#
     693 :
-        標註 : 
         原文 : >-
             tagSlithHeroH01=Igrixx, the Rimeheart
         譯文 : >-
             tagSlithHeroH01=霜心 依格瑞克斯
 #-------------------------------#
     694 :
-        標註 : 
         原文 : >-
             tagSlithHeroH02=Jaron, Lord of the Storm
         譯文 : >-
             tagSlithHeroH02=風暴領主 加隆
 #-------------------------------#
     695 :
-        標註 : 
         原文 : >-
             tagSlithHeroH03=Lorkhan, Lord of the Deep
         譯文 : >-
             tagSlithHeroH03=深淵領主 羅可汗
 #-------------------------------#
     696 :
-        標註 : 
         原文 : >-
             tagSlithHeroH04=Farnlan, the Vile ~ Unstoppable
         譯文 : >-
             tagSlithHeroH04=邪惡的法蘭 ~ 勇不可擋
 #-------------------------------#
     697 :
-        標註 : 
         原文 : >-
             tagSlithHeroH05=Eidonax ~ Swift
         譯文 : >-
             tagSlithHeroH05=埃多納克斯 ~ 迅捷
 #-------------------------------#
     698 :
-        標註 : 
         原文 : >-
             tagSlithHeroH06=Avaladran ~ Corrupted
         譯文 : >-
             tagSlithHeroH06=阿瓦拉瑞安 ~ 腐化
 #-------------------------------#
     700 :
-        標註 : 
         原文 : >-
             tagSlithBossB01=Viloth, the Corruptor
         譯文 : >-
             tagSlithBossB01=腐化者 維洛絲
 #-------------------------------#
     701 :
-        標註 : 
         原文 : >-
             tagSlithBossB02=Primordian, the Forgotten One
         譯文 : >-
             tagSlithBossB02=被遺忘者 派莫笛安
 #-------------------------------#
     702 :
-        標註 : 
         原文 : >-
             tagSlitbBossB03=Ellena, the First Slith
         譯文 : >-
             tagSlitbBossB03=第一隻蛇人 艾萊納
 #-------------------------------#
     704 :
-        標註 : 
         原文 : >-
             tagEnemyMurkTide_SlithWarriorA01=Murktide Warrior
         譯文 : >-
             tagEnemyMurkTide_SlithWarriorA01=黑潮戰士
 #-------------------------------#
     705 :
-        標註 : 
         原文 : >-
             tagEnemyMurkTide_SlithWarriorB01=Murktide Vanguard
         譯文 : >-
             tagEnemyMurkTide_SlithWarriorB01=黑潮先鋒
 #-------------------------------#
     706 :
-        標註 : 
         原文 : >-
             tagEnemyMurkTide_SlithWarriorC01=Murktide Champion
         譯文 : >-
             tagEnemyMurkTide_SlithWarriorC01=黑潮勇士
 #-------------------------------#
     707 :
-        標註 : 
         原文 : >-
             tagEnemyMurkTide_SlithShamanB01=Murktide Shaman
         譯文 : >-
             tagEnemyMurkTide_SlithShamanB01=黑潮薩滿
 #-------------------------------#
     708 :
-        標註 : 
         原文 : >-
             tagEnemyMurkTide_SlithShamanC01=Murktide Evocator
         譯文 : >-
             tagEnemyMurkTide_SlithShamanC01=黑潮召喚者
 #-------------------------------#
+    710 :
+        原文 : >-
+            #CreatureSpider
+        譯文 : >-
+            #CreatureSpider 蜘蛛
+#-------------------------------#
     712 :
-        標註 : 
         原文 : >-
             tagEnemySpiderA01=Dreadweave Arachnid
         譯文 : >-
             tagEnemySpiderA01=恐怖編織者 蜘蛛
 #-------------------------------#
     713 :
-        標註 : 
         原文 : >-
             tagEnemySpiderA02=Dreadweave Spitter
         譯文 : >-
             tagEnemySpiderA02=恐怖編織者 噴毒者
 #-------------------------------#
     714 :
-        標註 : 
         原文 : >-
             tagEnemySpiderB01=Dreadweave Leaper
         譯文 : >-
             tagEnemySpiderB01=恐怖編織者 跳躍者
 #-------------------------------#
     715 :
-        標註 : 
         原文 : >-
             tagEnemySpiderB02=Dreadweave Widow
         譯文 : >-
             tagEnemySpiderB02=恐怖編織者 寡婦
 #-------------------------------#
     716 :
-        標註 : 
         原文 : >-
             tagEnemySpiderC01=Dreadweave Matriarch
         譯文 : >-
             tagEnemySpiderC01=恐怖編織者 女王
 #-------------------------------#
     717 :
-        標註 : 
         原文 : >-
             tagEnemySpiderSummon=Spiderling
         譯文 : >-
             tagEnemySpiderSummon=幼蛛
 #-------------------------------#
     719 :
-        標註 : 
         原文 : >-
             tagSpiderHeroH01=Oldelon, the Molten
         譯文 : >-
             tagSpiderHeroH01=熔岩 奧德隆
 #-------------------------------#
     720 :
-        標註 : 
         原文 : >-
             tagSpiderHeroH02=Raglis, the Leaper
         譯文 : >-
             tagSpiderHeroH02=跳躍者 拉格里絲
 #-------------------------------#
     721 :
-        標註 : 
         原文 : >-
             tagSpiderHeroH03=Herna, the Dread Widow
         譯文 : >-
             tagSpiderHeroH03=恐怖寡婦 赫爾娜
 #-------------------------------#
     722 :
-        標註 : 
         原文 : >-
             tagSpiderHeroH04=Triinix, the Weaver
         譯文 : >-
             tagSpiderHeroH04=編織者 特尼克絲
 #-------------------------------#
     723 :
-        標註 : 
         原文 : >-
             tagSpiderHeroH05=Larna, the Fateweaver ~ Shielded
         譯文 : >-
             tagSpiderHeroH05=命運編織者 拉娜 ~ 護盾
 #-------------------------------#
     724 :
-        標註 : 
         原文 : >-
             tagSpiderHeroH06=Uldina, the Broodmother ~ Defender
         譯文 : >-
             tagSpiderHeroH06=育母蜘蛛 奧蒂娜 ~ 防禦者
 #-------------------------------#
+    726 :
+        原文 : >-
+            #CreatureThornedHorror
+        譯文 : >-
+            #CreatureThornedHorror 荊棘恐魔
+#-------------------------------#
     728 :
-        標註 : 
         原文 : >-
             tagEnemyThornedHorrorA01=Briarthorn Horror
         譯文 : >-
             tagEnemyThornedHorrorA01=荊棘恐獸
 #-------------------------------#
     729 :
-        標註 : 
         原文 : >-
             tagEnemyThornedHorrorB01=Briarthorn Terror
         譯文 : >-
             tagEnemyThornedHorrorB01=荊棘懼獸
 #-------------------------------#
     730 :
-        標註 : 
         原文 : >-
             tagEnemyThornedHorrorC01=Briarthorn Monstrosity
         譯文 : >-
             tagEnemyThornedHorrorC01=荊棘巨獸
 #-------------------------------#
     733 :
-        標註 : 
         原文 : >-
             tagThornedHorrorHeroH01=Terrolean, the Pandemonium
         譯文 : >-
             tagThornedHorrorHeroH01=魔窟 泰若利恩
 #-------------------------------#
     734 :
-        標註 : 
         原文 : >-
             tagThornedHorrorHeroH02=Korplax, the Overgrown
         譯文 : >-
             tagThornedHorrorHeroH02=瘋長的科普拉克斯
 #-------------------------------#
     735 :
-        標註 : 
         原文 : >-
             tagThornedHorrorHeroH03=Blackthorn ~ Reflective
         譯文 : >-
             tagThornedHorrorHeroH03=黑荊棘 ~ 傷害反彈
 #-------------------------------#
     736 :
-        標註 : 
         原文 : >-
             tagThornedHorrorHeroH04=Rotthorn ~ Diseased
         譯文 : >-
             tagThornedHorrorHeroH04=腐爛荊棘 ~ 疾病
 #-------------------------------#
     737 :
-        標註 : 
         原文 : >-
             tagThornedHorrorHeroH05=Everbark ~ Regenerator
         譯文 : >-
             tagThornedHorrorHeroH05=長青 ~ 回覆者
 #-------------------------------#
     738 :
-        標註 : 
         原文 : >-
             tagThornedHorrorHeroH06=Rimebark ~ Frozen
         譯文 : >-
             tagThornedHorrorHeroH06=寒霜樹皮 ~ 冰凍
 #-------------------------------#
     740 :
-        標註 : 
         原文 : >-
             tagThornedHorrorBoss01=Ol' Bloodbriar
         譯文 : >-
             tagThornedHorrorBoss01=血荊棘
 #-------------------------------#
     742 :
-        標註 : 
         原文 : >-
             tagEnemyAetherHorrorA01=Aetherthorn Horror
         譯文 : >-
             tagEnemyAetherHorrorA01=虛化荊棘恐獸
 #-------------------------------#
     744 :
-        標註 : 
         原文 : >-
             tagAetherHorrorHeroH01=Aetheros
         譯文 : >-
             tagAetherHorrorHeroH01=艾澤若斯
 #-------------------------------#
+    747 :
+        原文 : >-
+            #CreatureTraps
+        譯文 : >-
+            #CreatureTraps 陷阱
+#-------------------------------#
     749 :
-        標註 : 
         原文 : >-
             tagEnemyTrapA01=Flare Trap
         譯文 : >-
             tagEnemyTrapA01=閃耀陷阱
 #-------------------------------#
     750 :
-        標註 : 
         原文 : >-
             tagEnemyTrapA02=Launcher Trap
         譯文 : >-
             tagEnemyTrapA02=發射陷阱
 #-------------------------------#
     751 :
-        標註 : 
         原文 : >-
             tagEnemyTrapA03=Obsidian Shard
         譯文 : >-
             tagEnemyTrapA03=黑曜石碎片
 #-------------------------------#
     752 :
-        標註 : 
         原文 : >-
             tagEnemyTrapA04=Obsidian Anomaly
         譯文 : >-
             tagEnemyTrapA04=黑曜石變體
 #-------------------------------#
     753 :
-        標註 : 
         原文 : >-
             tagEnemyTrapA05=Floor Spikes
         譯文 : >-
             tagEnemyTrapA05=地面尖刺
 #-------------------------------#
+    755 :
+        原文 : >-
+            #CreatureTrolls
+        譯文 : >-
+            #CreatureTrolls 巨魔
+#-------------------------------#
     757 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfA01=Mistborn Brute
         譯文 : >-
             tagEnemyTrollHalfA01=霧裔蠻兵
 #-------------------------------#
     758 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfA02=Mistborn Herder
         譯文 : >-
             tagEnemyTrollHalfA02=霧裔牧人
 #-------------------------------#
     759 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfB01=Mistborn Hunter
         譯文 : >-
             tagEnemyTrollHalfB01=霧裔獵手
 #-------------------------------#
     760 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfB02=Mistborn Warrior
         譯文 : >-
             tagEnemyTrollHalfB02=霧裔戰士
 #-------------------------------#
     761 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfB03=Mistborn Shaman
         譯文 : >-
             tagEnemyTrollHalfB03=霧裔薩滿
 #-------------------------------#
     762 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfC01=Mistborn Elder
         譯文 : >-
             tagEnemyTrollHalfC01=霧裔長者
 #-------------------------------#
     764 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfSwampA01=Eastmire Brute
         譯文 : >-
             tagEnemyTrollHalfSwampA01=Eastmire Brute
 #-------------------------------#
     765 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfSwampA02=Eastmire Herder
         譯文 : >-
             tagEnemyTrollHalfSwampA02=Eastmire Herder
 #-------------------------------#
     766 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfSwampB01=Eastmire Hunter
         譯文 : >-
             tagEnemyTrollHalfSwampB01=Eastmire Hunter
 #-------------------------------#
     767 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfSwampB02=Eastmire Warrior
         譯文 : >-
             tagEnemyTrollHalfSwampB02=Eastmire Warrior
 #-------------------------------#
     768 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfSwampB03=Eastmire Shaman
         譯文 : >-
             tagEnemyTrollHalfSwampB03=Eastmire Shaman
 #-------------------------------#
     769 :
-        標註 : 
         原文 : >-
             tagEnemyTrollHalfSwampC01=Eastmire Elder
         譯文 : >-
             tagEnemyTrollHalfSwampC01=Eastmire Elder
 #-------------------------------#
     771 :
-        標註 : 
         原文 : >-
             tagTrollHalfHeroH01=Balarr, the Rockeater
         譯文 : >-
             tagTrollHalfHeroH01=吞巖者 巴拉爾
 #-------------------------------#
     772 :
-        標註 : 
         原文 : >-
             tagTrollHalfHeroH02=Paldrak, the Warmonger
         譯文 : >-
             tagTrollHalfHeroH02=戰爭狂 帕德瑞克
 #-------------------------------#
     773 :
-        標註 : 
         原文 : >-
             tagTrollHalfHeroH03=Stonetooth ~ Defender
         譯文 : >-
             tagTrollHalfHeroH03=石牙 ~ 防禦者
 #-------------------------------#
     774 :
-        標註 : 
         原文 : >-
             tagTrollHalfHeroH04=Elloras, the Sun-Eater ~ Burning
         譯文 : >-
             tagTrollHalfHeroH04=食日者 艾洛拉斯 ~ 燃燒
 #-------------------------------#
     776 :
-        標註 : 
         原文 : >-
             tagTrollHalfSwampHeroH01=Ragarr Stonecrusher
         譯文 : >-
             tagTrollHalfSwampHeroH01=碎石者 拉加爾
 #-------------------------------#
     777 :
-        標註 : 
         原文 : >-
             tagTrollHalfSwampHeroH02=Toglokk the Ravener
         譯文 : >-
             tagTrollHalfSwampHeroH02=渡鴉 拖格洛克
 #-------------------------------#
     778 :
-        標註 : 
         原文 : >-
             tagTrollHalfSwampHeroH03=Maglak ~ Shielded
         譯文 : >-
             tagTrollHalfSwampHeroH03=馬格拉克 ~ 護盾
 #-------------------------------#
     779 :
-        標註 : 
         原文 : >-
             tagTrollHalfSwampHeroH04=Wallak ~ Supporter
         譯文 : >-
             tagTrollHalfSwampHeroH04=瓦拉克 ~ 支援者
 #-------------------------------#
     781 :
-        標註 : 
         原文 : >-
             tagEnemyTrollA01=Stonewart Troll
         譯文 : >-
             tagEnemyTrollA01=石疣巨魔
 #-------------------------------#
     782 :
-        標註 : 
         原文 : >-
             tagEnemyTrollB01=Stonewart Rager
         譯文 : >-
             tagEnemyTrollB01=石疣狂怒者
 #-------------------------------#
     783 :
-        標註 : 
         原文 : >-
             tagEnemyTrollC01=Stonewart Behemoth
         譯文 : >-
             tagEnemyTrollC01=石疣巨獸
 #-------------------------------#
     785 :
-        標註 : 
         原文 : >-
             tagEnemyTrollSwampA01=Plaguewart Troll
         譯文 : >-
             tagEnemyTrollSwampA01=毒疣巨魔
 #-------------------------------#
     786 :
-        標註 : 
         原文 : >-
             tagEnemyTrollSwampB01=Plaguewart Rager
         譯文 : >-
             tagEnemyTrollSwampB01=毒疣狂怒者
 #-------------------------------#
     787 :
-        標註 : 
         原文 : >-
             tagEnemyTrollSwampC01=Plaguewart Behemoth
         譯文 : >-
             tagEnemyTrollSwampC01=毒疣巨獸
 #-------------------------------#
     789 :
-        標註 : 
         原文 : >-
             tagTrollHeroH01=Uglak, the Immortal
         譯文 : >-
             tagTrollHeroH01=不朽的 阿格拉克
 #-------------------------------#
     790 :
-        標註 : 
         原文 : >-
             tagTrollHeroH02=Surrlak, the Earthmover
         譯文 : >-
             tagTrollHeroH02=動地者 蘇拉克
 #-------------------------------#
     791 :
-        標註 : 
         原文 : >-
             tagTrollHeroH03=Troglak ~ Unstoppable
         譯文 : >-
             tagTrollHeroH03=特格拉克 ~ 勇不可擋
 #-------------------------------#
     792 :
-        標註 : 
         原文 : >-
             tagTrollHeroH04=Oldak, the Miasma ~ Diseased
         譯文 : >-
             tagTrollHeroH04=瘴氣 歐達克 ~ 疾病
 #-------------------------------#
     793 :
-        標註 : 
         原文 : >-
             tagTrollHeroH05=Wontlak ~ Frozen
         譯文 : >-
             tagTrollHeroH05=汪特拉克 ~ 冰凍
 #-------------------------------#
     795 :
-        標註 : 
         原文 : >-
             tagTrollSwampHeroH01=Balglak, the Swamp Warden
         譯文 : >-
             tagTrollSwampHeroH01=沼澤守衛 巴格拉克
 #-------------------------------#
     796 :
-        標註 : 
         原文 : >-
             tagTrollSwampHeroH02=Rovos ~ Reflective
         譯文 : >-
             tagTrollSwampHeroH02=若沃斯 ~ 傷害反彈
 #-------------------------------#
     797 :
-        標註 : 
         原文 : >-
             tagTrollSwampHeroH03=Malgalok ~ Voidtouched
         譯文 : >-
             tagTrollSwampHeroH03=馬加洛克 ~ 虛空之觸
 #-------------------------------#
     798 :
-        標註 : 
         原文 : >-
             tagTrollSwampHeroH04=Avalgal ~ Corrupted
         譯文 : >-
             tagTrollSwampHeroH04=阿瓦加爾 ~ 腐化
 #-------------------------------#
     800 :
-        標註 : 
         原文 : >-
             tagBossTrollB01=Gulgoth, the Rampaging
         譯文 : >-
             tagBossTrollB01=狂暴的苟格思
 #-------------------------------#
     801 :
-        標註 : 
         原文 : >-
             tagBossTrollB02=Voldrak, the Destroyer
         譯文 : >-
             tagBossTrollB02=破壞者 沃德拉克
 #-------------------------------#
     802 :
-        標註 : 
         原文 : >-
             tagBossTrollB03=Balegor, the Swamp King
         譯文 : >-
             tagBossTrollB03=沼澤之王 貝爾戈
 #-------------------------------#
     804 :
-        標註 : 
         原文 : >-
             tagEnemyTrollCorruptedA01=Fleshwarped Troll
         譯文 : >-
             tagEnemyTrollCorruptedA01=奇型巨魔
 #-------------------------------#
     805 :
-        標註 : 
         原文 : >-
             tagEnemyTrollCorruptedB01=Fleshwarped Vanguard
         譯文 : >-
             tagEnemyTrollCorruptedB01=奇型先鋒
 #-------------------------------#
     806 :
-        標註 : 
         原文 : >-
             tagEnemyTrollCorruptedB02=Fleshwarped Deadeye
         譯文 : >-
             tagEnemyTrollCorruptedB02=奇型槍手
 #-------------------------------#
     807 :
-        標註 : 
         原文 : >-
             tagEnemyTrollCorruptedC01=Fleshwarped Commander
         譯文 : >-
             tagEnemyTrollCorruptedC01=奇型指揮
 #-------------------------------#
     809 :
-        標註 : 
         原文 : >-
             tagTrollCorruptedHeroH01=Sulkarr, the Stormtouched
         譯文 : >-
             tagTrollCorruptedHeroH01=風暴之觸 蘇卡爾
 #-------------------------------#
     810 :
-        標註 : 
         原文 : >-
             tagTrollCorruptedHeroH02=Horcris, the Terror
         譯文 : >-
             tagTrollCorruptedHeroH02=恐懼 霍克瑞斯
 #-------------------------------#
     811 :
-        標註 : 
         原文 : >-
             tagTrollCorruptedHeroH03=Corruptis
         譯文 : >-
             tagTrollCorruptedHeroH03=腐化
 #-------------------------------#
     812 :
-        標註 : 
         原文 : >-
             tagTrollCorruptedHeroH04=Caladrak ~ Unstoppable
         譯文 : >-
             tagTrollCorruptedHeroH04=卡拉德拉克 ~ 勇不可擋
 #-------------------------------#
     813 :
-        標註 : 
         原文 : >-
             tagTrollCorruptedHeroH05=Faldrak ~ Reflective
         譯文 : >-
             tagTrollCorruptedHeroH05=法爾德拉克 ~ 傷害反彈
 #-------------------------------#
     815 :
-        標註 : 
         原文 : >-
             tagTrollCorruptedBoss01=Harrath the Slaughterer
         譯文 : >-
             tagTrollCorruptedBoss01=屠殺者 哈拉斯
 #-------------------------------#
+    817 :
+        原文 : >-
+            #CreatureUnderdwellers
+        譯文 : >-
+            #CreatureUnderdwellers
+#-------------------------------#
     819 :
-        標註 : 
         原文 : >-
             tagEnemyCaveTrollHalfA01=Trog Blood Drinker
         譯文 : >-
             tagEnemyCaveTrollHalfA01=穴居人飲血者
 #-------------------------------#
     820 :
-        標註 : 
         原文 : >-
             tagEnemyCaveTrollHalfB01=Trog Flesh Ripper
         譯文 : >-
             tagEnemyCaveTrollHalfB01=穴居人血肉撕裂者
 #-------------------------------#
     821 :
-        標註 : 
         原文 : >-
             tagEnemyCaveTrollHalfB02=Trog Blood Mage
         譯文 : >-
             tagEnemyCaveTrollHalfB02=穴居人血法師
 #-------------------------------#
     822 :
-        標註 : 
         原文 : >-
             tagEnemyCaveGrobleA01=Underdweller Runt
         譯文 : >-
             tagEnemyCaveGrobleA01=地下棲息者 矮人
 #-------------------------------#
     823 :
-        標註 : 
         原文 : >-
             tagEnemyCaveGrobleB01=Underdweller Ritualist
         譯文 : >-
             tagEnemyCaveGrobleB01=地下棲息者 祭司
 #-------------------------------#
     824 :
-        標註 : 
         原文 : >-
             tagEnemyCaveTrollB01=Underdweller Troll
         譯文 : >-
             tagEnemyCaveTrollB01=地下棲息者 巨魔
 #-------------------------------#
     825 :
-        標註 : 
         原文 : >-
             tagEnemyCaveTrollC01=Underdweller Behemoth
         譯文 : >-
             tagEnemyCaveTrollC01=地下棲息者 巨獸
 #-------------------------------#
     826 :
-        標註 : 
         原文 : >-
             tagEnemyCaveSpiderA01=Terrorweave Spiderling
         譯文 : >-
             tagEnemyCaveSpiderA01=恐懼編織者 幼蛛
 #-------------------------------#
     827 :
-        標註 : 
         原文 : >-
             tagEnemyCaveSpiderB01=Terrorweave Arachnid
         譯文 : >-
             tagEnemyCaveSpiderB01=恐懼編織者 蜘蛛
 #-------------------------------#
     828 :
-        標註 : 
         原文 : >-
             tagEnemyCaveSpiderB02=Terrorweave Widow
         譯文 : >-
             tagEnemyCaveSpiderB02=恐懼編織者 寡婦
 #-------------------------------#
     829 :
-        標註 : 
         原文 : >-
             tagEnemyCaveSpiderC01=Terrorweave Matriarch
         譯文 : >-
             tagEnemyCaveSpiderC01=恐懼編織者 女王
 #-------------------------------#
     831 :
-        標註 : 
         原文 : >-
             tagCaveTrollHalfHeroH01=Glavrok, the Darkdweller
         譯文 : >-
             tagCaveTrollHalfHeroH01=黑暗之民 格拉沃洛克
 #-------------------------------#
     832 :
-        標註 : 
         原文 : >-
             tagCaveTrollHalfHeroH02=Algrok, the Blind Berserker
         譯文 : >-
             tagCaveTrollHalfHeroH02=盲眼狂戰士 阿格洛克
 #-------------------------------#
     833 :
-        標註 : 
         原文 : >-
             tagCaveTrollHalfHeroH03=Savarok ~ Shielded
         譯文 : >-
             tagCaveTrollHalfHeroH03=薩瓦洛克 ~ 護盾
 #-------------------------------#
     834 :
-        標註 : 
         原文 : >-
             tagCaveGrobleHeroH01=Akala ~ Swift
         譯文 : >-
             tagCaveGrobleHeroH01=阿卡拉 ~ 迅捷
 #-------------------------------#
     835 :
-        標註 : 
         原文 : >-
             tagCaveGrobleHeroH02=Ulbalak ~ Supporter
         譯文 : >-
             tagCaveGrobleHeroH02=歐巴拉克 ~ 支援者
 #-------------------------------#
     836 :
-        標註 : 
         原文 : >-
             tagCaveSpiderHeroH01=Shelleb, the Darkness
         譯文 : >-
             tagCaveSpiderHeroH01=黑暗 謝爾勒
 #-------------------------------#
     837 :
-        標註 : 
         原文 : >-
             tagCaveSpiderHeroH02=Vilaxna ~ Regenerator
         譯文 : >-
             tagCaveSpiderHeroH02=維拉克斯娜 ~ 回覆者
 #-------------------------------#
     838 :
-        標註 : 
         原文 : >-
             tagCaveSpiderHeroH03=Ravnix ~ Swift
         譯文 : >-
             tagCaveSpiderHeroH03=拉夫尼克斯 ~ 迅捷
 #-------------------------------#
     840 :
-        標註 : 
         原文 : >-
             tagCaveSpiderBoss01=Ungoliax, the Gloomweaver
         譯文 : >-
             tagCaveSpiderBoss01=幽冥編織者 安苟利亞克斯
 #-------------------------------#
     841 :
-        標註 : 
         原文 : >-
             tagCaveTrollHalfBoss01=Gollus, the Deepdweller
         譯文 : >-
             tagCaveTrollHalfBoss01=穴居者 高魯斯
 #-------------------------------#
+    843 :
+        原文 : >-
+            #CreatureVultures
+        譯文 : >-
+            #creatureVultures 禿鷲
+#-------------------------------#
     845 :
-        標註 : 
         原文 : >-
             tagEnemyVultureSummon=Arkovian Rocktalon
         譯文 : >-
             tagEnemyVultureSummon=安克維亞 石爪
 #-------------------------------#
     846 :
-        標註 : 
         原文 : >-
             tagEnemyVultureA01=Arkovian Rocktalon
         譯文 : >-
             tagEnemyVultureA01=安克維亞 石爪
 #-------------------------------#
     847 :
-        標註 : 
         原文 : >-
             tagEnemyVultureB01=Arkovian Plaguebeak
         譯文 : >-
             tagEnemyVultureB01=安克維亞 毒喙
 #-------------------------------#
     849 :
-        標註 : 
         原文 : >-
             tagHeroVultureH01=Volaxna, the Bloodgorger
         譯文 : >-
             tagHeroVultureH01=食血者 沃拉克斯娜
 #-------------------------------#
     850 :
-        標註 : 
         原文 : >-
             tagHeroVultureH02=Plaguewing ~ Diseased
         譯文 : >-
             tagHeroVultureH02=天災之翼 ~ 疾病
 #-------------------------------#
     851 :
-        標註 : 
         原文 : >-
             tagHeroVultureH03=Harrowbeak ~ Unstoppable
         譯文 : >-
             tagHeroVultureH03=耙型喙 ~ 勇不可擋
 #-------------------------------#
     852 :
-        標註 : 
         原文 : >-
             tagHeroVultureH04=Wrathtalon ~ Corrupted
         譯文 : >-
             tagHeroVultureH04=憤怒利爪 ~ 腐化
 #-------------------------------#
     853 :
-        標註 : 
         原文 : >-
             tagHeroVultureH05=Voidtalon ~ Voidtouched
         譯文 : >-
             tagHeroVultureH05=虛空利爪 ~ 虛化之觸
 #-------------------------------#
+    855 :
+        原文 : >-
+            #CreatureWorm
+        譯文 : >-
+            #CreatureWorm 蟲
+#-------------------------------#
     857 :
-        標註 : 
         原文 : >-
             tagEnemyWormA01=Earthbreaker Burrower
         譯文 : >-
             tagEnemyWormA01=撼地者 鑽地蟲
 #-------------------------------#
     858 :
-        標註 : 
         原文 : >-
             tagEnemyWormB01=Earthbreaker Rotworm
         譯文 : >-
             tagEnemyWormB01=撼地者 腐蟲
 #-------------------------------#
     860 :
-        標註 : 
         原文 : >-
             tagEnemyWormDeepDwellerA01=Deepdweller Grub
         譯文 : >-
             tagEnemyWormDeepDwellerA01=深淵挖掘者
 #-------------------------------#
     862 :
-        標註 : 
         原文 : >-
             tagWormHeroH01=Gravner, the Bile-Eater
         譯文 : >-
             tagWormHeroH01=嗜怒者 格拉夫內爾
 #-------------------------------#
     863 :
-        標註 : 
         原文 : >-
             tagWormHeroH02=Groundsplitter ~ Electrified
         譯文 : >-
             tagWormHeroH02=裂地者 ~ 帶電
 #-------------------------------#
     864 :
-        標註 : 
         原文 : >-
             tagWormHeroH03=Stonespitter ~ Shielded
         譯文 : >-
             tagWormHeroH03=裂石者 ~ 護盾
 #-------------------------------#
     865 :
-        標註 : 
         原文 : >-
             tagWormHeroH04=Wrathworm ~ Corrupted
         譯文 : >-
             tagWormHeroH04=憤怒之蟲 ~ 腐化
 #-------------------------------#
     866 :
-        標註 : 
         原文 : >-
             tagWormHeroH05=Riftworm ~ Voidtouched
         譯文 : >-
             tagWormHeroH05=裂隙魔蟲 ~ 虛化之觸
 #-------------------------------#
+    868 :
+        原文 : >-
+            #CreatureYeti
+        譯文 : >-
+            #CreatureYeti 雪人
+#-------------------------------#
     870 :
-        標註 : 
         原文 : >-
             tagEnemyYetiA01=Chillmane Brute
         譯文 : >-
             tagEnemyYetiA01=寒鬃野獸
 #-------------------------------#
     871 :
-        標註 : 
         原文 : >-
             tagEnemyYetiB01=Chillmane Rager
         譯文 : >-
             tagEnemyYetiB01=寒鬃狂暴者
 #-------------------------------#
     872 :
-        標註 : 
         原文 : >-
             tagEnemyYetiB02=Chillmane Icesplitter
         譯文 : >-
             tagEnemyYetiB02=寒鬃寒冰分斷者
 #-------------------------------#
     873 :
-        標註 : 
         原文 : >-
             tagEnemyYetiC01=Chillmane Alpha
         譯文 : >-
             tagEnemyYetiC01=寒鬃頭領
 #-------------------------------#
     875 :
-        標註 : 
         原文 : >-
             tagYetiHeroH01=Bonechill
         譯文 : >-
             tagYetiHeroH01=Bonechill
 #-------------------------------#
     876 :
-        標註 : 
         原文 : >-
             tagYetiHeroH02=Icesnap
         譯文 : >-
             tagYetiHeroH02=Icesnap
 #-------------------------------#
     877 :
-        標註 : 
         原文 : >-
             tagYetiHeroH03=Chillblood ~ Regenerator
         譯文 : >-
             tagYetiHeroH03=Chillblood ~ Regenerator
 #-------------------------------#
     878 :
-        標註 : 
         原文 : >-
             tagYetiHeroH04=Mallus ~ Corrupted
         譯文 : >-
             tagYetiHeroH04=Mallus ~ Corrupted
 #-------------------------------#
     880 :
-        標註 : 
         原文 : >-
             tagYetiBoss01=Ragrathar Rageblood
         譯文 : >-
             tagYetiBoss01=Ragrathar Rageblood
 #-------------------------------#
+    883 :
+        原文 : >-
+            #CreatureZombie
+        譯文 : >-
+            #CreatureZombie
+#-------------------------------#
     885 :
-        標註 : 
         原文 : >-
             tagEnemyZombieA01=Walking Dead
         譯文 : >-
             tagEnemyZombieA01=行屍
 #-------------------------------#
     886 :
-        標註 : 
         原文 : >-
             tagEnemyZombieB01=Wretcher
         譯文 : >-
             tagEnemyZombieB01=惡屍
 #-------------------------------#
     887 :
-        標註 : 
         原文 : >-
             tagEnemyZombieC01=Fury
         譯文 : >-
             tagEnemyZombieC01=怒屍
 #-------------------------------#
     888 :
-        標註 : 
         原文 : >-
             tagEnemyZombieD01=Cold One
         譯文 : >-
             tagEnemyZombieD01=凍屍
 #-------------------------------#
     889 :
-        標註 : 
         原文 : >-
             tagEnemyZombieE01=Night Terror
         譯文 : >-
             tagEnemyZombieE01=夜行屍
 #-------------------------------#
     890 :
-        標註 : 
         原文 : >-
             tagEnemyZombieF01=Burning Dead
         譯文 : >-
             tagEnemyZombieF01=燃屍
 #-------------------------------#
     891 :
-        標註 : 
         原文 : >-
             tagEnemyZombieG01=Plague Walker
         譯文 : >-
             tagEnemyZombieG01=毒屍
 #-------------------------------#
     892 :
-        標註 : 
         原文 : >-
             tagEnemyZombieSoldierA01=Rotting Soldier
         譯文 : >-
             tagEnemyZombieSoldierA01=腐朽士兵
 #-------------------------------#
     893 :
-        標註 : 
         原文 : >-
             tagEnemyZombieSoldierB01=Rotting Emberguard
         譯文 : >-
             tagEnemyZombieSoldierB01=腐朽灰燼守衛
 #-------------------------------#
     894 :
-        標註 : 
         原文 : >-
             tagEnemyZombieBerserkerA01=Corpsefiend
         譯文 : >-
             tagEnemyZombieBerserkerA01=屍魔
 #-------------------------------#
     896 :
-        標註 : 
         原文 : >-
             tagEnemyZombieVoidA01=Chthonic Soulless
         譯文 : >-
             tagEnemyZombieVoidA01=冥靈無魂者
 #-------------------------------#
     898 :
-        標註 : 
         原文 : >-
             tagEnemyZombieMutatedA01=Fleshwarped Butcher
         譯文 : >-
             tagEnemyZombieMutatedA01=奇型屠夫
 #-------------------------------#
     899 :
-        標註 : 
         原文 : >-
             tagEnemyZombieMutatedB01=Fleshwarped Thrasher
         譯文 : >-
             tagEnemyZombieMutatedB01=奇型鞭笞者
 #-------------------------------#
     901 :
-        標註 : 
         原文 : >-
             tagZombieHeroH01=Abner, the Forsaken One
         譯文 : >-
             tagZombieHeroH01=被遺忘者 艾伯納
 #-------------------------------#
     902 :
-        標註 : 
         原文 : >-
             tagZombieHeroH02=Crimson Bane
         譯文 : >-
             tagZombieHeroH02=猩紅夢魘
 #-------------------------------#
     903 :
-        標註 : 
         原文 : >-
             tagZombieHeroH03=Gastris, the Foul
         譯文 : >-
             tagZombieHeroH03=汙穢者 加斯崔斯
 #-------------------------------#
     904 :
-        標註 : 
         原文 : >-
             tagZombieHeroH04=Gilisten, the Reborn
         譯文 : >-
             tagZombieHeroH04=重生者 吉里森
 #-------------------------------#
     905 :
-        標註 : 
         原文 : >-
             tagZombieHeroH05=Bolvaris, the Glacierborn
         譯文 : >-
             tagZombieHeroH05=寒冰降生 波瓦瑞斯
 #-------------------------------#
     906 :
-        標註 : 
         原文 : >-
             tagZombieHeroH06=Aldanar, the Undying
         譯文 : >-
             tagZombieHeroH06=不死者 阿爾達納
 #-------------------------------#
     907 :
-        標註 : 
         原文 : >-
             tagZombieHeroH07=Gutripper ~ Unstoppable
         譯文 : >-
             tagZombieHeroH07=裂腸者 ~ 勇不可擋
 #-------------------------------#
     908 :
-        標註 : 
         原文 : >-
             tagZombieHeroH08=Teselon ~ Electrified
         譯文 : >-
             tagZombieHeroH08=泰瑟隆 ~ 帶電
 #-------------------------------#
     909 :
-        標註 : 
         原文 : >-
             tagZombieHeroH09=Blightfeast ~ Charger
         譯文 : >-
             tagZombieHeroH09=荒蕪盛宴 ~ 衝鋒
 #-------------------------------#
     910 :
-        標註 : 
         原文 : >-
             tagZombieHeroH10=Alrick Magefire
         譯文 : >-
             tagZombieHeroH10=巫火 艾爾瑞克
 #-------------------------------#
+    912 :
+        原文 : >-
+            #CreatureZombieHound
+        譯文 : >-
+            #CreatureZombieHound
+#-------------------------------#
     914 :
-        標註 : 
         原文 : >-
             tagEnemyZombieHoundA01=Tainted Hound
         譯文 : >-
             tagEnemyZombieHoundA01=汙穢獵犬
 #-------------------------------#
     915 :
-        標註 : 
         原文 : >-
             tagEnemyZombieHoundB01=Tainted Pack Leader
         譯文 : >-
             tagEnemyZombieHoundB01=汙穢獵犬領袖
 #-------------------------------#
     917 :
-        標註 : 
         原文 : >-
             tagZombieHoundHeroH01=Gornax, the Nightmare
         譯文 : >-
             tagZombieHoundHeroH01=夜魘 格納科斯
 #-------------------------------#
     918 :
-        標註 : 
         原文 : >-
             tagZombieHoundHeroH02=Sharn, the Cursed
         譯文 : >-
             tagZombieHoundHeroH02=受詛咒的夏恩
 #-------------------------------#
     919 :
-        標註 : 
         原文 : >-
             tagZombieHoundHeroH03=Furz Venomdrinker ~ Supporter
         譯文 : >-
             tagZombieHoundHeroH03=飲鴆者 弗茲 ~ 支援者
 #-------------------------------#
     920 :
-        標註 : 
         原文 : >-
             tagZombieHoundHeroH04=Bloodhowl ~ Regenerator
         譯文 : >-
             tagZombieHoundHeroH04=血之咆哮 ~ 回覆者
 #-------------------------------#
+    922 :
+        原文 : >-
+            #CreatureReanimator
+        譯文 : >-
+            #CreatureReanimator 復生者
+#-------------------------------#
     924 :
-        標註 : 
         原文 : >-
             tagEnemyReanimatorB01=Reanimator
         譯文 : >-
             tagEnemyReanimatorB01=復生者
 #-------------------------------#
     925 :
-        標註 : 
         原文 : >-
             tagEnemyReanimatorC01=Dominator
         譯文 : >-
             tagEnemyReanimatorC01=支配者
 #-------------------------------#
     927 :
-        標註 : 
         原文 : >-
             tagReanimatorHeroH01=Aethoran, the Plaguebearer ~ Diseased
         譯文 : >-
             tagReanimatorHeroH01=瘟疫使者 阿斯奧蘭 ~ 疾病
 #-------------------------------#
     928 :
-        標註 : 
         原文 : >-
             tagReanimatorHeroH02=Gollorg, the Undiminished ~ Unstoppable
         譯文 : >-
             tagReanimatorHeroH02=不滅的高羅格 ~ 勇不可擋
 #-------------------------------#
     929 :
-        標註 : 
         原文 : >-
             tagReanimatorHeroH03=Corpsefire ~ Reflective
         譯文 : >-
             tagReanimatorHeroH03=屍體發火 ~ 傷害反彈
 #-------------------------------#
     930 :
-        標註 : 
         原文 : >-
             tagReanimatorHeroH04=Azgalogg, the Corruptor ~ Defender
         譯文 : >-
             tagReanimatorHeroH04=腐化者 阿茲加洛格 ~ 防禦者
 #-------------------------------#
     932 :
-        標註 : 
         原文 : >-
             tagReanimatorBossH01=Gethrand, the Betrayed
         譯文 : >-
             tagReanimatorBossH01=背叛者 蓋思蘭
 #-------------------------------#
     933 :
-        標註 : 
         原文 : >-
             tagReanimatorBossH02=Zanbrandt, the Ascended
         譯文 : >-
             tagReanimatorBossH02=高階虛靈 贊布蘭特
 #-------------------------------#
     934 :
-        標註 : 
         原文 : >-
             tagReanimatorBossH03=Chilldread
         譯文 : >-
             tagReanimatorBossH03=寒冰恐懼
 #-------------------------------#
     935 :
-        標註 : 
         原文 : >-
             tagReanimatorBossH04=Nazagrad, the Fallen
         譯文 : >-
             tagReanimatorBossH04=墮落者 那扎格拉德
 #-------------------------------#
+    937 :
+        原文 : >-
+            #Pets
+        譯文 : >-
+            #Pets 寵物
+#-------------------------------#
     939 :
-        標註 : 
         原文 : >-
             tagPetRavenA01=Great Raven
         譯文 : >-
             tagPetRavenA01=風暴烏鴉
 #-------------------------------#
     940 :
-        標註 : 
         原文 : >-
             tagPetHellhoundA01=Hellhound
         譯文 : >-
             tagPetHellhoundA01=地獄魔犬
 #-------------------------------#
     941 :
-        標註 : 
         原文 : >-
             tagPetWhirlwindA01=Whirlwind
         譯文 : >-
             tagPetWhirlwindA01=旋風
 #-------------------------------#
     942 :
-        標註 : 
         原文 : >-
             tagPetThornedHorrorA01=Briarthorn
         譯文 : >-
             tagPetThornedHorrorA01=荊棘
 #-------------------------------#
     943 :
-        標註 : 
         原文 : >-
             tagPetManticoreA01=Primal Spirit
         譯文 : >-
             tagPetManticoreA01=原始靈魂
 #-------------------------------#
     944 :
-        標註 : 
         原文 : >-
             tagPetWindDevilA01=Wind Devil
         譯文 : >-
             tagPetWindDevilA01=風魔
 #-------------------------------#
     946 :
-        標註 : 
         原文 : >-
             tagPetIceWallA01=Ice Barrier
         譯文 : >-
             tagPetIceWallA01=寒冰屏障
 #-------------------------------#
     948 :
-        標註 : 
         原文 : >-
             tagPetBladeSwarmA01=Blade Spirit
         譯文 : >-
             tagPetBladeSwarmA01=刀鋒之靈
 #-------------------------------#
     950 :
-        標註 : 
         原文 : >-
             tagPetThermiteMineA01=Flare Mine
         譯文 : >-
             tagPetThermiteMineA01=燃燒地雷
 #-------------------------------#
     951 :
-        標註 : 
         原文 : >-
             tagPetMortarTrapA01=Mortar Trap
         譯文 : >-
             tagPetMortarTrapA01=砂漿陷阱
 #-------------------------------#
     953 :
-        標註 : 
         原文 : >-
             tagItemFleshHulkA01=Flesh Hulk
         譯文 : >-
             tagItemFleshHulkA01=血肉巨人
 #-------------------------------#
     954 :
-        標註 : 
         原文 : >-
             tagItemGuardianA01=Stalwart Guardian
         譯文 : >-
             tagItemGuardianA01=堅毅守衛
 #-------------------------------#
     955 :
-        標註 : 
         原文 : >-
             tagItemGuardianA02=Reckless Guardian
         譯文 : >-
             tagItemGuardianA02=魯莽守衛
 #-------------------------------#
     956 :
-        標註 : 
         原文 : >-
             tagItemAncestorA01=Ancestral Spirit
         譯文 : >-
             tagItemAncestorA01=先祖之魂
 #-------------------------------#
     957 :
-        標註 : 
         原文 : >-
             tagItemRevenantA01=Revenant of Og'Napesh
         譯文 : >-
             tagItemRevenantA01=奧格納佩什的亡魂
 #-------------------------------#
     958 :
-        標註 : 
         原文 : >-
             tagItemPrawnA01=Blighted Rift Scourge
         譯文 : >-
             tagItemPrawnA01=枯萎者 裂隙之災
 #-------------------------------#
     959 :
-        標註 : 
         原文 : >-
             tagRelicStormhound=Stormhound
         譯文 : >-
             tagRelicStormhound=風暴獵犬
 #-------------------------------#
     960 :
-        標註 : 
         原文 : >-
             tagRelicNemesis=Nemesis
         譯文 : >-
             tagRelicNemesis=復仇女神
 #-------------------------------#
     961 :
-        標註 : 
         原文 : >-
             tagRelicSwarm=Swarmling
         譯文 : >-
             tagRelicSwarm=蟲群
 #-------------------------------#
     963 :
-        標註 : 
         原文 : >-
             tagDLCWisp=Will'O'Wisp
         譯文 : >-
             tagDLCWisp=Will'O'Wisp
 #-------------------------------#
+    965 :
+        原文 : >-
+            #EnemySummons
+        譯文 : >-
+            #EnemySummons 敵軍召喚物
+#-------------------------------#
     967 :
-        標註 : 
         原文 : >-
             tagEnemySummonHellspawn=Hellspawn
         譯文 : >-
             tagEnemySummonHellspawn=地獄生物
 #-------------------------------#
     968 :
-        標註 : 
         原文 : >-
             tagEnemySummonChthonianMinion=Salazar's Harbinger
         譯文 : >-
             tagEnemySummonChthonianMinion=薩拉查的先鋒
 #-------------------------------#
     969 :
-        標註 : 
         原文 : >-
             tagEnemySummonDariusAetherCrystal=Unstable Aether Formation
         譯文 : >-
             tagEnemySummonDariusAetherCrystal=不穩定的虛化編隊
 #-------------------------------#
     970 :
-        標註 : 
         原文 : >-
             tagEnemySummonRifthound=Azure Rifthound
         譯文 : >-
             tagEnemySummonRifthound=藍色裂隙魔犬
 #-------------------------------#
     971 :
-        標註 : 
         原文 : >-
             tagEnemySummonObsidianCluster=Obsidian Cluster
         譯文 : >-
             tagEnemySummonObsidianCluster=黑曜石簇
 #-------------------------------#
     972 :
-        標註 : 
         原文 : >-
             tagEnemySummonRaven=Raven
         譯文 : >-
             tagEnemySummonRaven=風暴巨鴉
 #-------------------------------#
     973 :
-        標註 : 
         原文 : >-
             tagEnemySummonAetherTrap=Aether Trap
         譯文 : >-
             tagEnemySummonAetherTrap=虛化陷阱
 #-------------------------------#
     974 :
-        標註 : 
         原文 : >-
             tagEnemySummonIceCrystal=Ice Crystal
         譯文 : >-
             tagEnemySummonIceCrystal=冰晶
 #-------------------------------#
     975 :
-        標註 : 
         原文 : >-
             tagEnemySummonTentacle=Writhing Tentacle
         譯文 : >-
             tagEnemySummonTentacle=纏繞觸手
 #-------------------------------#
+    977 :
+        原文 : >-
+            #Boss&Quest
+        譯文 : >-
+            #Boss&Quest boss和任務怪
+#-------------------------------#
     979 :
-        標註 : 
         原文 : >-
             tagQuestEnemyReanimator=Kyzogg the Reanimator
         譯文 : >-
             tagQuestEnemyReanimator=死屍復生者 凱奧格
 #-------------------------------#
     980 :
-        標註 : 
         原文 : >-
             tagQuestEnemyMiltonHart=Milton Hart
         譯文 : >-
             tagQuestEnemyMiltonHart=彌爾頓·哈特
 #-------------------------------#
     981 :
-        標註 : 
         原文 : >-
             tagQuestEnemyBanditForge=Outlaw Forge
         譯文 : >-
             tagQuestEnemyBanditForge=非法熔爐
 #-------------------------------#
     982 :
-        標註 : 
         原文 : >-
             tagQuestChthonianMonstrosity=Thall'Nosh, the Unraveler
         譯文 : >-
             tagQuestChthonianMonstrosity=拆解者 塔爾·諾什
 #-------------------------------#
     984 :
-        標註 : 
         原文 : >-
             tagBossTheWarden01=The Warden
         譯文 : >-
             tagBossTheWarden01=典獄長
 #-------------------------------#
     985 :
-        標註 : 
         原文 : >-
             tagBossOutcast01=Anasteria, the Rogue Aetherial
         譯文 : >-
             tagBossOutcast01=虛化盜賊 阿納斯塔裡婭
 #-------------------------------#
     986 :
-        標註 : 
         原文 : >-
             tagBossOutcast02=Anasteria, Vengeance of the Aether
         譯文 : >-
             tagBossOutcast02=虛靈復仇者 阿納斯塔裡婭
 #-------------------------------#
     987 :
-        標註 : 
         原文 : >-
             tagBossOutcast03=Anasteria, Wrath of the Aether
         譯文 : >-
             tagBossOutcast03=虛靈之怒 阿納斯塔裡婭
 #-------------------------------#
+    989 :
+        原文 : >-
+            #Nemesis
+        譯文 : >-
+            #Nemesis 復仇者
+#-------------------------------#
     990 :
-        標註 : 
         原文 : >-
             tagNemesis_Aetherial01=Valdaran, the Storm Scourge
         譯文 : >-
             tagNemesis_Aetherial01=風暴之災 沃達蘭
 #-------------------------------#
     991 :
-        標註 : 
         原文 : >-
             tagNemesis_Aetherial02=Obligious Foul
         譯文 : >-
             tagNemesis_Aetherial02=被遺忘的邪靈
 #-------------------------------#
     992 :
-        標註 : 
         原文 : >-
             tagNemesis_Aetherial03=The Pariah
         譯文 : >-
             tagNemesis_Aetherial03=賤民
 #-------------------------------#
     993 :
-        標註 : 
         原文 : >-
             tagNemesis_Chthonian01=Jac'Aran, the Eternal Stone
         譯文 : >-
             tagNemesis_Chthonian01=永恆之石 扎克·阿蘭
 #-------------------------------#
     994 :
-        標註 : 
         原文 : >-
             tagNemesis_Chthonian02=Benn'Jahr, the Colossal
         譯文 : >-
             tagNemesis_Chthonian02=巨像 本·扎爾
 #-------------------------------#
     995 :
-        標註 : 
         原文 : >-
             tagNemesis_Chthonian03=Balgoth'Zul, the Endless Hunger
         譯文 : >-
             tagNemesis_Chthonian03=無盡飢餓 巴格斯·祖爾
 #-------------------------------#
     996 :
-        標註 : 
         原文 : >-
             tagNemesis_Kymon01=Lord Infernus
         譯文 : >-
             tagNemesis_Kymon01=地獄火領主
 #-------------------------------#
     997 :
-        標註 : 
         原文 : >-
             tagNemesis_Kymon02=The Iron Maiden
         譯文 : >-
             tagNemesis_Kymon02=鐵娘子
 #-------------------------------#
     998 :
-        標註 : 
         原文 : >-
             tagNemesis_OrderDeathsVigil01=Zantarin, the Immortal
         譯文 : >-
             tagNemesis_OrderDeathsVigil01=不朽的贊塔蘭
 #-------------------------------#
     999 :
-        標註 : 
         原文 : >-
             tagNemesis_OrderDeathsVigil02=Cabala Rotweaver
         譯文 : >-
             tagNemesis_OrderDeathsVigil02=腐朽編織者 卡巴拉
 #-------------------------------#
     1000 :
-        標註 : 
         原文 : >-
             tagNemesis_Outlaw01=Fabius "the Unseen" Gonzar
         譯文 : >-
             tagNemesis_Outlaw01=隱祕刺客 費比烏斯·岡扎爾
 #-------------------------------#
     1001 :
-        標註 : 
         原文 : >-
             tagNemesis_Outlaw02=Thallion Vos
         譯文 : >-
             tagNemesis_Outlaw02=裁決者沃斯
 #-------------------------------#
     1002 :
-        標註 : 
         原文 : >-
             tagNemesis_Outlaw03=Dead-Eye
         譯文 : >-
             tagNemesis_Outlaw03=死眼
 #-------------------------------#
     1003 :
-        標註 : 
         原文 : >-
             tagNemesis_Undead01=Allminoxius, the Artificer
         譯文 : >-
             tagNemesis_Undead01=技師 奧米諾克西斯
 #-------------------------------#
     1004 :
-        標註 : 
         原文 : >-
             tagNemesis_Undead02=Moosilauke, the Chillwind
         譯文 : >-
             tagNemesis_Undead02=寒風 莫斯勞克
 #-------------------------------#
     1005 :
-        標註 : 
         原文 : >-
             tagNemesis_Undead03=Toxemus
         譯文 : >-
             tagNemesis_Undead03=血毒
 #-------------------------------#
+    1008 :
+        原文 : >-
+            #Bounties
+        譯文 : >-
+            #Bounties 賞金
+#-------------------------------#
     1009 :
-        標註 : 
         原文 : >-
             tagBountyBL08=Gluttrius'Maw
         譯文 : >-
             tagBountyBL08=飽食之胃
 #-------------------------------#
     1010 :
-        標註 : 
         原文 : >-
             tagBountyBL09=Sicrix, the Skittering
         譯文 : >-
             tagBountyBL09=掠行的西克里斯
 #-------------------------------#
     1011 :
-        標註 : 
         原文 : >-
             tagBountyBL10=Emberjaw
         譯文 : >-
             tagBountyBL10=灰燼之爪
 #-------------------------------#
     1012 :
-        標註 : 
         原文 : >-
             tagBountyBL17=Harrath, the Returned
         譯文 : >-
             tagBountyBL17=復生者 哈拉斯
 #-------------------------------#
     1013 :
-        標註 : 
         原文 : >-
             tagBountyBL18=Padmanestia
         譯文 : >-
             tagBountyBL18=派得曼斯蒂亞
 #-------------------------------#
     1014 :
-        標註 : 
         原文 : >-
             tagBountyBL19=Corprus
         譯文 : >-
             tagBountyBL19=屍化者
 #-------------------------------#
     1015 :
-        標註 : 
         原文 : >-
             tagBountyBL20=Luthus'Balok
         譯文 : >-
             tagBountyBL20=盧薩斯·巴洛克
 #-------------------------------#
     1016 :
-        標註 : 
         原文 : >-
             tagBountyDC06="The Bruiser" Romanov
         譯文 : >-
             tagBountyDC06=壓碎者 羅曼諾夫
 #-------------------------------#
     1017 :
-        標註 : 
         原文 : >-
             tagBountyDC07=Bolla "The Raven"
         譯文 : >-
             tagBountyDC07=烏鴉 波拉
 #-------------------------------#
     1018 :
-        標註 : 
         原文 : >-
             tagBountyDC08=Slathra, the Plagued
         譯文 : >-
             tagBountyDC08=病疫的斯拉絲
 #-------------------------------#
     1019 :
-        標註 : 
         原文 : >-
             tagBountyDC09=Ballior ~ Burning
         譯文 : >-
             tagBountyDC09=巴利爾 ~ 燃燒
 #-------------------------------#
     1020 :
-        標註 : 
         原文 : >-
             tagBountyDC10=Igor "The Brawler"
         譯文 : >-
-            tagBountyDC10="格鬥士" 伊戈爾 
+            tagBountyDC10="格鬥士" 伊戈爾
 #-------------------------------#
     1021 :
-        標註 : 
         原文 : >-
             tagBountyDC11=Caspis, the Blooddrinker
         譯文 : >-
             tagBountyDC11=飲血者 賈斯匹斯
 #-------------------------------#
     1022 :
-        標註 : 
         原文 : >-
             tagBountyDC15=Rostov, the Aetherflame
         譯文 : >-
             tagBountyDC15=虛化之火 羅斯托夫
 #-------------------------------#
     1023 :
-        標註 : 
         原文 : >-
             tagBountyDC17=Nalloth, the Frostbound
         譯文 : >-
             tagBountyDC17=寒霜之裔 納羅斯
 #-------------------------------#
     1024 :
-        標註 : 
         原文 : >-
             tagBounyExile12=Nucus'Dal
         譯文 : >-
             tagBounyExile12=紐科斯·達爾
 #-------------------------------#
     1025 :
-        標註 : 
         原文 : >-
             tagBounyExile13=Innu'Garbal
         譯文 : >-
             tagBounyExile13=印紐·家寶
 #-------------------------------#
     1026 :
-        標註 : 
         原文 : >-
             tagBounyExile14=Conastaria
         譯文 : >-
             tagBounyExile14=寇納斯塔利亞
 #-------------------------------#
     1027 :
-        標註 : 
         原文 : >-
             tagBounyExile15=Ludia Starfire
         譯文 : >-
             tagBounyExile15=魯迪亞·星火
 #-------------------------------#
     1028 :
-        標註 : 
         原文 : >-
             tagBountyHS09=Bogloth the Marrowdrinker
         譯文 : >-
             tagBountyHS09=吸髓者 鮑格羅斯
 #-------------------------------#
     1029 :
-        標註 : 
         原文 : >-
             tagBountyHS10=The Locust
         譯文 : >-
             tagBountyHS10=蚱蜢
 #-------------------------------#
     1030 :
-        標註 : 
         原文 : >-
             tagBountyHS11=Vizier Haxin
         譯文 : >-
             tagBountyHS11=領袖 哈辛
 #-------------------------------#
     1031 :
-        標註 : 
         原文 : >-
             tagBountyHS12=Glukrog Lifedrinker
         譯文 : >-
             tagBountyHS12=生命吸食者 格魯克若格
 #-------------------------------#
     1032 :
-        標註 : 
         原文 : >-
             tagBountyHS13=Phabius
         譯文 : >-
             tagBountyHS13=費比亞斯
 #-------------------------------#
     1033 :
-        標註 : 
         原文 : >-
             tagBountyKC07=Holvuur Bonespeaker
         譯文 : >-
             tagBountyKC07=骸骨之語 霍威爾
 #-------------------------------#
     1034 :
-        標註 : 
         原文 : >-
             tagBountyKC08=Igniaa Venomtongue
         譯文 : >-
             tagBountyKC08=劇毒之舌 依格尼亞
 #-------------------------------#
     1035 :
-        標註 : 
         原文 : >-
             tagBountyKC09=Vom'Zul
         譯文 : >-
             tagBountyKC09=沃姆·祖爾
 #-------------------------------#
     1036 :
-        標註 : 
         原文 : >-
             tagBountyKC10=Thullon, Chosen of Ch'thon
         譯文 : >-
             tagBountyKC10=冥神選詔的戰士 土倫
 #-------------------------------#
     1037 :
-        標註 : 
         原文 : >-
             tagBountyKC11=Abathis, the Withered
         譯文 : >-
             tagBountyKC11=乾枯的阿拔西斯
 #-------------------------------#
     1038 :
-        標註 : 
         原文 : >-
             tagBountyKC19=Ludia Bloodwhisper
         譯文 : >-
             tagBountyKC19=鮮血私語者 盧蒂雅
 #-------------------------------#
     1039 :
-        標註 : 
         原文 : >-
             tagBountyODV06=Halvastra Wrathfire
         譯文 : >-
             tagBountyODV06=怒火 哈爾瓦斯塔
 #-------------------------------#
     1040 :
-        標註 : 
         原文 : >-
             tagBountyODV07=Horvald Shieldbreaker
         譯文 : >-
             tagBountyODV07=破盾者 霍瓦德
 #-------------------------------#
     1041 :
-        標註 : 
         原文 : >-
             tagBountyODV08=Olga Flamebearer
         譯文 : >-
             tagBountyODV08=持火者 奧爾加
 #-------------------------------#
     1042 :
-        標註 : 
         原文 : >-
             tagBountyODV09=Narroth, the Behemoth
         譯文 : >-
             tagBountyODV09=巨獸 那若斯
 #-------------------------------#
     1043 :
-        標註 : 
         原文 : >-
             tagBountyODV10=Barrostrandt, the Ascended
         譯文 : >-
             tagBountyODV10=超凡的戰士 巴洛斯特蘭
 #-------------------------------#
     1044 :
-        標註 : 
         原文 : >-
             tagBountyODV11=Gravvis, the Decayed
         譯文 : >-
             tagBountyODV11=腐朽的 格拉維斯
 #-------------------------------#
     1045 :
-        標註 : 
         原文 : >-
             tagBountyODV12=Narl'Sarroth
         譯文 : >-
             tagBountyODV12=納爾·薩若斯
 #-------------------------------#
     1046 :
-        標註 : 
         原文 : >-
             tagBountyRO10=Oligeane Dar
         譯文 : >-
             tagBountyRO10=奧里根·達爾
 #-------------------------------#
     1047 :
-        標註 : 
         原文 : >-
             tagBountyRO11=Rixna Plaguefeather
         譯文 : >-
             tagBountyRO11=災疫之羽 雷克希納
 #-------------------------------#
     1048 :
-        標註 : 
         原文 : >-
             tagBountyRO12=Mortallis
         譯文 : >-
             tagBountyRO12=莫塔里斯
 #-------------------------------#
     1049 :
-        標註 : 
         原文 : >-
             tagBountyRO19=Grum
         譯文 : >-
             tagBountyRO19=格魯姆
 #-------------------------------#
+    1051 :
+        原文 : >-
+            #Races
+        譯文 : >-
+            #Races 種族
+#-------------------------------#
     1053 :
-        標註 : 
         原文 : >-
             tagRace001=Undead
         譯文 : >-
             tagRace001=亡靈
 #-------------------------------#
     1054 :
-        標註 : 
         原文 : >-
             tagRace002=Beastkin
         譯文 : >-
             tagRace002=獸人
 #-------------------------------#
     1055 :
-        標註 : 
         原文 : >-
             tagRace003=Aetherial
         譯文 : >-
             tagRace003=虛靈
 #-------------------------------#
     1056 :
-        標註 : 
         原文 : >-
             tagRace004=Chthonic
         譯文 : >-
             tagRace004=冥靈
 #-------------------------------#
     1057 :
-        標註 : 
         原文 : >-
             tagRace005=Aether Corruption
         譯文 : >-
             tagRace005=虛靈的腐朽僕從
 #-------------------------------#
     1058 :
-        標註 : 
         原文 : >-
             tagRace006=Bloodsworn
         譯文 : >-
             tagRace006=血誓
 #-------------------------------#
     1059 :
-        標註 : 
         原文 : >-
             tagRace007=Eldritch
         譯文 : >-
             tagRace007=邪術生物
 #-------------------------------#
     1060 :
-        標註 : 
         原文 : >-
             tagRace008=Insectoid
         譯文 : >-
             tagRace008=昆蟲族
 #-------------------------------#
     1061 :
-        標註 : 
         原文 : >-
             tagRace009=Human
         譯文 : >-
             tagRace009=人類
 #-------------------------------#
     1062 :
-        標註 : 
         原文 : >-
             tagRace010=Construct
         譯文 : >-
             tagRace010=結構體
 #-------------------------------#
     1063 :
-        標註 : 
         原文 : >-
             tagRace011=Riftspawn
         譯文 : >-
             tagRace011=裂隙生物
 #-------------------------------#
     1064 :
-        標註 : 
         原文 : >-
             tagRace012=Beast
         譯文 : >-
             tagRace012=野獸
 #-------------------------------#
     1065 :
-        標註 : 
         原文 : >-
             tagRace013=Magical
         譯文 : >-
             tagRace013=魔法生物
 #-------------------------------#
     1066 :
-        標註 : 
         原文 : >-
             tagRace014=Celestial
         譯文 : >-
             tagRace014=天神
 #-------------------------------#
     1067 :
-        標註 : 
         原文 : >-
             tagRace015=Arachnid
         譯文 : >-
             tagRace015=蜘蛛族
 #-------------------------------#
     1068 :
-        標註 : 
         原文 : >-
             tagRace001P=Undead
         譯文 : >-
             tagRace001P=亡靈
 #-------------------------------#
     1069 :
-        標註 : 
         原文 : >-
             tagRace002P=Beastkin
         譯文 : >-
             tagRace002P=獸人
 #-------------------------------#
     1070 :
-        標註 : 
         原文 : >-
             tagRace003P=Aetherials
         譯文 : >-
             tagRace003P=虛靈
 #-------------------------------#
     1071 :
-        標註 : 
         原文 : >-
             tagRace004P=Chthonics
         譯文 : >-
             tagRace004P=冥靈
 #-------------------------------#
     1072 :
-        標註 : 
         原文 : >-
             tagRace005P=Aether Corruptions
         譯文 : >-
             tagRace005P=虛靈的腐朽僕從
 #-------------------------------#
     1073 :
-        標註 : 
         原文 : >-
             tagRace006P=Bloodsworn
         譯文 : >-
             tagRace006P=血誓
 #-------------------------------#
     1074 :
-        標註 : 
         原文 : >-
             tagRace007P=Eldritch
         譯文 : >-
             tagRace007P=邪術生物
 #-------------------------------#
     1075 :
-        標註 : 
         原文 : >-
             tagRace008P=Insectoids
         譯文 : >-
             tagRace008P=昆蟲族
 #-------------------------------#
     1076 :
-        標註 : 
         原文 : >-
             tagRace009P=Humans
         譯文 : >-
             tagRace009P=人類
 #-------------------------------#
     1077 :
-        標註 : 
         原文 : >-
             tagRace010P=Constructs
         譯文 : >-
             tagRace010P=結構體
 #-------------------------------#
     1078 :
-        標註 : 
         原文 : >-
             tagRace011P=Riftspawn
         譯文 : >-
             tagRace011P=裂隙生物
 #-------------------------------#
     1079 :
-        標註 : 
         原文 : >-
             tagRace012P=Beasts
         譯文 : >-
             tagRace012P=野獸
 #-------------------------------#
     1080 :
-        標註 : 
         原文 : >-
             tagRace013P=Magical
         譯文 : >-
             tagRace013P=魔法生物
 #-------------------------------#
     1081 :
-        標註 : 
         原文 : >-
             tagRace014P=Celestial
         譯文 : >-
             tagRace014P=天神
 #-------------------------------#
     1082 :
-        標註 : 
         原文 : >-
             tagRace015P=Arachnids
         譯文 : >-

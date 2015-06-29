@@ -1,155 +1,133 @@
-npc_zealot_emissary_base.txt : 
+npc_zealot_emissary_base.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Brother Molltair
         譯文 : >-
             莫代爾兄弟
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             You have chosen wisely, friend. May Empyrion bless your path.
         譯文 : >-
             你做出了明智的選擇。願至高之神祝福你的前路。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Where is the Kymon's Chosen sanctuary?
         譯文 : >-
             凱蒙的神選戰士的庇護所在哪？
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Out beyond Blood Grove. We have taken refuge within an old fort known as Sorrow's Bastion. Follow the road north.
         譯文 : >-
             在休耕田地北邊。我們躲避在一個叫做悲傷城堡的古老要塞裡面。沿著北方的路走吧。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             You do not belong here. Leave at once and you may still live.
         譯文 : >-
             你不屬於這兒，立刻離開或許你還能活命。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Alright, I'm going.
         譯文 : >-
             好吧，我這就離開。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have chosen wisely, friend. May Empyrion bless your path.
         譯文 : >-
             你做出了明智的選擇。願至高之神祝福你的前路。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Only those who seek Empyrion's truth are welcome here. You should leave.
         譯文 : >-
             這裡只歡迎追尋至高之神真理的人。你應該離開這兒。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             You are expected at our Enclave.
         譯文 : >-
             我們的營地期待你的到來。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Where is your enclave located?
         譯文 : >-
             你們的營地在哪裡？
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Head out through the northern gates and into the Fallow Fields. Follow the road until you reach old fortress ruins. That's Sorrow's Bastion. Our enclave is in the tower.
         譯文 : >-
             從北邊的大門出發進入休耕田地。沿著道路一直走到古老要塞的廢墟那裡。那兒就是悲傷城堡了。我們的營地就在高塔裡面。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             I'm on my way.
         譯文 : >-
             我該上路了。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Fallow Fields. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
         譯文 : >-
             我必須要求你前往北方拜訪我們的營地。我們佔據了悲傷城堡的一部分，把那裡作為我們的新家。{^n}{^n}從北邊的路穿越休耕田地就能找到我們。當你到達一片廢墟時，尋找一座高塔。{^n}{^n}然後找艾魯維斯兄弟談談，他會引導你走上光明的大道。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             I will seek out your enclave.
         譯文 : >-
             我會出發尋找你們的營地。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Perhaps another time.
         譯文 : >-
             下次吧。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Only those who seek Empyrion's truth are welcome here. You should leave.
         譯文 : >-
             這裡只歡迎追尋至高之神真理的人。你應該離開這兒。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-

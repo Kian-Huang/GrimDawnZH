@@ -1,729 +1,625 @@
-npc_douglassoldbarrow_01.txt : 
+npc_douglassoldbarrow_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Douglass Sullivan Oldbarrow
         譯文 : >-
             道格拉斯·沙利文·古冢
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             These are trying times, but we will persevere.
         譯文 : >-
             會有一些難熬的時候，不過我們會堅持下去的。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I trust that, together, Homestead and Devil's Crossing can prosper through this calamity.
         譯文 : >-
             我相信，霍姆斯特德和惡魔十字攜手一定能渡過這場災禍的。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I have some questions.
         譯文 : >-
             我有些問題。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             What would you like to know?
         譯文 : >-
             你想知道什麼？
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             What will you trade for with Devil's Crossing?
         譯文 : >-
             你們拿什麼和惡魔十字交易？
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             We obviously have the food, but Devil's Crossing has access to scrap, cloth and other materials found around the villages.{^n}{^n}Both settlements will prosper from this deal.
         譯文 : >-
             顯然我們有食物，惡魔十字能在那些村莊附近找到廢鐵，衣物和其他的材料。{^n}{^n}這兩個團體都能因此收益的。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             What is Homestead's history?
         譯文 : >-
             能否講述一下霍姆斯特德的歷史？
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I'm afraid there isn't much to tell. My great great great grandfather, Cullis Oldbarrow, settled on this land back when the crimson plague was going around the capital. He wasn't a farmer, in fact he was a banker, but he wanted to get his family out and away from the heavily populated areas.{^n}{^n}The Oldbarrows weren't the first to settle in this area, but we made it our home for generations among the tight-knit farming community. In times of trouble, we all gather here and take care of each other.
         譯文 : >-
             我恐怕沒有太多可講的。我的曾祖父的父親卡利斯·古冢在當年猩紅瘟疫在首都肆虐之時遷到了這裡。他不是個農夫，而是位銀行家，不過為了讓他的家人遠離人口聚集的地方，他才到這裡種田。{^n}{^n}古冢家族不是第一個遷到這片地區的人，但我們把這裡當成了家園，一代又一代的生活在這個緊密團結的農民團體。在苦難時期，我們聚集在這裡，互相照應。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             How are things with the Black Legion?
         譯文 : >-
             你們和黑色軍團相處得如何？
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Relations are as cold as ever. Sometimes I wonder if Somer would have just taken all the food by force if we weren't producing enough to feed both us and the soldiers.{^n}{^n}But I try not to dwell too much on that eventuality. You saw to it that we do not have to.
         譯文 : >-
             我們之間的關係總是冷冰冰的。有時我想索梅爾會不會在我們出產的食物都不夠給兩夥人吃的時候把食物全部給搶走。{^n}{^n}不過我儘量不去考慮發生那種事情的可能性。有你在，我們應該不需要擔心這種事。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             沒事了。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             I hope so too.
         譯文 : >-
             我也希望如此。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             I trust that the food has arrived safely in Devil's Crossing?
         譯文 : >-
             我相信食物已經安全抵達惡魔十字了？
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             I still need to check in with my people.
         譯文 : >-
             我還需要和我的人確認一下。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             I've been pondering your situation at Devil's Crossing of late, and I think we may finally be in a position where Homestead can return the favor for all of your hard work.{^n}{^n}Captain Somer argued against it, but we can't turn a blind eye to the troubles of others, especially when you've done so much for us.
         譯文 : >-
             我進來考慮了一下你們在惡魔十字的情況，我認為霍姆斯特德終於可以回報你在這裡為我們所做的一切了。{^n}{^n}索梅爾隊長表示反對，不過我們不能在別人有麻煩的時候裝聾作啞，尤其是在你為我們做了這麼多事情之後。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             I'm glad to hear that.
         譯文 : >-
             聽到你這麼說我很高興。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             You have done much to assist us here at Homestead. I wish to return the favor.{^n}{^n}I've sent word that food is to be delivered to Devil's Crossing immediately.{^n}{^n}Consider the first shipment to be a thank you and a sign of a prosperous future between the two settlements.
         譯文 : >-
             你在霍姆斯特德幫了我們很多忙，我希望可以報答你。{^n}{^n}我已經發話馬上就給惡魔十字運送糧食了。{^n}{^n}把第一次運送的糧食當做對你謝禮吧，這也將是兩個地方未來興旺發達的標誌。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Thank you. I will let my people know immediately.
         譯文 : >-
             謝謝你，我會立刻告知那裡的人的。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Thank you. I will get back to you on this soon.
         譯文 : >-
             謝謝你，我等會再來和你商量這件事。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             You are a great service to the people of Homestead.
         譯文 : >-
             你幫了霍姆斯特德的人們很大的忙。
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             My people at Devil's Crossing need food.
         譯文 : >-
             惡魔十字的人們需要食物。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             You have done much to help us get our fields back in order, but I can't spare anything until my people have had more time to grow a fresh crop.{^n}{^n}If you continue to help us out, then that will free up the hands I need to tend to the harvest. Clearing out the beasts roaming the land will also assure that we can work in peace.
         譯文 : >-
             你奪回了農田，幫了我們很大的忙。但是在我的人種下新的莊稼之前我無法幫助你們。{^n}{^n}如果肯繼續幫助我們的話，就可以節省更多的人手來參與到收穫之中。把田間遍佈的野獸清除乾淨，我們才能好好地幹活。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             沒問題。
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             It sounds like your people are in a grave situation indeed. You have done so much for us, I think it is only fair that we help out.{^n}{^n}Captain Somer might disagree about sharing our resources, but we can't turn a blind eye to the troubles of others, especially when you've done so much for us.
         譯文 : >-
             聽起來你們確實處境艱難。你為我們付出了很多，只有我們回報你們才算公平。{^n}{^n}索梅爾隊長可能不同意把資源分給別人，不過我們不能在別人有麻煩的時候裝聾作啞，尤其是在你為我們做了這麼多事情之後。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             I'm glad to hear that.
         譯文 : >-
             聽到你這麼說我很高興。
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             I will send word that food is to be delivered to Devil's Crossing immediately.{^n}{^n}Consider the first shipment to be a thank you and a sign of a prosperous future between the two settlements.
         譯文 : >-
             我會發話讓人馬上就給惡魔十字運送糧食的。{^n}{^n}把第一次運送的糧食當做對你謝禮吧，這也將是兩個地方未來興旺發達的標誌。
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             Thank you. I will let my people know immediately.
         譯文 : >-
             謝謝你，我會立刻告知那裡的人的。
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             Thank you. I will get back to you on this soon.
         譯文 : >-
             謝謝你，我等會再來和你商量這件事。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             What else could I do to help out?
         譯文 : >-
             我還能幫你們什麼忙？
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             Anything you can do to ease the load on the farmers will be of great help. The more time they can spend tending to the crops, the better. Clearing out the beasts roaming the land will also assure that we can work in peace.
         譯文 : >-
             任何能減輕農夫們負擔的事情都會幫得上忙的。他們能專注在農作物上面的時間越多越好。把田間遍佈的野獸清除乾淨，我們才能好好地幹活。
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             Have you dealt with the Dermapteran queen?
         譯文 : >-
             你幹掉了革翅目女王了麼？
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             The Dermapteran cycle is disrupted.
         譯文 : >-
             革翅目的繁殖循環已經被終止了。
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}Your continued support is ensuring that Homestead will produce enough food for all.
         譯文 : >-
             這是這些天我聽到過的最好的消息了。我要和索梅爾隊長談談重建一個廚房的事。{^n}{^n}你一如既往的幫助將確保霍姆斯特德能夠出產足夠所有人吃的食物。
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             What about Devil's Crossing?
         譯文 : >-
             惡魔十字怎麼辦？
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             You have done much to help us get our fields back in order, but I can't spare anything until my people have had more time to grow a fresh crop.{^n}{^n}If you continue to help us out, then that will free up the hands I need to tend to the harvest. Clearing out the beasts roaming the land will also assure that we can work in peace.
         譯文 : >-
             你奪回了農田，幫了我們很大的忙。但是在我的人種下新的莊稼之前我無法幫助你們。{^n}{^n}如果肯繼續幫助我們的話，就可以節省更多的人手來參與到收穫之中。把田間遍佈的野獸清除乾淨，我們才能好好地幹活。
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             沒問題。
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}You have done so much for us, I think it is only fair that we return the favor.
         譯文 : >-
             這是這些天我聽到過的最好的消息了。我要和索梅爾隊長談談重建一個廚房的事。{^n}{^n}你一如既往的幫助將確保霍姆斯特德能夠出產足夠所有人吃的食物。
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             I'm glad to hear that.
         譯文 : >-
             聽到你這麼說我很高興。
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             Have you dealt with the Dermapteran queen?
         譯文 : >-
             你幹掉了革翅目女王了麼？
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             My people at Devil's Crossing need food.
         譯文 : >-
             惡魔十字的人們需要食物。
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             I'm sorry, but we can't afford to spare anything until we can grow more, and we can't do that with the Dermapterans infesting everything in sight.{^n}{^n}Help us out, and I will see to it that Devil's Crossing gets the food it needs.
         譯文 : >-
             我很抱歉，在種植更多的作物之前，我們實在無法把食物分給別人。我們沒法擴大種植因為革翅目蟲子佔據了我們的農場。{^n}{^n}幫助我們，我會確保惡魔十字能得到它需要的食物。
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             很好。
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             Where is the hive?
         譯文 : >-
             蟲巢在哪？
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             We know that the Royal Hive is somewhere out in the Rotting Cropland, to the west of Homestead. The queen is always guarded by two of her Grand Viziers, so you would have to acquire their pheromone glands to even enter her chamber.{^n}{^n}Be careful. The Viziers are the queen's last line of defense. They will not go down easily.
         譯文 : >-
             我們知道蟲巢就在霍姆斯特德西邊的腐壞田地那裡。蟲後由兩隻蟲群領袖看守著，所以你需要獲得他們的毒腺才能進入蟲後的房間。{^n}{^n}要小心。蟲群領袖是蟲後的最後一道防線，它們可不好對付。
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             I will be careful.
         譯文 : >-
             我會多加小心的。
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             還沒有。
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             It's impressive what you've done with the infested fields. You helped us when the Black Legion refused to. That is commendable.{^n}{^n}I've been wondering if you would be willing to assist us with a far more grave task.
         譯文 : >-
             你解決了肆虐田間的蟲群，這實在是令人印象深刻。你幫助了我們，而黑色軍團拒絕了。這實在是難得可貴。{^n}{^n}我一直在想你願不願意幫我們執行一個比之前困難得多的任務。
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             What is it?
         譯文 : >-
             什麼任務？
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             The Dermapteran hives are cyclical in nature. Every seven years or so, they birth a new queen, which promptly proliferates their numbers and causes them to explode across the countryside.{^n}{^n}In the past, we would rally together and exterminate the queen while she was still young. But after the Grim Dawn, the Dermapterans were allowed to thrive, and their queen has molted into a massive creature that spawns new Dermapterans by the dozen every day.She has to be destroyed, otherwise the insects will eventually run out of food and attack us in force. The queen is always guarded by two of her Grand Viziers, so you would have to acquire their pheromone glands to even enter her chamber. We know that the Royal Hive is somewhere out in the Rotting Croplands, to the west of Homestead.{^n}{^n}After the way you handled the infested fields, I am confident in your abilities. Will you help us halt the Dermapteran reproductive cycle? I will gladly pool together all of our iron bits if you can pull this off.
         譯文 : >-
             革翅目昆蟲的繁殖是週期性的。大約每過七年，會誕生一隻新的蟲後，她會使得蟲群的數目急劇地增長，因而它們會在田間氾濫成災。{^n}{^n}過去，我們會集合人力在她尚處年幼的時候消滅掉她。但是在恐怖黎明之後，革翅目蟲群開始茁壯成長，蟲後變成了一隻龐然大物，每天大量生產出新的革翅目蟲子。必須要殺掉她。否則早晚它們會沒有什麼可吃的，然後成群結隊地來攻擊我們。蟲後總是由兩個蟲群領袖守護著，所以你需要先取得它們的毒腺才能進入蟲後的房間。據我們所知，蟲巢位於霍姆斯特德西邊腐壞田地的某處。{^n}{^n}根據你在清理農田時顯露的手段，我對你的本事很有信心。你會幫我們中斷革翅目的繁殖週期麼？如果你成功的話，我會很高興地把我們所有的鐵幣都給你。
 #-------------------------------#
     62 :
-        標註 : 
         原文 : >-
             I will slay the Dermapteran queen.
         譯文 : >-
             我會殺了革翅目女王的。
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             There is no way I can do this.
         譯文 : >-
             我做不到。
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             I have already dealt with the queen.
         譯文 : >-
             我已經幹掉了蟲群女王。
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}Your continued support is ensuring that Homestead will produce enough food for all.
         譯文 : >-
             這是這些天我聽到過的最好的消息了。我要和索梅爾隊長談談重建一個廚房的事。{^n}{^n}你一如既往的幫助將確保霍姆斯特德能夠出產足夠所有人吃的食物。
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             What about Devil's Crossing?
         譯文 : >-
             惡魔十字的事情該怎麼說？
 #-------------------------------#
     68 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     69 :
-        標註 : 
         原文 : >-
             That is the best news I've heard for weeks. I will have to speak to Captain Somer about getting a proper kitchen set up.{^n}{^n}You have done so much for us, I think it is only fair that we return the favor.
         譯文 : >-
             這是這些天我聽到過的最好的消息了。我要和索梅爾隊長談談重建一個廚房的事。{^n}{^n}你一如既往的幫助將確保霍姆斯特德能夠出產足夠所有人吃的食物。
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             I'm glad to hear that.
         譯文 : >-
             聽到你這麼說我很高興。
 #-------------------------------#
     72 :
-        標註 : 
         原文 : >-
             Sorry, I think I've done enough.
         譯文 : >-
             抱歉，我想我已經做的足夠多了。
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             Any progress with the Dermapterans?
         譯文 : >-
             革翅目蟲子的事情有進展嗎？
 #-------------------------------#
     74 :
-        標註 : 
         原文 : >-
             I have cleared out the fields, as you asked.
         譯文 : >-
             就像你要求的那樣，我已經把農田清理乾淨了。
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             I am relieved to hear that, and that you've returned in one piece. Dermapterans should not be trifled with, especially in such numbers.{^n}{^n}I will speak to Captain Somer about sending some guards out along with some of the farmers. We will have that field cleaned up in no time.{^n}{^n}In the meantime, I was hoping you would hear me out on a far more grave task.
         譯文 : >-
             聽到這個消息我感到如釋重負，而且你也平安歸來了。革翅目昆蟲絕不可小覷，尤其是數量這麼多的情況下。{^n}{^n}我會和索梅爾隊長要求派一些守衛去保護農民。那些農田馬上就能被清理乾淨。{^n}{^n}與此同時，我希望你能幫助我完成一個比之前困難得多的任務。
 #-------------------------------#
     76 :
-        標註 : 
         原文 : >-
             What is it?
         譯文 : >-
             什麼任務？
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             Sorry, I think I've done enough.
         譯文 : >-
             抱歉，我想我已經做的足夠多了。
 #-------------------------------#
     79 :
-        標註 : 
         原文 : >-
             Any progress with the Dermapterans?
         譯文 : >-
             革翅目蟲子的事情有進展嗎？
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             My people at Devil's Crossing need food.
         譯文 : >-
             惡魔十字的人們需要食物。
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             I'm sorry, but we can't afford to spare anything until we can grow more, and we can't do that with the Dermapterans infesting everything in sight.{^n}{^n}Help us out, and I will see to it that Devil's Crossing gets the food it needs.
         譯文 : >-
             我很抱歉，在種植更多的作物之前，我們實在無法把食物分給別人。我們沒法擴大種植因為革翅目蟲子佔據了我們的農場。{^n}{^n}幫助我們，我會確保惡魔十字能得到它需要的食物。
 #-------------------------------#
     83 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             好的。
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             Where are the farms again?
         譯文 : >-
             那些農田在哪？
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             There are two farms just west of here, belonging to Elmsworth and Thornsbury, which would be the ideal next steps in expanding our food production. If you could clear out the Dermapteran egg clusters there, along with any Dermapterans protecting them, then perhaps I can convince the captain to at least assign guards to the farms and allow our men to work the fields.
         譯文 : >-
             西邊有兩個農場，分別屬於埃姆斯沃斯和索恩斯巴利家族。它們是下一步用來擴大作物生產理想的田地。如果你能清除那些革翅目蟲卵集簇的話，或許我至少可以說服隊長派些守衛保護住農場，以便我們在地裡耕作。
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             I will head there now.
         譯文 : >-
             我這就去。
 #-------------------------------#
     87 :
-        標註 : 
         原文 : >-
             I'm still working on a solution.
         譯文 : >-
             我還在想辦法。
 #-------------------------------#
     88 :
-        標註 : 
         原文 : >-
             Welcome back. I don't suppose you've had a change of heart about helping us out?
         譯文 : >-
             歡迎回來，你不會改變主意，不再幫助我們了吧？
 #-------------------------------#
     89 :
-        標註 : 
         原文 : >-
             What is the problem?
         譯文 : >-
             你們有什麼麻煩？
 #-------------------------------#
     90 :
-        標註 : 
         原文 : >-
             After the Grim Dawn, many of our neighbors were forced to abandon their homes and flee here. Together, we built Homestead up into a sanctuary, but it came at a loss of countless other farmsteads.{^n}{^n}When the Black Legion arrived, we were able to recover a few fields, but not nearly enough to feed everyone. Captain Somer considers the resources available to be sufficient for her campaign and has deemed any further efforts to restore the farmland to be secondary to the Legion's mission.The Dermapterans, a vile infestation that plagues this land every few years, are running rampant throughout our lands, devouring all they see and laying their eggs. If we don't act soon, our harvest will be ruined and the land left barren.{^n}{^n}There are two farms just west of here, belonging to Elmsworth and Thornsbury, which would be the ideal next steps in expanding our food production. If you could clear out the Dermapteran egg clusters there, along with any Dermapterans protecting them, then perhaps I can convince the captain to at least assign guards to the farms and allow our men to work the fields. I'll see to it that you are justly compensated. What do you say?
         譯文 : >-
             在恐怖黎明之後，許多我們的鄰居都被迫放棄了他們的家園逃到了這兒。我們一起把霍姆斯特德建成了一個避難所，但是同時也損失了其他不計其數的農場。{^n}{^n}當黑色軍團來到這裡的時候，我們得以收復了一些農田，但是還不足以養活所有人。索梅爾隊長認為對她來說，實施作戰的資源已經足夠，因此她認為任何收復農田的行動對黑色軍團來說都是次要的。革翅目昆蟲，一種每隔幾年就要危害這片土地的害蟲開始在我們的田間肆虐，吞食掉所有它們能看見的東西然後產下它們卵。如果我們不趕緊行動，我們的收成就會被破壞，農田也將變成不毛之地。{^n}{^n}西邊就有兩座農場，屬於埃姆斯沃斯和索恩斯巴利家族。它們是下一步用來擴大作物生產理想的田地。如果你能清除那些革翅目蟲卵集簇還有守護它們的革翅目蟲子的話，或許我就能說服隊長至少派守衛保護住農場。這樣我們就能安心種田了。我保證你會得到公正的獎賞的，你覺得這個提議怎麼樣？
 #-------------------------------#
     91 :
-        標註 : 
         原文 : >-
             I will clear out the infestation.
         譯文 : >-
             我會清除掉氾濫的蟲群的。
 #-------------------------------#
     92 :
-        標註 : 
         原文 : >-
             Sounds like a job for the Legion.
         譯文 : >-
             這聽起來是軍團該乾的活。
 #-------------------------------#
     95 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     96 :
-        標註 : 
         原文 : >-
             Welcome to Homestead, traveler. What brings you to our sanctuary?
         譯文 : >-
             歡迎來到霍姆斯特德，旅行者。是什麼讓你來到我們的避難所？
 #-------------------------------#
     97 :
-        標註 : 
         原文 : >-
             I come from Devil's Crossing. I was wondering if we could trade for food.
         譯文 : >-
             我從惡魔十字那裡來。我想知道我們是否可以從這裡交換食物。
 #-------------------------------#
     98 :
-        標註 : 
         原文 : >-
             I understand your predicament, I truly do; but I'm afraid we are not in a position to help you right now.{^n}{^n}Frankly, we could use some help ourselves. With the Black Legion hell-bent on destroying every Aetherial and Chthonian they see, they've lost sight of the issues plaguing the very people they are trying to protect.
         譯文 : >-
             我能理解你們的難處，真的。但我恐怕我們現在沒法幫助你們。{^n}{^n}說實話，我們也需要自己也需要幫助，黑色軍團固執地殺死每一隻他們看見的虛靈和冥靈，但是他們忘了他們要保護的人們正麻煩纏身。
 #-------------------------------#
     102 :
-        標註 : 
         原文 : >-
             I understand.
         譯文 : >-
             我懂了。
 #-------------------------------#
     103 :
-        標註 : 
         原文 : >-
             Just passing through.
         譯文 : >-
             我只是路過。
 #-------------------------------#
     104 :
-        標註 : 
         原文 : >-
             Welcome to Homestead, traveler. I'd give a warmer greeting, but we have a situation on our hands that requires my attention.{^n}{^n}With the Black Legion hell-bent on destroying every Aetherial and Chthonian they see, they've lost sight of the issues plaguing the very people they are trying to protect.
         譯文 : >-
             歡迎來到霍姆斯特德，旅行者。我想更熱烈地迎接你的到來，但是我手上有不得不處理的事情。{^n}{^n}黑色軍團固執地殺死每一隻他們看見的虛靈和冥靈，但是他們忘了他們要保護的人們正麻煩纏身。
 #-------------------------------#
     105 :
-        標註 : 
         原文 : >-
             What is the problem?
         譯文 : >-
             是什麼麻煩？
 #-------------------------------#
     106 :
-        標註 : 
         原文 : >-
             After the Grim Dawn, many of our neighbors were forced to abandon their homes and flee here. Together, we built Homestead up into a sanctuary, but it came at a loss of countless other farmsteads.{^n}{^n}When the Black Legion arrived, we were able to recover a few fields, but not nearly enough to feed everyone. Captain Somer considers the resources available to be sufficient for her campaign and has deemed any further efforts to restore the farmland to be secondary to the Legion's mission.The Dermapterans, a vile infestation that plagues this land every few years, are running rampant throughout our lands, devouring all they see and laying their eggs. If we don't act soon, our harvest will be ruined and the land left barren.{^n}{^n}There are two farms just west of here, belonging to Elmsworth and Thornsbury, which would be the ideal next steps in expanding our food production. If you could clear out the Dermapteran egg clusters there, along with any Dermapterans protecting them, then perhaps I can convince the captain to at least assign guards to the farms and allow our men to work the fields. I'll see to it that you are justly compensated. What do you say?
         譯文 : >-
             在恐怖黎明之後，許多我們的鄰居都被迫放棄了他們的家園逃到了這兒。我們一起把霍姆斯特德建成了一個避難所，但是同時也損失了其他不計其數的農場。{^n}{^n}當黑色軍團來到這裡的時候，我們得以收復了一些農田，但是還不足以養活所有人。索梅爾隊長認為對她來說，實施作戰的資源已經足夠，因此她認為任何收復農田的行動對黑色軍團來說都是次要的。革翅目昆蟲，一種每隔幾年就要危害這片土地的害蟲開始在我們的田間肆虐，吞食掉所有它們能看見的東西然後產下它們卵。如果我們不趕緊行動，我們的收成就會被破壞，農田也將變成不毛之地。{^n}{^n}西邊就有兩座農場，屬於埃姆斯沃斯和索恩斯巴利家族。它們是下一步用來擴大作物生產理想的田地。如果你能清除那些革翅目蟲卵集簇還有守護它們的革翅目蟲子的話，或許我就能說服隊長至少派守衛保護住農場。這樣我們就能安心種田了。我保證你會得到公正的獎賞的，你覺得這個提議怎麼樣？
 #-------------------------------#
     107 :
-        標註 : 
         原文 : >-
             I will clear out the infestation.
         譯文 : >-
             我會清除氾濫的蟲群。
 #-------------------------------#
     108 :
-        標註 : 
         原文 : >-
             Sounds like a job for the Legion.
         譯文 : >-
             這聽起來是軍團該乾的活。
 #-------------------------------#
     109 :
-        標註 : 
         原文 : >-
             Why is the Black Legion not helping?
         譯文 : >-
             為什麼黑色軍團不幫助你們？
 #-------------------------------#
     110 :
-        標註 : 
         原文 : >-
             Captain Somer is only concerned with the Aetherials and the Cult of Ch'thon. What she fails to understand is that we need to restore more fields to working condition if we are to provide food for ourselves and all her troops. With the world in disarray, the Dermapterans have spread like locusts, invading our farms and devouring our livestock.{^n}{^n}We have come to the Black Legion for aid many times, but the captain is deaf to our requests.
         譯文 : >-
             索梅爾隊長只關心虛靈和冥神的邪教徒。她不明白的是如果我們要給我們和她的部隊提供食物的話，就需要更多的能種莊稼的土地。因為自然的秩序已不在，所以革翅目昆蟲就像蝗蟲一樣瘋狂地繁殖，它們入侵我們的農田，吞食掉我們的牲畜。{^n}{^n}我們已經多次要求黑色軍團幫忙了，但是隊長總是對我們的訴求視而不見。
 #-------------------------------#
     111 :
-        標註 : 
         原文 : >-
             So what is the problem?
         譯文 : >-
             所以這裡遇上了什麼麻煩呢？
 #-------------------------------#
     113 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     114 :
-        標註 : 
         原文 : >-
             What can you tell me about the area?
         譯文 : >-
             關於這片區域你能告訴我些什麼？
 #-------------------------------#
     115 :
-        標註 : 
         原文 : >-
             Homestead and the surrounding farmlands have been providing food to the nearby towns and villages for centuries. My family has worked this land for over two hundred years. But when the Grim Dawn struck, that all seemed to fall apart in an instant.{^n}{^n}Now we are contending with Dermapterans, Aetherials and bloodthirsty cultists, virtually at the same time. Homestead has become a hurricane of conflict, and we are at the eye of the storm.
         譯文 : >-
             霍姆斯特德和它周邊的農場已經為附近的城鎮提供食物已經有幾個世紀的歷史了。我的家庭已經在這片土地上勞作了超過兩百年。但是當恐怖黎明來臨之時，一切彷彿瞬間分崩離析了。{^n}{^n}現在我們幾乎同時在和革翅目蟲子，虛靈還有嗜血的邪教徒爭鬥活命。霍姆斯特德的衝突彷彿颶風般的劇烈，而我們就好像身處在風暴中心。
 #-------------------------------#
     116 :
-        標註 : 
         原文 : >-
             So what is the problem?
         譯文 : >-
             所以這裡遇上了什麼麻煩呢？
 #-------------------------------#
     118 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     119 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-

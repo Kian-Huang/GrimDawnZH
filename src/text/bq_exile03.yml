@@ -1,43 +1,37 @@
-bq_exile03.txt : 
+bq_exile03.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Ancient Heart
         譯文 : >-
             賞金：Ancient Heart
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The creatures of Cairn are fascinating. The power they contain comes not from the Aether, but from their unusual biology.{^n}{^n}I wish to study them. Bring me an Ancient Heart and I shall reward you with iron bits.
         譯文 : >-
             The creatures of Cairn are fascinating. The power they contain comes not from the Aether, but from their unusual biology.{^n}{^n}I wish to study them. Bring me an Ancient Heart and I shall reward you with iron bits.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Ancient Heart
         譯文 : >-
             收集Ancient Heart
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Ancient Heart to the Outcast
         譯文 : >-

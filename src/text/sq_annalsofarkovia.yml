@@ -1,43 +1,37 @@
-sq_annalsofarkovia.txt : 
+sq_annalsofarkovia.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Old Arkovia
         譯文 : >-
             古安克維亞
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Annals of Arkovia
         譯文 : >-
             安克維亞編年史
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Return note to rover
         譯文 : >-
             將日誌返還給流浪者
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You have discovered an ancient text buried in an Arkovian ruin that speaks of Rhowan's last days as monarch. The rovers would be glad to have this information. Bring the text to Amkala at the Rover Camp in Old Arkovia.
         譯文 : >-
             你在安克維亞的廢墟之中找到了一本描述獨裁者羅文最後的日子的古籍。流浪者們會很願意得知這種信息的。把古籍帶去給古安克維亞流浪者營地的阿姆卡拉。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect the Annals of Arkovia in Cronley's Hideout
         譯文 : >-
             收集克隆利的藏身處的安克維亞編年史
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Bring the Annals to Amkala at the Rover Camp in Old Arkovia
         譯文 : >-

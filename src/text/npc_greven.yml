@@ -1,274 +1,235 @@
-npc_greven.txt : 
+npc_greven.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Greven
         譯文 : >-
             格雷文
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Welcome back to our humble camp.
         譯文 : >-
             歡迎再來我們簡陋的營地。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Welcome to our humble camp.
         譯文 : >-
             歡迎再回到我們簡陋的營地。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Hello! What brings you to our camp?
         譯文 : >-
             你好！是什麼風把您吹到我們的營地？
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I found your elder out in the ruins. I'm sorry.
         譯文 : >-
             我找到了你們的長老，他在那片廢墟之中。我很抱歉。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Ah...a great loss to our people. Elder Mathias did all he could to keep our talisman from bandit hands, and it seems he had given his life to preserve his duty. Tell me, did you find a talisman on him? It is a small object carved from bone. Please, if you have it, we will be happy to provide compensation for its return.
         譯文 : >-
             哎……這是我們重大的損失。馬賽厄斯長老為了保護我們的護身符不落入匪徒手中而付出了一切，他以生命履行了他的職責。告訴我，你在他身上找到了一枚護身符嗎？那是個用骨頭雕刻成的小東西。如果你有的話，請你還給我，我們會很高興給你一些補償的。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Yes, actually. Here it is.
         譯文 : >-
             是的，我找到了。拿著。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             At least his death was not in vain. Thank you...the return of this talisman will lift the spirits of my people.
         譯文 : >-
             至少他沒有白死。謝謝你……這枚護身符的迴歸，會讓我們的人民振作起來的。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You're welcome. Goodbye.
         譯文 : >-
             不用客氣，再見。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             No, I did not find a talisman. (Lie)
         譯文 : >-
             沒有，我沒找到什麼附身符。(撒謊)
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Then our relic and our elder are both lost to us this day. Thank you for delivering this news, though it saddens us all.
         譯文 : >-
             我們今天同時失去了聖物和長老。謝謝你告訴我們這個消息，儘管這讓我們無比悲傷。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             I'm sorry for your loss. Goodbye.
         譯文 : >-
             我對你們的損失表示遺憾。再見。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             He did, but I lost it on the journey back.
         譯文 : >-
             我找了，不過我在回來的路上丟了。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Oh? Please, if you could find the relic again, we would gladly compensate you for the trouble.
         譯文 : >-
             是麼？如果你能再找回聖物，我們會很高興的補償你的。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             I will find it again.
         譯文 : >-
             我會把它再找回來的。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Any luck in your search for Elder Mathias?
         譯文 : >-
             尋找馬賽厄斯長老的事情進展如何？
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             I found the elder, I'm sorry.
         譯文 : >-
             我找到了長老，我很遺憾。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Ah...a great loss to our people. Elder Mathias did all he could to keep our talisman from bandit hands, and it seems he had given his life to preserve his duty. Tell me, did you find the talisman on him?
         譯文 : >-
             哎……這是我們重大的損失。馬賽厄斯長老為了保護我們的護身符不落入匪徒手中而付出了一切，他以生命履行了他的職責。告訴我，你在他身上找到了一枚護身符嗎？
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Yes, actually. Here it is.
         譯文 : >-
             是的，我找到了。拿著。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             At least his death was not in vain. Thank you...the return of this talisman will lift the spirits of my people.
         譯文 : >-
             至少他沒有白死。謝謝你……這枚護身符的迴歸，會讓我們的人民振作起來的。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             You're welcome. Goodbye.
         譯文 : >-
             不用客氣，再見。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             No, I did not find a talisman. (Lie)
         譯文 : >-
             沒有，我沒找到什麼附身符。(撒謊)
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Then our relic and our elder are both lost to us this day. Thank you for delivering this news, though it saddens us all.
         譯文 : >-
             我們今天同時失去了聖物和長老。謝謝你告訴我們這個消息，儘管這讓我們無比悲傷。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             I'm sorry for your loss. Goodbye.
         譯文 : >-
             我對你們的損失表示遺憾。再見。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             Any luck in your search for Elder Mathias?
         譯文 : >-
             尋找馬賽厄斯長老的事情進展如何？
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Where should I look again?
         譯文 : >-
             我該去哪裡尋找？
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Head out west from the camp, past Staunton Mine. Elder Mathias fled into the ruins in that area.
         譯文 : >-
             往營地西邊走，走過斯湯頓礦洞。馬賽厄斯長老逃進了那邊的廢墟之中。
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             Thank you. I will resume the search.
         譯文 : >-
             謝謝你，我會繼續尋找的。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             Still searching. Goodbye.
         譯文 : >-
             還在尋找，再見。
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             Hello! Pleased to meet a friendly face out here. Bandits don't usually grant us the courtesy. Since you are traveling these parts, I was wondering if you could help us out.
         譯文 : >-
             你好！很高興碰到一張友善的面孔。匪徒們可不會跟我們以禮相待。你既然走到了這裡，我想知道你能不能幫幫我們。
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             What do you need assistance with?
         譯文 : >-
             你們需要我幫什麼忙？
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             Our elder, Mathias, has gone missing following a recent raid on our camp. The Elder was determined to keep our talisman, a precious relic of my people, away from their greedy hands and so he fled into the nearby ruins when the bandits showed up. It has been several days and I'm beginning to fear the worst. Please, if you find yourself exploring the ruins west of Staunton Mine, seek out Elder Mathias. If it is as I fear and the Elder is dead, please at least recover the talisman. It is a small object carved from bone and carries great spiritual significance to us. We would be eternally grateful for its return.
         譯文 : >-
             我們的長老，馬賽厄斯，因為最近我們營地最近受到的一次攻擊而失蹤了。長老是保管我們的護身符的人，那對我們族人來說是珍貴的聖物。為了讓聖物遠離匪徒們貪婪的雙手，長老逃進了附近的廢墟之中。已經好幾天了，我開始想到最壞的結果了。如果你要去探索斯湯頓礦洞西邊的廢墟的話，請你尋找一下長老馬賽厄斯吧。如果正如我所想的長老死了，請至少把護身符找回來。那個護身符是由骨頭雕刻成的小物件，它對於我們來說具有非常重要的精神意義。如果你把它拿回來，我們將對你感激不盡。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             I will search for your elder.
         譯文 : >-
             我會尋找你們的長老的。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             I'm sorry. I cannot help you.
         譯文 : >-
             抱歉，我幫不了你。
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             I'm not interested. Goodbye.
         譯文 : >-

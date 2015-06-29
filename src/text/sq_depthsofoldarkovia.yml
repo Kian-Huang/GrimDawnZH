@@ -1,36 +1,31 @@
-sq_depthsofoldarkovia.txt : 
+sq_depthsofoldarkovia.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Old Arkovia
         譯文 : >-
             古安克維亞
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             The Depths of Old Arkovia
         譯文 : >-
             古安克維亞的歷史深處
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Collect Fragments
         譯文 : >-
             收集殘卷
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You have discovered a fragment of a long-lost page of Arkovian history. If you find more pieces, perhaps you could decipher what they say. Your best chances are within the Arkovian Undercity, deep beneath the ruins of Old Arkovia.
         譯文 : >-
             你發現了一卷散佚已久，記錄安克維亞歷史的古籍。如果找到更多書頁的話，可能你就能夠解密書中所講述的歷史。最有可能找到書頁的地方就是安克維亞地下城，它在安克維亞廢墟的地底深處。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Collect Forgotten Passages within the ruins of Old Arkovia
         譯文 : >-

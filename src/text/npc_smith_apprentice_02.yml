@@ -1,36 +1,31 @@
-npc_smith_apprentice_02.txt : 
+npc_smith_apprentice_02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Duncan
         譯文 : >-
             鄧肯
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Not a bad place you got here. Many souls in need of my services. Seems I'll be plenty busy.
         譯文 : >-
             你們找的這個地方挺不錯，許多人都需要我的幫助。看起來我有的忙了。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Glad you decided to join us.
         譯文 : >-
             很高興你能加入我們。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Not a bad place you got here. Many souls in need of my services. Seems I'll be plenty busy.
         譯文 : >-
             你們找的這個地方挺不錯，許多人都需要我的幫助。看起來我有的忙了。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Glad you decided to join us.
         譯文 : >-

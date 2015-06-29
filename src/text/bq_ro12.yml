@@ -1,58 +1,50 @@
-bq_ro12.txt : 
+bq_ro12.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Mortallis
         譯文 : >-
             賞金：莫塔里斯
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Deep within the Steps of Torment, the Arkovian torture prison, there dwell several ruthless undead beings, chief amongst them Alkamos, the Lord Executioner. But Alkamos had many servants to carry out his decrees.{^n}{^n}Among them was Mortallis, a butcher of men who relished in the gruesome work of the Steps. Should he ever escape from the Steps of Torment, Mortallis would bring his hunger for death to the innocents now inhabiting the region. He must be destroyed.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
         譯文 : >-
             Deep within 苦痛階梯, the Arkovian torture prison, there dwell several ruthless undead beings, chief amongst them Alkamos, the Lord Executioner. But Alkamos had many servants to carry out his decrees.{^n}{^n}Among them was 莫塔里斯, a butcher of men who relished in the gruesome work of the Steps. Should he ever escape from 苦痛階梯, 莫塔里斯 would bring his hunger for death to the innocents now inhabiting the region. He must be destroyed.{^n}{^n}We have set aside some of their scavenged materials as reward for this task.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Mortallis
         譯文 : >-
-            Slay Mortallis
+            殺了莫塔里斯
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
-            你已經完成了任務，你該返回賞金桌領取獎賞。
+            回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Rovers and should return to the Bounty Table for your reward.
         譯文 : >-
-            返回流浪者賞金桌
+            你已經完成了任務，你該返回賞金桌領取獎賞。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Rover Bounty Table
         譯文 : >-
-            Return to the Rover Bounty Table
+            返回流浪者賞金桌

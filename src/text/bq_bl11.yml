@@ -1,43 +1,37 @@
-bq_bl11.txt : 
+bq_bl11.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Chthonic Seal
         譯文 : >-
             賞金：Chthonic Seal
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a Chthonic Seal will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a Chthonic Seal will be compensated with iron bits。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Chthonic Seal
         譯文 : >-
             Collect Chthonic Seal
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Chthonic Seal to the Black Legion Bounty Table
         譯文 : >-

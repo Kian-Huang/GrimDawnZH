@@ -1,43 +1,37 @@
-bq_dc16.txt : 
+bq_dc16.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Tainted Brain
         譯文 : >-
             賞金：感染大腦
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Kasparov believes that he may have a solution for the Aetherial's ability to resurrect our dead. I'm not hopeful, but we have to take any chance we can get.{^n}{^n}Unfortuantely, his experiment requires some Tainted Brain Matter.{^n}{^n}Anyone that manages to obtain this rare object for him will be compensated with some of our scavenged materials.
         譯文 : >-
             卡斯帕羅夫相信他有辦法解決虛靈復活死屍的能力。我不抱太大希望，但是我們應該儘可能的嘗試。{^n}{^n}不幸的是，他的實驗需要感染大腦。{^n}{^n}任何帶來這種罕見物品的人都將得到一些材料作為獎賞。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Tainted Brain Matter
         譯文 : >-
             收集感染大腦
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Tainted Brain Matter to the Devil's Crossing Bounty Table
         譯文 : >-

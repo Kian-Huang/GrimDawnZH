@@ -1,169 +1,145 @@
-npc_caravan_merchant_01.txt : 
+npc_caravan_merchant_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Luther Graves
         譯文 : >-
             盧瑟·格雷夫斯
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Please, help me!
         譯文 : >-
             求你了，救救我！
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Help is on the way.
         譯文 : >-
             我這就來救你。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Thank goodness someone came! Those Slith, they attacked my caravan, and killed all my guards! {^n}{^n}I think the only reason they left me alive was so that they could have me fresh later. Those bastards!
         譯文 : >-
             謝天謝地，終於有人來了！蛇人襲擊了我的貨車而且殺光了我的護衛！{^n}{^n}我覺得他們留我一口氣兒是因為下頓還能吃口新鮮的。那幫混蛋！
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I'm from Devil's Crossing, I can help you get back there!
         譯文 : >-
             我來自惡魔十字，我可以帶你回去！
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Don't kid yourself, look at this blood, I'm not going to be able to walk out of here! Appreciate the thought, but it might be better to just end it quick.
         譯文 : >-
             別開玩笑了，看看我身上這些血，我走不了！我很感激你的幫助，你還是給我來個痛快的了斷吧。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             You probably won't like this, but I can open a rift for you.
         譯文 : >-
             我能給你打開一個傳送裂縫，不過你可能不會喜歡這種法子的。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             The last thing I want is my legs to stay on this side while the rest of me goes back! {^n}{^n}But you're not giving me any alternatives, are you? Send me off then.
         譯文 : >-
             萬一身子回去了腿還留在這邊怎麼辦！{^n}{^n}但你沒給我別的選擇，對不對？把我傳送過去吧。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             I'm pretty sure this is safe. (Open Riftgate)
         譯文 : >-
             放心吧，沒事的。(打開傳送門)
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             I can save you, but do you have any coin?
         譯文 : >-
             我可以救你，但是你有錢嗎？
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             A fine merchant such as yourself probably has a few coins, yes?
         譯文 : >-
             像你一樣精明的商人總會有些錢的對麼？
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Well, um, yes. I suppose I do. What are you getting at?
         譯文 : >-
             呵呵，是的。我是一定的。你覺得呢？
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             I'll take you to Devil's Crossing, for some iron bits.
         譯文 : >-
             我可以把你帶到惡魔十字去，只要給我些錢。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             What? Are you really trying to extort me at a time like this?{^n}{^n}*Luther mumbles angrily to himself*{^n}{^n}Fine, I'll give you all I've got. Just get me out of here.
         譯文 : >-
             什麼？你真的要在這種時候來敲詐我？{^n}{^n}*盧瑟憤怒地喃喃自語*{^n}{^n}好吧，我把我所有的東西都給你。救我出去。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Very good. (Take the Money and Open Riftgate)
         譯文 : >-
             很好。(拿走錢並打開傳送門)
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Nevermind, I'll see you in Devil's Crossing (Open Riftgate)
         譯文 : >-
             別介意，惡魔十字再見。(開啟傳送門)
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Forget it. I can open a rift for you.
         譯文 : >-
             算了，我給你打開傳送門好了。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Thank goodness someone came! Those Slith, they attacked my caravan, and killed all my guards! {^n}{^n}I think the only reason they left me alive was so that they could have me fresh later. Those bastards!
         譯文 : >-
             謝天謝地，終於有人來了！蛇人襲擊了我的貨車而且殺光了我的護衛！{^n}{^n}我覺得他們留我一口氣兒是因為下頓還能吃口新鮮的。那幫混蛋！
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Thank goodness someone came! Those Slith, they attacked my caravan, and killed all my guards! {^n}{^n}I think the only reason they left me alive was so that they could have me fresh later. Those bastards!
         譯文 : >-
             謝天謝地，終於有人來了！蛇人襲擊了我的貨車而且殺光了我的護衛！{^n}{^n}我覺得他們留我一口氣兒是因為下頓還能吃口新鮮的。那幫混蛋！
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             I'm from Devil's Crossing, I can help you get back there!
         譯文 : >-
             我來自惡魔十字，我可以帶你回去！
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Don't kid yourself, look at this blood, I'm not going to be able to walk out of here! Appreciate the thought, but it might be better to just end it quick.
         譯文 : >-
             別開玩笑了，看看我身上這些血，我走不了！我很感激你的幫助，你還是給我來個痛快的了斷吧。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             You probably won't like this, but I can open a rift for you.
         譯文 : >-
             我能給你打開一個傳送裂縫，不過你可能不會喜歡這種法子的。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             The last thing I want is my legs to stay on this side while the rest of me goes back! {^n}{^n}But you're not giving me any alternatives, are you? Send me off then.
         譯文 : >-
             萬一身子回去了腿還留在這邊怎麼辦！{^n}{^n}但你沒給我別的選擇，對不對？把我傳送過去吧。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             I'm pretty sure this is safe. (Open Riftgate)
         譯文 : >-

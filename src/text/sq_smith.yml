@@ -1,134 +1,115 @@
-sq_smith.txt : 
+sq_smith.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Devil's Crossing
         譯文 : >-
             惡魔十字
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Tale of Two Blacksmiths
         譯文 : >-
             兩位鐵匠的故事
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Speak to Angrim
         譯文 : >-
             與安格瑞姆交談
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Duncan, a young blacksmith at a refugee camp in the Burrwitch Outskirts, has implored you to seek out his master, Angrim. Angrim left the camp recently, heading northeast, to seek out what he called "more capable" individuals. Duncan wishes to help the refugees survive by providing them with proper equipment, but for this he needs the Malleum Menhir, an ancient forging hammer in the possession of his master.{^n}{^n}If you recover the hammer from Angrim, then Duncan can make the lives of the refugees easier, after which he will gladly join you at Devil's Crossing.
         譯文 : >-
             鄧肯，伯爾維治郊外難民營地的一位年輕的鐵匠，請求你尋找他的師父安格瑞姆。安格瑞姆最近離開了營地向東北方出發去尋找他稱作“更有能耐”的團體去了。鄧肯希望通過打造裝備幫助難民活下來，但是他需要屬於他師父的遠古鍛錘，曼海爾的錘骨。{^n}{^n}如果你能從安格瑞姆那裡拿回鍛錘，鄧肯就能讓難民過的好一些，然後他很樂意到惡魔十字加入你們的隊伍。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Speak to Angrim in the Burrwitch Outskirts
         譯文 : >-
             與伯爾維治郊外的安格瑞姆交談
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Kill and Deliver
         譯文 : >-
-            你決定只有殺掉安格瑞姆才是唯一能從他那裡拿走曼海爾的錘骨的方法。殺掉安格瑞姆以取得那把鍛錘，然後把它送給伯爾維治郊外傳送門附近流浪者營地內的鄧肯。
+            Kill and Deliver
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have decided that killing Angrim is the only way you'll get Malleum Menhir from him. Kill Angrim to claim the forging hammer, then deliver it to Duncan at the refugee camp near the riftgate in Burrwitch Outskirts.
         譯文 : >-
-            You have decided that killing Angrim is the only way you'll get Malleum Menhir from him. Kill Angrim to claim the forging hammer, then deliver it to Duncan at the refugee camp near the riftgate in Burrwitch Outskirts.
+            你決定只有殺掉安格瑞姆才是唯一能從他那裡拿走曼海爾的錘骨的方法。殺掉安格瑞姆以取得那把鍛錘，然後把它送給伯爾維治郊外傳送門附近流浪者營地內的鄧肯。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Kill Angrim and recover Malleum Menhir
         譯文 : >-
-            把曼海爾的骨錘送去給鄧肯
+            殺死安格瑞姆並拿回曼海爾的骨錘
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Deliver Malleum Menhir to Duncan at the refugee camp
         譯文 : >-
-            Deliver Malleum Menhir to Duncan at the refugee camp
+            把曼海爾的骨錘送去給鄧肯
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Take and Deliver
         譯文 : >-
             拿走並送去給鄧肯
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             You have acquired Malleum Menhir from Angrim. Duncan is eagerly awaiting its delivery at the refugee camp near the riftgate in the Burrwitch Outskirts.
         譯文 : >-
             你從安格瑞姆那裡得到了曼海爾的骨錘。鄧肯會非常要想這把鍛錘的。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             Collect Malleum Menhir from Angrim
         譯文 : >-
             從安格瑞姆那裡取回曼海爾的錘骨
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Deliver Malleum Menhir to Duncan at the refugee camp
         譯文 : >-
             送去給鄧肯
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Speak to Apprentice
         譯文 : >-
             與學徒交談
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             You have convinced Duncan to join your cause at Devil's Crossing. Speak to him inside the prison, once he arrives from the refugee camp.
         譯文 : >-
             你說服了鄧肯加入惡魔十字，等他到達惡魔十字後，在監獄中和他交談。
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             Speak to Duncan in Devil's Crossing
         譯文 : >-
             與惡魔十字的鄧肯交談
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             Speak to Master
         譯文 : >-
             與師父交談
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             You have convinced Angrim to join your cause at Devil's Crossing. Speak to him inside the prison.
         譯文 : >-
             你說服了安格瑞姆加入惡魔十字，在監獄中和他交談。
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Speak to Angrim in Devil's Crossing
         譯文 : >-

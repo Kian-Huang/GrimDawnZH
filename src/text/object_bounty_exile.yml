@@ -1,967 +1,829 @@
-object_bounty_exile.txt : 
+object_bounty_exile.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             The Outcast's Tasks
         譯文 : >-
             The Outcast's Tasks
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Task fulfilled.
         譯文 : >-
             You return with the materials in hand, a Task fulfilled.
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             You return triumphantly, a Task fulfilled.
         譯文 : >-
             You return triumphantly, a Task fulfilled.
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             Report in.
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             You are already on a Task for the Outcast.
         譯文 : >-
             You are already on a Task for the Outcast.
 #-------------------------------#
     62 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             The Outcast sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
         譯文 : >-
             The Outcast sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             Take a look at the task.
         譯文 : >-
             Take a look at the task.
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             No Tasks available at this time.
         譯文 : >-
             No Tasks available at this time.
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             Take a look at the task.
         譯文 : >-
             Take a look at the task.
 #-------------------------------#
     88 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     89 :
-        標註 : 
         原文 : >-
             Those possessed by the Aetherials suffer from some interesting side-effects, mainly physically manifested mutations, but what happens in the brain...that is worthy of deeper insight.{^n}{^n}I wish to study them. Bring me a Tainted Brain Matter and I shall reward you with iron bits.
         譯文 : >-
             Those possessed by the Aetherials suffer from some interesting side-effects, mainly physically manifested mutations, but what happens in the brain...that is worthy of deeper insight.{^n}{^n}I wish to study them. Bring me a 感染大腦 Matter and I shall reward you with iron bits.
 #-------------------------------#
     90 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     91 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     92 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     94 :
-        標註 : 
         原文 : >-
             Blood of a dead god, the chthonians gather it, the cultists worship it, but to what end?{^n}{^n}I must know! Bring me a Blood of Ch'thon and I shall reward you with iron bits.
         譯文 : >-
             Blood of a dead god, the chthonians gather it, the cultists worship it, but to what end?{^n}{^n}I must know! Bring me a 冥神之血 and I shall reward you with iron bits.
 #-------------------------------#
     95 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     96 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     97 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     99 :
-        標註 : 
         原文 : >-
             The creatures of Cairn are fascinating. The power they contain comes not from the Aether, but from their unusual biology.{^n}{^n}I wish to study them. Bring me an Ancient Heart and I shall reward you with iron bits.
         譯文 : >-
             The creatures of Cairn are fascinating. The power they contain comes not from the Aether, but from their unusual biology.{^n}{^n}I wish to study them. Bring me an Ancient Heart and I shall reward you with iron bits.
 #-------------------------------#
     100 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     101 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     102 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     104 :
-        標註 : 
         原文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Tainted Brain Matters and I shall reward you with some of my valuables.
         譯文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three 感染大腦 Matters and I shall reward you with some of my valuables.
 #-------------------------------#
     105 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     106 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     107 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     109 :
-        標註 : 
         原文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of Blood of Ch'thon and I shall reward you with some of my valuables.
         譯文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of 冥神之血 and I shall reward you with some of my valuables.
 #-------------------------------#
     110 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     111 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     112 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     114 :
-        標註 : 
         原文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Ancient Hearts and I shall reward you with some of my valuables.
         譯文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Ancient Hearts and I shall reward you with some of my valuables.
 #-------------------------------#
     115 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     116 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     117 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     119 :
-        標註 : 
         原文 : >-
             The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Glacier Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its icy core will help stabilize my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
         譯文 : >-
             The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Glacier Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its icy core will help stabilize my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
 #-------------------------------#
     120 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     121 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     122 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     124 :
-        標註 : 
         原文 : >-
             The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Squall Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its turbulent core will serve as a catalyst in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
         譯文 : >-
             The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Squall Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its turbulent core will serve as a catalyst in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
 #-------------------------------#
     125 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     126 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     127 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     129 :
-        標註 : 
         原文 : >-
             To further my studies, I require an ancient Relic known to fill its wielder with volcanic fury, Inferno. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its fiery core will be just the heat source I require in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
         譯文 : >-
             To further my studies, I require an ancient Relic known to fill its wielder with volcanic fury, Inferno. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its fiery core will be just the heat source I require in my studies.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
 #-------------------------------#
     130 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     131 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     132 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     134 :
-        標註 : 
         原文 : >-
             The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Corruption Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its tainted properties will help me study the effect of Aetherial mutation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
         譯文 : >-
             The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Corruption Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its tainted properties will help me study the effect of Aetherial mutation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
 #-------------------------------#
     135 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     136 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     137 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     139 :
-        標註 : 
         原文 : >-
             To further my studies, I require an ancient Relic known to shield its wielder from great harm, Sanctuary. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its unusual properties will shield my experiments from external contamimation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
         譯文 : >-
             To further my studies, I require an ancient Relic known to shield its wielder from great harm, Sanctuary. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its unusual properties will shield my experiments from external contamimation.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
 #-------------------------------#
     140 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     141 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     142 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     144 :
-        標註 : 
         原文 : >-
             I have sensed the presence of an old nemesis, a harbinger known as Nucus'Dal. I thought him destroyed, but I was wrong.{^n}{^n}The harbinger hides within the Necropolis, awaiting the return of its godlike master. You will cut its waiting short.{^n}{^n}Eliminate Nucus'Dal for me and I shall reward you with something from my collection.
         譯文 : >-
             I have sensed the presence of an old nemesis, a harbinger known as 紐科斯·達爾. I thought him destroyed, but I was wrong.{^n}{^n}The harbinger hides within 古代墓地, awaiting the return of its godlike master. You will cut its waiting short.{^n}{^n}Eliminate 紐科斯·達爾 for me and I shall reward you with something from my collection.
 #-------------------------------#
     145 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     146 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     147 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     149 :
-        標註 : 
         原文 : >-
             The void is ever turbulent, catastrophic forces threaten to collapse it at any moment, and yet it remains. But lately the energies within have become ever more unstable.{^n}{^n}It can mean only one thing, a powerful chthonian is stirring within the void. Find this anomaly in the Obsidian Throne and destroy it.{^n}{^n}Do so and I shall reward you with something from my collection.
         譯文 : >-
             The void is ever turbulent, catastrophic forces threaten to collapse it at any moment, and yet it remains. But lately the energies within have become ever more unstable.{^n}{^n}It can mean only one thing, a powerful chthonian is stirring within the void. Find this anomaly in 黑曜石王座 and destroy it.{^n}{^n}Do so and I shall reward you with something from my collection.
 #-------------------------------#
     150 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     151 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     152 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     154 :
-        標註 : 
         原文 : >-
             An Aetherial witch known as Conastaria has been spotted out in the Gruesome Harvest.{^n}{^n}She was once a friend, now she serves a different purpose. I want her dead, destroyed, scattered to ashes.{^n}{^n}Do so and I shall reward you with something from my collection.
         譯文 : >-
             An Aetherial witch known as 寇納斯塔利亞 has been spotted out in the Gruesome Harvest.{^n}{^n}She was once a friend, now she serves a different purpose. I want her dead, destroyed, scattered to ashes.{^n}{^n}Do so and I shall reward you with something from my collection.
 #-------------------------------#
     155 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     156 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     157 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     159 :
-        標註 : 
         原文 : >-
             Ludia Starfire was once a talented arcanist and a colleague. No longer.{^n}{^n}She now spreads Aetherial corruption out in the Conflagration. You will end her servitude to the Aether.{^n}{^n}Do so and I shall reward you with something from my collection.
         譯文 : >-
             魯迪亞·星火 was once a talented arcanist and a colleague. No longer.{^n}{^n}She now spreads Aetherial corruption out in 戰火平原. You will end her servitude to the Aether.{^n}{^n}Do so and I shall reward you with something from my collection.
 #-------------------------------#
     160 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     161 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     162 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     164 :
-        標註 : 
         原文 : >-
             The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Guile Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its will serve as a catalyst in my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
         譯文 : >-
             The ancients once created wondrous relics of incredible power. Sadly, much of this knowledge is now lost.{^n}{^n}I require a Guile Relic to continue my research. Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. Its will serve as a catalyst in my experiments.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
 #-------------------------------#
     165 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     166 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     167 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     169 :
-        標註 : 
         原文 : >-
             To further my studies, I require an ancient Relic known to cause uncontrollable fury in its wielder, Rampage. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. It may be highly unstable, but that is just the catalyst I require.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
         譯文 : >-
             To further my studies, I require an ancient Relic known to cause uncontrollable fury in its wielder, Rampage. Sadly, knowledge of its creation has long been lost.{^n}{^n}Should you rediscover information on its creation, bring it to a trusted blacksmith.{^n}{^n}Have them create the Relic, then bring it to me. It may be highly unstable, but that is just the catalyst I require.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
 #-------------------------------#
     170 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     171 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     172 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     174 :
-        標註 : 
         原文 : >-
             As strange as it may seem, the Mistborn trolls are not as dimwitted as would appear. In fact, they have deep shamanistic roots that grant them a profound connection to nature.{^n}{^n}I intend to tap into this power for my next study. Acquire the means to create a Mistborn Talisman from the trolls, the biggest brute likely knows the most.{^n}{^n}Bring the instructions to a trusted blacksmith and have them create the Talisman, then bring it to me. Just goes to show you that great power can come from the most unlikely sources.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
         譯文 : >-
             As strange as it may seem, the Mistborn trolls are not as dimwitted as would appear. In fact, they have deep shamanistic roots that grant them a profound connection to nature.{^n}{^n}I intend to tap into this power for my next study. Acquire the means to create a Mistborn Talisman from the trolls, the biggest brute likely knows the most.{^n}{^n}Bring the instructions to a trusted blacksmith and have them create the Talisman, then bring it to me. Just goes to show you that great power can come from the most unlikely sources.{^n}{^n}Do this for me and I shall reward you with some of my valuables.
 #-------------------------------#
     175 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     176 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     177 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     179 :
-        標註 : 
         原文 : >-
             The Harbinger of Chaos, Shar'Zul is here, on Cairn. I can sense his tainted presence. The Bastion of Chaos, the massive riftgate that tore open near the Necropolis, is his domain.{^n}{^n}Now, I would not ask this of you if I thought you incapable, but I cannot stress the dangers of the ordeals ahead. The Harbinger's very presence is a danger to us all. He must be eliminated if Cairn is to survive, or all is lost.{^n}{^n}Travel into the Bastion of Chaos and dethrone its tyrant. Survive the encounter and I'll even reward you with something from my most treasured collection.{^n}{^n}This bounty requires a Skeleton Key.
         譯文 : >-
             The Harbinger of Chaos, Shar'Zul is here, on Cairn. I can sense his tainted presence. The Bastion of Chaos, the massive riftgate that tore open near 古代墓地, is his domain.{^n}{^n}Now, I would not ask this of you if I thought you incapable, but I cannot stress the dangers of the ordeals ahead. The Harbinger's very presence is a danger to us all. He must be eliminated if Cairn is to survive, or all is lost.{^n}{^n}Travel into the Bastion of Chaos and dethrone its tyrant. Survive the encounter and I'll even reward you with something from my most treasured collection.{^n}{^n}This bounty requires a Skeleton Key.
 #-------------------------------#
     180 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     181 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     182 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     184 :
-        標註 : 
         原文 : >-
             Arkovia is proof of the unbridled power, and hubris, of humanity. An entire race of people damned to eternal damnation out of the sheer spite of one man. But enough on that.{^n}{^n}Deep within the ruins known as the Steps of Torment, there is a spirit called Alkamos. He played a central part in Arkovia's fate, and now pays the eternal price at the heart of the prison he once maintained.{^n}{^n}For centuries, his hatred for Uroboruuk had boiled his mind into madness. He is now an uncontrollable weapon, primed and ready to be unleashed. See that this never happens.{^n}{^n}Travel into the Steps of Torment and banish the Lord Executioner. Survive the encounter and I'll even reward you with something from my most treasured collection.{^n}{^n}This bounty requires a Skeleton Key.
         譯文 : >-
             Arkovia is proof of the unbridled power, and hubris, of humanity. An entire race of people damned to eternal damnation out of the sheer spite of one man. But enough on that.{^n}{^n}Deep within the ruins known as 苦痛階梯, there is a spirit called Alkamos. He played a central part in Arkovia's fate, and now pays the eternal price at the heart of the prison he once maintained.{^n}{^n}For centuries, his hatred for Uroboruuk had boiled his mind into madness. He is now an uncontrollable weapon, primed and ready to be unleashed. See that this never happens.{^n}{^n}Travel into 苦痛階梯 and banish the Lord Executioner. Survive the encounter and I'll even reward you with something from my most treasured collection.{^n}{^n}This bounty requires a Skeleton Key.
 #-------------------------------#
     185 :
-        標註 : 
         原文 : >-
             Accept the Task.
         譯文 : >-
             Accept the Task.
 #-------------------------------#
     186 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             Step away from the Bounty Table.
 #-------------------------------#
     187 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             Next Bounty.
 #-------------------------------#
     189 :
-        標註 : 
         原文 : >-
             The Outcast sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
         譯文 : >-
             The Outcast sees potential in you.{^n}{^n}She trusts that you can handle some of her more sensitive
 #-------------------------------#
     191 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-
             Step away from the Table.
 #-------------------------------#
     192 :
-        標註 : 
         原文 : >-
             The Outcast does not yet trust you enough to send you on her more sensitive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.
         譯文 : >-
             The Outcast does not yet trust you enough to send you on her more sensitive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.
 #-------------------------------#
     193 :
-        標註 : 
         原文 : >-
             Step away from the Table.
         譯文 : >-

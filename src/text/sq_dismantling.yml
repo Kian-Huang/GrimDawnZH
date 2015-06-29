@@ -1,43 +1,37 @@
-sq_dismantling.txt : 
+sq_dismantling.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Devil's Crossing
         譯文 : >-
             惡魔十字
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Dangerous Curiosity
         譯文 : >-
             危險的好奇心
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Collect Dynamite
         譯文 : >-
             收集炸藥
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Kasparov has a hypothesis that items of great magical power can be broken down into their base components if enough energy is supplied into the system. To prove him right, you are to collect Dynamite from the mines scattered around the Arkovian Foothills and Old Arkovia. Then the experiment shall begin.
         譯文 : >-
             卡斯帕羅夫有一個設想，那就是隻要對擁有強大魔力的物品輸入足夠多的能量，它們就能分解成最基本的鑲嵌物。為了證明他是對的，你需要去散佈在安克維亞山麓周圍的礦洞內收集足夠的炸藥。然後就能開始實驗了。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Collect Dynamite
         譯文 : >-
             收集炸藥
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Bring the Dynamite to Kasparov in Devil's Crossing
         譯文 : >-

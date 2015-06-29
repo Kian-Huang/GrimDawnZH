@@ -1,582 +1,499 @@
-npc_necro_mastervaruuk_01.txt : 
+npc_necro_mastervaruuk_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Master Varuuk
         譯文 : >-
             Master Varuuk
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             It pains me to hear that we've come so close to finding out master again, only to have that hope dashed.
         譯文 : >-
             It pains me to hear that we've come so close to finding out master again, only to have that hope dashed.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             We will find Uroboruuk, someday.
         譯文 : >-
             We will find Uroboruuk, someday.
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Your master does not wish to be found.
         譯文 : >-
             Your master does not wish to be found.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Malkadarr has been returned to us.{^n}{^n}No small thanks to you. The Order was right to have trusted you.
         譯文 : >-
             Malkadarr has been returned to us.{^n}{^n}No small thanks to you. The Order was right to have trusted you.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             It is a fruitful alliance.
         譯文 : >-
             It is a fruitful alliance.
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             May the specter of death guard your path.
         譯文 : >-
             May the specter of death guard your path.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             What is the Keeper's role?
         譯文 : >-
             What is the Keeper's role?
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             I want nothing to do with you so long as you meddle with people who ally themselves with Kymon's Chosen.
         譯文 : >-
             I want nothing to do with you so long as you meddle with people who ally themselves with Kymon's Chosen.
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             May the specter of death guard your path.
         譯文 : >-
             May the specter of death guard your path.
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Have you dealt with Noveria?
         譯文 : >-
             Have you dealt with Noveria?
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             I have gathered her essence.
         譯文 : >-
             I have gathered her essence.
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Excellent work. I was worried that she may have been too much for you, but you have proven to be quite resourceful.{^n}{^n}There is but one final piece we still require to bring back Malkadarr, but that is not for me to discuss. Speak with the Keeper when you are able. She will have the details.
         譯文 : >-
             Excellent work. I was worried that she may have been too much for you, but you have proven to be quite resourceful.{^n}{^n}There is but one final piece we still require to bring back Malkadarr, but that is not for me to discuss. Speak with the Keeper when you are able. She will have the details.
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             The Keeper?
         譯文 : >-
             The Keeper?
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             The Keeper of Tomes, guardian of the Order's knowledge. She has become the Order's de-facto leader after Uroboruuk's disappearance.
         譯文 : >-
             The Keeper of Tomes, guardian of the Order's knowledge. She has become the Order's de-facto leader after Uroboruuk's disappearance.
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Uroboruuk is gone?
         譯文 : >-
             Uroboruuk is gone?
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Yes, sadly our master has left us several years ago. To what end, we do not know.{^n}{^n}He left us no information as to his departure, nor has he tried to contact anyone within the Order.
         譯文 : >-
             Yes, sadly our master has left us several years ago. To what end, we do not know.{^n}{^n}He left us no information as to his departure, nor has he tried to contact anyone within the Order.
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Has anyone gone after him?
         譯文 : >-
             Has anyone gone after him?
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Yes, quite a few. Some never returned, dead or still searching.{^n}{^n}Before the Grim Dawn, our accomplished acolytes would set out into the world for a year in order to search for our master. It was a rite of passage of sorts.
         譯文 : >-
             Yes, quite a few. Some never returned, dead or still searching.{^n}{^n}Before 恐怖黎明, our accomplished acolytes would set out into the world for a year in order to search for our master. It was a rite of passage of sorts.
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Perhaps he will return some day.
         譯文 : >-
             Perhaps he will return some day.
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             I see.
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             I will speak to her.
         譯文 : >-
             I will speak to her.
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             I will.
         譯文 : >-
             I will.
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Have you dealt with Noveria?
         譯文 : >-
             Have you dealt with Noveria?
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Where should I be looking?
         譯文 : >-
             Where should I be looking?
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             Travel north, near Fort Haron. Look for the Stonerend Quarry; it's an area blasted with Aetherfire. Track down an Aetherial by the name Noveria Stormfire. She was once a great sorceress, now no more than a pawn of the Aetherials.{^n}{^n}Destroy Noveria and gather her essence.
         譯文 : >-
             Travel north, near Fort Haron. Look for the Stonerend Quarry; it's an area blasted with Aetherfire. Track down an Aetherial by the name Noveria Stormfire. She was once a great sorceress, now no more than a pawn of the Aetherials.{^n}{^n}Destroy Noveria and gather her essence.
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             I will do so.
         譯文 : >-
             I will do so.
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             Not yet.
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             The Rite of Resurrection requires powerful incantations, and an equally powerful energy source.{^n}{^n}Without something to draw upon, the ritual would drain the participants dry and leave them as nothing but withered husks.
         譯文 : >-
             The Rite of Resurrection requires powerful incantations, and an equally powerful energy source.{^n}{^n}Without something to draw upon, the ritual would drain the participants dry and leave them as nothing but withered husks.
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             How can we prevent that?
         譯文 : >-
             How can we prevent that?
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             Aetherials are a manifestation of the Aether itself, a source of pure arcane energy. The more powerful the Aetherial, the hotter its spirit will burn within the ritual.{^n}{^n}To the northwest, near Fort Haron, there is a mine called Stonerend Quarry that's become blasted with Aetherfire, a front for the Aetherials in this region. Travel there and track down an Aetherial by the name Noveria Stormfire. She was once a great sorceress, now no more than a pawn of the Aetherials.I will bestow a boon of the Order upon you to help counter her arcane prowess and to contain her essence. Destroy Noveria in the Order's name!
         譯文 : >-
             Aetherials are a manifestation of the Aether itself, a source of pure arcane energy. The more powerful the Aetherial, the hotter its spirit will burn within the ritual.{^n}{^n}To the northwest, near Fort Haron, there is a mine called Stonerend Quarry that's become blasted with Aetherfire, a front for the Aetherials in this region. Travel there and track down an Aetherial by the name Noveria Stormfire. She was once a great sorceress, now no more than a pawn of the Aetherials.I will bestow a boon of the Order upon you to help counter her arcane prowess and to contain her essence. Destroy Noveria in the Order's name!
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             I will gather the essence.
         譯文 : >-
             I will gather the essence.
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             I am not going into that hell-hole.
         譯文 : >-
             I am not going into that hell-hole.
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             I've already done this with the help of another.
         譯文 : >-
             I've already done this with the help of another.
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             I will return later.
         譯文 : >-
             I will return later.
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             Have you gathered the Chthonic Seals?
         譯文 : >-
             Have you gathered the 冥靈魔印?
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             Are these the Seals you seek?
         譯文 : >-
             Are these the Seals you seek?
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             Yes, these appear to be in good shape. They will be most useful in returning Malkadarr to this world.{^n}{^n}Next, we will require a source of arcane power. I have just the thing in mind.
         譯文 : >-
             Yes, these appear to be in good shape. They will be most useful in returning Malkadarr to this world.{^n}{^n}Next, we will require a source of arcane power. I have just the thing in mind.
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             What's next?
         譯文 : >-
             What's next?
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             There are other matters I must attend to.
         譯文 : >-
             There are other matters I must attend to.
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Have you gathered the Chthonic Seals?
         譯文 : >-
             Have you gathered the 冥靈魔印?
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Where should I be looking?
         譯文 : >-
             Where should I be looking?
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             The Cult of Ch'thon uses the Seals for their summoning rituals. The more powerful the member, the more likely they are to carry one.{^n}{^n}Hunt down the cultists around the Blood Grove and beyond, then return to me with the Seals.
         譯文 : >-
             The Cult of Ch'thon uses the Seals for their summoning rituals. The more powerful the member, the more likely they are to carry one.{^n}{^n}Hunt down the cultists around the 血森林 and beyond, then return to me with the Seals.
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             It will be done.
         譯文 : >-
             It will be done.
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             Not yet.
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             The Cult of Ch'thon is experienced in summoning rituals, something we can use to our advantage.{^n}{^n}We will take what we need from the Cult, while crippling them in the process. Interested?
         譯文 : >-
             The Cult of Ch'thon is experienced in summoning rituals, something we can use to our advantage.{^n}{^n}We will take what we need from the Cult, while crippling them in the process. Interested?
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             Go on.
         譯文 : >-
             Go on.
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             The Cult uses Chthonic Seals of Binding to maintain the rifts into the Void. Many of their more powerful members carry these on their person at all times.{^n}{^n}Should the Cult be denied these Seals, then their rituals will destabilize, denying them valuable reinforcements.{^n}{^n}Their loss is our gain. Bring me the Seals so that we can use them to stabilize our own ritual.
         譯文 : >-
             The Cult uses 冥靈魔印 to maintain the rifts into the Void. Many of their more powerful members carry these on their person at all times.{^n}{^n}Should the Cult be denied these Seals, then their rituals will destabilize, denying them valuable reinforcements.{^n}{^n}Their loss is our gain. Bring me the Seals so that we can use them to stabilize our own ritual.
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             I will gather the Seals.
         譯文 : >-
             I will gather the Seals.
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             Find someone else.
         譯文 : >-
             Find someone else.
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             Are these the Seals you seek?
         譯文 : >-
             Are these the Seals you seek?
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             Perhaps another time.
         譯文 : >-
             Perhaps another time.
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             Have you done as I asked, initiate?
         譯文 : >-
             Have you done as I asked, initiate?
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             Yes, I have the remains.
         譯文 : >-
             Yes, I have the remains.
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             You have entered the pit of despair and emerged unscathed. Impressive.{^n}{^n}Perhaps you truly are worthy of the Order. Should you be interested, the next task is both an opportunity to strike out at the Legion's enemies and to aid our cause.
         譯文 : >-
             You have entered the pit of despair and emerged unscathed. Impressive.{^n}{^n}Perhaps you truly are worthy of the Order. Should you be interested, the next task is both an opportunity to strike out at the Legion's enemies and to aid our cause.
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             What is it?
         譯文 : >-
             What is it?
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             Perhaps another time.
         譯文 : >-
             Perhaps another time.
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             Have you done as I asked, initiate?
         譯文 : >-
             Have you done as I asked, initiate?
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             Where should I look for the remains?
         譯文 : >-
             Where should I look for the remains?
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             The cult has several camps scattered around the Blood Grove. {^n}{^n}Any one of them could be the place where Malkadarr was taken.
         譯文 : >-
             The cult has several camps scattered around the 血森林. {^n}{^n}Any one of them could be the place where Malkadarr was taken.
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             I will search for it.
         譯文 : >-
             I will search for it.
 #-------------------------------#
     68 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             Not yet.
 #-------------------------------#
     69 :
-        標註 : 
         原文 : >-
             If you are to fight alongisde the Order of Death's Vigil, then first you must prove yourself to us.{^n}{^n}Show us that you do not fear death, and we will show you its secrets.
         譯文 : >-
             If you are to fight alongisde the Order of Death's Vigil, then first you must prove yourself to us.{^n}{^n}Show us that you do not fear death, and we will show you its secrets.
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             What must I do?
         譯文 : >-
             What must I do?
 #-------------------------------#
     71 :
-        標註 : 
         原文 : >-
-            One of our most prominent members, Malkadarr, second only to the Keeper, was recently slain by a Chthonian ambush. His remains are now in the possession of the cultists, somewhere out in the Blood Grove.{^n}{^n}We cannot lose a mind like Malkadarr. The Keeper has called for the Rite of Resurrection to be performed on the revered necromancer.{^n}{^n}It falls to you, my aspiring initiate, to venture into the Blood Grove and recover Malkadarr's remains. 
+            One of our most prominent members, Malkadarr, second only to the Keeper, was recently slain by a Chthonian ambush. His remains are now in the possession of the cultists, somewhere out in the Blood Grove.{^n}{^n}We cannot lose a mind like Malkadarr. The Keeper has called for the Rite of Resurrection to be performed on the revered necromancer.{^n}{^n}It falls to you, my aspiring initiate, to venture into the Blood Grove and recover Malkadarr's remains.
         譯文 : >-
-            One of our most prominent members, Malkadarr, second only to the Keeper, was recently slain by a Chthonian ambush. His remains are now in the possession of the cultists, somewhere out in the 血森林.{^n}{^n}We cannot lose a mind like Malkadarr. The Keeper has called for the Rite of Resurrection to be performed on the revered necromancer.{^n}{^n}It falls to you, my aspiring initiate, to venture into the 血森林 and recover Malkadarr's remains. 
+            One of our most prominent members, Malkadarr, second only to the Keeper, was recently slain by a Chthonian ambush. His remains are now in the possession of the cultists, somewhere out in the 血森林.{^n}{^n}We cannot lose a mind like Malkadarr. The Keeper has called for the Rite of Resurrection to be performed on the revered necromancer.{^n}{^n}It falls to you, my aspiring initiate, to venture into the 血森林 and recover Malkadarr's remains.
 #-------------------------------#
     72 :
-        標註 : 
         原文 : >-
             I will recover the remains.
         譯文 : >-
             I will recover the remains.
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             Forget it. Sounds like suicide.
         譯文 : >-
             Forget it. Sounds like suicide.
 #-------------------------------#
     74 :
-        標註 : 
         原文 : >-
             I've already recovered the remains.
         譯文 : >-
             I've already recovered the remains.
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             You entered that pit of despair without cause or reason? Impressive.{^n}{^n}Perhaps you truly are worthy of the Order. Should you be interested, the next task is both an opportunity to strike out at the Legion's enemies and to aid our cause.
         譯文 : >-
             You entered that pit of despair without cause or reason? Impressive.{^n}{^n}Perhaps you truly are worthy of the Order. Should you be interested, the next task is both an opportunity to strike out at the Legion's enemies and to aid our cause.
 #-------------------------------#
     76 :
-        標註 : 
         原文 : >-
             What is it?
         譯文 : >-
             What is it?
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             Perhaps later.
         譯文 : >-
             Perhaps later.
 #-------------------------------#
     79 :
-        標註 : 
         原文 : >-
             What is the Rite of Resurrection?
         譯文 : >-
             What is the Rite of Resurrection?
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             It is a sacred ritual performed in dire times to bring back a fallen member of the Order. It is not resurrection in the literal sense, Malkadarr will not be returned to his mortal form. Instead, he will continue to serve the Order as a revenant.{^n}{^n}Can I count on you to retrieve what's left of him?
         譯文 : >-
             It is a sacred ritual performed in dire times to bring back a fallen member of the Order. It is not resurrection in the literal sense, Malkadarr will not be returned to his mortal form. Instead, he will continue to serve the Order as a revenant.{^n}{^n}Can I count on you to retrieve what's left of him?
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             I will recover the remains.
         譯文 : >-
             I will recover the remains.
 #-------------------------------#
     82 :
-        標註 : 
         原文 : >-
             Forget it. Sounds like suicide.
         譯文 : >-
             Forget it. Sounds like suicide.
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             I will return later to discuss this.
         譯文 : >-
             I will return later to discuss this.
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             You must be the representative from the Black Legion.{^n}{^n}Come, come, there is much to be done.
         譯文 : >-
             You must be the representative from the Black Legion.{^n}{^n}Come, come, there is much to be done.
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             You wanted to speak with me?
         譯文 : >-
             You wanted to speak with me?
 #-------------------------------#
     88 :
-        標註 : 
         原文 : >-
             May the specter of death guard your path.
         譯文 : >-
             May the specter of death guard your path.
 #-------------------------------#
     89 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

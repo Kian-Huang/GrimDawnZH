@@ -1,127 +1,109 @@
-npc_direni_02.txt : 
+npc_direni_02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Direni
         譯文 : >-
             狄瑞尼
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Well, well. Looks like the hero's here. Thanks for covering for me!
         譯文 : >-
             好啊，好啊。大英雄來了。多謝你掩護我！
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Direni! I trusted you. Why?
         譯文 : >-
             狄瑞尼！我相信了你。為什麼？
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Bourbon's gotta pay, no way around that. Nothing against you, not personally, but you're about the only person standing between Devil's Crossing and Darius' plans.{^n}{^n}I take you out, Darius bestows more of his magnificent power upon me, and Bourbon hangs. Maybe I'm making a deal with the devil here, but hell sure beats starving in Devil's Crossing.
         譯文 : >-
             波旁要付出代價，別無選擇。不是針對你，也不是個人恩怨，但你是唯一一個擋在惡魔十字與德萊厄斯的計劃中間的人。{^n}{^n}我把你幹掉，德萊厄斯就會賜予我更多他的高貴的能力，波旁也將被絞死。或許我是在和魔鬼做交易，但是跟惡魔十字相比，這個地獄一樣的地方肯定比呆在那兒餓肚子強多了。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             What if I want to join too?
         譯文 : >-
             如果我也想加入呢？
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Hah! That's a good one. Darius warned me about the likes of you. Only place for you is in a ditch.
         譯文 : >-
             哈！那再好不過。德萊厄斯警示過我你們這樣的人。你們唯一應該在的地方是臭水溝。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             So be it. Die! (Attack)
         譯文 : >-
             那就這樣。去死吧！(攻擊)
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             You worthless scum! (Attack)
         譯文 : >-
             沒用的敗類！(攻擊)
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You're pathetic. I regret ever trusting you. (Attack)
         譯文 : >-
             你真可憐，我後悔曾經相信過你。(攻擊)
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Direni! You worthless traitor. (Attack)
         譯文 : >-
             狄瑞尼！你這個沒用的叛徒。(攻擊)
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Well, well. Looks like I get to try out my new powers today.
         譯文 : >-
             好吧，好吧。看起來我今天要試試我的新能力了。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Aren't you from Devil's Crossing? Why are you doing this?
         譯文 : >-
             你不是惡魔路口的人嗎？你為什麼這樣做？
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Bourbon's gotta pay, no way around that. Nothing against you, not personally, but you're about the only person standing between Devil's Crossing and Darius' plans.{^n}{^n}I take you out, Darius bestows more of his magnificent power upon me, and Bourbon hangs. Maybe I'm making a deal with the devil here, but hell sure beats starving in Devil's Crossing.
         譯文 : >-
             波旁要付出代價，別無選擇。不是針對你，也不是個人恩怨，但你是唯一一個擋在惡魔十字與德萊厄斯的計劃中間的人。{^n}{^n}我把你幹掉，德萊厄斯就會賜予我更多他的高貴的能力，波旁也將被絞死，或許我是在和魔鬼做交易，但是跟惡魔十字相比，這個地獄一樣的地方肯定比呆在那兒餓肚子強多了。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             What's your issue with Bourbon?
         譯文 : >-
             你和波旁到底有什麼恩怨?
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             I was a prisoner in Devil's Crossing back when it still served as an actual prison. When the world went down the slith hole, I stayed there with Darius and his group; it was the safest place I could think of. Clearly Bourbon thought the same when he showed up with the rest of the survivors. Things escalated quickly, but in the end Bourbon had more firepower. Those prisoners that survived were driven out and 'set free'.{^n}{^n}I hid when the fighting got ugly and bided my time. Came out later looking like just another refugee. Course, I kept myself busy. The water pump was my work, you know. After you restored the bridge, I returned to the boss. Things sure have changed since then!
         譯文 : >-
             在以前惡魔路口還是個監獄的時候我是這裡的囚犯。當世界成為了蛇人溫巢的時候，我與德萊厄斯與他的一夥人待在這裡；這是我能想到的最安全的地方了。顯然當波旁與其他倖存者出現在這裡的時候他也是這麼認為的。事情發展的很迅速，只不過最後波旁他們擁有更多的火力。那些倖存的囚犯被驅逐並'被釋放'。{^n}{^n}當爭鬥惡化的時候我藏了起來等待時機。等我隨後出來尋找其他人的時候。當然，我讓自己不至於閒著。水泵是我的傑作，你知道的。在你修復了橋之後，我回到了老闆那裡。從那開始事情就已經改變了！
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             You're a worthless traitor! (Attack)
         譯文 : >-
             你這個沒用的叛徒！(攻擊)
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             You are nothing but scum. You deserve to die. (Attack)
         譯文 : >-
             你這個沒用的敗類。你應該去死。(攻擊)
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Abomination! (Attack)
         譯文 : >-

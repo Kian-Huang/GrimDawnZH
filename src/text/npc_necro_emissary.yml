@@ -1,323 +1,277 @@
-npc_necro_emissary.txt : 
+npc_necro_emissary.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Haruuv
         譯文 : >-
             哈魯夫
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             The path you walk is a wise one. We look forward to working alongside you.
         譯文 : >-
             你的選擇很明智。我們期待與你共事。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Likewise.
         譯文 : >-
             我也一樣。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             If your decision-making is indicative of the Black Legion, then perhaps humanity is doomed after all.
         譯文 : >-
             如果你的抉擇代表了黑色軍團的話，那麼我想人類的末日就要來了。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I do what I must so that we all survive.
         譯文 : >-
             我只為所有人的生存而戰。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             I sincerely hope that you are right then. But I can't help but question your allegiance with fanatics.
         譯文 : >-
             我真誠地希望你的選擇是對的，但是我不能不懷疑你對黑色軍團那盲目的忠心。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             I did what I feel is right.
         譯文 : >-
             我知道我的感覺不會錯。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
         譯文 : >-
             那個叫做艾格瑞姆的人要和死亡守夜人教團談談。因此我才會在你面前出現。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Please, visit out sanctum. Master Varuuk will wish to speak with you.
         譯文 : >-
             請拜訪我們的聖所。瓦拉克大師會很想和你談談的。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Where is your sanctum?
         譯文 : >-
             你們的聖所在哪裡？
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Fallow Fields.
         譯文 : >-
             我們的聖所在北方一個叫做悲傷城堡的古老廢墟之中。{^n}{^n}要去那裡，你必須沿著霍姆斯特的北邊的路走，穿過休耕田地。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             I'm on my way.
         譯文 : >-
             我該上路了。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
         譯文 : >-
             我想讓你去北方尋找我們的聖所。我們在悲傷城堡的西邊佔據了山中一個隱祕的墓穴。{^n}{^n}要去那裡，你必須沿著霍姆斯特的北邊的路走，穿過休耕田地。當你到達那個古老要塞的遺蹟時，你就和我們的家園很近了。{^n}{^n}進去之後，去見見瓦拉克大師。他希望和我們新盟友談一談。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I will seek out your sanctum.
         譯文 : >-
             我會去尋找你們的聖所。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Perhaps another time.
         譯文 : >-
             下次吧。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Greetings, I am Haruuv and I represent the Order of Death's Vigil.{^n}{^n}We are eager to discuss an agreement, even if it has to be made amongst such questionable company.
         譯文 : >-
             你好，我是哈魯夫，死亡守夜人教團的代表。{^n}{^n}我們想要與你們達成一項協定，即使是要和一個如此值得懷疑的組織並列一起。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             I think I've made my decision.
         譯文 : >-
             我想我已經決定好了。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
         譯文 : >-
             你的決定是什麼？是讓黑色軍團與死亡守夜人教團一同抵抗那些侵入我們世界的入侵者麼？
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             The Black Legion will work with you. (Select the Order)
         譯文 : >-
             黑色軍團會與你們共謀大業的。(選擇教團)
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
         譯文 : >-
             好極了。我這就將一切安排妥當。{^n}{^n}與此同時，我想讓你去北方尋找我們的聖所。我們在悲傷城堡的西邊佔據了山中一個隱祕的墓穴。{^n}{^n}要去那裡，你必須沿著霍姆斯特的北邊的路走，穿過休耕田地。當你到達那個古老要塞的遺蹟時，你就和我們的家園很近了。{^n}{^n}進去之後，去見見瓦拉克大師。他希望和我們新盟友談一談。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             I will seek out your sanctum.
         譯文 : >-
             我會去尋找你們的聖所。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Perhaps another time.
         譯文 : >-
             下次吧。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Actually, I'll need more time to think this through.
         譯文 : >-
             我需要更多的時間來考慮。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             What can you tell me about the Order?
         譯文 : >-
             關於教團，你能告訴我些什麼？
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             We are seekers and preservers of knowledge, trained in the ancient art of necromancy by our grandmaster Uroboruuk.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
         譯文 : >-
             我們是知識的尋求者和守護者，由尤若布魯克大師教授死靈法術，這項古老的技藝。{^n}{^n}我們不懼死亡。我們擁抱死亡，和它教會了我們的一切。通過學習它，我們和周圍的世界更好的保持一致。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             What do you offer the Black Legion?
         譯文 : >-
             你們能怎麼幫助黑色軍團？
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             We are experts in the arcane and masters of necromancy.{^n}{^n}Why send living men to die at the hands of the enemy when we could send loyal undead servants to battle in our stead?{^n}{^n}We will combat the enemy, and preserve valuable human lives in the process.
         譯文 : >-
             我們是奧術和死靈法術的專家。{^n}{^n}當我們可以派遣忠心的不死奴僕對抗敵人時，為何還要讓活人死在敵人手中呢？{^n}{^n}我們將會戰勝敵人，守護人類寶貴的生命。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             I'll need some time to think this through.
         譯文 : >-
             我需要一些時間來考慮一下。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             What can you tell me about Uroboruuk?
         譯文 : >-
             關於尤若布魯克你能告訴我些什麼？
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             Our master is eternal. He was there when the Arkovian Empire was young and he was there when they fell to his curse. The Arkovians, much like the Erulan Empire shattered by the Grim Dawn, had persecuted necromancy and those who would seek forbidden knowledge.{^n}{^n}They tortured our master, eager to learn his secret to immortality. In return, Uroboruuk cursed them to eternal un-life. Since the fall of Arkovia, Uroboruuk founded the Order of Death's Vigil, to ensure that the pursuit of knowledge and life's mysteries would never again be threatened by the ignorant.{^n}{^n}Now that humanity stands at the brink of annihilation, it seems his teachings are more relevant than ever. We will return balance to the world, as our master had decreed.
         譯文 : >-
             我們的老師是不朽的。不論安可維亞還是個年輕的帝國時還是因為他的詛咒崩塌時他都活著。安可維亞人，像被恐怖黎明毀滅的伊露蘭帝國的人一樣，都曾迫害死靈法術的學習者。{^n}{^n}他們拷打我們的老師，想要知道他長生不老的祕密。作為回敬，尤若布魯克詛咒他們保持永世處於不死的狀態。在安可維亞帝國毀滅之後，尤若布魯克組建了死亡守夜人教團，以確保對生與死奧祕的追尋再也不受到愚昧之人的威脅。{^n}{^n}現在人類處在毀滅的邊緣，看起來他教授的知識變得前所未有的重要起來。我們會讓這個世界重歸平衡，就像我們的老師命令我們的那樣。
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             I'll need some time to think this through.
         譯文 : >-
             我需要一些時間來考慮。
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             What is necromancy?
         譯文 : >-
             什麼是死靈法術？
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Necromancy is the study of death and the forces of life that bind us to that final fate.{^n}{^n}To us, death is a mystery that must be studied, not some esoteric topic worthy of fear.
         譯文 : >-
             死靈法術一項是關於生與死力量的研究，我們最終都要面對這些力量。{^n}{^n}對於我們來說，死亡是一種必須被研究的奧祕，而不是什麼值得恐懼的東西。
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             I'll need some time to think this through.
         譯文 : >-
             我需要一些時間來考慮。
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             What can you tell me about Kymon's Chosen?
         譯文 : >-
             關於凱蒙的神選戰士，你能告訴我些什麼？
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             They are fanatics, obsessed with an ancient faith worshipping a nonexistent god known as Empyrion.{^n}{^n}Anyone that stands against their tenets is a heretic and worthy only of extermination. In that, they are no better than the empire which had persecuted the Order for generations.
         譯文 : >-
             他們是狂熱的信徒，執迷於信仰一個並不存在的所謂的至高之神。{^n}{^n}任何反對他們教義的人都是異教徒，只值得被消滅。因此，他們不比迫害教團一代又一代的帝國好到哪裡去。
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             I'll need some time to think this through.
         譯文 : >-
             我需要一些時間來考慮。
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
         譯文 : >-
             那個叫做艾格瑞姆的人要和死亡守夜人教團談談。因此我才會在你面前出現。
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             What is the Order of Death's Vigil?
         譯文 : >-
             死亡守夜人教團是什麼組織？
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
         譯文 : >-
             我們是知識的尋求者和守護者，由尤若布魯克大師教授死靈法術，這項古老的技藝。{^n}{^n}我們不懼死亡。我們擁抱死亡，和它教會了我們的一切。通過學習它，我們和周圍的世界更好的保持一致。
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             我懂了。
 #-------------------------------#
     62 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

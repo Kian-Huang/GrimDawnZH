@@ -1,43 +1,37 @@
-bq_exile06.txt : 
+bq_exile06.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Beating Hearts
         譯文 : >-
             賞金：Beating Hearts
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Ancient Hearts and I shall reward you with some of my valuables.
         譯文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Ancient Hearts and I shall reward you with some of my valuables.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Ancient Heart
         譯文 : >-
             收集Ancient Heart
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Ancient Heart to the Outcast
         譯文 : >-

@@ -1,36 +1,31 @@
-npc_infestedfield_farmer_02.txt : 
+npc_infestedfield_farmer_02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Henry Elmsworth
         譯文 : >-
             亨利·埃姆斯沃斯
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             I can't wait to see the old farmstead again. I hope those bugs didn't cause too much damage.
         譯文 : >-
             我等不及再看到那些常年耕作的田地了。希望蟲子沒有對作物造成太大的損害。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Good luck with the harvest.
         譯文 : >-
             祝你豐收。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             This is poor soil, not like at the Elmsworth estate. That was some good dirt.
         譯文 : >-
             這是片薄田，可不像埃姆斯沃斯莊園裡面那些田地。那田裡可都是些肥沃的好土。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

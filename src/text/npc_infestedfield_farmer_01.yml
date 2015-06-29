@@ -1,92 +1,79 @@
-npc_infestedfield_farmer_01.txt : 
+npc_infestedfield_farmer_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Oliver Thornsbury
         譯文 : >-
             奧利弗·索恩斯巴利
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             I heard from Douglass that my farm has been cleared of the infestation. Don't suppose I have you to thank for that?
         譯文 : >-
             我從道格拉斯那裡聽說我的農田不再受到蟲子的侵染了。你不覺得我該感謝你麼？
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             I found your wife's diary. It has some interesting stories in there.
         譯文 : >-
             我找到了你妻子的日記。裡面有些很有意思的故事。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Good luck out there.
         譯文 : >-
             祝你好運。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             I hope it's a good harvest.
         譯文 : >-
             我希望這次能有個好收成。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Blasted Dermapterans. An entire year's worth of food is gonna go to waste out there.
         譯文 : >-
             該死的革翅目蟲子。一年的糧食都要被浪費在外頭了。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Why hasn't the Black Legion cleared them out?
         譯文 : >-
             為什麼黑色軍團不去清除那些蟲子？
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Hell if I know. Somer's only concerned with her war against the Aetherials. Then there's that blasted cult.{^n}{^n}I'm no soldier, so I suppose I'll just keep my mouth shut and work the fields we do have.
         譯文 : >-
             我他媽怎麼知道。索梅爾只關心她跟虛靈的戰爭。然後還有那些該死的邪教徒呢。{^n}{^n}我不是個戰士，所以我想我該閉上嘴，在我們剩下的土地上勞作。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             我懂了。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             I found your wife's diary. It has some interesting stories in there.
         譯文 : >-
             我找到了你妻子的日記。裡面有些很有意思的故事。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Oh, not again. Does she fly in this one? Her head is up in the clouds when we need it back down here.{^n}{^n}*Oliver sighs*{^n}{^n}Then again, we could all use a distraction these days. Maybe it will help her deal with all this tragedy.
         譯文 : >-
             噢，又來了。這次她是不是寫她飛上天了？當我們需要腳踏實地的時候，她的腦子總在天上飛著。{^n}{^n}*奧利弗嘆了嘆氣*{^n}{^n}不過話說回來，這樣的日子我們都需要緩和一下神經。或許這能幫助她渡過這些悲劇般的日子吧。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

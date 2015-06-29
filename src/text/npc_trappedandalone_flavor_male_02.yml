@@ -1,43 +1,37 @@
-npc_trappedandalone_flavor_male_02.txt : 
+npc_trappedandalone_flavor_male_02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Umkalo
         譯文 : >-
             阿姆卡洛
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             These are dangerous times, traveler. The roads are not as safe as they used to be.{^n}{^n}Normally I'd welcome you to sit by our fire but you'd be better off leaving this place...
         譯文 : >-
             旅行者，這道路上已經不再像過去那麼安全了。{^n}{^n}按理說我該請你過來烤烤火的，但是現在你最好還是離這個地方遠一點……
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Anything you can tell me about the area?
         譯文 : >-
             你能告訴我一些關於這個地方的情況嗎？
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
-            If you're heading north, I'd be careful in the farmlands. They are overrun with Dermapterans.{^n}{^n}They get more concentrated closer to their nest, where their queen resides.{^n}{^n}If you find a large hole in the ground, I'd steer clear. 
+            If you're heading north, I'd be careful in the farmlands. They are overrun with Dermapterans.{^n}{^n}They get more concentrated closer to their nest, where their queen resides.{^n}{^n}If you find a large hole in the ground, I'd steer clear.
         譯文 : >-
             如果你要往北走的話，在那些農田裡一定要小心。那裡到處都是革翅目蟲子。{^n}{^n}在它們的女王居住的巢穴附近，它們的數量會變得更多的。{^n}{^n}如果你發現地面上有個大洞的話，最好還是避開它為妙。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Thank you for the warning.
         譯文 : >-
             謝謝你的警告。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-

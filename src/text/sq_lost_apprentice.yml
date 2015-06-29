@@ -1,99 +1,85 @@
-sq_lost_apprentice.txt : 
+sq_lost_apprentice.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Devil's Crossing
         譯文 : >-
             惡魔十字
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             The Inventor's Apprentice
         譯文 : >-
             發明家的學徒
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Find the Inventor
         譯文 : >-
             尋找發明家
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Kasparov had sent out his apprentice, Darlet, to collect parts for his research and she has yet to return. If she is still alive, she is bound to be in one of the cellars in the Burrwitch Estates. {^n}{^n}Kasparov feels a little responsible for her current situation and has implored you to find her.
         譯文 : >-
             卡斯帕羅夫派出他的學徒達萊特去為實驗收集材料，但她現在還沒回來。如果她還活著的話，她已經是被困在伯爾維治莊園內的一間地窖裡。{^n}{^n}卡斯帕羅夫覺得他對學徒的現狀是有點責任的，所以他求你找找她。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Find Kasparov's Apprentice in the cellars beneath the Burrwitch Estates
         譯文 : >-
             在伯爾維治莊園的地窖中尋找卡斯帕羅夫的學徒。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Portal the Inventor Out
         譯文 : >-
             傳送走發明家
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             You found Kasparov's Apprentice, Darlet, in a cellar underneath the Burrwitch Estates. {^n}{^n}You should open a portal for her so she can travel back to Devil's Crossing.
         譯文 : >-
             你找到了卡斯帕羅夫的學徒達萊特。{^n}{^n}你應該開啟傳送門將她送回惡魔十字。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Portal Kasparov's Apprentice to safety
         譯文 : >-
             把卡斯帕羅夫的學徒傳送至安全的地方
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Portal Inventor to Safety
         譯文 : >-
             傳送發明家到安全的地方
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             You found Kasparov's Apprentice, Darlet, in a cellar underneath the Burrwitch Estates. {^n}{^n}You should find a way to get her back to Devil's Crossing. She mentioned Kasparov might be able to help.
         譯文 : >-
             你找到了卡斯帕羅夫的學徒達萊特。{^n}{^n}你應該找到一種讓她安全返回惡魔十字的方法，她提到卡斯帕羅夫可能能幫到你。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Find a way to get Kasparov's Apprentice to safety
         譯文 : >-
             找到使卡斯帕羅夫的學徒安全返回的方法
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Speak with Darlet
         譯文 : >-
             與達萊特交談
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Kasparov's Apprentice should be safe back in Devil's Crossing. {^n}{^n}Speak to her to see how she is recovering from her ordeal.
         譯文 : >-
             卡斯帕羅夫的學徒應該已經安全返回了惡魔十字。{^n}{^n}跟她交談來了解她從她的考驗中恢復的如何。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Speak to Darlet in Devil's Crossing
         譯文 : >-

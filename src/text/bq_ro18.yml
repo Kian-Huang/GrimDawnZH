@@ -1,57 +1,49 @@
-bq_ro18.txt : 
+bq_ro18.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Voldrak
         譯文 : >-
             賞金：沃德拉克
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Smuggler's Pass was once a popular route taken by our people when traveling north. It is now overrun with the Mistborn trolls, but the greatest danger comes from an oversized brute they keep within the cave known as Voldrak.{^n}{^n}Voldrak is huge, even by troll standards, and he guards the way through. If Smuggler's Pass is ever to be safe again, Voldrak must be slain.{^n}{^n}We will gladly spare some of our scavenged materials to see this through.
         譯文 : >-
             走私者的通道 was once a popular route taken by our people when traveling north. It is now overrun with the Mistborn trolls, but the greatest danger comes from an oversized brute they keep within the cave known as Voldrak.{^n}{^n}Voldrak is huge, even by troll standards, and he guards the way through. If 走私者的通道 is ever to be safe again, Voldrak must be slain.{^n}{^n}We will gladly spare some of our scavenged materials to see this through.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Voldrak
         譯文 : >-
             殺了沃德拉克
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for the Rovers and should return to the Bounty Table for your reward.
         譯文 : >-
             你已經完成了任務，你該返回賞金桌領取獎賞。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Rover Bounty Table
         譯文 : >-

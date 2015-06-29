@@ -1,57 +1,49 @@
-bq_ro08.txt : 
+bq_ro08.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Shattered Soul
         譯文 : >-
             賞金：碎裂之魂
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Deep within the Arkovian Undercity, there dwells a manifestation of darkness known as Kilrian. The ancient Arkovian has been driven mad with the curse, his soul shattered and broken.{^n}{^n}Kilrian now gathers other sufferers to him, creating an army of the dead that could sweep across this land if unleashed. He must be destroyed before this can happen.{^n}{^n}The Rovers understand the risk in taking on Kilrian in his domain and are willing to compensate anyone brave enough to enter the Undercity with a substantial iron bits reward.
         譯文 : >-
             Deep within the 安克維亞地下城, there dwells a manifestation of darkness known as 基爾利安. The ancient Arkovian has been driven mad with the curse, his soul shattered and broken.{^n}{^n}基爾利安 now gathers other sufferers to him, creating an army of the dead that could sweep across this land if unleashed. He must be destroyed before this can happen.{^n}{^n}The Rovers understand the risk in taking on 基爾利安 in his domain and are willing to compensate anyone brave enough to enter the Undercity with a substantial iron bits reward.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Kilrian
         譯文 : >-
             殺了基爾利安
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for the Rovers and should return to the Bounty Table for your reward.
         譯文 : >-
             你已經完成了任務，你該返回賞金桌領取獎賞。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Rover Bounty Table
         譯文 : >-

@@ -1,204 +1,175 @@
-npc_refugee_collin_01.txt : 
+npc_refugee_collin_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Collin Taverin
         譯文 : >-
             科林·塔夫恩
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             My sister is as good as dead. Gods take me already, I've already been through hell.
         譯文 : >-
             我的姐姐已經死了。神啊帶走我吧，我已經身處地獄了。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Don't give up yet.
         譯文 : >-
             不要放棄。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Thank you for giving me closure.
         譯文 : >-
             謝謝你了結了我的心願。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I'm sorry.
         譯文 : >-
             我感到很遺憾。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Did you find my sister?
         譯文 : >-
             你找到了我的姐姐嗎？
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Yes, she was in the Mountain Deeps. I'm sorry.
         譯文 : >-
             是的，她在山脈深淵之中。我很抱歉。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             I...I had a feeling.{^n}{^n}Thank you for the information. I...excuse me...
         譯文 : >-
             我……我已經感覺到了。{^n}{^n}謝謝你告訴我，我……抱歉……
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             I'm sorry for your loss.
         譯文 : >-
             對你的損失我表示很遺憾。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Did you find my sister?
         譯文 : >-
             你找到了我姐姐嗎？
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Where is your sister again?
         譯文 : >-
             你姐姐去了哪裡？
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Dahlia went into the Mountain Deeps by herself in search of rescue and supplies. The entrance is just down to the west. Please find her.
         譯文 : >-
             達利婭獨自進入山脈深淵之中尋找援兵和補給品。入口就在西邊，請找到她。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             I will do what I can.
         譯文 : >-
             我會盡我所能的。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             I'm still searching.
         譯文 : >-
             我還在尋找。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             I'm sorry for eavesdropping, but I couldn't help but overhear that you've been through Deadman's Gulch?
         譯文 : >-
             抱歉我偷聽了你的話，但我無意中聽到你走過了亡者峽谷？
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             That's right. Why do you ask?
         譯文 : >-
             是的，為什麼問這個？
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             You see, my sister Dahlia, got fed up with waiting while I lay here with a gaping wound in my side. Despite Ulgrim's insistance that she stay, Dahlia set out into the depths on her own in search of rescue and medical supplies.{^n}{^n}It's been over a day now and I'm...I'm afraid something must have happened. Would you please look for her? I fear the worst.
         譯文 : >-
             我的姐姐，達利婭，無法忍受我敞開著傷口躺在這裡。儘管艾格瑞姆堅持要她呆在這裡，她還是獨自進入了深淵中尋找援兵和藥物去了。{^n}{^n}已經過去一天了，我……我擔心她出了事。能否請你找找她？我擔心她遇到了最壞的情況。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I will look for Dahlia.
         譯文 : >-
             我會尋找達利婭的。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             I'm sorry, I can't help you.
         譯文 : >-
             抱歉，我幫不了你。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             I already found her. I'm sorry.
         譯文 : >-
             我已經找到了她，我很遺憾。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             I'm sorry for eavesdropping, but I couldn't help but overhear that you will be going through the Mountain Deeps?
         譯文 : >-
             抱歉我偷聽了你的話，但我無意中聽到要進入山脈深淵？
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             That's right. Why do you ask?
         譯文 : >-
             是的，為什麼問這個？
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             You see, my sister Dahlia, got fed up with waiting while I lay here with a gaping wound in my side. Despite Ulgrim's insistance that she stay, Dahlia set out into the depths on her own in search of rescue and medical supplies.{^n}{^n}It's been over a day now and I'm...I'm afraid something must have happened. Would you please look for her? I fear the worst.
         譯文 : >-
             我的姐姐，達利婭，無法忍受我敞開著傷口躺在這裡。儘管艾格瑞姆堅持要她呆在這裡，她還是獨自進入了深淵中尋找援兵和藥物去了。{^n}{^n}已經過去一天了，我……我擔心她出了事。能否請你找找她？我擔心她遇到了最壞的情況。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             I will look for Dahlia.
         譯文 : >-
             我會尋找達利婭的。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             I'm sorry, I can't help you.
         譯文 : >-
             抱歉，我幫不了你。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             I already found her. I'm sorry.
         譯文 : >-
             我已經找到了她，我很遺憾。
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             I will get you to safety soon.
         譯文 : >-
             我馬上就把你帶到安全的地方。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             My sister is as good as dead. Gods take me already, I've already been through hell.
         譯文 : >-
             我的姐姐已經死了。神啊帶走我吧，我已經身處地獄了。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Don't give up yet.
         譯文 : >-

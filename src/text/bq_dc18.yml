@@ -1,57 +1,49 @@
-bq_dc18.txt : 
+bq_dc18.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Master of the Pit
         譯文 : >-
             賞金：礦主
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The outlaws inhabiting the Four Hills in Old Arkovia have a favorite past-time: throwing unarmed prisoners into their pit to face off against Boris.{^n}{^n}Boris is a butcher who revels in the bloodshed. It's sickening.{^n}{^n}Whenever he's about the Four Hills, he can be found in the pit near the coast. Putting him down within his own arena would be a poetic end to the maniac.{^n}{^n}To see this through, Devil's Crossing has prepared a hefty sum of iron bits as compensation for the death of Boris.
         譯文 : >-
             在古安克維亞四山上的不法之徒有個最喜歡的消磨時間的法子：把手無寸鐵的囚犯扔進競技場裡對抗鮑里斯。{^n}{^n}鮑里斯是個陶醉於殺戮之中的屠夫。這實在令人噁心。{^n}{^n}只要他在四山，他就會出現在海岸附近的競技場中。在那兒殺死他對這個瘋子來說將會是最詩意的死法。{^n}{^n}為了此項任務，惡魔十字準備了大量的賞金作為回報。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Boris
         譯文 : >-
             殺了鮑里斯
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了惡魔十字的任務，應該回到賞金桌領取獎賞。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Return to the Devil's Crossing Bounty Table
         譯文 : >-

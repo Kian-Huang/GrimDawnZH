@@ -1,57 +1,49 @@
-sq_lumbermill.txt : 
+sq_lumbermill.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Homestead
         譯文 : >-
             霍姆斯特德
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Lumber for the Legion
         譯文 : >-
             軍團的木材
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Claim Lumber Mill
         譯文 : >-
             佔領伐木場
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Homestead is running low on building supplies, particularly lumber, but there are still many repairs that require attention. Sergeant Serriv of the Black Legion has pointed out that there is an abandoned lumber mill in the Blood Grove called Gryver's Mill. However, it is overrun with Chthonic spawn. She has asked Captain Somer for assistance in this matter, but the Captain believes the casualties would be too great for too little gain; but you are not under the Captain's command. If you clear out the lumber mill in the Blood Grove, then the Black Legion can send in guards to keep it secure. To enter the Blood Grove, head north out of Homestead.
         譯文 : >-
             霍姆斯特德的建築材料短缺，尤其是木材，但還有很多需要修復的地方。黑色軍團的中士瑟裡夫告訴你血森林還有一個廢棄的伐木場。不過，那裡遍地都是冥靈。她向索梅爾隊長請求過協助奪取伐木場，但是隊長認為獲得的木材和損失的人員相比會完全不成比例。但是你不受隊長的節制，如果你奪取了血森林的伐木場的話，黑色軍團就能派出守衛守住那裡。要進入血森林，向霍姆斯特德的北方走。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Clear out Gryver's Mill in the Blood Grove
         譯文 : >-
             清除格里弗的伐木場中的怪物
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Return to Homestead
         譯文 : >-
             返回霍姆斯特德
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             You have cleared out the Chthonians rampaging through Gryver's Mill. Inform Sergeant Serriv in Homestead of your success.
         譯文 : >-
             你已經清除了格里弗的伐木場裡面的冥靈。將你成功的消息告知中士瑟裡夫
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to Sergeant Serriv in Homestead
         譯文 : >-

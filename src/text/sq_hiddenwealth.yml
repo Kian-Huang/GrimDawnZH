@@ -1,36 +1,31 @@
-sq_hiddenwealth.txt : 
+sq_hiddenwealth.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Homestead
         譯文 : >-
             霍姆斯特德
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Hidden Wealth
         譯文 : >-
             隱藏的財寶
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Find Treasure
         譯文 : >-
             尋找寶藏
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You have found an old will describing the location of a treasure buried somewhere in the hills west of Homestead. Some notes written along the bottom indicate that you will need explosives. This seems worth investigating further.
         譯文 : >-
             你找到了一份舊遺囑，上面描述了霍姆斯特德西方的山中埋藏著寶藏的地點。底部的日誌提示你需要一些爆炸物。這看來值得日後查探一番。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Seek out the Hidden Treasure
         譯文 : >-

@@ -1,43 +1,37 @@
-bq_exile04.txt : 
+bq_exile04.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Tainted Brains
         譯文 : >-
             賞金：感染大腦s
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three Tainted Brain Matters and I shall reward you with some of my valuables.
         譯文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three 感染大腦 Matters and I shall reward you with some of my valuables.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Tainted Brain Matter
         譯文 : >-
             收集感染大腦 Matter
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Tainted Brain Matter to the Outcast
         譯文 : >-

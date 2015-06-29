@@ -1,1380 +1,1183 @@
-npc_zealot_fatherkymon_01.txt : 
+npc_zealot_fatherkymon_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Father Kymon
         譯文 : >-
             Father Kymon
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             I am sorry to have burdened you with my secret, but you deserved to know the truth.
         譯文 : >-
             I am sorry to have burdened you with my secret, but you deserved to know the truth.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Kymon, what have you done!
         譯文 : >-
             Kymon, what have you done!
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             What I had to in order to help save our species. The Primordial gods are fickle, but they despise Ch'thon and his manifestations.{^n}{^n}Though my fate may be sealed, at least I will use this power to redeem humanity.{^n}{^n}Do not speak of this to anyone. My Chosen cannot learn that their only light is tainted with secrets.{^n}{^n}Humanity must have hope.
         譯文 : >-
             What I had to in order to help save our species. The Primordial gods are fickle, but they despise Ch'thon and his manifestations.{^n}{^n}Though my fate may be sealed, at least I will use this power to redeem humanity.{^n}{^n}Do not speak of this to anyone. My Chosen cannot learn that their only light is tainted with secrets.{^n}{^n}Humanity must have hope.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I must tell the others.
         譯文 : >-
             I must tell the others.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You misunderstand. I did not reveal my secret to you so that you would call me a heretic and destroy what I had built.{^n}{^n}I wanted to show you just how dire our situation is. Humanity is on the brink of annihilation. I did what I had to in order to preserve our species.{^n}{^n}One day, perhaps this will all come crashing down around me, but humanity will not be joining me in the pits of hell. I will see to that.
         譯文 : >-
             You misunderstand. I did not reveal my secret to you so that you would call me a heretic and destroy what I had built.{^n}{^n}I wanted to show you just how dire our situation is. Humanity is on the brink of annihilation. I did what I had to in order to preserve our species.{^n}{^n}One day, perhaps this will all come crashing down around me, but humanity will not be joining me in the pits of hell. I will see to that.
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             I will keep your secret, so long as it helps humanity.
         譯文 : >-
             I will keep your secret, so long as it helps humanity.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Thank you. I knew that my trust in you was not misplaced.
         譯文 : >-
             Thank you. I knew that my trust in you was not misplaced.
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Thank you for your honesty.
         譯文 : >-
             Thank you for your honesty.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             We will regret this.
         譯文 : >-
             We will regret this.
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             You are a fool. I'm leaving.
         譯文 : >-
             You are a fool. I'm leaving.
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             You cannot possibly know what this thing wants.
         譯文 : >-
             You cannot possibly know what this thing wants.
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Perhaps not, but I do know that it craves the destruction of Ch'thon, just as we do; and I do know that it has the power to help us.
         譯文 : >-
             Perhaps not, but I do know that it craves the destruction of Ch'thon, just as we do; and I do know that it has the power to help us.
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             What was the Eye really for?
         譯文 : >-
             What was the Eye really for?
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             It may be difficult to fathom, but Korvaak once walked among us, countless centuries ago. The Eye is but a piece of his last manifestation.{^n}{^n}Korvaak wishes to gather the pieces of himself that were lost to him, to consolidate his power, I presume.
         譯文 : >-
             It may be difficult to fathom, but Korvaak once walked among us, countless centuries ago. The Eye is but a piece of his last manifestation.{^n}{^n}Korvaak wishes to gather the pieces of himself that were lost to him, to consolidate his power, I presume.
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             We will regret this.
         譯文 : >-
             We will regret this.
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             I will have no part in your delusions.
         譯文 : >-
             I will have no part in your delusions.
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             What about Empyrion?
         譯文 : >-
             What about Empyrion?
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             I'm afraid I honestly do not know. Perhaps the Lightbringer is just a myth, or truly has abandonded us as the texts imply.{^n}{^n}But what could force a god to flee a world of his own making?
         譯文 : >-
             I'm afraid I honestly do not know. Perhaps the Lightbringer is just a myth, or truly has abandonded us as the texts imply.{^n}{^n}But what could force a god to flee a world of his own making?
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Nothing I'd want to meet.
         譯文 : >-
             Nothing I'd want to meet.
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Nothing I cannot kill.
         譯文 : >-
             Nothing I cannot kill.
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             Let's hope you are wrong.
         譯文 : >-
             Let's hope you are wrong.
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             I will have no part in your delusions.
         譯文 : >-
             I will have no part in your delusions.
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             You are a traitor!
         譯文 : >-
             You are a traitor!
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             Traitor? Perhaps that is how history will view me, but not before I use this power to help save humanity from the Aetherials and Chthonians.{^n}{^n}The primordial gods are fickle, but they despise Ch'thon and his manifestations. I did what was necessary, you must trust me.
         譯文 : >-
             Traitor? Perhaps that is how history will view me, but not before I use this power to help save humanity from the Aetherials and Chthonians.{^n}{^n}The primordial gods are fickle, but they despise Ch'thon and his manifestations. I did what was necessary, you must trust me.
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             I will have no part in your delusions.
         譯文 : >-
             I will have no part in your delusions.
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             Thank you for your honesty.
         譯文 : >-
             Thank you for your honesty.
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             We will regret this.
         譯文 : >-
             We will regret this.
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             I will have no part in your delusions.
         譯文 : >-
             I will have no part in your delusions.
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             You have selected your allies poorly.{^n}{^n}So long as they battle alongside Order of Death's Vigil, we have nothing to say to each other.
         譯文 : >-
             You have selected your allies poorly.{^n}{^n}So long as they battle alongside Order of Death's Vigil, we have nothing to say to each other.
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Welcome to the Chosen.
         譯文 : >-
             Welcome to the Chosen.
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             You have been a devout servant, and your faith shall not go unrewarded. I have opened my study to you, as promised.{^n}{^n}Please go there and see for yourself what it means to serve the gods.
         譯文 : >-
             You have been a devout servant, and your faith shall not go unrewarded. I have opened my study to you, as promised.{^n}{^n}Please go there and see for yourself what it means to serve the gods.
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             What will you do with the Eye?
         譯文 : >-
             What will you do with the Eye?
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             I shall use it to peer into the hearts of my Chosen, to find the ones I can call upon in our time of need, as I did with you.
         譯文 : >-
             I shall use it to peer into the hearts of my Chosen, to find the ones I can call upon in our time of need, as I did with you.
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             I see.
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             What's in your study?
         譯文 : >-
             What's in your study?
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             Just the truth.{^n}{^n}Humanity is facing unfathomable foes. It is our duty to make the necessary sacrifices, even if they go against our own convictions.
         譯文 : >-
             Just the truth.{^n}{^n}Humanity is facing unfathomable foes. It is our duty to make the necessary sacrifices, even if they go against our own convictions.
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             I...see. I will take a look.
         譯文 : >-
             I...see. I will take a look.
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             Some things are best left unknown.
         譯文 : >-
             Some things are best left unknown.
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             Alright, I will.
         譯文 : >-
             Alright, I will.
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             Some things are best left unknown.
         譯文 : >-
             Some things are best left unknown.
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             Have you recovered the relic?
         譯文 : >-
             Have you recovered the relic?
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             Yes, I have it here.
         譯文 : >-
             Yes, I have it here.
 #-------------------------------#
     62 :
-        標註 : 
         原文 : >-
             I thank you. Empyrion thanks you.{^n}{^n}You have been a devout servant, and your faith shall not go unrewarded. I have opened my study to you, as promised.{^n}{^n}Please go there and see for yourself what it means to serve the gods.
         譯文 : >-
             I thank you. Empyrion thanks you.{^n}{^n}You have been a devout servant, and your faith shall not go unrewarded. I have opened my study to you, as promised.{^n}{^n}Please go there and see for yourself what it means to serve the gods.
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             Very well.
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             Have you recovered the relic?
         譯文 : >-
             Have you recovered the relic?
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             Where should I go?
         譯文 : >-
             Where should I go?
 #-------------------------------#
     68 :
-        標註 : 
         原文 : >-
             The tomb is in the Asterkarn Mountains, to the north of Darkvale.{^n}{^n}It is Empyrion's will that you do this. Recover the Eye and return it to me.
         譯文 : >-
             The tomb is in the Asterkarn Mountains, to the north of Darkvale.{^n}{^n}It is Empyrion's will that you do this. Recover the Eye and return it to me.
 #-------------------------------#
     69 :
-        標註 : 
         原文 : >-
             Alright.
         譯文 : >-
             Alright.
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             Not yet.
 #-------------------------------#
     71 :
-        標註 : 
         原文 : >-
             You have been a loyal follower and your zealous dedication to our cause is admirable, even beyond my first Chosen.{^n}{^n}It is Empyrion's will that you handle this task personally.
         譯文 : >-
             You have been a loyal follower and your zealous dedication to our cause is admirable, even beyond my first Chosen.{^n}{^n}It is Empyrion's will that you handle this task personally.
 #-------------------------------#
     72 :
-        標註 : 
         原文 : >-
             I would be honored.
         譯文 : >-
             I would be honored.
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             I must be frank with you, the burden I am about to place upon you is a difficult one and I can only entrust it to you.{^n}{^n}Far to the north, in the Asterkarn Mountains beyond Darkvale, there is a tomb which houses a powerful relic known as the Eye of Korvaak.{^n}{^n}Empyrion has revealed its location to me after a lengthy meditation. The Eye is said to act as a lens into a man's soul. Using it, I can peer into the hearts of my Chosen and separate the truly devout from the false.Acquire the Eye for me, and I shall allow you to enter my study and learn all that I have learned.
         譯文 : >-
             I must be frank with you, the burden I am about to place upon you is a difficult one and I can only entrust it to you.{^n}{^n}Far to the north, in the Asterkarn Mountains beyond Darkvale, there is a tomb which houses a powerful relic known as the Eye of Korvaak.{^n}{^n}Empyrion has revealed its location to me after a lengthy meditation. The Eye is said to act as a lens into a man's soul. Using it, I can peer into the hearts of my Chosen and separate the truly devout from the false.Acquire the Eye for me, and I shall allow you to enter my study and learn all that I have learned.
 #-------------------------------#
     74 :
-        標註 : 
         原文 : >-
             I will recover the relic.
         譯文 : >-
             I will recover the relic.
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             Sounds too dangerous.
         譯文 : >-
             Sounds too dangerous.
 #-------------------------------#
     76 :
-        標註 : 
         原文 : >-
             I already have this relic.
         譯文 : >-
             I already have this relic.
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             I would rather not.
         譯文 : >-
             I would rather not.
 #-------------------------------#
     79 :
-        標註 : 
         原文 : >-
             You are a valued ally of the Chosen, but the matters ahead are of critical importance and you have not yet proven your complete dedication to our cause.{^n}{^n}Come back to me when you've proven your loyalty.
         譯文 : >-
             You are a valued ally of the Chosen, but the matters ahead are of critical importance and you have not yet proven your complete dedication to our cause.{^n}{^n}Come back to me when you've proven your loyalty.
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             What can I do to prove myself?
         譯文 : >-
             What can I do to prove myself?
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             Crush our foes, the Order of Death's Vigil or the Chthonians that defile our world, in the name of Empyrion.{^n}{^n}You could check the Bounty Table in case any of my Chosen have matters in which they could use your assistance.
         譯文 : >-
             Crush our foes, the Order of Death's Vigil or the Chthonians that defile our world, in the name of Empyrion.{^n}{^n}You could check the Bounty Table in case any of my Chosen have matters in which they could use your assistance.
 #-------------------------------#
     82 :
-        標註 : 
         原文 : >-
             Ok, I will.
         譯文 : >-
             Ok, I will.
 #-------------------------------#
     83 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             Very well.
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             Turn in
         譯文 : >-
             Turn in
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             Words
         譯文 : >-
             Words
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             Words
         譯文 : >-
             Words
 #-------------------------------#
     87 :
-        標註 : 
         原文 : >-
             What is your will?
         譯文 : >-
             What is your will?
 #-------------------------------#
     90 :
-        標註 : 
         原文 : >-
             I will return later.
         譯文 : >-
             I will return later.
 #-------------------------------#
     91 :
-        標註 : 
         原文 : >-
             In Progress
         譯文 : >-
             In Progress
 #-------------------------------#
     92 :
-        標註 : 
         原文 : >-
             Directions?
         譯文 : >-
             Directions?
 #-------------------------------#
     93 :
-        標註 : 
         原文 : >-
             Words
         譯文 : >-
             Words
 #-------------------------------#
     94 :
-        標註 : 
         原文 : >-
             I will go there now.
         譯文 : >-
             I will go there now.
 #-------------------------------#
     95 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             Not yet.
 #-------------------------------#
     96 :
-        標註 : 
         原文 : >-
             WORDS at 5000 rep
         譯文 : >-
             WORDS at 5000 rep
 #-------------------------------#
     97 :
-        標註 : 
         原文 : >-
             What is Empyrion's will?
         譯文 : >-
             What is Empyrion's will?
 #-------------------------------#
     98 :
-        標註 : 
         原文 : >-
             Words
         譯文 : >-
             Words
 #-------------------------------#
     99 :
-        標註 : 
         原文 : >-
             Words
         譯文 : >-
             Words
 #-------------------------------#
     100 :
-        標註 : 
         原文 : >-
             Words
         譯文 : >-
             Words
 #-------------------------------#
     101 :
-        標註 : 
         原文 : >-
             WORDS
         譯文 : >-
             WORDS
 #-------------------------------#
     103 :
-        標註 : 
         原文 : >-
             I will return as soon as I can.
         譯文 : >-
             I will return as soon as I can.
 #-------------------------------#
     104 :
-        標註 : 
         原文 : >-
             Please leave me, my Chosen, for I must meditate on Empyrion's will.
         譯文 : >-
             Please leave me, my Chosen, for I must meditate on Empyrion's will.
 #-------------------------------#
     105 :
-        標註 : 
         原文 : >-
             What is his will, Father Kymon?
         譯文 : >-
             What is his will, Father Kymon?
 #-------------------------------#
     106 :
-        標註 : 
         原文 : >-
             The will of Empyrion is not always easy to decipher.{^n}{^n}While I plan our next move, you may appease the Divine Light by elliminating our foes.{^n}{^n}You could check the Bounty Table in case any of my Chosen have matters in which they could use your assistance.
         譯文 : >-
             The will of Empyrion is not always easy to decipher.{^n}{^n}While I plan our next move, you may appease the Divine Light by elliminating our foes.{^n}{^n}You could check the Bounty Table in case any of my Chosen have matters in which they could use your assistance.
 #-------------------------------#
     108 :
-        標註 : 
         原文 : >-
             Ok, I will.
         譯文 : >-
             Ok, I will.
 #-------------------------------#
     109 :
-        標註 : 
         原文 : >-
             What is that spirit?
         譯文 : >-
             What is that spirit?
 #-------------------------------#
     110 :
-        標註 : 
         原文 : >-
             Archon Barthollem is the burning retribution of Empyrion himself.{^n}{^n}Using the ashes you recovered, I was able to manifest him from the celestial realm. He is as dedicated to Empyrion as the day he died. He shall be a formidable ally in the battles ahead.
         譯文 : >-
             Archon Barthollem is the burning retribution of Empyrion himself.{^n}{^n}Using the ashes you recovered, I was able to manifest him from the celestial realm. He is as dedicated to Empyrion as the day he died. He shall be a formidable ally in the battles ahead.
 #-------------------------------#
     111 :
-        標註 : 
         原文 : >-
             You...called this spirit? Sounds like necromancy.
         譯文 : >-
             You...called this spirit? Sounds like necromancy.
 #-------------------------------#
     112 :
-        標註 : 
         原文 : >-
             Do not mistake what we do for the Order's misguided attempt at controlling death.{^n}{^n}Archon Barthollem is a divine being, called back from his celestial rest by Empyrion himself.
         譯文 : >-
             Do not mistake what we do for the Order's misguided attempt at controlling death.{^n}{^n}Archon Barthollem is a divine being, called back from his celestial rest by Empyrion himself.
 #-------------------------------#
     113 :
-        標註 : 
         原文 : >-
             What is Empyrion's will?
         譯文 : >-
             What is Empyrion's will?
 #-------------------------------#
     114 :
-        標註 : 
         原文 : >-
             As long as it's on our side.
         譯文 : >-
             As long as it's on our side.
 #-------------------------------#
     115 :
-        標註 : 
         原文 : >-
             Seems oddly similar.
         譯文 : >-
             Seems oddly similar.
 #-------------------------------#
     116 :
-        標註 : 
         原文 : >-
             What is Empyrion's will?
         譯文 : >-
             What is Empyrion's will?
 #-------------------------------#
     117 :
-        標註 : 
         原文 : >-
             So long as it's on our side.
         譯文 : >-
             So long as it's on our side.
 #-------------------------------#
     118 :
-        標註 : 
         原文 : >-
             I hope he responds.
         譯文 : >-
             I hope he responds.
 #-------------------------------#
     119 :
-        標註 : 
         原文 : >-
             That seems likely.
         譯文 : >-
             That seems likely.
 #-------------------------------#
     120 :
-        標註 : 
         原文 : >-
             Have you dealt with the Order's followers and recovered the sacred ashes?
         譯文 : >-
             Have you dealt with the Order's followers and recovered the sacred ashes?
 #-------------------------------#
     121 :
-        標註 : 
         原文 : >-
             Yes, I have them here.
         譯文 : >-
             Yes, I have them here.
 #-------------------------------#
     122 :
-        標註 : 
         原文 : >-
             Empyrion's will was done this day. You have done well, my Chosen.{^n}{^n}With the ashes in our possession, we have brought forth a harbinger of Empyrion's will. Together, we shall bring righteous fire down upon the impure and the corrupt.{^n}{^n}Thanks to your efforts, we now have a formidable new ally. A manifestation of Archon Barthollem himself!
         譯文 : >-
             Empyrion's will was done this day. You have done well, my Chosen.{^n}{^n}With the ashes in our possession, we have brought forth a harbinger of Empyrion's will. Together, we shall bring righteous fire down upon the impure and the corrupt.{^n}{^n}Thanks to your efforts, we now have a formidable new ally. A manifestation of Archon Barthollem himself!
 #-------------------------------#
     123 :
-        標註 : 
         原文 : >-
             What is that spirit doing here?
         譯文 : >-
             What is that spirit doing here?
 #-------------------------------#
     124 :
-        標註 : 
         原文 : >-
             Archon Barthollem is the burning retribution of Empyrion himself.{^n}{^n}Using the ashes you recovered, I was able to manifest him from the celestial realm. He is as dedicated to Empyrion as the day he died. He shall be a formidable ally in the battles ahead.
         譯文 : >-
             Archon Barthollem is the burning retribution of Empyrion himself.{^n}{^n}Using the ashes you recovered, I was able to manifest him from the celestial realm. He is as dedicated to Empyrion as the day he died. He shall be a formidable ally in the battles ahead.
 #-------------------------------#
     125 :
-        標註 : 
         原文 : >-
             You...called this spirit? Sounds like necromancy.
         譯文 : >-
             You...called this spirit? Sounds like necromancy.
 #-------------------------------#
     126 :
-        標註 : 
         原文 : >-
             Do not mistake what we do for the Order's misguided attempt at controlling death.{^n}{^n}Archon Barthollem is a divine being, called back from his celestial rest by Empyrion himself.
         譯文 : >-
             Do not mistake what we do for the Order's misguided attempt at controlling death.{^n}{^n}Archon Barthollem is a divine being, called back from his celestial rest by Empyrion himself.
 #-------------------------------#
     128 :
-        標註 : 
         原文 : >-
             As long as it's on our side.
         譯文 : >-
             As long as it's on our side.
 #-------------------------------#
     129 :
-        標註 : 
         原文 : >-
             Seems oddly similar.
         譯文 : >-
             Seems oddly similar.
 #-------------------------------#
     131 :
-        標註 : 
         原文 : >-
             So long as it's on our side.
         譯文 : >-
             So long as it's on our side.
 #-------------------------------#
     132 :
-        標註 : 
         原文 : >-
             What is next for the Chosen?
         譯文 : >-
             What is next for the Chosen?
 #-------------------------------#
     134 :
-        標註 : 
         原文 : >-
             For now, we shall gather our strength.{^n}{^n}There is a great darkness gathering in the north. We must be vigilant.
         譯文 : >-
             For now, we shall gather our strength.{^n}{^n}There is a great darkness gathering in the north. We must be vigilant.
 #-------------------------------#
     136 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             Very well.
 #-------------------------------#
     137 :
-        標註 : 
         原文 : >-
             Empyrion's will be done!
         譯文 : >-
             Empyrion's will be done!
 #-------------------------------#
     138 :
-        標註 : 
         原文 : >-
             I think I'm done with this madness.
         譯文 : >-
             I think I'm done with this madness.
 #-------------------------------#
     139 :
-        標註 : 
         原文 : >-
             Have you dealt with the Order's followers and recovered the sacred ashes?
         譯文 : >-
             Have you dealt with the Order's followers and recovered the sacred ashes?
 #-------------------------------#
     140 :
-        標註 : 
         原文 : >-
             Where are the ashes again?
         譯文 : >-
             Where are the ashes again?
 #-------------------------------#
     141 :
-        標註 : 
         原文 : >-
             Underneath Fort Ikon to the north, there is a crypt dedicated to Archon Barthollem, a once faithful servant of Empyrion. The Archon was cremated upon death, his ashes stored within a sacred urn.{^n}{^n}We must not allow the Order to desecrate such holy ground. Recover the sacred ashes so that the Order cannot use them for their misguided rituals.
         譯文 : >-
             Underneath Fort Ikon to the north, there is a crypt dedicated to Archon Barthollem, a once faithful servant of Empyrion. The Archon was cremated upon death, his ashes stored within a sacred urn.{^n}{^n}We must not allow the Order to desecrate such holy ground. Recover the sacred ashes so that the Order cannot use them for their misguided rituals.
 #-------------------------------#
     142 :
-        標註 : 
         原文 : >-
             I will recover the ashes.
         譯文 : >-
             I will recover the ashes.
 #-------------------------------#
     143 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             Not yet.
 #-------------------------------#
     144 :
-        標註 : 
         原文 : >-
             Come, my loyal Chosen. I have a task for you that comes from Empyrion himself.
         譯文 : >-
             Come, my loyal Chosen. I have a task for you that comes from Empyrion himself.
 #-------------------------------#
     145 :
-        標註 : 
         原文 : >-
             What is Empyrion's will?
         譯文 : >-
             What is Empyrion's will?
 #-------------------------------#
     146 :
-        標註 : 
         原文 : >-
             Empyrion has granted me a vision of a far away place. In it, I saw a great fire, a beacon in the darkness; but the flame is being extinguished by tendrils of corruption. But there is still hope and Empyrion has shown me that you are to lead the charge.{^n}{^n}The Order of Death's Vigil, even as we speak, are laying waste to a sacred site underneath Fort Ikon to the north. It is the Tomb of Archon Barthollem, a priest who, centuries ago, was a devout follower of Empyrion. The Order have found the Archon's sacred ashes. They likely intend to use them to fuel some twisted ritual.{^n}{^n}We must not allow this to happen. You must go to the Tomb and reclaim the ashes for the Chosen. Let nothing stand in your way.
         譯文 : >-
             Empyrion has granted me a vision of a far away place. In it, I saw a great fire, a beacon in the darkness; but the flame is being extinguished by tendrils of corruption. But there is still hope and Empyrion has shown me that you are to lead the charge.{^n}{^n}The Order of Death's Vigil, even as we speak, are laying waste to a sacred site underneath Fort Ikon to the north. It is the Tomb of Archon Barthollem, a priest who, centuries ago, was a devout follower of Empyrion. The Order have found the Archon's sacred ashes. They likely intend to use them to fuel some twisted ritual.{^n}{^n}We must not allow this to happen. You must go to the Tomb and reclaim the ashes for the Chosen. Let nothing stand in your way.
 #-------------------------------#
     147 :
-        標註 : 
         原文 : >-
             I will recover the ashes.
         譯文 : >-
             I will recover the ashes.
 #-------------------------------#
     148 :
-        標註 : 
         原文 : >-
             I will not take part in this slaughter.
         譯文 : >-
             I will not take part in this slaughter.
 #-------------------------------#
     149 :
-        標註 : 
         原文 : >-
             I have the ashes, the Order suffered great casualties.
         譯文 : >-
             I have the ashes, the Order suffered great casualties.
 #-------------------------------#
     151 :
-        標註 : 
         原文 : >-
             I have some questions.
         譯文 : >-
             I have some questions.
 #-------------------------------#
     152 :
-        標註 : 
         原文 : >-
             Speak, and I will enlighten you.
         譯文 : >-
             Speak, and I will enlighten you.
 #-------------------------------#
     153 :
-        標註 : 
         原文 : >-
             Why are you called Father?
         譯文 : >-
             Why are you called Father?
 #-------------------------------#
     154 :
-        標註 : 
         原文 : >-
             Before I became Father Kymon, I was an inquisitor for the Luminari by the name Thaidrus Kymon. My mission was to uncover dangerous relics and texts and to collect them so that they could harm no one.{^n}{^n}But I was always aware of a deeper truth, a secret buried within all the relics and all the tomes we had gathered. One day, against the commands of my superiors, I set out to discover the truth for myself. It was during those travels that I first came upon the shrine of Empyrion, the Blessed Light. I studied the ruins for many months, deciphering the forgotten language that marked its stones. In time, I had pieced together the secrets of the ancient faith and was able to recite an incantation that called out to the lost god.{^n}{^n}The spell was successful, and I had reached out to an otherworldly presence. It coiled around me and filled my consciousness with thoughts and feelings that were not my own. The truth of its words filled me with unspeakable dread.
         譯文 : >-
             Before I became Father Kymon, I was an inquisitor for the Luminari by the name Thaidrus Kymon. My mission was to uncover dangerous relics and texts and to 收集them so that they could harm no one.{^n}{^n}But I was always aware of a deeper truth, a secret buried within all the relics and all the tomes we had gathered. One day, against the commands of my superiors, I set out to discover the truth for myself. It was during those travels that I first came upon the shrine of Empyrion, the Blessed Light. I studied the ruins for many months, deciphering the forgotten language that marked its stones. In time, I had pieced together the secrets of the ancient faith and was able to recite an incantation that called out to the lost god.{^n}{^n}The spell was successful, and I had reached out to an otherworldly presence. It coiled around me and filled my consciousness with thoughts and feelings that were not my own. The truth of its words filled me with unspeakable dread.
 #-------------------------------#
     155 :
-        標註 : 
         原文 : >-
             What happened next?
         譯文 : >-
             What happened next?
 #-------------------------------#
     156 :
-        標註 : 
         原文 : >-
             Unable to cope with my destiny and the terrible fate that awaited all of Cairn, I fled the temple.{^n}{^n}I returned to the capital, weary and defeated, ready to answer for my absence. But the leader of my order was strangely indifferent to my lengthy absence. That was when I began to notice unusual changes in my former companions and the empire's actions. Troops were reassigned to seemingly inconsequential locations, iron mines were shuttered, it all made no sense. The empire was in the grip of some malevolent force, which we now know to be the Aetherials.{^n}{^n}In a desperate move, I abducted the head of my order and questioned him. It was then that he turned into an Aetherial monstrosity and attacked me. Only with the aid of a relic I had taken from Empyrion's shrine was I able to fend off the creature.{^n}{^n}The next step seemed clear as day to me. I renounced my title and property, and emerged from the ashes of my home a new man, reborn in the blessed light of Empyrion. I preached the truth to the public, for which I was exiled from Erulan.{^n}{^n}But my warnings of the apocalypse and the salvation Empyrion offered resonated with the people. I may have been banished, but I did not go alone. The people that followed me became the first of my Chosen.
         譯文 : >-
             Unable to cope with my destiny and the terrible fate that awaited all of Cairn, I fled the temple.{^n}{^n}I returned to the capital, weary and defeated, ready to answer for my absence. But the leader of my order was strangely indifferent to my lengthy absence. That was when I began to notice unusual changes in my former companions and the empire's actions. Troops were reassigned to seemingly inconsequential locations, iron mines were shuttered, it all made no sense. The empire was in the grip of some malevolent force, which we now know to be the Aetherials.{^n}{^n}In a desperate move, I abducted the head of my order and questioned him. It was then that he turned into an Aetherial monstrosity and attacked me. Only with the aid of a relic I had taken from Empyrion's shrine was I able to fend off the creature.{^n}{^n}The next step seemed clear as day to me. I renounced my title and property, and emerged from the ashes of my home a new man, reborn in the blessed light of Empyrion. I preached the truth to the public, for which I was exiled from Erulan.{^n}{^n}But my warnings of the apocalypse and the salvation Empyrion offered resonated with the people. I may have been banished, but I did not go alone. The people that followed me became the first of my Chosen.
 #-------------------------------#
     157 :
-        標註 : 
         原文 : >-
             Who is Empyrion?
         譯文 : >-
             Who is Empyrion?
 #-------------------------------#
     158 :
-        標註 : 
         原文 : >-
             Empyrion the Lightbringer, greatest of all the gods. He is the protector of Cairn, a light of hope returned to us in humanity's darkest hour.{^n}{^n}Empyrion speaks to me of his will and I convey his message to you so that we may again bring Cairn under His light.
         譯文 : >-
             Empyrion the Lightbringer, greatest of all the gods. He is the protector of Cairn, a light of hope returned to us in humanity's darkest hour.{^n}{^n}Empyrion speaks to me of his will and I convey his message to you so that we may again bring Cairn under His light.
 #-------------------------------#
     159 :
-        標註 : 
         原文 : >-
             Can I commune with him?
         譯文 : >-
             Can I commune with him?
 #-------------------------------#
     160 :
-        標註 : 
         原文 : >-
             Anyone pure of mind and faith can hear the will of Empyrion. Clear your mind of impure thoughts and pray, perhaps the Lightbringer shall answer.{^n}{^n}My brothers and sisters pray every day that Empyrion blesses them as he has blessed me.
         譯文 : >-
             Anyone pure of mind and faith can hear the will of Empyrion. Clear your mind of impure thoughts and pray, perhaps the Lightbringer shall answer.{^n}{^n}My brothers and sisters pray every day that Empyrion blesses them as he has blessed me.
 #-------------------------------#
     161 :
-        標註 : 
         原文 : >-
             So nobody but you has actually heard Empyrion?
         譯文 : >-
             So nobody but you has actually heard Empyrion?
 #-------------------------------#
     162 :
-        標註 : 
         原文 : >-
             As the first of Empyrion's followers in centuries, I have become His voice and the agent of His growing faith.{^n}{^n}In time, others may hear the Lightbringer's will as I have, but that day has not come yet.{^n}{^n}Perhaps it will be you that joins me in the upper echelons of Empyrion's new order?
         譯文 : >-
             As the first of Empyrion's followers in centuries, I have become His voice and the agent of His growing faith.{^n}{^n}In time, others may hear the Lightbringer's will as I have, but that day has not come yet.{^n}{^n}Perhaps it will be you that joins me in the upper echelons of Empyrion's new order?
 #-------------------------------#
     163 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     164 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     165 :
-        標註 : 
         原文 : >-
             Sounds too good to be true.
         譯文 : >-
             Sounds too good to be true.
 #-------------------------------#
     166 :
-        標註 : 
         原文 : >-
             Perhaps I shall.
         譯文 : >-
             Perhaps I shall.
 #-------------------------------#
     167 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     168 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     169 :
-        標註 : 
         原文 : >-
             Perhaps he shall bless me too.
         譯文 : >-
             Perhaps he shall bless me too.
 #-------------------------------#
     170 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     171 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     172 :
-        標註 : 
         原文 : >-
             Fascinating.
         譯文 : >-
             Fascinating.
 #-------------------------------#
     173 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     174 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     175 :
-        標註 : 
         原文 : >-
             I see now.
         譯文 : >-
             I see now.
 #-------------------------------#
     176 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     177 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     178 :
-        標註 : 
         原文 : >-
             A fascinating tale.
         譯文 : >-
             A fascinating tale.
 #-------------------------------#
     179 :
-        標註 : 
         原文 : >-
             What are your goals?
         譯文 : >-
             What are your goals?
 #-------------------------------#
     180 :
-        標註 : 
         原文 : >-
             We wish to spread Empyrion's divine light to all of humanity and to cleanse Cairn of the corruption that now threatens to destroy her.{^n}{^n}Empyrion guides us in all things.
         譯文 : >-
             We wish to spread Empyrion's divine light to all of humanity and to cleanse Cairn of the corruption that now threatens to destroy her.{^n}{^n}Empyrion guides us in all things.
 #-------------------------------#
     182 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     183 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     184 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             Thank you.
 #-------------------------------#
     185 :
-        標註 : 
         原文 : >-
             What can you tell me about the Order?
         譯文 : >-
             What can you tell me about the Order?
 #-------------------------------#
     186 :
-        標註 : 
         原文 : >-
             They are misguided children that do not seem to understand the powers they toy with.{^n}{^n}Death is the absolute domain of the gods. Who are we, mere mortals, to meddle in their affairs?{^n}{^n}It saddens me to say that our efforts to set the Order's members on the righteous path have failed, and so they must be cleansed so that Cairn may heal under Empyrion's watch.
         譯文 : >-
             They are misguided children that do not seem to understand the powers they toy with.{^n}{^n}Death is the absolute domain of the gods. Who are we, mere mortals, to meddle in their affairs?{^n}{^n}It saddens me to say that our efforts to set the Order's members on the righteous path have failed, and so they must be cleansed so that Cairn may heal under Empyrion's watch.
 #-------------------------------#
     187 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     188 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     189 :
-        標註 : 
         原文 : >-
             I see now.
         譯文 : >-
             I see now.
 #-------------------------------#
     190 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     191 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             Nevermind.
 #-------------------------------#
     192 :
-        標註 : 
         原文 : >-
             We will speak later.
         譯文 : >-
             We will speak later.
 #-------------------------------#
     193 :
-        標註 : 
         原文 : >-
             May the everlasting light of Empyrion guide your actions, just as it guides mine each and every day.
         譯文 : >-
             May the everlasting light of Empyrion guide your actions, just as it guides mine each and every day.
 #-------------------------------#
     194 :
-        標註 : 
         原文 : >-
             I have some questions.
         譯文 : >-
             I have some questions.
 #-------------------------------#
     195 :
-        標註 : 
         原文 : >-
             Speak, and I will enlighten you.
         譯文 : >-
             Speak, and I will enlighten you.
 #-------------------------------#
     196 :
-        標註 : 
         原文 : >-
             Why are you called Father?
         譯文 : >-
             Why are you called Father?
 #-------------------------------#
     197 :
-        標註 : 
         原文 : >-
             Before I became Father Kymon, I was an inquisitor for the Luminari by the name Thaidrus Kymon. My mission was to uncover dangerous relics and texts and to collect them so that they could harm no one.{^n}{^n}But I was always aware of a deeper truth, a secret buried within all the relics and all the tomes we had gathered. One day, against the commands of my superiors, I set out to discover the truth for myself. It was during those travels that I first came upon the shrine of Empyrion, the Blessed Light. I studied the ruins for many months, deciphering the forgotten language that marked its stones. In time, I had pieced together the secrets of the ancient faith and was able to recite an incantation that called out to the lost god.{^n}{^n}The spell was successful, and I had reached out to an otherworldly presence. It coiled around me and filled my consciousness with thoughts and feelings that were not my own. The truth of its words filled me with unspeakable dread.
         譯文 : >-
             Before I became Father Kymon, I was an inquisitor for the Luminari by the name Thaidrus Kymon. My mission was to uncover dangerous relics and texts and to 收集them so that they could harm no one.{^n}{^n}But I was always aware of a deeper truth, a secret buried within all the relics and all the tomes we had gathered. One day, against the commands of my superiors, I set out to discover the truth for myself. It was during those travels that I first came upon the shrine of Empyrion, the Blessed Light. I studied the ruins for many months, deciphering the forgotten language that marked its stones. In time, I had pieced together the secrets of the ancient faith and was able to recite an incantation that called out to the lost god.{^n}{^n}The spell was successful, and I had reached out to an otherworldly presence. It coiled around me and filled my consciousness with thoughts and feelings that were not my own. The truth of its words filled me with unspeakable dread.
 #-------------------------------#
     198 :
-        標註 : 
         原文 : >-
             What happened next?
         譯文 : >-
             What happened next?
 #-------------------------------#
     199 :
-        標註 : 
         原文 : >-
             Unable to cope with my destiny and the terrible fate that awaited all of Cairn, I fled the temple.{^n}{^n}I returned to the capital, weary and defeated, ready to answer for my absence. But the leader of my order was strangely indifferent to my lengthy absence. That was when I began to notice unusual changes in my former companions and the empire's actions. Troops were reassigned to seemingly inconsequential locations, iron mines were shuttered, it all made no sense. The empire was in the grip of some malevolent force, which we now know to be the Aetherials.{^n}{^n}In a desperate move, I abducted the head of my order and questioned him. It was then that he turned into an Aetherial monstrosity and attacked me. Only with the aid of a relic I had taken from Empyrion's shrine was I able to fend off the creature.{^n}{^n}The next step seemed clear as day to me. I renounced my title and property, and emerged from the ashes of my home a new man, reborn in the blessed light of Empyrion. I preached the truth to the public, for which I was exiled from Erulan.{^n}{^n}But my warnings of the apocalypse and the salvation Empyrion offered resonated with the people. I may have been banished, but I did not go alone. The people that followed me became the first of my Chosen.
         譯文 : >-
             Unable to cope with my destiny and the terrible fate that awaited all of Cairn, I fled the temple.{^n}{^n}I returned to the capital, weary and defeated, ready to answer for my absence. But the leader of my order was strangely indifferent to my lengthy absence. That was when I began to notice unusual changes in my former companions and the empire's actions. Troops were reassigned to seemingly inconsequential locations, iron mines were shuttered, it all made no sense. The empire was in the grip of some malevolent force, which we now know to be the Aetherials.{^n}{^n}In a desperate move, I abducted the head of my order and questioned him. It was then that he turned into an Aetherial monstrosity and attacked me. Only with the aid of a relic I had taken from Empyrion's shrine was I able to fend off the creature.{^n}{^n}The next step seemed clear as day to me. I renounced my title and property, and emerged from the ashes of my home a new man, reborn in the blessed light of Empyrion. I preached the truth to the public, for which I was exiled from Erulan.{^n}{^n}But my warnings of the apocalypse and the salvation Empyrion offered resonated with the people. I may have been banished, but I did not go alone. The people that followed me became the first of my Chosen.
 #-------------------------------#
     200 :
-        標註 : 
         原文 : >-
             Who is Empyrion?
         譯文 : >-
             Who is Empyrion?
 #-------------------------------#
     201 :
-        標註 : 
         原文 : >-
             Empyrion the Lightbringer, greatest of all the gods. He is the protector of Cairn, a light of hope returned to us in humanity's darkest hour.{^n}{^n}Empyrion speaks to me of his will and I convey his message to you so that we may again bring Cairn under His light.
         譯文 : >-
             Empyrion the Lightbringer, greatest of all the gods. He is the protector of Cairn, a light of hope returned to us in humanity's darkest hour.{^n}{^n}Empyrion speaks to me of his will and I convey his message to you so that we may again bring Cairn under His light.
 #-------------------------------#
     202 :
-        標註 : 
         原文 : >-
             Can I commune with him?
         譯文 : >-
             Can I commune with him?
 #-------------------------------#
     203 :
-        標註 : 
         原文 : >-
             Anyone pure of mind and faith can hear the will of Empyrion. Clear your mind of impure thoughts and pray, perhaps the Lightbringer shall answer.{^n}{^n}My brothers and sisters pray every day that Empyrion blesses them as he has blessed me.
         譯文 : >-
             Anyone pure of mind and faith can hear the will of Empyrion. Clear your mind of impure thoughts and pray, perhaps the Lightbringer shall answer.{^n}{^n}My brothers and sisters pray every day that Empyrion blesses them as he has blessed me.
 #-------------------------------#
     204 :
-        標註 : 
         原文 : >-
             So nobody but you has actually heard Empyrion?
         譯文 : >-
             So nobody but you has actually heard Empyrion?
 #-------------------------------#
     205 :
-        標註 : 
         原文 : >-
             As the first of Empyrion's followers in centuries, I have become His voice and the agent of His growing faith.{^n}{^n}In time, others may hear the Lightbringer's will as I have, but that day has not come yet.{^n}{^n}Perhaps it will be you that joins me in the upper echelons of Empyrion's new order?
         譯文 : >-
             As the first of Empyrion's followers in centuries, I have become His voice and the agent of His growing faith.{^n}{^n}In time, others may hear the Lightbringer's will as I have, but that day has not come yet.{^n}{^n}Perhaps it will be you that joins me in the upper echelons of Empyrion's new order?
 #-------------------------------#
     206 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     207 :
-        標註 : 
         原文 : >-
             Sounds too good to be true.
         譯文 : >-
             Sounds too good to be true.
 #-------------------------------#
     208 :
-        標註 : 
         原文 : >-
             Perhaps I shall.
         譯文 : >-
             Perhaps I shall.
 #-------------------------------#
     209 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     210 :
-        標註 : 
         原文 : >-
             Perhaps he shall bless me too.
         譯文 : >-
             Perhaps he shall bless me too.
 #-------------------------------#
     211 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     212 :
-        標註 : 
         原文 : >-
             Fascinating.
         譯文 : >-
             Fascinating.
 #-------------------------------#
     213 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     214 :
-        標註 : 
         原文 : >-
             I see now.
         譯文 : >-
             I see now.
 #-------------------------------#
     215 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     216 :
-        標註 : 
         原文 : >-
             A fascinating tale.
         譯文 : >-
             A fascinating tale.
 #-------------------------------#
     217 :
-        標註 : 
         原文 : >-
             What are your goals?
         譯文 : >-
             What are your goals?
 #-------------------------------#
     218 :
-        標註 : 
         原文 : >-
             We wish to spread Empyrion's divine light to all of humanity and to cleanse Cairn of the corruption that now threatens to destroy her.{^n}{^n}Empyrion guides us in all things.
         譯文 : >-
             We wish to spread Empyrion's divine light to all of humanity and to cleanse Cairn of the corruption that now threatens to destroy her.{^n}{^n}Empyrion guides us in all things.
 #-------------------------------#
     220 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     221 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             Thank you.
 #-------------------------------#
     222 :
-        標註 : 
         原文 : >-
             What can you tell me about the Order?
         譯文 : >-
             What can you tell me about the Order?
 #-------------------------------#
     223 :
-        標註 : 
         原文 : >-
             They are misguided children that do not seem to understand the powers they toy with.{^n}{^n}Death is the absolute domain of the gods. Who are we, mere mortals, to meddle in their affairs?{^n}{^n}It saddens me to say that our efforts to set the Order's members on the righteous path have failed, and so they must be cleansed so that Cairn may heal under Empyrion's watch.
         譯文 : >-
             They are misguided children that do not seem to understand the powers they toy with.{^n}{^n}Death is the absolute domain of the gods. Who are we, mere mortals, to meddle in their affairs?{^n}{^n}It saddens me to say that our efforts to set the Order's members on the righteous path have failed, and so they must be cleansed so that Cairn may heal under Empyrion's watch.
 #-------------------------------#
     224 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     225 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             I see.
 #-------------------------------#
     226 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             Nevermind.
 #-------------------------------#
     227 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

@@ -1,36 +1,31 @@
-sq_chef.txt : 
+sq_chef.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Devil's Crossing
         譯文 : >-
             惡魔路口
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             The Ironclad Chef
         譯文 : >-
             鐵甲廚師
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Check on Chef
         譯文 : >-
             審查廚師
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You have successfully transported Ulgrim the Cook from the wilds and into Devil's Crossing. {^n}{^n}Speak to him and see how he is faring amongst the survivors.
         譯文 : >-
             你成功的將廚師艾格瑞姆從野外轉移至惡魔路口。{^n}{^n}跟他對話並且瞭解他在倖存者中的表現。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Speak to Ulgrim the Cook in Devil's Crossing
         譯文 : >-

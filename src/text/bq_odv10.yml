@@ -1,57 +1,49 @@
-bq_odv10.txt : 
+bq_odv10.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: The Ascended
         譯文 : >-
             賞金：超凡的戰士
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             A Reanimator walks the halls of the Warden's Laboratory with an uncanny connection to the Aether.{^n}{^n}While most Reanimators can merely conjure burst of Aetherfire, this one can tear gaps in reality itself, calling down manifestations of the Aether unlike that of the most powerful arcanists.{^n}{^n}The Order wishes to study this anomaly. Travel to Burrwitch and slay this Barrostrandt, the Ascended so that we may investigate its remains.{^n}{^n}Your efforts will be compensated with materials from our stores.
         譯文 : >-
             A Reanimator walks the halls of 典獄長的實驗室 with an uncanny connection to the Aether.{^n}{^n}While most Reanimators can merely conjure burst of Aetherfire, this one can tear gaps in reality itself, calling down manifestations of the Aether unlike that of the most powerful arcanists.{^n}{^n}The Order wishes to study this anomaly. Travel to 伯爾維治 and 殺了this 超凡的戰士巴洛斯特蘭 so that we may investigate its remains.{^n}{^n}Your efforts will be compensated with materials from our stores.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Barrostrandt
         譯文 : >-
             殺了巴洛斯特蘭
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Order of Death's Vigil Bounty Table
         譯文 : >-

@@ -1,78 +1,67 @@
-sq_trappedandalone.txt : 
+sq_trappedandalone.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Homestead
         譯文 : >-
             霍姆斯特德
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Trapped and Alone
         譯文 : >-
             孤身被困
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Crypt Kill Complete
         譯文 : >-
             墓穴屠殺
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You called Kalista's bluff and she revealed herself to be a Chthonian spawn by the name Ballog'Nath. Slay her in the Buried Tomb.
         譯文 : >-
             你識破了卡里斯塔的偽裝，她變身成了一頭叫做巴洛格·納斯的冥靈。在掩埋的墓穴中殺死了她。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Slay Ballog'Nath in the Buried Tomb
         譯文 : >-
             在掩埋的墓穴中殺掉巴洛格·納斯
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Return to Village
         譯文 : >-
             返回村莊
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             You have found a terrified young girl by the name Kalista in an old tomb. She became trapped in the tomb after the entrance collapsed. You opened a riftgate, allowing the girl to travel back to her family in a Rover camp in the southern Rotting Croplands. You should check on how she's doing.
         譯文 : >-
             你在一座古墓之內發現了一個被嚇壞了的名叫卡里斯塔的小女孩。她在墓穴入口坍塌之後被困在了這裡。你打開了一扇傳送門，讓她返回了腐壞田地南部營地的家人那裡。你應該去看看她在那裡的情況。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Check on Kalista in the Rover Camp
         譯文 : >-
             在流浪者營地查看卡里斯塔
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Village Kill Complete
         譯文 : >-
             村莊屠殺
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             The Rover camp in the Rotting Croplands has been destroyed by a Chthonian and the girl Kalista is nowhere to be found. Slay the creature responsible for this tragedy, Ballog'Nath.
         譯文 : >-
             流浪者營地被一頭冥靈屠殺殆盡，也找不到那個名叫卡里斯塔的小女孩了。殺死這樁慘劇的始作俑者，巴洛格·納斯。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Slay Ballog'Nath in the Rover Camp
         譯文 : >-

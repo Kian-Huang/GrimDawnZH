@@ -1,36 +1,31 @@
-mq_theinquisitor.txt : 
+mq_theinquisitor.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             The Trials of Homestead
         譯文 : >-
             霍姆斯特德的試煉
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             The Inquisitor
         譯文 : >-
             審判官
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Speak to Creed
         譯文 : >-
             和克里德交談
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Captain Somer has informed Inquisitor Creed of your invaluable assistance. He wishes to speak with you regarding the cultist threat and what must be done next. Speak to him in Homestead.
         譯文 : >-
             索梅爾隊長已經告知審判官克里德你向他們提供了難以估量的援助。他想和你談談接下來不得不面對的邪教徒的威脅。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Speak to Inquisitor Creed in Homestead
         譯文 : >-

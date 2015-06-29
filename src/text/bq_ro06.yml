@@ -1,71 +1,61 @@
-bq_ro06.txt : 
+bq_ro06.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: The Oligarchs
         譯文 : >-
             賞金：獨裁者
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Oligarchs were once leaders of Arkovian society, following the abdication of the throne by King Rhowan. Even in death, they command loyalty from their undying subjects.{^n}{^n}Three such spirits still roam the Undercity of Old Arkovia, their hatred for the living spurring the undead into a frenzy. For the sake of all travelers, the Oligarchs must be destroyed.{^n}{^n}To see this through, we have set aside a substantial stash of iron bits.
         譯文 : >-
             The Oligarchs were once leaders of Arkovian society, following the abdication of the throne by King Rhowan. Even in death, they command loyalty from their undying subjects.{^n}{^n}Three such spirits still roam 古安克維亞地下城, their hatred for the living spurring the undead into a frenzy. For the sake of all travelers, the Oligarchs must be destroyed.{^n}{^n}To see this through, we have set aside a substantial stash of iron bits.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Nomos Dred
         譯文 : >-
             殺了諾莫斯·德雷德
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Slay Laudos Vagra
         譯文 : >-
             殺了勞多斯·瓦格拉
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Rhovena Kur
         譯文 : >-
             殺了羅文納·庫爾
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Rovers and should return to the Bounty Table for your reward.
         譯文 : >-
             你已經完成了任務，你該返回賞金桌領取獎賞。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Rover Bounty Table
         譯文 : >-

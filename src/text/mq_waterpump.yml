@@ -1,85 +1,73 @@
-mq_waterpump.txt : 
+mq_waterpump.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             The Resistance
         譯文 : >-
             反抗組織
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             And Not a Drop to Drink
         譯文 : >-
             一滴水都沒得喝
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bring Scrap to Barnabas
         譯文 : >-
             帶給巴納巴斯廢鐵
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Barnabas in Devil's Crossing wishes to repair the prison's water pump, but he needs Scrap. {^n}{^n}He could melt down the few weapons the survivors have, but dying unarmed to the Dead is not any better than dying of thirst. {^n}{^n}Find Scrap amongst the ruins of Lower Crossing and the dumping grounds on the edge of Wightmire. Scrap can be found virtually anywhere within the ruins of human civilization. When you have enough Scrap, return it to Barnabas in Devil's Crossing.
         譯文 : >-
             巴納巴斯希望修好監獄的水泵，但是他需要廢鐵作為材料。{^n}{^n}他可以熔鍊幾件倖存者的武器，不過死在死屍手裡也不比渴死強到哪去。{^n}{^n}在下游渡口的廢墟和屍妖泥沼邊緣的垃圾傾倒場裡找些廢鐵。人類文明的廢墟里幾乎都能找到廢鐵的。收集足夠多的廢鐵，交給巴納巴斯。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Collect Scrap for Barnabas
         譯文 : >-
             收集廢鐵給巴納巴斯
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Bring the Scrap to Barnabas in Devil's Crossing
         譯文 : >-
             把廢鐵交給巴納巴斯
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Kill Slith in Cave
         譯文 : >-
             殺死洞穴內的蛇人
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Barnabas believes that Slith have inhabited the cave Devil's Crossing pumps for water. Slith are foul beasts that secrete poisons lethal to humans. {^n}{^n}Find and kill the matriarch of this Slith pack so that the water will become drinkable again. You can access the cave via the cellar underneath the shack, near the riftgate, in Devil's Crossing.
         譯文 : >-
             巴納巴斯相信蛇人佔據了抽水的洞穴。蛇人是會分泌致死毒液的邪惡生物。{^n}{^n}找到並殺死這群蛇人的女族長，水就像以前一樣能喝了。你可以從裂縫之門旁邊小屋的地窖進去這個洞穴。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Slay Viloth the Corruptor
         譯文 : >-
-            Slay Viloth the Corruptor
+            殺了腐化者維洛絲
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Return to Barnabas
         譯文 : >-
             回到巴納巴斯那裡
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Viloth, the Slith matriarch has been slain by your hand. {^n}{^n}Return to Barnabas in Devil's Crossing and inform him that the water will soon be safe to drink again.
         譯文 : >-
             蛇人的女族長維洛絲死在了你的手裡。{^n}{^n}返回巴納巴斯身邊告訴他水馬上就能喝了。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Return to Barnabas
         譯文 : >-

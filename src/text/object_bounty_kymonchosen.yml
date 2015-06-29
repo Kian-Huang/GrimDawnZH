@@ -1,729 +1,625 @@
-object_bounty_kymonchosen.txt : 
+object_bounty_kymonchosen.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Kymon's Chosen Bounties
         譯文 : >-
             凱蒙的神選戰士賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             The Chosen do not wish to entrust their tasks to someone who has allies among the Order of Death's Vigil.
         譯文 : >-
             The Chosen do not wish to entrust their tasks to someone who has allies among the Order of Death's Vigil.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Bounty fulfilled.
         譯文 : >-
             你帶回來了所需的材料，完成了一項賞金任務。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Bounty fulfilled.
         譯文 : >-
             你帶回來了所需的材料，完成了一項賞金任務。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             You return triumphantly, a Bounty fulfilled.
         譯文 : >-
             你成功地歸來，完成了一項賞金任務。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             You are already on a Bounty for the Kymon's Chosen.
         譯文 : >-
             你已經在執行一項凱蒙的神選戰士的賞金任務了。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Father Kymon calls his loyal followers to action.{^n}{^n}Will you rise up and carry out the Divine One's will?
         譯文 : >-
             Father Kymon calls his loyal followers to action.{^n}{^n}Will you rise up and carry out the Divine One's will?
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Take a look at the bounty.
         譯文 : >-
             看一眼賞金任務。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             You have fulfilled all of Father Kymon's decrees for this session.
         譯文 : >-
             You have fulfilled all of Father Kymon's decrees for this session.
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Take a look at the bounty.
         譯文 : >-
             看一眼賞金任務。
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             In a vision, Father Kymon witnessed the destruction of our world under the heel of Ch'thon and his minions. Leading the vanguard was a devourer known as Rag'Nadar, the Great Maw.{^n}{^n}This vision must not come to pass. The Devourer is to be destroyed. Enter the Ashen Wastes through a rift in the Blood Grove and dispatch the fiend.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
         譯文 : >-
             In a vision, Father Kymon witnessed the destruction of our world under the heel of Ch'thon and his minions. Leading the vanguard was a devourer known as 巨胃拉格·納達.{^n}{^n}This vision must not come to pass. The Devourer is to be destroyed. Enter 灰燼廢土 through a rift in 血森林 and dispatch the fiend.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             Chthonian Gorgers have been seen rampaging through the Blood Grove, devouring both the living and the dead before vomitting up the remains in a gruesome display of gore.{^n}{^n}They are an abomination and must be exterminated. Father Kymon wills it.{^n}{^n}Assistance in this matter will be rewarded with iron bits. Tavel with Kymon's blessing, brave Chosen.
         譯文 : >-
             Chthonian Gorgers have been seen rampaging through the 血森林, devouring both the living and the dead before vomitting up the remains in a gruesome display of gore.{^n}{^n}They are an abomination and must be exterminated. Father Kymon wills it.{^n}{^n}Assistance in this matter will be rewarded with iron bits. Tavel with Kymon's blessing, brave Chosen.
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             The Order of Death's Vigil goes too far in their pursuit of sacrilegious magic. Their Dreadlords toy with death as if it were a plaything, manipulating the dead as the Aetherials do.{^n}{^n}This will not be tolerated. The Dreadlords are to be singled out and made example of.{^n}{^n}Anyone willing to take on these fearsome foes will be justly rewarded with iron bits.
         譯文 : >-
             The Order of Death's Vigil goes too far in their pursuit of sacrilegious magic. Their Dreadlords toy with death as if it were a plaything, manipulating the dead as the Aetherials do.{^n}{^n}This will not be tolerated. The Dreadlords are to be singled out and made example of.{^n}{^n}Anyone willing to take on these fearsome foes will be justly rewarded with iron bits.
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. The Necropolis is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
         譯文 : >-
             Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. 古代墓地 is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             Reports have come in from the frontlines that a necromancer scum by the name Ravok has been desecrating our dead and using them to bolster her reinforcements.{^n}{^n}This is a despicable display of indecency in war and a complete lack of respect to the fallen. The Chosen will not stand idly by as our dead are desecrated before our eyes. This Master Ravok is to be made an example of.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
         譯文 : >-
             Reports have come in from the frontlines that a necromancer scum by the name Ravok has been desecrating our dead and using them to bolster her reinforcements.{^n}{^n}This is a despicable display of indecency in war and a complete lack of respect to the fallen. The Chosen will not stand idly by as our dead are desecrated before our eyes. This Master Ravok is to be made an example of.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     68 :
-        標註 : 
         原文 : >-
             The Cult of Ch'thon has twisted many individuals under their bloodstained banner. Their promises of a Cairn restored resonate with many, from the lowest beggar to the most esteemed of nobles.{^n}{^n}Father Kymon once knew a man named Salazar from the high court in Erulan. This same man turned out to be a traitor to humanity as he now serves the Dead God in the Burrwitch Outskirts. Father Kymon has decreed that Salazar's depravity is to end.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
         譯文 : >-
             The Cult of Ch'thon has twisted many individuals under their bloodstained banner. Their promises of a Cairn restored resonate with many, from the lowest beggar to the most esteemed of nobles.{^n}{^n}Father Kymon once knew a man named Salazar from the high court in Erulan. This same man turned out to be a traitor to humanity as he now serves the Dead God in the 伯爾維治 Outskirts. Father Kymon has decreed that Salazar's depravity is to end.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 #-------------------------------#
     69 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     71 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members at Fort Haron. His name is Holvuur Bonespeaker. The Blessed Father has demanded his death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
         譯文 : >-
             The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 哈倫堡. His name is 骸骨之語 霍威爾. The Blessed Father has demanded his death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 #-------------------------------#
     74 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     76 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members at Fort Haron. Her name is Igniaa Venomtongue. The Blessed Father has demanded her death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
         譯文 : >-
             The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 哈倫堡. Her name is 劇毒之舌 依格尼亞. The Blessed Father has demanded her death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 #-------------------------------#
     79 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     83 :
-        標註 : 
         原文 : >-
             Cleansed by fire, the Chosen march onto battlefields unknown. Such is our destiny and our charge.{^n}{^n}In the Blood Grove, through a rift torn between our world and theirs, there is a plane of existence we call the Ashen Waste. There dwells a cruel creature by the name Vom'Zul. It is a beast of fire and brimstone, a mockery of the cleansing flame of Empyrion. By Kymon's Will, it is to be destroyed.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
         譯文 : >-
             Cleansed by fire, the Chosen march onto battlefields unknown. Such is our destiny and our charge.{^n}{^n}In the 血森林, through a rift torn between our world and theirs, there is a plane of existence we call the Ashen Waste. There dwells a cruel creature by the name 沃姆·祖爾. It is a beast of fire and brimstone, a mockery of the cleansing flame of Empyrion. By Kymon's Will, it is to be destroyed.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     88 :
-        標註 : 
         原文 : >-
             The accursed Ch'thon has many loyal followers, but none as reviled as his Chosen. The Chosen of Ch'thon willingly give their bodies to the void, allowing its most powerful fiends to cross over into Cairn without the use of a riftgate.{^n}{^n}One such Chosen, by the name Thullon, has been spotted making the rounds at Cult's camps. This is an opportunity, brothers and sisters. One that we cannot miss.{^n}{^n}Thullon's elimination will be amply rewarded with materials from our stores.
         譯文 : >-
             The accursed Ch'thon has many loyal followers, but none as reviled as his Chosen. The Chosen of Ch'thon willingly give their bodies to the void, allowing its most powerful fiends to cross over into Cairn without the use of a riftgate.{^n}{^n}One such Chosen, by the name Thullon, has been spotted making the rounds at Cult's camps. This is an opportunity, brothers and sisters. One that we cannot miss.{^n}{^n}Thullon's elimination will be amply rewarded with materials from our stores.
 #-------------------------------#
     89 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     90 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     91 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     93 :
-        標註 : 
         原文 : >-
             Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Abathis, has been wandering the Necropolis. For the sake of Cairn herself, it must be slain.{^n}{^n}Abathis' elimination will be amply rewarded with materials from our stores.
         譯文 : >-
             Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Abathis, has been wandering 古代墓地. For the sake of Cairn herself, it must be slain.{^n}{^n}Abathis' elimination will be amply rewarded with materials from our stores.
 #-------------------------------#
     94 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     95 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     96 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     98 :
-        標註 : 
         原文 : >-
             Though our battle is with the Order and the Cult of Ch'thon, we must never forget that another enemy seeks to usurp this world from the dominance of man.{^n}{^n}The Aetherials warp flesh to their whims, turning beast and man alike into abominations. One such creation has been spotted in the Gruesome Harvest. This Amalgamation they are creating is an insult to the gods and must be destroyed.{^n}{^n}Anyone willing to take on this monstrosity will be justly rewarded with a substantial sum of iron bits.
         譯文 : >-
             Though our battle is with the Order and the Cult of Ch'thon, we must never forget that another enemy seeks to usurp this world from the dominance of man.{^n}{^n}The Aetherials warp flesh to their whims, turning beast and man alike into abominations. One such creation has been spotted in the Gruesome Harvest. This Amalgamation they are creating is an insult to the gods and must be destroyed.{^n}{^n}Anyone willing to take on this monstrosity will be justly rewarded with a substantial sum of iron bits.
 #-------------------------------#
     99 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     100 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     101 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     103 :
-        標註 : 
         原文 : >-
             The Bastion of Chaos is one of the largest rifts we've ever seen. Every day, it spits out countless demons into our world. But the true terrors dwell within.{^n}{^n}Obsidian Annihilators are the harbingers of our world's destruction. One such creature once felled a dozen loyal Chosen. The Bastion is where these monsters are birthed, and where they must be destroyed.{^n}{^n}Anyone daring enough to enter the Bastion will be justly rewarded with a substantial sum of iron bits. Tavel with Kymon's blessing, brave Chosen.
         譯文 : >-
             The Bastion of Chaos is one of the largest rifts we've ever seen. Every day, it spits out countless demons into our world. But the true terrors dwell within.{^n}{^n}Obsidian Annihilators are the harbingers of our world's destruction. One such creature once felled a dozen loyal Chosen. The Bastion is where these monsters are birthed, and where they must be destroyed.{^n}{^n}Anyone daring enough to enter the Bastion will be justly rewarded with a substantial sum of iron bits. Tavel with Kymon's blessing, brave Chosen.
 #-------------------------------#
     104 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     105 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     106 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     108 :
-        標註 : 
         原文 : >-
             The work of the Chosen is never finished.{^n}{^n}We have made discovery of a ruin out in the Broken Hills known as the Steps of Torment. It is a cursed place filled with undying abominations.{^n}{^n}On one of the lower levels, there dwells a priest that calls out to false gods. Father Kymon has called upon us to exterminate this sacrilege.{^n}{^n}Anyone willing to act out the Blessed One's orders shall be rewarded with materials from our stores. Travel with Kymon's blessing.
         譯文 : >-
             The work of the Chosen is never finished.{^n}{^n}We have made discovery of a ruin out in the Broken Hills known as 苦痛階梯. It is a cursed place filled with undying abominations.{^n}{^n}On one of the lower levels, there dwells a priest that calls out to false gods. Father Kymon has called upon us to exterminate this sacrilege.{^n}{^n}Anyone willing to act out the Blessed One's orders shall be rewarded with materials from our stores. Travel with Kymon's blessing.
 #-------------------------------#
     109 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     110 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     111 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     113 :
-        標註 : 
         原文 : >-
             The Cult of Ch'thon uses strange Seals in order to perform their summoning rituals.{^n}{^n}We must deny them this resource. Seals recovered from slain cultists should be brought here for incineration.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
         譯文 : >-
             The Cult of Ch'thon uses strange Seals in order to perform their summoning rituals.{^n}{^n}We must deny them this resource. Seals recovered from slain cultists should be brought here for incineration.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
 #-------------------------------#
     114 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     115 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     116 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     118 :
-        標註 : 
         原文 : >-
             The Cult's activites in Darkvale are getting out of hand. It is time to strike at the head of the snake, two heads to be precise.{^n}{^n}Two of the cult's prominent members, Bolvar the Bloodbinder and Zaria the Carver, have been spotted in the Blood Grove and near the village of Darkvale.{^n}{^n}It is Kymon's will that they be eliminated. Their deaths will be rewarded with materials from our stores. Go forth with Kymon's Blessing, brave Chosen.
         譯文 : >-
             The Cult's activites in Darkvale are getting out of hand. It is time to strike at the head of the snake, two heads to be precise.{^n}{^n}Two of the cult's prominent members, Bolvar the Bloodbinder and Zaria the Carver, have been spotted in the 血森林 and near the village of Darkvale.{^n}{^n}It is Kymon's will that they be eliminated. Their deaths will be rewarded with materials from our stores. Go forth with Kymon's Blessing, brave Chosen.
 #-------------------------------#
     119 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     120 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     121 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     123 :
-        標註 : 
         原文 : >-
             One of the Cult's most prominent leaders has revealed himself at the Necropolis.{^n}{^n}It is an opportunity, my brothers and sisters, to finally land a crippling blow to the Cult of Ch'thon. Travel to the Necropolis and end the life of Bloodlord Thalonis. By Kymon's will!{^n}{^n}Anyone willing to take on this traitor to humanity shall be rewarded with materials from our stores.
         譯文 : >-
             One of the Cult's most prominent leaders has revealed himself at 古代墓地.{^n}{^n}It is an opportunity, my brothers and sisters, to finally land a crippling blow to the Cult of Ch'thon. Travel to 古代墓地 and end the life of 血領主 泰隆尼斯. By Kymon's will!{^n}{^n}Anyone willing to take on this traitor to humanity shall be rewarded with materials from our stores.
 #-------------------------------#
     124 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     125 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     126 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     128 :
-        標註 : 
         原文 : >-
             The Order of Death's Vigil has filled the Tomb of Archon Barthollem, beneath Fort Ikon with their wicked ways. They are led by a malignant being known as Malkadarr.{^n}{^n}Father Kymon wishes the place cleansed of the filth, starting with their leader.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive the encounter.
         譯文 : >-
             The Order of Death's Vigil has filled the Tomb of Archon Barthollem, beneath Fort Ikon with their wicked ways. They are led by a malignant being known as Malkadarr.{^n}{^n}Father Kymon wishes the place cleansed of the filth, starting with their leader.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive the encounter.
 #-------------------------------#
     129 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     130 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     131 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     133 :
-        標註 : 
         原文 : >-
             The region is overrun with chthonic spawn, thanks largely to the efforts of traitors such as Ludia Bloodwhisper.{^n}{^n}Ludia has been performing vile blood rituals in Darkvale, sacrificing her fellow men to the Void. She must be killed.{^n}{^n}Anyone willing to take on this heathen will be justly rewarded with iron bits.
         譯文 : >-
             The region is overrun with chthonic spawn, thanks largely to the efforts of traitors such as 鮮血私語者 盧蒂雅.{^n}{^n}Ludia has been performing vile blood rituals in Darkvale, sacrificing her fellow men to the Void. She must be killed.{^n}{^n}Anyone willing to take on this heathen will be justly rewarded with iron bits.
 #-------------------------------#
     134 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     135 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     136 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     138 :
-        標註 : 
         原文 : >-
             Dark times are ahead. The world is in ruins and it is up to us to restore the broken pieces.{^n}{^n}But there is also potential for life to begin anew from the ruins of old. Father Kymon wishes to tap into this potential.{^n}{^n}Speak to a smith who knows the ancient ways. Have them create a Ruination Relic for us.{^n}{^n}Father Kymon has gathered the Blood of Ch'thon as compensation; for research or destruction, as you see fit.
         譯文 : >-
             Dark times are ahead. The world is in ruins and it is up to us to restore the broken pieces.{^n}{^n}But there is also potential for life to begin anew from the ruins of old. Father Kymon wishes to tap into this potential.{^n}{^n}Speak to a smith who knows the ancient ways. Have them create a Ruination Relic for us.{^n}{^n}Father Kymon has gathered the 冥神之血 as compensation; for research or destruction, as you see fit.
 #-------------------------------#
     139 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     140 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     141 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     143 :
-        標註 : 
         原文 : >-
             Father Kymon calls his loyal followers to action.{^n}{^n}Will you rise up and carry out the Divine One's will?
         譯文 : >-
             Father Kymon calls his loyal followers to action.{^n}{^n}Will you rise up and carry out the Divine One's will?
 #-------------------------------#
     145 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     146 :
-        標註 : 
         原文 : >-
             Father Kymon does not yet trust you to carry out his will.{^n}{^n}A Respected reputation is required to access the Bounty Table.
         譯文 : >-
             Father Kymon does not yet trust you to carry out his will.{^n}{^n}A Respected reputation is required to access the Bounty Table.
 #-------------------------------#
     147 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-

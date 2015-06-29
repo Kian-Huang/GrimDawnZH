@@ -1,92 +1,79 @@
-npc_homestead_flavor_chef.txt : 
+npc_homestead_flavor_chef.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Chef Brackham
         譯文 : >-
             廚師長布萊克漢姆
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             With the Dermapteran threat dealt with, Captain Somer has requisitioned some supplies to get a kitchen up and running.{^n}{^n}Now that we have food coming in from the fields you've reclaimed, we can finally start living off of more than scraps.
         譯文 : >-
             處理完了那些革翅目昆蟲，索梅爾隊長征用了一些物資才讓這間廚房正常運轉。{^n}{^n}現在我們能從你奪回的土地上出產糧食了，我們終於能擺脫天天吃殘羹剩飯的命運了。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             I could use a meal.
         譯文 : >-
             我想吃點東西。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Of course. Enjoy.
         譯文 : >-
             當然可以，盡情享用。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             I'm sorry, but I can't offer any more.{^n}{^n}The Black Legion has us on strict rations.
         譯文 : >-
             抱歉，我不能再給你吃的了。{^n}{^n}黑色軍團實行嚴格食物配給制度。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Alright.
         譯文 : >-
             好吧。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             What about food for the people of Devil's Crossing?
         譯文 : >-
             惡魔十字的人的食物如何解決？
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You'll have to take that up with Douglass.
         譯文 : >-
             你得和道格拉斯商量這件事。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             很好。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Sorry, still getting the kitchen ready for business.{^n}{^n}Please come back later.
         譯文 : >-
             抱歉，我還在準備這間廚房。{^n}{^n}請過會兒再來。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-

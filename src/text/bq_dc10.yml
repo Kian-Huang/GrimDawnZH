@@ -1,57 +1,49 @@
-bq_dc10.txt : 
+bq_dc10.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Igor
         譯文 : >-
             賞金：伊戈爾
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Igor "The Brawler" was a brutal man with more muscle than brains back before the Grim Dawn.{^n}{^n}Now rumor is that he's accepted Cronley's Aether crystals to become even stronger. If such a beast of a man ever decides to attack Devil's Crossing, he could cause some serious harm.{^n}{^n}Anyone that tracks down the Brawler and puts him down will be justly rewarded with some of our scavenged materials.
         譯文 : >-
             "格鬥士" 伊戈爾在恐怖黎明之前曾是個力大無腦的凶暴之人。{^n}{^n}現在流言說他接受了克隆利的虛化水晶之後變得更加的強壯了。如果這樣一個野獸般的傢伙決定進攻惡魔十字的話，他會造成很嚴重的傷害。{^n}{^n}任何追蹤到格鬥士並且殺死他的人都會得到一些材料作為獎賞。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Igor "The Brawler"
         譯文 : >-
-            殺了"格鬥士" 伊戈爾 
+            殺了"格鬥士" 伊戈爾
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了惡魔十字的任務，應該回到賞金桌領取獎賞。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Devil's Crossing Bounty Table
         譯文 : >-

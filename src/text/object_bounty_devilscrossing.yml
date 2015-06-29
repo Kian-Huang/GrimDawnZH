@@ -1,757 +1,649 @@
-object_bounty_devilscrossing.txt : 
+object_bounty_devilscrossing.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Devil's Crossing Bounties
         譯文 : >-
             惡魔十字賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Bounty fulfilled.
         譯文 : >-
             你帶回來了所需的材料，完成了一項賞金任務。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Bounty fulfilled.
         譯文 : >-
             你帶回來了所需的材料，完成了一項賞金任務。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Bounty fulfilled.
         譯文 : >-
             你帶回來了所需的材料，完成了一項賞金任務。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Bounty fulfilled.
         譯文 : >-
             你帶回來了所需的材料，完成了一項賞金任務。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             You return triumphantly, a Bounty fulfilled.
         譯文 : >-
             你成功地歸來，完成了一項賞金任務。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             You are already on a Bounty for Devil's Crossing.
         譯文 : >-
             你已經在執行一項惡魔十字的賞金任務了。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             Your assistance is invaluable to Devil's Crossing.{^n}{^n}But there is always more that can be done to assist the survivors.
         譯文 : >-
             Your assistance is invaluable to 惡魔十字.{^n}{^n}But there is always more that can be done to assist the survivors.
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Take a look at the bounty.
         譯文 : >-
             看一眼賞金任務。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             You have fulfilled all of the posted Bounties for this session.
         譯文 : >-
             你已經完成了本次遊戲中惡魔十字能交給你所有的賞金任務。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Take a look at the bounty.
         譯文 : >-
             看一眼賞金任務。
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             Reanimators are the harbingers of the Aetherial invasion. They supply the enemy with reinforcements and spread corruption with every step.{^n}{^n}If you thin their numbers, then that should give the guards of Devil's Crossing a much needed reprieve.{^n}{^n}You will be suitably rewarded with iron bits.
         譯文 : >-
             復生者 are the harbingers of the Aetherial invasion. They supply the enemy with reinforcements and spread corruption with every step.{^n}{^n}If you thin their numbers, then that should give the guards of 惡魔十字 a much needed reprieve.{^n}{^n}You will be suitably rewarded with iron bits.
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             Nicholas Balthazar was once on death row here at Devil's Crossing for countless brutal murders.{^n}{^n}As with the other inmates, Nicholas is now free and hiding somewhere in the Arkovian Foothills, perhaps in the mines?{^n}{^n}It is time to finish his prison sentence, for good. Compensation will be offered in the form of iron bits.
         譯文 : >-
             尼古拉斯·巴爾薩澤 was once on death row here at 惡魔十字 for countless brutal murders.{^n}{^n}As with the other inmates, Nicholas is now free and hiding somewhere in 安克維亞山麓, perhaps in the mines?{^n}{^n}It is time to finish his prison sentence, for good. Compensation will be offered in the form of iron bits.
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             Darius Cronley has performed atrocious experiments upon his lackeys with the use of Aether crystals.{^n}{^n}These men now exhibit superhuman strength and speed, but at a terrible price.{^n}{^n}We cannot risk them ever setting foot in Devil's Crossing. Eliminate them.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
         譯文 : >-
             Darius Cronley has performed atrocious experiments upon his lackeys with the use of 虛化水晶.{^n}{^n}These men now exhibit superhuman strength and speed, but at a terrible price.{^n}{^n}We cannot risk them ever setting foot in 惡魔十字. Eliminate them.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     62 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             Darius Cronley's closest lieutenants are some of the most vicious and deadly men that escaped the prison after the Grim Dawn.{^n}{^n}For now they seem content to remain in the Four Hills in Old Arkovia, but should they ever lead an attack on Devil's Crossing, the casualties would be severe.{^n}{^n}This threat must be dealt with directly. A stash of iron bits awaits anyone that claims their lives.
         譯文 : >-
             Darius Cronley's closest lieutenants are some of the most vicious and deadly men that escaped the prison after 恐怖黎明.{^n}{^n}For now they seem content to remain in the Four Hills in 古安克維亞, but should they ever lead an attack on 惡魔十字, the casualties would be severe.{^n}{^n}This threat must be dealt with directly. A stash of iron bits awaits anyone that claims their lives.
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     69 :
-        標註 : 
         原文 : >-
             Halion "The Rat" and his oversized pet are a menace and a threat to Devil's Crossing. He used to run a powerful gang that operated outside Burrwitch and rumor is that he is once again gathering followers.{^n}{^n}His operation must be stopped.{^n}{^n}Halion was last sighted in Hanneffy Mine, below the Four Hills in Old Arkovia. Compensation will be offered in the form of iron bits.
         譯文 : >-
             Halion "The Rat" and his oversized pet are a menace and a threat to 惡魔十字. He used to run a powerful gang that operated outside 伯爾維治 and rumor is that he is once again gathering followers.{^n}{^n}His operation must be stopped.{^n}{^n}Halion was last sighted in Hanneffy Mine, below the Four Hills in 古安克維亞. Compensation will be offered in the form of iron bits.
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     71 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     72 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     74 :
-        標註 : 
         原文 : >-
             Cronley's recruited all manner of cruel and despicable men to his cause, not the least of which is a bastard known as "The Bruiser" Romanov.{^n}{^n}Romanov takes savage pleasure in smashing in people's skulls whenever they displease him. Cronley seems to encourage the behavior. To make matters worse, Romanov now appears to be a part of Cronley's inner circle, tainted with Aether crystals that grant him inhuman strength.He is rarely seen away from his boss in the mines below the Four Hills in Old Arkovia. Devil's Crossing has prepared a hefty sum of iron bits to see Romanov put to justice.
         譯文 : >-
             Cronley's recruited all manner of cruel and despicable men to his cause, not the least of which is a bastard known as 壓碎者 羅曼諾夫.{^n}{^n}Romanov takes savage pleasure in smashing in people's skulls whenever they displease him. Cronley seems to encourage the behavior. To make matters worse, Romanov now appears to be a part of Cronley's inner circle, tainted with 虛化水晶 that grant him inhuman strength.He is rarely seen away from his boss in the mines below the Four Hills in 古安克維亞. 惡魔十字 has prepared a hefty sum of iron bits to see Romanov put to justice.
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     76 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     77 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     79 :
-        標註 : 
         原文 : >-
             For the first time since evading capture back before the Grim Dawn, Bolla "The Raven" has been spotted out in the Arkovian Foothills. Last known location: Staunton Mines.{^n}{^n}Many in Burrwitch have suffered from her cruel use of the occult. It would put many minds at ease if she were eliminated.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
         譯文 : >-
             For the first time since evading capture back before 恐怖黎明, 烏鴉 波拉 has been spotted out in 安克維亞山麓. Last known location: Staunton Mines.{^n}{^n}Many in 伯爾維治 have suffered from her cruel use of the occult. It would put many minds at ease if she were eliminated.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     82 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             The slith are notorious for poisoning water supplies with the venomous excretions of their matriarchs.{^n}{^n}One such matriarch, Slathra the Plagued, has been spotted coming in and out of a cavern in the Foggy Bank.{^n}{^n}It is imperative that she is slain before she has a chance to befoul what little fresh water we have left.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
         譯文 : >-
             The slith are notorious for poisoning water supplies with the venomous excretions of their matriarchs.{^n}{^n}One such matriarch, Slathra the Plagued, has been spotted coming in and out of a cavern in the Foggy Bank.{^n}{^n}It is imperative that she is slain before she has a chance to befoul what little fresh water we have left.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     87 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     89 :
-        標註 : 
         原文 : >-
             Ballior was once a joyful older man who managed a bakery in Burrwitch. Sadly, he fell when the Aetherials attacked.{^n}{^n}I dread to think of what the Aetherials had done to his remains when they dragged him into a cellar. It would ease my heart to know that he is at peace.{^n}{^n}I do not have much to offer, but I've set aside some materials for anyone that puts Ballior to rest.
         譯文 : >-
             Ballior was once a joyful older man who managed a bakery in 伯爾維治. Sadly, he fell when the Aetherials attacked.{^n}{^n}I dread to think of what the Aetherials had done to his remains when they dragged him into a cellar. It would ease my heart to know that he is at peace.{^n}{^n}I do not have much to offer, but I've set aside some materials for anyone that puts Ballior to rest.
 #-------------------------------#
     90 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     91 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     92 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     94 :
-        標註 : 
         原文 : >-
             Igor "The Brawler" was a brutal man with more muscle than brains back before the Grim Dawn.{^n}{^n}Now rumor is that he's accepted Cronley's Aether crystals to become even stronger. If such a beast of a man ever decides to attack Devil's Crossing, he could cause some serious harm.{^n}{^n}Anyone that tracks down the Brawler and puts him down will be justly rewarded with some of our scavenged materials.
         譯文 : >-
             "格鬥士" 伊戈爾  was a brutal man with more muscle than brains back before 恐怖黎明.{^n}{^n}Now rumor is that he's accepted Cronley's 虛化水晶 to become even stronger. If such a beast of a man ever decides to attack 惡魔十字, he could cause some serious harm.{^n}{^n}Anyone that tracks down the Brawler and puts him down will be justly rewarded with some of our scavenged materials.
 #-------------------------------#
     95 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     96 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     97 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     99 :
-        標註 : 
         原文 : >-
             It was no secret that Caspis was a blood-drinker and devout of Ch'thon. What is unfortunate is that he survived the Grim Dawn.{^n}{^n}Reports have come in of Caspis capturing travelers out in the Burrwitch Outskirts. It's unlikely that he's working alone, so there has to be a gathering of cultists somewhere in the area.{^n}{^n}Anyone that tracks down Caspis to his hideout and puts him down will be justly rewarded with some of our scavenged materials.
         譯文 : >-
             It was no secret that Caspis was a blood-drinker and devout of Ch'thon. What is unfortunate is that he survived 恐怖黎明.{^n}{^n}Reports have come in of Caspis capturing travelers out in the 伯爾維治 Outskirts. It's unlikely that he's working alone, so there has to be a gathering of cultists somewhere in the area.{^n}{^n}Anyone that tracks down Caspis to his hideout and puts him down will be justly rewarded with some of our scavenged materials.
 #-------------------------------#
     100 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     101 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     102 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     104 :
-        標註 : 
         原文 : >-
             Barnabas has requisitioned more Scrap for repairs and general maintenance.{^n}{^n}Anyone that scavenges enough materials for him will be rewarded with iron bits.
         譯文 : >-
             Barnabas has requisitioned more Scrap for repairs and general maintenance.{^n}{^n}Anyone that scavenges enough materials for him will be rewarded with iron bits.
 #-------------------------------#
     105 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     106 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     107 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     109 :
-        標註 : 
         原文 : >-
             Kasparov is up to yet another of his experiments.{^n}{^n}This time, he requires some Aether Crystals in order to study their effects on the riftgate after managing to disintegrate his existing collection.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that supplies Kasparov with what he needs.
         譯文 : >-
             Kasparov is up to yet another of his experiments.{^n}{^n}This time, he requires some 虛化水晶 in order to study their effects on the riftgate after managing to disintegrate his existing collection.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that supplies Kasparov with what he needs.
 #-------------------------------#
     110 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     111 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     112 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     114 :
-        標註 : 
         原文 : >-
             Kasparov is interested in studying some of the old pre-Grim Dawn relics.{^n}{^n}He requests that a Calamity be created for him so that he may investigate its magical properties.{^n}{^n}Anyone that manages to obtain this rare object will be rewarded with a Blood of Ch'thon.
         譯文 : >-
             Kasparov is interested in studying some of the old pre-Grim Dawn relics.{^n}{^n}He requests that a Calamity be created for him so that he may investigate its magical properties.{^n}{^n}Anyone that manages to obtain this rare object will be rewarded with a 冥神之血.
 #-------------------------------#
     115 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     116 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     117 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     119 :
-        標註 : 
         原文 : >-
             One of Cronley's closest lackeys has been spotted out in the Four Hills. He goes by the name Rostov, the Aetherflame.{^n}{^n}If someone this high up in the chain is seen about, then the gang may be preparing to mobilize. Rostov should be eliminated before he can execute whatever plan they have cooked up.{^n}{^n}Anyone that tracks him down will be justly rewarded with some of our scavenged materials.
         譯文 : >-
             One of Cronley's closest lackeys has been spotted out in the Four Hills. He goes by the name 虛化之火 羅斯托夫.{^n}{^n}If someone this high up in the chain is seen about, then the gang may be preparing to mobilize. Rostov should be eliminated before he can execute whatever plan they have cooked up.{^n}{^n}Anyone that tracks him down will be justly rewarded with some of our scavenged materials.
 #-------------------------------#
     120 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     121 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     122 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     124 :
-        標註 : 
         原文 : >-
             Kasparov believes that he may have a solution for the Aetherial's ability to resurrect our dead. I'm not hopeful, but we have to take any chance we can get.{^n}{^n}Unfortuantely, his experiment requires some Tainted Brain Matter.{^n}{^n}Anyone that manages to obtain this rare object for him will be compensated with some of our scavenged materials.
         譯文 : >-
             Kasparov believes that he may have a solution for the Aetherial's ability to resurrect our dead. I'm not hopeful, but we have to take any chance we can get.{^n}{^n}Unfortuantely, his experiment requires some 感染大腦 Matter.{^n}{^n}Anyone that manages to obtain this rare object for him will be compensated with some of our scavenged materials.
 #-------------------------------#
     125 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     126 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     127 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     129 :
-        標註 : 
         原文 : >-
             A powerful reanimator has been spotted coming in and out of the Warden's Cellar, possibly the last of Krieg's cruel experiments.{^n}{^n}Things are bad enough out there with the regular reanimators roaming about, this Nalloth the Frostbound must be slain.{^n}{^n}Anyone that takes it out will be justly rewarded with some of our scavenged materials.
         譯文 : >-
             A powerful reanimator has been spotted coming in and out of the Warden's Cellar, possibly the last of Krieg's cruel experiments.{^n}{^n}Things are bad enough out there with the regular 復生者 roaming about, this Nalloth the Frostbound must be slain.{^n}{^n}Anyone that takes it out will be justly rewarded with some of our scavenged materials.
 #-------------------------------#
     130 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     131 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     132 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     134 :
-        標註 : 
         原文 : >-
             The outlaws inhabiting the Four Hills in Old Arkovia have a favorite past-time: throwing unarmed prisoners into their pit to face off against Boris.{^n}{^n}Boris is a butcher who revels in the bloodshed. It's sickening.{^n}{^n}Whenever he's about the Four Hills, he can be found in the pit near the coast. Putting him down within his own arena would be a poetic end to the maniac.{^n}{^n}To see this through, Devil's Crossing has prepared a hefty sum of iron bits as compensation for the death of Boris.
         譯文 : >-
             The outlaws inhabiting the Four Hills in 古安克維亞 have a favorite past-time: throwing unarmed prisoners into their pit to face off against Boris.{^n}{^n}Boris is a butcher who revels in the bloodshed. It's sickening.{^n}{^n}Whenever he's about the Four Hills, he can be found in the pit near the coast. Putting him down within his own arena would be a poetic end to the maniac.{^n}{^n}To see this through, 惡魔十字 has prepared a hefty sum of iron bits as compensation for the death of Boris.
 #-------------------------------#
     135 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     136 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     137 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     139 :
-        標註 : 
         原文 : >-
             The Cult of Ch'thon has many leaders, but we have finally discovered the identity of the one in charge of activities around Devil's Crossing.{^n}{^n}He goes by the name Salazar, Blade of Ch'thon and he is rumored to be hiding out somewhere near the Burrwitch Outskirts.{^n}{^n}Anyone that tracks down and eliminates Salazar will be justly rewarded with some of our rare scavenged materials.
         譯文 : >-
             The Cult of Ch'thon has many leaders, but we have finally discovered the identity of the one in charge of activities around 惡魔十字.{^n}{^n}He goes by the name Salazar, Blade of Ch'thon and he is rumored to be hiding out somewhere near the 伯爾維治 Outskirts.{^n}{^n}Anyone that tracks down and eliminates Salazar will be justly rewarded with some of our rare scavenged materials.
 #-------------------------------#
     140 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     141 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     142 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     144 :
-        標註 : 
         原文 : >-
             Gethrand and Zanbrandt were two scientists that disappeared around the time of the Grim Dawn. Nobody knew what happened to them...until now.{^n}{^n}Their horribly disfigured forms have been spotted roaming the Warden's grounds, raising the dead to serve the Aetherials.{^n}{^n}They are a threat to Devil's Crossing. Search the Warden's Lab and Quarters and eliminate the reanimators. You will be suitably rewarded with iron bits.
         譯文 : >-
             蓋思蘭 and 贊布蘭特 were two scientists that disappeared around the time of 恐怖黎明. Nobody knew what happened to them...until now.{^n}{^n}Their horribly disfigured forms have been spotted roaming the Warden's grounds, raising the dead to serve the Aetherials.{^n}{^n}They are a threat to 惡魔十字. Search the Warden's Lab and Quarters and eliminate the 復生者. You will be suitably rewarded with iron bits.
 #-------------------------------#
     145 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     146 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     147 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     149 :
-        標註 : 
         原文 : >-
             Your assistance is invaluable to Devil's Crossing.{^n}{^n}But there is always more that can be done to assist the survivors.
         譯文 : >-
             Your assistance is invaluable to 惡魔十字.{^n}{^n}But there is always more that can be done to assist the survivors.
 #-------------------------------#
     151 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     152 :
-        標註 : 
         原文 : >-
             The people of Devil's Crossing do not yet trust you with their innermost needs.{^n}{^n}A Respected reputation is required to access the Bounty Table.
         譯文 : >-
             The people of 惡魔十字 do not yet trust you with their innermost needs.{^n}{^n}A Respected reputation is required to access the Bounty Table.
 #-------------------------------#
     153 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-

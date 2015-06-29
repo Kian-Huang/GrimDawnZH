@@ -1,85 +1,73 @@
-npc_juliuscole.txt : 
+npc_juliuscole.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Julius Cole
         譯文 : >-
             朱利葉斯·科爾
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             What's it to ya? Move along!
         譯文 : >-
             關你什麼事？走開！
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Very well...
         譯文 : >-
             好吧...
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You still wandering about? Get moving before I change my mind.
         譯文 : >-
             你還在在這兒徘徊什麼？在我改變主意前快走開。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Fine.
         譯文 : >-
             好。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Hold on there, traveler. You wouldn't want this pretty lady's brains to spill all over the ground, would ya? Let's see some iron.
         譯文 : >-
             等等，旅行者。你不希望這位美麗的女士的腦子流的滿地都是吧？掏出點鐵幣給我。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Let's not do anything rash. (Give 300 Iron Bits)
         譯文 : >-
             不要做魯莽的事情。（支付300鐵幣）
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Thank you kindly. You go on your merry way now.
         譯文 : >-
             衷心感謝你。你現在可以繼續踏上快樂的旅途了。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Get out of my sight.
         譯文 : >-
             滾出我的視線。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             I don't think so! (Attack)
         譯文 : >-
             我不這麼認為！（攻擊）
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             As if I care about some random person on the road. Die! (Attack)
         譯文 : >-
             我才不在乎什麼路人的死活。去死吧！（攻擊）
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I'm turning around. No need to make a mess.
         譯文 : >-

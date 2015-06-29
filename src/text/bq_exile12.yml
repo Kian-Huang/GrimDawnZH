@@ -1,57 +1,49 @@
-bq_exile12.txt : 
+bq_exile12.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Nucus'Dal
         譯文 : >-
             賞金：紐科斯·達爾
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I have sensed the presence of an old nemesis, a harbinger known as Nucus'Dal. I thought him destroyed, but I was wrong.{^n}{^n}The harbinger hides within the Necropolis, awaiting the return of its godlike master. You will cut its waiting short.{^n}{^n}Eliminate Nucus'Dal for me and I shall reward you with something from my collection.
         譯文 : >-
             I have sensed the presence of an old nemesis, a harbinger known as 紐科斯·達爾. I thought him destroyed, but I was wrong.{^n}{^n}The harbinger hides within 古代墓地, awaiting the return of its godlike master. You will cut its waiting short.{^n}{^n}Eliminate 紐科斯·達爾 for me and I shall reward you with something from my collection.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Nucus'Dal
         譯文 : >-
             殺了紐科斯·達爾
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Outcast and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Outcast and should return to the Bounty Table for your reward.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Outcast's Bounty Table
         譯文 : >-

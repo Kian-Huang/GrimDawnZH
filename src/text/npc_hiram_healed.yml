@@ -1,92 +1,79 @@
-npc_hiram_healed.txt : 
+npc_hiram_healed.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Hiram
         譯文 : >-
             海勒姆
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Thank you. You've done us all a great service.
         譯文 : >-
             謝謝你。你幫了我們大忙。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Glad I could help.
         譯文 : >-
             很高興能幫上忙。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Your allies have done well against Gulgoth.
         譯文 : >-
             你的盟友幹掉了苟格思。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             That they did.
         譯文 : >-
             的確如此。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Does the beast still live?
         譯文 : >-
             那頭野獸還活著嗎？
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Where should I be looking?
         譯文 : >-
             我該去哪兒找它？
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Gulgoth, the Rampaging was last seen beyond the barricade down the road.
         譯文 : >-
             最後一次看見狂暴的苟格思是在路障後面。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             I will slay it.
         譯文 : >-
             我會殺了它的。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Yes, I'm still searching.
         譯文 : >-
             是的，我還在尋找。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Thank you for your medical aid. I feel like new and ready to get out there again. But I dread the thought of facing the rogue troll that's been rampaging around these parts. It nearly killed me the first time. I don't want to give it another chance.{^n}{^n}Please, find and slay the beast. It's a danger to our camp and to all travelers. Look for it beyond the barricade, down the road.
         譯文 : >-
             謝謝你醫治我。我感覺煥然一新，又能離開營地出去了。不過我想到面對那個在附近暴走的狂暴的巨魔就感到恐懼。第一次遇到時，它差點殺了我。我可不想再給它第二次機會。{^n}{^n}請找到然後殺了那頭野獸吧。它對我們的營地和所有的旅行者都很危險。沿著路去路障後面尋找吧。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I will end the beast's life.
         譯文 : >-
             我會幹掉這頭野獸的。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             I'm sorry, I can't help you.
         譯文 : >-

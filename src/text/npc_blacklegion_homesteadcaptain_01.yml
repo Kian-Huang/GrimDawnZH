@@ -1,1149 +1,985 @@
-npc_blacklegion_homesteadcaptain_01.txt : 
+npc_blacklegion_homesteadcaptain_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Captain Somer
         譯文 : >-
             索梅爾隊長
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Don't worry about Homestead. I have things here under control.{^n}{^n}Focus on the Necropolis.
         譯文 : >-
             不用擔心霍姆斯特德的安危。一切都盡在掌控。{^n}{^n}專心前往古代墓地。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Take care.
         譯文 : >-
             保重。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Don't just stand there. I'm sure there's something you could be doing.
         譯文 : >-
             別傻站在這兒。我知道你一定可以乾點什麼。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             What is it?
         譯文 : >-
             有什麼事？
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             I have some questions.
         譯文 : >-
             我有一些問題。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Well, go on then.
         譯文 : >-
             好，問吧。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             So why do you hate Ulgrim so much?
         譯文 : >-
             你為什麼這麼討厭艾格瑞姆？
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Hah! That's a bit blunt, but true. The First Blade, or rather, Ulgrim as he calls himself now, has a bit of a history with the Black Legion.{^n}{^n}Most famously, I suppose, was the time he executed a Black Legion captain for taking no prisoners during a civilian uprising. We had no direct orders to capture the rebels but the... more efficient route our captain chose seemed to strike a chord with Ulgrim. I find it rather ironic though given his line of work.The emperor was displeased with the First Blade's actions, but no formal punishment was ever deemed necessary, which did not sit well with my superiors.
         譯文 : >-
             哈！你這話說得有點不客氣了，不過很對。帝國第一刃，或者更準確的說，這個艾格瑞姆現在自封的名號，跟黑色軍團是有些淵源的。{^n}{^n}我覺得，最有名的莫過於他擅自處決了一名黑色軍團的隊長，原因是在一次平民起義期間，這名隊長沒有抓捕起義軍並將他們投進監牢裡。因為我們並沒有接到直接的命令要把反抗軍都給抓起來，所以……我們的隊長相信艾格瑞姆還擁有些惻隱之心。不過對於艾格瑞姆這號人來說，我覺得這種想法實在是一種諷刺。皇帝雖然對第一刃的行為感到有些不滿，但是卻沒有人認為需要給他任何正式的處罰，這讓我的長官們感到難以接受。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有一個問題。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             What is the First Blade of the Emperor?
         譯文 : >-
             帝國的第一刃是什麼？
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             The First Blade was the emperor's most trusted spy and assassin; a master of the darker side of politics.{^n}{^n}All knew he existed but at the same time none would dare suggest that the emperor would resort to such methods.
         譯文 : >-
             第一刃是皇帝最信任的間諜和刺客，是政治黑暗面領域內的大師。{^n}{^n}人人都知道他的存在，但是沒有人膽敢認為皇帝會訴諸於這種手段。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Can you tell me more about the Black Legion?
         譯文 : >-
             你能告訴我更多關於黑色軍團的事嗎？
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             What would you like to know about us?
         譯文 : >-
             你想知道些什麼？
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Tell me about the Legion's history.
         譯文 : >-
             請給我講一講軍團的歷史。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             The Black Legion, like its history, is a dark and conflicted thing. During the Time of Troubles, when the empire was pressed by war on three fronts, refugees overwhelmed the capital and political dissent among the noble houses threatened to tear the government apart, thousands were imprisoned for political reasons, petty crime or just vagrancy. The prisons were overflowing and the military was crumbling for lack of recruits. I'm not sure anyone can remember who but someone, probably some bureaucrat, came up with the novel solution of sending the prisoners to fight on the front lines and supposedly win absolution.{^n}{^n}Most were unfit for battle and simply served as cannon fodder, shielding the regular units' advance, but some survived and did, indeed, win their freedom. Many more deserted though and eventually wound up back in prison. The empire corrected these imperfections though with the aid of the Luminari, who devised a process to essentially imprison the human will itself; mentally binding people into the service of the empire. They created a name, insignia and ritual to reinforce this desire to serve and thus was born the Black Legion.The detachment from personal life, unwavering sense of duty and unparalleled experience in the front lines of the harshest battles killed off the unfit and forged whoever remained into one of the most elite fighting regiments in the known world. The title "Death's Bannermen" was not handed out lightly. In time, because of our guaranteed loyalty and proven effectiveness in combat, we became the favored legion of the emperor himself; often at odds with the Erulan military high command and feared by the noble houses.{^n}{^n}You may be wondering now whether I've gone through the mental conditioning I spoke of and the answer is yes. I'm conscious of it all, I know I've been conditioned to be a loyal soldier but that knowledge doesn't change the feeling and I'm not sure it even matters. We are now what we are and, in all honesty, I can't say it is for the worse. {^n}{^n}I was a spoiled and deluded girl once. Heiress to one of the great houses of Erulan. I ended up in the legion due to my own and my family's betrayal of the empire and since then, my eyes have been opened to the larger world and I have found a true purpose. At one point, many years ago, my uncle abducted me from the legion, attempting to liberate me. In the end, I escaped and returned to duty. Despite the horrors I've seen, the spartan life and endless toil; the legion is like a drug that, once tasted, can't be quit.
         譯文 : >-
             黑色軍團本身，如同它的歷史一樣，黑暗又紛繁複雜。During the Time of Troubles, when the empire was pressed by war on three fronts, refugees overwhelmed the capital and political dissent among the noble houses threatened to tear the government apart, thousands were imprisoned for political reasons, petty crime or just vagrancy. The prisons were overflowing and the military was crumbling for lack of recruits. I'm not sure anyone can remember who but someone, probably some bureaucrat, came up with the novel solution of sending the prisoners to fight on the front lines and supposedly win absolution.{^n}{^n}Most were unfit for battle and simply served as cannon fodder, shielding the regular units' advance, but some survived and did, indeed, win their freedom. Many more deserted though and eventually wound up back in prison. The empire corrected these imperfections though with the aid of the Luminari, who devised a process to essentially imprison the human will itself; mentally binding people into the service of the empire. They created a name, insignia and ritual to reinforce this desire to serve and thus was born the Black Legion.The detachment from personal life, unwavering sense of duty and unparalleled experience in the front lines of the harshest battles killed off the unfit and forged whoever remained into one of the most elite fighting regiments in the known world. The title "Death's Bannermen" was not handed out lightly. In time, because of our guaranteed loyalty and proven effectiveness in combat, we became the favored legion of the emperor himself; often at odds with the Erulan military high command and feared by the noble houses.{^n}{^n}You may be wondering now whether I've gone through the mental conditioning I spoke of and the answer is yes. I'm conscious of it all, I know I've been conditioned to be a loyal soldier but that knowledge doesn't change the feeling and I'm not sure it even matters. We are now what we are and, in all honesty, I can't say it is for the worse. {^n}{^n}I was a spoiled and deluded girl once. Heiress to one of the great houses of Erulan. I ended up in the legion due to my own and my family's betrayal of the empire and since then, my eyes have been opened to the larger world and I have found a true purpose. At one point, many years ago, my uncle abducted me from the legion, attempting to liberate me. In the end, I escaped and returned to duty. Despite the horrors I've seen, the spartan life and endless toil; the legion is like a drug that, once tasted, can't be quit.
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             I'd like to ask about something else.
         譯文 : >-
             我想問一些其他的事情。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             That isn't something you usually hear about the Legion.
         譯文 : >-
             這些和我平常聽到的關於軍團的故事差別很大。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Well, most people can't stomach the truth.{^n}{^n}It is what it is. It's a harsh world and the empire had many enemies, both mortal and supernatural. The emperor and his predecessors did what needed to be done to survive and Erulan flourished until the Grim Dawn. Now we struggle on in a world worse for its passing and can only hope to some day recapture that glory.
         譯文 : >-
             嗯，大多數人都無法接受事情背後的真相。{^n}{^n}這是一個殘酷的世界，帝國面對著眾多的敵人，既有人類也有超自然力量。皇帝和他的繼任者們只是為了生存做了應該做的事，所以在恐怖黎明到來之前伊露蘭帝國才能保持繁榮昌盛。現在我們在一個更糟糕的世界掙扎度日，只能期望將來有一天能恢復帝國昔日的榮光。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             I'd like to ask about something else.
         譯文 : >-
             我想問一些其他的事情。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             I'll keep it to myself.
         譯文 : >-
             我會保守祕密的。
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             That's quite a history.
         譯文 : >-
             That's quite a history.
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Tell me about what happened in the capital.
         譯文 : >-
             告訴我首都當時發生了什麼。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             What I remember most is the screams. Innocents being slaughtered by the thousands. Rifts opening up all over the place and spilling out fiends unlike any mankind had ever seen.{^n}{^n}It wasn't a battle. It was a massacre. Most of the imperial forces still stationed within the capital did not survive the initial attack. Many more fell while trying to flee from the doomed city.{^n}{^n}The Black Legion's Commander Tarkis stayed behind to rally a defense while we made our retreat. It was a noble sacrifice and one I will never forget.
         譯文 : >-
             我印象最深的就是那些人的慘叫。數以千計的無辜的人被殺死了。遍佈四處的裂隙中湧出人類從未見過的惡魔。{^n}{^n}那根本不是一場戰鬥，而是一場單方面的屠殺。帝國絕大多數的武裝力量都駐紮在首都，因此都沒能在最初的攻勢中倖存下來。更多的人在試圖逃離那個末日般的城市的過程中死掉了。{^n}{^n}黑色軍團的指揮官塔基斯組織起了抵抗力量為我們殿後，我們才得以成功撤退。那是一次偉大的犧牲，我永遠都不會忘了他。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             I'd like to ask about something else.
         譯文 : >-
             我想問一些其他的事情。
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             Sounds horrible.
         譯文 : >-
             聽起來很不妙啊。
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             I'd like to ask about something else.
         譯文 : >-
             我想問一些其他的事情。
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             Actually, nevermind.
         譯文 : >-
             沒事了。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             What can you tell me about Creed?
         譯文 : >-
             關於克里德，你能告訴我些什麼？
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             Inquisitor Creed worked for the Luminari, investigating and dealing with supernatural threats to the empire. It was he who first discovered the Aetherial conspiracy but, alas, not in time to stop it.{^n}{^n}Creed gathered trusted allies instead and laid the foundations for whatever human resistance exists today. The Black Legion survived the Grim Dawn largely thanks to his intervention. Since then he's been helping to coordinate our resistance and providing valuable insights into the nature of our supernatural foes.
         譯文 : >-
             Inquisitor Creed worked for the Luminari, investigating and dealing with supernatural threats to the empire. It was he who first discovered the Aetherial conspiracy but, alas, not in time to stop it.{^n}{^n}Creed gathered trusted allies instead and laid the foundations for whatever human resistance exists today. The Black Legion survived 恐怖黎明 largely thanks to his intervention. Since then he's been helping to coordinate our resistance and providing valuable insights into the nature of our supernatural foes.
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             How does he know so much about the Aetherials?
         譯文 : >-
             他怎麼知道那麼多關於虛靈的事？
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             I wouldn't say he's an expert; no one is. The Aetherials were largely unknown until the Grim Dawn. That's part of the reason they succeeded so well in infiltrating and defeating the empire.{^n}{^n}However, Creed is one of the few surviving people who had experience with them before the Grim Dawn and, apparently, he was able to find some references to them in old texts stored in the vaults of the Luminari. We still learn new things about them every day though and they continue to find ways to surprise us. We're still not entirely sure where they came from...
         譯文 : >-
             沒人是虛靈專家，他也不例外。在恐怖黎明發生之前，我們對它們一無所知。這也是它們如此成功地侵入並擊敗帝國的原因之一。{^n}{^n}不過在倖存下來的人裡面，克里德是恐怖黎明之前就跟虛靈打過交道的人員之一。顯然，他是在光明會的寶庫之中找到了關於虛靈的古籍。我們每天都會學到關於它們的新東西，可是它們還是能不斷刷新我們的認知。我們仍然不知道它們到底來自何方……
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有一個問題。
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有一個問題。
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             What can you tell me about Fort Ikon?
         譯文 : >-
             What can you tell me about Fort Ikon?
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Fort Ikon has withstood generations of warfare. It was originally constructed over 300 years ago during a drawn-out conflict with another human nation, long since conquered by Erulan.{^n}{^n}The Fort is our northern bastion, a beacon of the empire's strength.
         譯文 : >-
             Fort Ikon has withstood generations of warfare. It was originally constructed over 300 years ago during a drawn-out conflict with another human nation, long since conquered by Erulan.{^n}{^n}The Fort is our northern bastion, a beacon of the empire's strength.
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Tell me about that war.
         譯文 : >-
             Tell me about that war.
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             I'm not exactly a historian, but I'll give it my best shot.{^n}{^n}The North Wars as they came to be called were waged over the disputed lands beyond the Asterkarn Mountains. The area was rich in resources and provided ample farmland, so it proved to be a point of contention between the two great nations. Neither side would relent ownership of the territory, and so it came to war.{^n}{^n}The conflict dragged on over twenty six years before we finally pushed them back. That was not the end of the bloodshed though. Years later, the northerners returned with another army, intent on retaking the region. The final exchange marked one of the bloodiest days in the Empire's history. It was also one of the first campaigns undertaken by the Black Legion. Back then, we were still unproven, only a few battles under our banner; but the Legion proved to be a force to be reckoned with. That same year we marched all the way to their capital, and crushed them. That was the end of the North Wars.
         譯文 : >-
             I'm not exactly a historian, but I'll give it my best shot.{^n}{^n}The North Wars as they came to be called were waged over the disputed lands beyond the Asterkarn Mountains. The area was rich in resources and provided ample farmland, so it proved to be a point of contention between the two great nations. Neither side would relent ownership of the territory, and so it came to war.{^n}{^n}The conflict dragged on over twenty six years before we finally pushed them back. That was not the end of the bloodshed though. Years later, the northerners returned with another army, intent on retaking the region. The final exchange marked one of the bloodiest days in the Empire's history. It was also one of the first campaigns undertaken by the Black Legion. Back then, we were still unproven, only a few battles under our banner; but the Legion proved to be a force to be reckoned with. That same year we marched all the way to their capital, and crushed them. That was the end of the North Wars.
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             Forget it.
         譯文 : >-
             Forget it.
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             Nothing. Goodbye.
         譯文 : >-
             沒事了，再見。
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             I've already informed Creed of your recent actions. He is most eager to speak with you.{^n}{^n}Show him what you've shown me. He needs to see this.
         譯文 : >-
             I've already informed Creed of your recent actions. He is most eager to speak with you.{^n}{^n}Show him what you've shown me. He needs to see this.
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             I will speak to Creed at once.
         譯文 : >-
             我這就去和克里德談談。
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             I will deal with this later.
         譯文 : >-
             我一會兒再處理這件事。
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             Who is the inquisitor?
         譯文 : >-
             審判官是誰？
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             Inquisitor Creed is one of Erulan's chief exterminators of the occult and the strange. Incidentally, he was outside the capital during the fall as he was tracking down just how deep the Aetherial corruption ran.{^n}{^n}Creed has played a critical role in the Legion's activities after the Grim Dawn, coordinating assaults and providing insight on the enemy.
         譯文 : >-
             Inquisitor Creed is one of Erulan's chief exterminators of the occult and the strange. Incidentally, he was outside the capital during the fall as he was tracking down just how deep the Aetherial corruption ran.{^n}{^n}Creed has played a critical role in the Legion's activities after 恐怖黎明, coordinating assaults and providing insight on the enemy.
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             I will speak to Creed at once.
         譯文 : >-
             我這就去和克里德談談。
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             I will speak to Creed another time.
         譯文 : >-
             I will speak to Creed another time.
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             How does he know so much about the Aetherials?
         譯文 : >-
             他怎麼知道那麼多關於虛靈的事？
 #-------------------------------#
     62 :
-        標註 : 
         原文 : >-
             He has it on good authority. Now stop it with the questions and go speak to him immediately!
         譯文 : >-
             He has it on good authority. Now stop it with the questions and go speak to him immediately!
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             I will speak to Creed.
         譯文 : >-
             I will speak to Creed.
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             I can't right now.
         譯文 : >-
             I can't right now.
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             Why do you have such a grim look on your face?{^n}{^n}What happened out there?
         譯文 : >-
             Why do you have such a grim look on your face?{^n}{^n}What happened out there?
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             Karroz lies dead, but I found some disturbing information on him.
         譯文 : >-
             Karroz lies dead, but I found some disturbing information on him.
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             Let's see it.{^n}{^n}*Captain Somer is silent as she reads through the cultist's notes*{^n}{^n}I'll be damned. If the bastards pull this off, we may as well slit our own throats. This scenario is well beyond my pay-grade, or would be if I were getting paid. You will need to bring this to Creed's attention immediately.
         譯文 : >-
             Let's see it.{^n}{^n}*Captain Somer is silent as she reads through the cultist's notes*{^n}{^n}I'll be damned. If the bastards pull this off, we may as well slit our own throats. This scenario is well beyond my pay-grade, or would be if I were getting paid. You will need to bring this to Creed's attention immediately.
 #-------------------------------#
     68 :
-        標註 : 
         原文 : >-
             The inquisitor?
         譯文 : >-
             審判官？
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             Have you tracked down the target?
         譯文 : >-
             你追蹤到目標了嗎？
 #-------------------------------#
     71 :
-        標註 : 
         原文 : >-
             Karroz lies dead.
         譯文 : >-
             我該去哪找卡若茲？
 #-------------------------------#
     72 :
-        標註 : 
         原文 : >-
             Good, we can finally reconvene with our forces to the north.{^n}{^n}Did you find anything on him that may help us uncover the reasons behind the cult's activities?
         譯文 : >-
             卡若茲已經死了。
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             Actually, there was a tome.
         譯文 : >-
             Good, we can finally reconvene with our forces to the north.{^n}{^n}Did you find anything on him that may help us uncover the reasons behind the cult's activities?
 #-------------------------------#
     74 :
-        標註 : 
         原文 : >-
             Well, bring it here then. Any bit of intel will be tremendously useful.
         譯文 : >-
             Actually, there was a tome.
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             I'll be right back.
         譯文 : >-
             Well, bring it here then. Any bit of intel will be tremendously useful.
 #-------------------------------#
     76 :
-        標註 : 
         原文 : >-
             Actually...I'll be right back.
         譯文 : >-
             I'll be right back.
 #-------------------------------#
     77 :
-        標註 : 
         原文 : >-
             Have you tracked down the target?
         譯文 : >-
             Actually...I'll be right back.
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             Where should I be looking for Karroz?
         譯文 : >-
             Have you tracked down the target?
 #-------------------------------#
     79 :
-        標註 : 
         原文 : >-
             Karroz, the Sigil of Ch'thon, is at the Darkvale Gates, to the north of Sorrow's Bastion.{^n}{^n}Do not underestimate him. You do not get that high in the ranks of the Cult of Ch'thon without making some disturbing deals with the devil.
         譯文 : >-
             We suspect that Karroz, the Sigil of Ch'thon, is at the Darkvale Gates, to the north of 悲傷城堡.{^n}{^n}Do not underestimate him. You do not get that high in the ranks of the Cult of Ch'thon without making some disturbing deals with the devil.
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             I'll be careful.
         譯文 : >-
             我會小心的。
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             還沒有。
 #-------------------------------#
     82 :
-        標註 : 
         原文 : >-
             When the Legion was forced to abandon the Capital, we made Fort Ikon our new base of operations. It's an old fortress to the far north once used to protect the trade routes leading through the Asterkarn Mountains.{^n}{^n}However, when we began marching south, we encountered immediate opposition from both the Cult and the Aetherials. Many of our men were killed, pincered between two opposing armies, and we were forced to retreat towards Homestead. The Aetherials now control the area known as the Conflagration, but the Cult of Ch'thon has taken residence within the Darkvale Gate, effectively cutting us off from our forces to the north. With the Cult's frontlines battered and their sacrifices freed, I believe it is now time to advance on their main position. {^n}{^n}Karroz, the Sigil of Ch'thon, the name has come up several times, including a recent bloody interrogation. We have no idea if he is the head of the entire Cult or if he is merely a pawn in someone else's game, but one thing is for certain: he is at the Darkvale Gate. I need you to infiltrate the fortress and take out their leader. Lay waste to the Cult's followers, let nothing stop you in reclaiming our bastion!
         譯文 : >-
             When the Legion was forced to abandon the Capital, we made Fort Ikon our new base of operations. It's an old fortress to the far north once used to protect the trade routes leading through the Asterkarn Mountains.{^n}{^n}However, when we began marching south, we encountered immediate opposition from both the Cult and the Aetherials. Many of our men were killed, pincered between two opposing armies, and we were forced to retreat towards Homestead. The Aetherials now control the area known as 戰火平原, but the Cult of Ch'thon has taken residence within the Darkvale Gate, effectively cutting us off from our forces to the north. With the Cult's frontlines battered and their sacrifices freed, I believe it is now time to advance on their main position. {^n}{^n}Karroz, the Sigil of Ch'thon, the name has come up several times, including a recent bloody interrogation. We have no idea if he is the head of the entire Cult or if he is merely a pawn in someone else's game, but one thing is for certain: he is at the Darkvale Gate. I need you to infiltrate the fortress and take out their leader. Lay waste to the Cult's followers, let nothing stop you in reclaiming our bastion!
 #-------------------------------#
     83 :
-        標註 : 
         原文 : >-
             It will be done.
         譯文 : >-
             It will be done.
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             I won't do this.
         譯文 : >-
             I won't do this.
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             I have already killed Karroz. I found some disturbing information on him.
         譯文 : >-
             I have already killed Karroz. I found some disturbing information on him.
 #-------------------------------#
     87 :
-        標註 : 
         原文 : >-
             I am told that Lisandra and a couple others have returned safely from captivity, all thanks to you. We thought they were as good as dead after they disappeared in the Blood Grove.
         譯文 : >-
             I am told that Lisandra and a couple others have returned safely from captivity, all thanks to you. We thought they were as good as dead after they disappeared in the 血森林.
 #-------------------------------#
     88 :
-        標註 : 
         原文 : >-
             The cult must be stopped.
         譯文 : >-
             The cult must be stopped.
 #-------------------------------#
     89 :
-        標註 : 
         原文 : >-
             I could not agree more. We've been cut off from Fort Ikon long enough.
         譯文 : >-
             I could not agree more. We've been cut off from Fort Ikon long enough.
 #-------------------------------#
     90 :
-        標註 : 
         原文 : >-
             What's our next step?
         譯文 : >-
             What's our next step?
 #-------------------------------#
     92 :
-        標註 : 
         原文 : >-
             Stop wasting time. The longer we wait, the more Chthonians will be at the cult's command.
         譯文 : >-
             別再浪費時間了，我們等得越久，邪教徒就會召喚越多的冥靈。
 #-------------------------------#
     93 :
-        標註 : 
         原文 : >-
             Where is the Cult of Ch'thon entrenched?
         譯文 : >-
             Where is the Cult of Ch'thon entrenched?
 #-------------------------------#
     94 :
-        標註 : 
         原文 : >-
             You will have to venture out beyond Sorrow's Bastion, to the north of Homestead, and search the cultist camps. Rescue any survivors before the Cult of Ch'thon can use them as sacrifices.
         譯文 : >-
             You will have to venture out beyond 悲傷城堡, to the north of Homestead, and search the cultist camps. Rescue any survivors before the Cult of Ch'thon can use them as sacrifices.
 #-------------------------------#
     95 :
-        標註 : 
         原文 : >-
             I'm on it.
         譯文 : >-
             我這就出發。
 #-------------------------------#
     96 :
-        標註 : 
         原文 : >-
             I'm on it.
         譯文 : >-
             我這就出發。
 #-------------------------------#
     97 :
-        標註 : 
         原文 : >-
             I was going to have you interrupt the cult's supply of sacrifices, but with Lisandra's recent return, I'm beginning to think that you can be in several places at once.{^n}{^n}Good work there. We cannot afford to have the cult summon additional reinforcements from the void. The next priority though, that's a bit tougher.
         譯文 : >-
             I was going to have you interrupt the cult's supply of sacrifices, but with Lisandra's recent return, I'm beginning to think that you can be in several places at once.{^n}{^n}Good work there. We cannot afford to have the cult summon additional reinforcements from the void. The next priority though, that's a bit tougher.
 #-------------------------------#
     98 :
-        標註 : 
         原文 : >-
             What is it?
         譯文 : >-
             What is it?
 #-------------------------------#
     100 :
-        標註 : 
         原文 : >-
             My scouts have reported back from the lands to the north. The situation is far worse than I ever imagined. The Cult of Ch'thon is on our doorstep, and in great numbers. Worse still, they've been capturing farmers, travelers, even my own soldiers and using them for their blood rituals.{^n}{^n}We cannot risk the cult bolstering their forces with Chthonic beings. I need you to venture out beyond Sorrow's Bastion to the north and search their camps. Rescue any survivors before the cultists can use them as sacrifices.
         譯文 : >-
             My scouts have reported back from the lands to the north. The situation is far worse than I ever imagined. The Cult of Ch'thon is on our doorstep, and in great numbers. Worse still, they've been capturing farmers, travelers, even my own soldiers and using them for their blood rituals.{^n}{^n}We cannot risk the cult bolstering their forces with Chthonic beings. I need you to venture out beyond 悲傷城堡 to the north and search their camps. Rescue any survivors before the cultists can use them as sacrifices.
 #-------------------------------#
     101 :
-        標註 : 
         原文 : >-
             I will rescue the prisoners.
         譯文 : >-
             I will rescue the prisoners.
 #-------------------------------#
     102 :
-        標註 : 
         原文 : >-
             Sorry, I cannot right now.
         譯文 : >-
             Sorry, I cannot right now.
 #-------------------------------#
     103 :
-        標註 : 
         原文 : >-
             What can I expect out there?
         譯文 : >-
             What can I expect out there?
 #-------------------------------#
     104 :
-        標註 : 
         原文 : >-
             Terrors from the void, crazed humans hell-bent on harvesting your blood for their heathen god, unspeakable dark rituals. The Cult of Ch'thon is a despicable group of degenerates that needs to be wiped out.{^n}{^n}I would not ask this of you if I did not think you capable. Will you stop the sacrifices?
         譯文 : >-
             Terrors from the void, crazed humans hell-bent on harvesting your blood for their heathen god, unspeakable dark rituals. The Cult of Ch'thon is a despicable group of degenerates that needs to be wiped out.{^n}{^n}I would not ask this of you if I did not think you capable. Will you stop the sacrifices?
 #-------------------------------#
     105 :
-        標註 : 
         原文 : >-
             I will rescue the prisoners.
         譯文 : >-
             I will rescue the prisoners.
 #-------------------------------#
     106 :
-        標註 : 
         原文 : >-
             Sorry, I cannot right now.
         譯文 : >-
             Sorry, I cannot right now.
 #-------------------------------#
     107 :
-        標註 : 
         原文 : >-
             There was much commotion reported in the area around the Gruesome Harvest, I trust you have good news?
         譯文 : >-
             There was much commotion reported in the area around the Gruesome Harvest, I trust you have good news?
 #-------------------------------#
     108 :
-        標註 : 
         原文 : >-
             The abomination has been destroyed.
         譯文 : >-
             The abomination has been destroyed.
 #-------------------------------#
     109 :
-        標註 : 
         原文 : >-
             I see your reputation is well earned. The Legion thanks you for your service to the emperor.{^n}{^n}With the Aetherial threat crippled, we can now turn our attention to the Cult of Ch'thon.
         譯文 : >-
             I see your reputation is well earned. The Legion thanks you for your service to the emperor.{^n}{^n}With the Aetherial threat crippled, we can now turn our attention to the Cult of Ch'thon.
 #-------------------------------#
     110 :
-        標註 : 
         原文 : >-
             I'm eager to get started.
         譯文 : >-
             I'm eager to get started.
 #-------------------------------#
     113 :
-        標註 : 
         原文 : >-
             We will speak of this another time.
         譯文 : >-
             We will speak of this another time.
 #-------------------------------#
     114 :
-        標註 : 
         原文 : >-
             I hope I didn't make a mistake by sending you.
         譯文 : >-
             I hope I didn't make a mistake by sending you.
 #-------------------------------#
     115 :
-        標註 : 
         原文 : >-
             Where are the Aetherials?
         譯文 : >-
             Where are the Aetherials?
 #-------------------------------#
     116 :
-        標註 : 
         原文 : >-
             They are in an area we are calling the Gruesome Harvest. You'll know why when you see it.{^n}{^n}You will have to go through the Infested Farms and the Rotting Croplands to the west of Homestead.
         譯文 : >-
             They are in an area we are calling the Gruesome Harvest. You'll know why when you see it.{^n}{^n}You will have to go through the Infested Farms and the 腐壞田地 to the west of Homestead.
 #-------------------------------#
     117 :
-        標註 : 
         原文 : >-
             I'm on it.
         譯文 : >-
             我這就出發。
 #-------------------------------#
     118 :
-        標註 : 
         原文 : >-
             No, you have not.
         譯文 : >-
             No, you have not.
 #-------------------------------#
     119 :
-        標註 : 
         原文 : >-
             I see you've returned. Changed your mind about serving the Legion?{^n}{^n}Or would you rather sit back and enjoy some of Ulgrim's 'fine' soup?
         譯文 : >-
             I see you've returned. Changed your mind about serving the Legion?{^n}{^n}Or would you rather sit back and enjoy some of Ulgrim's 'fine' soup?
 #-------------------------------#
     120 :
-        標註 : 
         原文 : >-
             Where do you need me?
         譯文 : >-
             Where do you need me?
 #-------------------------------#
     121 :
-        標註 : 
         原文 : >-
             The Legion is split on two fronts. To the north, we have the Cult of Ch'thon. Nasty bastards keen on turning all of us into a puddle of blood for their rituals. I have my best men out there right now, scouting ahead. The cultists are amassing in great numbers, and I'd like to know why.{^n}{^n}There is a more pressing issue, however, and this is where you come in. Ulgrim says that you are experienced with fighting the Aetherials. That's good. You'll need all your skills for this one. Far to the west, beyond the Infested Farms and the Rotting Croplands, there is an area teeming with Aetherials that we have started calling the Gruesome Harvest. It is a fitting title as the Aetherials have been gathering corpses, animal and human alike, in order to conduct their sick resurrection techniques upon them.{^n}{^n}The barn there has been giving off a blinding aether light nonstop for the last few days and nights. That is, until today. Whatever they are working on, it must be nearly finished. And knowing the Aetherials, it's something monstrous.{^n}{^n}We can't risk the Aetherials discovering that we know about their creation. I need someone to sneak in there and destroy this abomination before it even has a chance to wreck havoc upon my people. We'll only get one shot at this, so I want someone who has experience dealing with Aetherial horrors to handle this mission.{^n}{^n}Will you be my champion?
         譯文 : >-
             The Legion is split on two fronts. To the north, we have the Cult of Ch'thon. Nasty bastards keen on turning all of us into a puddle of blood for their rituals. I have my best men out there right now, scouting ahead. The cultists are amassing in great numbers, and I'd like to know why.{^n}{^n}There is a more pressing issue, however, and this is where you come in. Ulgrim says that you are experienced with fighting the Aetherials. That's good. You'll need all your skills for this one. Far to the west, beyond the Infested Farms and the 腐壞田地, there is an area teeming with Aetherials that we have started calling the Gruesome Harvest. It is a fitting title as the Aetherials have been gathering corpses, animal and human alike, in order to conduct their sick resurrection techniques upon them.{^n}{^n}The barn there has been giving off a blinding aether light nonstop for the last few days and nights. That is, until today. Whatever they are working on, it must be nearly finished. And knowing the Aetherials, it's something monstrous.{^n}{^n}We can't risk the Aetherials discovering that we know about their creation. I need someone to sneak in there and destroy this abomination before it even has a chance to wreck havoc upon my people. We'll only get one shot at this, so I want someone who has experience dealing with Aetherial horrors to handle this mission.{^n}{^n}Will you be my champion?
 #-------------------------------#
     122 :
-        標註 : 
         原文 : >-
             I will track down this abomination.
         譯文 : >-
             I will track down this abomination.
 #-------------------------------#
     123 :
-        標註 : 
         原文 : >-
             I am not risking my life for this.
         譯文 : >-
             I am not risking my life for this.
 #-------------------------------#
     124 :
-        標註 : 
         原文 : >-
             I've already slain the abomination.
         譯文 : >-
             I've already slain the abomination.
 #-------------------------------#
     125 :
-        標註 : 
         原文 : >-
             I see your reputation is well-earned. The Legion thanks you for your service to the emperor.{^n}{^n}With the Aetherial threat crippled, we can now turn our attention to the Cult of Ch'thon.
         譯文 : >-
             I see your reputation is well-earned. The Legion thanks you for your service to the emperor.{^n}{^n}With the Aetherial threat crippled, we can now turn our attention to the Cult of Ch'thon.
 #-------------------------------#
     129 :
-        標註 : 
         原文 : >-
             Hope the campaign goes well.
         譯文 : >-
             Hope the campaign goes well.
 #-------------------------------#
     130 :
-        標註 : 
         原文 : >-
             What about the Dermapterans?
         譯文 : >-
             What about the Dermapterans?
 #-------------------------------#
     131 :
-        標註 : 
         原文 : >-
             Been talking to Douglass? Look, I'd love to solve all the world's problems, but unfortunately I do not have the troops to send them out on a bug hunt.{^n}{^n}Douglass and the other farmers will just have to accept it for now. Perhaps later, once the Aetherials and Chthonians have been dealt with, then I can think about sending some men out to the fields to clear out this infestation.
         譯文 : >-
             Been talking to Douglass? Look, I'd love to solve all the world's problems, but unfortunately I do not have the troops to send them out on a bug hunt.{^n}{^n}Douglass and the other farmers will just have to accept it for now. Perhaps later, once the Aetherials and Chthonians have been dealt with, then I can think about sending some men out to the fields to clear out this infestation.
 #-------------------------------#
     132 :
-        標註 : 
         原文 : >-
             What did you need from me again?
         譯文 : >-
             你還需要我做什麼？
 #-------------------------------#
     133 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             很好。
 #-------------------------------#
     134 :
-        標註 : 
         原文 : >-
             What's the Black Legion?
         譯文 : >-
             黑色軍團是個什麼組織？
 #-------------------------------#
     135 :
-        標註 : 
         原文 : >-
             You are joking, right?{^n}{^n}We are the imperium's most infamous if not elite legion; conscripted from criminals and political outcasts and tempered in the front lines of the empire's most brutal wars. The only regiment of the emperor's legions that has survived the massacre in the capital, if you could consider the losses we suffered surviving.{^n}{^n}I'd love to tell you our history, but I really have more important matters to attend to. Such as the mission I need you for. The question really is, are you up to it?
         譯文 : >-
             你在開玩笑，是麼？{^n}{^n}We are the imperium's most infamous if not elite legion; conscripted from criminals and political outcasts and tempered in the front lines of the empire's most brutal wars. The only regiment of the emperor's legions that has survived the massacre in the capital, if you could consider the losses we suffered surviving.{^n}{^n}I'd love to tell you our history, but I really have more important matters to attend to. Such as the mission I need you for. The question really is, are you up to it?
 #-------------------------------#
     137 :
-        標註 : 
         原文 : >-
             Not interested in heroics.
         譯文 : >-
             Not interested in heroics.
 #-------------------------------#
     138 :
-        標註 : 
         原文 : >-
             Not interested in heroics.
         譯文 : >-
             Not interested in heroics.
 #-------------------------------#
     139 :
-        標註 : 
         原文 : >-
             I'll skip the pleasantries. Ulgrim tells me you're one tough slith and right now that's what I need most.{^n}{^n}Will you fight for the Black Legion?
         譯文 : >-
             I'll skip the pleasantries. Ulgrim tells me you're one tough slith and right now that's what I need most.{^n}{^n}Will you fight for the Black Legion?
 #-------------------------------#
     140 :
-        標註 : 
         原文 : >-
             Where do you need me?
         譯文 : >-
             Where do you need me?
 #-------------------------------#
     142 :
-        標註 : 
         原文 : >-
             What's the Black Legion?
         譯文 : >-
             黑色軍團是個什麼組織？
 #-------------------------------#
     143 :
-        標註 : 
         原文 : >-
             You are joking, right?{^n}{^n}We are the imperium's most infamous if not elite legion; conscripted from criminals and political outcasts and tempered in the front lines of the empire's most brutal wars. The only regiment of the emperor's legions that has survived the massacre in the capital, if you could consider the losses we suffered surviving.{^n}{^n}I'd love to tell you our history, but I really have more important matters to attend to. Such as the mission I need you for. The question really is, are you up to it?
         譯文 : >-
             You are joking, right?{^n}{^n}We are the imperium's elite. The only regiment of the emperor's legions that has survived the massacre in the capital, if you could consider the losses we suffered surviving.{^n}{^n}I'd love to tell you our history, but I really have more important matters to attend to. Such as the mission I need you for. The question really is, are you up to it?
 #-------------------------------#
     145 :
-        標註 : 
         原文 : >-
             Not interested in heroics.
         譯文 : >-
             我對英雄主義不感興趣。
 #-------------------------------#
     146 :
-        標註 : 
         原文 : >-
             Not interested in heroics.
         譯文 : >-
             我對英雄主義不感興趣。
 #-------------------------------#
     147 :
-        標註 : 
         原文 : >-
             I hear you've dragged Ulgrim's sorry ass out of Deadman's Gulch. Good work.{^n}{^n}Come see me later. Perhaps we can put your skills to some use.
         譯文 : >-
             I hear you've dragged Ulgrim's sorry ass out of Deadman's Gulch. Good work.{^n}{^n}Come see me later. Perhaps we can put your skills to some use.
 #-------------------------------#
     148 :
-        標註 : 
         原文 : >-
             I take it you don't like Ulgrim?
         譯文 : >-
             I take it you don't like Ulgrim?
 #-------------------------------#
     149 :
-        標註 : 
         原文 : >-
             Let's just say Ulgrim and the Black Legion have a history.
         譯文 : >-
             Let's just say Ulgrim and the Black Legion have a history.
 #-------------------------------#
     150 :
-        標註 : 
         原文 : >-
             I...see.
         譯文 : >-
             我……懂了。
 #-------------------------------#
     151 :
-        標註 : 
         原文 : >-
             I'll think about it.
         譯文 : >-
             I'll think about it.
 #-------------------------------#
     152 :
-        標註 : 
         原文 : >-
             Welcome to Homestead. We could definitely use more capable hands around here.{^n}{^n}If you find yourself back out there and run into a smug smartass by the name Ulgrim, tell him he's late, as usual...
         譯文 : >-
             Welcome to Homestead. We could definitely use more capable hands around here.{^n}{^n}If you find yourself back out there and run into a smug smartass by the name Ulgrim, tell him he's late, as usual...
 #-------------------------------#
     153 :
-        標註 : 
         原文 : >-
             I have some questions.
         譯文 : >-
             我有一些問題。
 #-------------------------------#
     154 :
-        標註 : 
         原文 : >-
             What is it?
         譯文 : >-
             What is it?
 #-------------------------------#
     155 :
-        標註 : 
         原文 : >-
             Can you open the gates?
         譯文 : >-
             你能把打開大門麼？
 #-------------------------------#
     156 :
-        標註 : 
         原文 : >-
             Nobody's going through those gates until I've received Ulgrim's report.
         譯文 : >-
             在我接到艾格瑞姆的報告之前，任何人都不準從大門出去。
 #-------------------------------#
     157 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有一個問題。
 #-------------------------------#
     158 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             Very well.
 #-------------------------------#
     159 :
-        標註 : 
         原文 : >-
             What is the situation here?
         譯文 : >-
             這裡情況如何？
 #-------------------------------#
     160 :
-        標註 : 
         原文 : >-
             I'd tell you that I've dealt with worse, but I'm not sure that's true. The situation here is about as bad as it gets.{^n}{^n}We have Aetherials and the Cult of Ch'thon on our doorstep, few supplies, no heavy weapons and barely enough men to keep it all together.
         譯文 : >-
             I'd tell you that I've dealt with worse, but I'm not sure that's true. The situation here is about as bad as it gets.{^n}{^n}We have Aetherials and the Cult of Ch'thon on our doorstep, few supplies, no heavy weapons and barely enough men to keep it all together.
 #-------------------------------#
     161 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有一個問題。
 #-------------------------------#
     162 :
-        標註 : 
         原文 : >-
             Sounds rough.
         譯文 : >-
             聽起來很不妙啊。
 #-------------------------------#
     163 :
-        標註 : 
         原文 : >-
             What can you tell me about the Black Legion?
         譯文 : >-
             What can you tell me about the Black Legion?
 #-------------------------------#
     164 :
-        標註 : 
         原文 : >-
             What's there to say that isn't widespread public knowledge. We are a band of criminals, misfits and political outcasts conscripted into the service of the empire. Yet, as an army of expendables forever in the front lines of the empire's harshest wars, we've been forged by iron and blood into one of the most elite fighting groups in the known world.{^n}{^n}We suffered significant losses in the Grim Dawn but thanks to Creed's warning, we fared better than others and we're not done fighting yet.
         譯文 : >-
             What's there to say that isn't widespread public knowledge. We are a band of criminals, misfits and political outcasts conscripted into the service of the empire. Yet, as an army of expendables forever in the front lines of the empire's harshest wars, we've been forged by iron and blood into one of the most elite fighting groups in the known world.{^n}{^n}We suffered significant losses in 恐怖黎明 but thanks to Creed's warning, we fared better than others and we're not done fighting yet.
 #-------------------------------#
     165 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有一個問題。
 #-------------------------------#
     166 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     167 :
-        標註 : 
         原文 : >-
             Is that Inquisitor Creed?
         譯文 : >-
             那是審判官克里德嗎？
 #-------------------------------#
     168 :
-        標註 : 
         原文 : >-
             Why, you've heard of him?{^n}{^n}Yes, Inquisitor Creed has been working closely with the Black Legion after the Grim Dawn. His insight on the Aetherials has helped keep all of us alive so far.
         譯文 : >-
             你怎麼知道的？{^n}{^n}他就是克里德。在恐怖黎明之後，審判官克里德和黑色軍團一起緊密地合作。他對於虛靈的瞭解讓我們得以活到現在。
 #-------------------------------#
     169 :
-        標註 : 
         原文 : >-
             I found evidence of his presence in Burrwitch.
         譯文 : >-
             我在伯爾維治找到了他曾經到訪那裡的證據。
 #-------------------------------#
     170 :
-        標註 : 
         原文 : >-
             Yes, grisly business with Warden Krieg. Creed barely escaped with his life.
         譯文 : >-
             是的，他曾去那裡處理典獄長克里格在進行的一些邪惡的勾當。但是克里德差點死在他手裡。
 #-------------------------------#
     171 :
-        標註 : 
         原文 : >-
             I killed the Warden.
         譯文 : >-
             我已經殺掉了典獄長。
 #-------------------------------#
     172 :
-        標註 : 
         原文 : >-
             If that's true, then you have my respect.
         譯文 : >-
             如果你說的是真的，那麼你將得到我的敬意。
 #-------------------------------#
     173 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有一個問題。
 #-------------------------------#
     174 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     175 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有一個問題。
 #-------------------------------#
     176 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     177 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有一個問題。
 #-------------------------------#
     178 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             再見。
 #-------------------------------#
     179 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             沒事了。
 #-------------------------------#
     180 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

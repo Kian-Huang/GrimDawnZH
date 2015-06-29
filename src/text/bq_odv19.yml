@@ -1,57 +1,49 @@
-bq_odv19.txt : 
+bq_odv19.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Archon Barthollem
         譯文 : >-
             賞金：執政官 巴託雷姆
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Chosen of Kymon have taken over a crypt beneath Fort Ikon known as the Tomb of Archon Barthollem. This is a valuable resource to the Order and must not be squandered by the Chosen.{^n}{^n}They have already summoned a manifestation of the Archon. We dare not think what else they can do with such an ancient site. Travel to the tomb and exterminate the Chosen and their champion.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive.
         譯文 : >-
             The Chosen of Kymon have taken over a crypt beneath Fort Ikon known as the Tomb of Archon Barthollem. This is a valuable resource to the Order and must not be squandered by the Chosen.{^n}{^n}They have already summoned a manifestation of the Archon. We dare not think what else they can do with such an ancient site. Travel to the tomb and exterminate the Chosen and their champion.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Archon Barthollem
         譯文 : >-
             殺了執政官巴託雷姆
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Order of Death's Vigil Bounty Table
         譯文 : >-

@@ -1,57 +1,49 @@
-bq_odv02.txt : 
+bq_odv02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Dominators
         譯文 : >-
             賞金：主宰者
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Aetherial Dominators are masters of resurrecting the dead, their powers strangely mimicking our own.{^n}{^n}We must deny the enemy their reinforcements. Every Dominator destroyed means less undead fighting against us.{^n}{^n}To assist you, the Order will bestow an enchantment. Your efforts will be rewarded with iron bits.
         譯文 : >-
             主宰虛靈者 are masters of resurrecting the dead, their powers strangely mimicking our own.{^n}{^n}We must deny the enemy their reinforcements. Every Dominator destroyed means less undead fighting against us.{^n}{^n}To assist you, the Order will bestow an enchantment. Your efforts will be rewarded with iron bits.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Aetherial Dominators
         譯文 : >-
             殺了主宰虛靈者
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Order of Death's Vigil Bounty Table
         譯文 : >-

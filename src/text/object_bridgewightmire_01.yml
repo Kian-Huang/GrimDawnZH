@@ -1,106 +1,91 @@
-object_bridgewightmire_01.txt : 
+object_bridgewightmire_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Building Site
         譯文 : >-
             建築工地
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             This bridge once connected the Wightmire to Burrwitch. If you wish to cross it, you will need to repair it first. If you cannot, you must brave the dangers of the Flooded Passage nearby.{^n}{^n}It will take 12 Scrap and 25000 Iron Bits to repair.
         譯文 : >-
             這座橋曾經連接著屍妖泥沼和伯爾維治。如果你想穿越它，你必須先修復這座橋。如果修復不了，那麼你要敢於面對浸沒通道的危險。{^n}{^n}修復它需要3塊廢鐵和2500枚鐵幣。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Not enough materials.
         譯文 : >-
             材料不足。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Repair the Bridge to Burrwitch.
         譯文 : >-
             修復橋樑。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             This bridge once connected the Wightmire to Burrwitch. If you wish to cross it, you will need to repair it first. If you cannot, you must brave the dangers of the Flooded Passage nearby.{^n}{^n}It will take 8 Scrap and 10000 Iron Bits to repair.
         譯文 : >-
             這座橋曾經連接著屍妖泥沼和伯爾維治。如果你想穿越它，你必須先修復這座橋。如果修復不了，那麼你要敢於面對浸沒通道的危險。{^n}{^n}修復它需要3塊廢鐵和2500枚鐵幣。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Not enough materials.
         譯文 : >-
             材料不足。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Repair the Bridge to Burrwitch.
         譯文 : >-
             修復橋樑。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             This bridge once connected the Wightmire to Burrwitch. If you wish to cross it, you will need to repair it first. If you cannot, you must brave the dangers of the Flooded Passage nearby.{^n}{^n}It will take 3 Scrap and 2500 Iron Bits to repair.
         譯文 : >-
             這座橋曾經連接著屍妖泥沼和伯爾維治。如果你想穿越它，你必須先修復這座橋。如果修復不了，那麼你要敢於面對浸沒通道的危險。{^n}{^n}修復它需要3塊廢鐵和2500枚鐵幣。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Not enough materials.
         譯文 : >-
             材料不足。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Repair the Bridge to Burrwitch.
         譯文 : >-
             修復橋樑。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             You have restored this bridge.
         譯文 : >-
             你修復了這座橋。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-

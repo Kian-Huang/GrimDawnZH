@@ -1,57 +1,49 @@
-bq_hs19.txt : 
+bq_hs19.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Queen Ravna
         譯文 : >-
             賞金：蟲後 拉夫娜
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Dermapteran Queen Ravna has been allowed to thrive for far too long. Her brood has spread rampantly throughout our lands, unimpeded by even the Aetherials.{^n}{^n}Sooner or later, the Dermapterans will devour everything that's left in the fields, and then they will turn their attention upon Homestead. By that point, their numbers will wash over us like a flood of locusts.{^n}{^n}We must not allow that to happen. Queen Ravna must die. As compensation for this daring task, we have set aside some scavenged materials.
         譯文 : >-
             The Dermapteran Queen Ravna has been allowed to thrive for far too long. Her brood has spread rampantly throughout our lands, unimpeded by even the Aetherials.{^n}{^n}Sooner or later, the Dermapterans will devour everything that's left in the fields, and then they will turn their attention upon Homestead. By that point, their numbers will wash over us like a flood of locusts.{^n}{^n}We must not allow that to happen. Queen Ravna must die. As compensation for this daring task, we have set aside some scavenged materials.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay the Dermapteran Queen
         譯文 : >-
             殺了革翅目蟲後
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for Homestead and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了霍姆斯特德的任務，應該回到賞金桌領取獎賞。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Homestead Bounty Table
         譯文 : >-

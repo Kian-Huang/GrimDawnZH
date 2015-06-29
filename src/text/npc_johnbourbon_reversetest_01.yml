@@ -1,1051 +1,901 @@
-npc_johnbourbon_reversetest_01.txt : 
+npc_johnbourbon_reversetest_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             John Bourbon
         譯文 : >-
             ﻿約翰·波旁
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             What's with all the commotion?
         譯文 : >-
             這場騷亂是怎麼回事？
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Direni was sabotaging us. He damaged the well pump!
         譯文 : >-
             狄瑞尼在妨礙我們。是他破壞了水泵！
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I trusted that son of a rifthound! Thank you for uncovering this betrayal.{^n}{^n}Who knows what other damage he could have caused if left to his devices.
         譯文 : >-
             我竟然相信了那個狗孃養的！謝謝你找出這個叛徒。{^n}{^n}誰又能知道如果放任他繼續下去會造成什麼後果。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I do what I can.
         譯文 : >-
             我已盡我所能。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Your dedication to this community is without compare. Thanks to you, we may just survive the end of the world.{^n}{^n}I'm sorry we ever doubted you.
         譯文 : >-
             你對這個團體的貢獻無人可比。多虧了你，我們才可能活過世界末日。{^n}{^n}我很抱歉我曾經質疑過你。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I'm just happy you didn't finish the job at the gallows.
         譯文 : >-
             我很高興你沒有執行完我的絞刑。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Would have been the biggest mistake I've ever made, and I've had my share.{^n}{^n}You saved this settlement, there's no doubt of that.
         譯文 : >-
             那差點就成了我犯下的最大的過錯，而且我也有份。{^n}{^n}毫無疑問，你拯救了這個地方。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Glad I could help.
         譯文 : >-
             很高興我能幫得上忙。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Glad I could help.
         譯文 : >-
             很高興我能幫得上忙。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             I hope you figure something out with Homestead soon, or I am going to have to make some difficult decisions.{^n}{^n}There is not enough food to go around as it is. Come winter, we will all be doomed.{^n}{^n}It's going to be impossible to travel with so many people when the snow hits. We will have to leave sooner than that and hope for the best out on the road.
         譯文 : >-
             我希望你能儘快在霍姆斯特德取得些進展，否則我就得做出一些艱難的決定了。{^n}{^n}已經沒有足夠的食物來維持目前的情況了。一旦冬天到來，我們所有人都要完蛋。{^n}{^n}這麼多人在下雪的天氣中是不可能長途跋涉的。我們要在那種天氣來臨之前離開，希望路上能夠順利。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I have some questions.
         譯文 : >-
             我有一些問題。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             I will answer what I can.
         譯文 : >-
             我會盡我所能的回答。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             How was Mornay able to explore Old Arkovia?
         譯文 : >-
             莫爾奈是如何能夠探索古安克維亞的？
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             The bridge was destroyed after his trek north. We thought he died out there, but seems it takes more than bandits and ravenous beasts to bring down old Mornay.
         譯文 : >-
             在他北行之後橋就被毀掉了。我們以為他會死在那，但是看起來需要更多的強盜和飢腸轆轆的野獸才能幹掉老莫爾奈。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有另一個問題。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             What will happen to Burrwitch now?
         譯文 : >-
             伯爾維治將會發生什麼？
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             I imagine that, in time, we will reclaim it for humanity. The area is still overrun with the dead though, so we will have to move carefully.
         譯文 : >-
             我想，過一段時間後，我們將會為人類重建它。不過這片區域仍然橫行著不死生物，所以我們必須謹慎行動。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有另一個問題。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             How long do you think we can hold out here?
         譯文 : >-
             你認為我們能在這裡支撐多長時間？
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             With the supplies that we've got? I suspect we will last at least a couple months on strict rations. The prison itself is in a solid defensible position with plenty of space to provide shelter for our people. I would not plan on leaving here unless we absolutely had to. That all may change though when our food supplies start running out.
         譯文 : >-
             用我們獲得的那些補給？我猜通過嚴格的限量供應我們至少能維持幾個月。監獄本身也處於堅實可守的位置並擁有大量空間為我們的人提供庇護所。除非絕對必要我是不會計劃離開這裡的。話雖如此，當我們的食物補給要耗盡的時候所有這些都會變的。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有另一個問題。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             That is all for now.
         譯文 : >-
             就聊到這吧。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             I'll see if I can convince them.
         譯文 : >-
             我會盡力說服他們的。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Your allies have already provided us with assistance. I have no information for you.
         譯文 : >-
             你的盟友已經為我們提供了援助。我沒有消息要告訴你。
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             非常好。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             I trust that you are handling everything alright?
         譯文 : >-
             我相信你會處理好每一件事對不對？
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             Yes. Goodbye for now.
         譯文 : >-
             是的。那麼再見吧。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             I trust that you are handling everything alright?
         譯文 : >-
             我相信你會處理好每一件事對不對？
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             Yes. Goodbye for now.
         譯文 : >-
             是的。那麼再見吧。
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             The Warden's defeat is a great victory for us, nay for all of humankind, but there are many more Aetherials out there, some much more powerful than Krieg. Perhaps more disturbing though, there are those of our own kind who would see us dead to take what little we have or just for the pleasure of killing. Among the innocent who passed through this prison on their way to Krieg's lab were many violent criminals; murderers and worse. Many of them escaped to the northwest after the Grim Dawn, forming into ruthless gangs who prey upon drifters still traveling the roads.{^n}{^n}Since a river separates us and them, they have not been a problem thus far; except we need farmers to get back to the business of growing food before we all starve to death. The farmland that supplied this region is to the northwest and we need to secure a hold there. Mornay recently returned from Old Arkovia to the northwest and can give you details on the outlaw situation and what needs to be done.{^n}{^n}I realize that you have been through much in recent days, but we cannot rest just yet.
         譯文 : >-
             典獄長的挫敗對我們，對整個人類群體來說都是一場偉大的勝利，但是還有更多的虛靈，其中有比克里格強大的多的存在。雖然可能更令人不安的是，我們自己種族中也存在那些樂於看到我們去死的人，要拿走我們那點東西的人，或者單純以殺戮為樂。在通過這個監獄去往克里格的實驗室的無辜的人群中有許多凶徒，殺人犯和更糟的人。他們中的許多人在恐怖黎明後逃向了西北，形成了靠掠奪在路上過往的流浪者的殘忍幫派。{^n}{^n}因為一條河將我們和他們分隔了起來，他們迄今為止還沒有引起什麼麻煩，不過我們要在餓死之前讓農夫重新干起種植食物的活計。能夠供給這個區域的農田都在西北方向而我們需要安全控制那裡。莫爾奈現在從古安克維亞回到了西北並能給你提供有關亡命徒現狀的細節和該做的事情。{^n}{^n}我理解你最近裡經歷了太多，只不過我們還不能休息。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             I will speak to him.
         譯文 : >-
             我會與與他談談的。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             I need some time.
         譯文 : >-
             我需要一些時間。
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             I have some questions.
         譯文 : >-
             我有一些問題。
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             I will answer what I can.
         譯文 : >-
             我會盡我所能的回答。
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             How was Mornay able to explore Old Arkovia?
         譯文 : >-
             莫爾奈是如何能夠探索古安克維亞的？
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             The bridge was destroyed after his trek north. We thought he died out there, but seems it takes more than bandits and ravenous beasts to bring down old Mornay.
         譯文 : >-
             在他北行之後橋就被毀掉了。我們以為他會死在那，但是看起來需要更多的強盜和飢腸轆轆的野獸才能擊敗老莫爾奈。
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有另一個問題。
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             What will happen to Burrwitch now?
         譯文 : >-
             伯爾維治將會發生什麼？
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             I imagine that, in time, we will reclaim it for humanity. The area is still overrun with the dead though, so we will have to move carefully.
         譯文 : >-
             我想，過一段時間後，我們將會為人類重建它。不過這片區域仍然不死生物氾濫，所以我們必須謹慎行動。
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有另一個問題。
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             How long do you think we can hold out here?
         譯文 : >-
             你認為我們能在這裡支撐多長時間？
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             With the supplies that we've got? I suspect we will last at least a couple months on strict rations. The prison itself is in a solid defensible position with plenty of space to provide shelter for our people. I would not plan on leaving here unless we absolutely had to. That all may change though when our food supplies start running out.
         譯文 : >-
             用我們獲得的那些補給？我猜通過嚴格的限量供應我們至少能維持幾個月。監獄本身也處於堅實可守的位置並擁有大量空間為我們的人提供庇護所。除非絕對必要我是不會計劃離開這裡的。話雖如此，當我們的食物補給要耗盡的時候所有這些都會變的。
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             我還有另一個問題。
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             Now that the Warden lies dead, what is our next step?
         譯文 : >-
             既然典獄長死了，我們的下一步做什麼？
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             That is all for now.
         譯文 : >-
             就聊到這吧。
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             You mentioned the Warden is already dead. Tell me, what happened?
         譯文 : >-
             你提到典獄長已經死了。告訴我，發生了什麼？
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             Is it finished? Is the Warden dead?
         譯文 : >-
             結束了？典獄長死了嗎？
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             I tracked him down and took his life.
         譯文 : >-
             我找到了他並結束了他的生命。
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             Any luck tracking down the Warden?
         譯文 : >-
             找到典獄長了麼？
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             還沒有。
 #-------------------------------#
     62 :
-        標註 : 
         原文 : >-
             Do not underestimate the Warden. He was a cruel man, being possessed likely did little to improve his disposition.
         譯文 : >-
             不要輕視典獄長。他是個殘忍的人，被附身也絲毫沒有改變他的性格。
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             I'll be careful.
         譯文 : >-
             我會小心的。
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             Good work! While you were gone, I dug through some of the files in this office, and I think we have our target. {^n}{^n}As you are acutely aware, Aetherials can possess humans and bend them to their will. {^n}{^n}I always had my suspicions, but now I have little doubt: The former Warden of this prison is possessed, well before the Grim Dawn in fact.
         譯文 : >-
             幹得好！當你走後，我在這間辦公室發掘出一些文件，我想我們有目標了。{^n}{^n}像你瞭解到的那樣，虛靈能迷惑人類使他們屈服。{^n}{^n}我一直懷疑，不過我現在有點疑問：這所監獄的前典獄長在恐怖黎明到來很久之前就被附身了。
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             How can you be sure?
         譯文 : >-
             你怎麼能夠確定的？
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             There have been countless holes in the prison records, prisoners just disappearing never to be seen again. The Warden's personal logs paint a more complete picture. {^n}{^n}He's been transferring prisoners into a secret facility underneath his mansion in Burrwitch Village for years. What for, I do not know but I'm sure it wasn't for rehabilitation. There are also several mentions of Aetherials and rift gates. {^n}{^n}I need you to find this man, or whatever he has become.
         譯文 : >-
             在監獄記錄上有無數的漏洞，失蹤的囚犯們再也沒人有見過。典獄長的個人日誌上能找到更完整的解釋。{^n}{^n}多年來他一直在將囚犯轉移到他在伯爾維治村府邸下的祕密設施內。為的是什麼我不知道但我可以肯定那不是為了康復之類的。{^n}{^n}我需要你找到這個人，不管他變成什麼樣。
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             Where can I find him?
         譯文 : >-
             我在哪能找到他？
 #-------------------------------#
     68 :
-        標註 : 
         原文 : >-
             Warden Krieg owned a mansion in the northern district of Burrwitch Village. The logs indicate that his facilities can be reached via the cellar. {^n}{^n}I'm afraid I don't have more to go on, but if we want to strike back at the Aetherial power structure in the region, the Warden is our prime target.
         譯文 : >-
             典獄長克里格在伯爾維治村的北部地區擁有一座宅邸。日誌表明他的設施可以通過地下室到達。{^n}{^n}我恐怕堅持不了多久，但是如果我們想要對該地區的虛靈的統治階層予以反擊，典獄長是我們的首要目標。
 #-------------------------------#
     69 :
-        標註 : 
         原文 : >-
             I will end the Warden's life.
         譯文 : >-
             我會去結束典獄長的生命。
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             I need to think about this.
         譯文 : >-
             我需要考慮這件事。
 #-------------------------------#
     71 :
-        標註 : 
         原文 : >-
             The Warden is already dead.
         譯文 : >-
             典獄長已經死了。
 #-------------------------------#
     72 :
-        標註 : 
         原文 : >-
             Is that so? Care to elaborate?
         譯文 : >-
             是這樣嗎？介意詳細說明一下嗎？
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             I tracked him down and took his life.
         譯文 : >-
             我找到了他並結束了他的生命。
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             You mentioned you've already been to Burrwitch Village. Tell me, what is the situation there?
         譯文 : >-
             你提到你已經去過伯爾維治村，告訴我，那的情況如何？
 #-------------------------------#
     77 :
-        標註 : 
         原文 : >-
             Have you found a riftgate in Burrwitch? What's the situation out there?
         譯文 : >-
             你在伯爾維治發現傳送裂縫了嗎？那的情況如何？
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             Swarming with Aetherial corruption, but the rift gate is secure.
         譯文 : >-
             聚滿了虛靈變體，不過傳送門是安全的。
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             We need a secure way into Burrwitch Village. Everything hinges on it.
         譯文 : >-
             我們需要一條安全的路線進入伯爾維治村。一切都取決於這一點。
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             Will do.
         譯文 : >-
             我會辦妥的。
 #-------------------------------#
     82 :
-        標註 : 
         原文 : >-
             One of my scouts came back with news, making our next move clear. {^n}{^n}The Dead are heavily concentrated in Burrwitch Village to the north, past the swamps of Wightmire. There must be a reason why. Perhaps the Aetherial behind these attacks is there. {^n}{^n}We can't know for sure without investigating deeper.
         譯文 : >-
             我的一個偵查兵帶回了消息，讓我們的下一步行動變的很明確。{^n}{^n}不死生物大量的集中在伯爾維治村以北，過了屍妖泥沼的澤地。其中一定有名堂，或許這些攻擊幕後的虛靈就在那。{^n}{^n}沒有更深入的調查我們無法確切地知道。
 #-------------------------------#
     83 :
-        標註 : 
         原文 : >-
             How can I help?
         譯文 : >-
             我能幫什麼忙？
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             You've proven yourself quite resourceful thus far! {^n}{^n}Your ability to secure riftgates for human use could be a turning point in our situation. With all the activity around Burrwitch, there is bound to be a riftgate. {^n}{^n}If you can capture it, that will give us a solid foothold in the area.
         譯文 : >-
             到目前為止你已經展示了自己的本領！{^n}{^n}你那能保全人類使用的傳送裂縫的能力可能是我們的處境中的轉折點。在伯爾維治附近的所有活動中註定要有個傳送裂縫的{^n}{^n}如果你能奪取它，就將在該區域為我們取得一個穩固的立足點。
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             How do I get to Burrwitch?
         譯文 : >-
             我怎麼到達伯爾維治呢？
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             Follow the road north, through Wightmire. Though, in the current state of things, you will likely have to leave the road behind well before you reach the village. {^n}{^n}Keep pressing north and you will eventually reach the outskirts of Burrwitch. It's surrounded by a palisade wall, so you will have to find a way inside. {^n}{^n}Once you've secured the riftgate, return to Devil's Crossing.
         譯文 : >-
             沿著北面的路，穿過屍妖泥沼。不過，以目前的情況，在你到達村子之前你可能必須離開公路行進。{^n}{^n}一直向北推進然後你最終會到達伯爾維治的郊外。那裡被圍牆環繞著，所以你必須找到一條進入的道路。{^n}{^n}一旦收復了傳送裂縫，回到惡魔十字來。
 #-------------------------------#
     87 :
-        標註 : 
         原文 : >-
             I'm ready.
         譯文 : >-
             我準備好了。
 #-------------------------------#
     88 :
-        標註 : 
         原文 : >-
             This sounds like suicide. Find someone else.
         譯文 : >-
             這聽起來像是去自殺。你還是找其他人吧。
 #-------------------------------#
     89 :
-        標註 : 
         原文 : >-
             I've already been to Burrwitch.
         譯文 : >-
             我已經去過伯爾維治了。
 #-------------------------------#
     90 :
-        標註 : 
         原文 : >-
             That's excellent! What is the situation there?
         譯文 : >-
             太棒了！那的情況如何？
 #-------------------------------#
     91 :
-        標註 : 
         原文 : >-
             Swarming with Aetherial corruption, but the riftgate is secure.
         譯文 : >-
             聚滿了虛靈變體，不過傳送門是安全的。
 #-------------------------------#
     93 :
-        標註 : 
         原文 : >-
             Good, you're back. I've heard good things from both Kasparov and Barnabas. You are a real asset to this community.
         譯文 : >-
             好的，你回來了。我已經從卡斯帕羅夫和巴納巴斯那裡聽到好消息了。你可真是我們這群人的財富。
 #-------------------------------#
     94 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     96 :
-        標註 : 
         原文 : >-
             I'm still waiting for one of my scouts to report in.  {^n}{^n}Take some time to mingle with the other survivors and speak to Kasparov and Barnabas. It sounds like they could use your help.  {^n}{^n}Meet me in my office, inside the prison, when you're finished.
         譯文 : >-
             我還在等我的一個偵察兵的報告。{^n}{^n}花點時間去融入其他倖存者並和卡斯帕羅夫和巴納巴斯談談。聽起來好像他們需要你的幫助。{^n}{^n}完事後來我在監獄內的辦公室見我。
 #-------------------------------#
     97 :
-        標註 : 
         原文 : >-
             I'll be off then.
         譯文 : >-
             那我走了。
 #-------------------------------#
     98 :
-        標註 : 
         原文 : >-
             I'd like to ask a few questions.
         譯文 : >-
             我想問幾個問題。
 #-------------------------------#
     99 :
-        標註 : 
         原文 : >-
             I'll try my best to answer them. You've earned that much.
         譯文 : >-
             我會盡力回答的。這是你應得的。
 #-------------------------------#
     100 :
-        標註 : 
         原文 : >-
             Where are Kasparov and Barnabas again?
         譯文 : >-
             再說一遍卡斯帕羅夫和巴納巴斯在哪？
 #-------------------------------#
     101 :
-        標註 : 
         原文 : >-
             Both are outside the Prison. Kasparov is in the house next to the giant riftgate, and Barnabas keeps his camp by the windmill on the south side, you can't miss it.
         譯文 : >-
             都在監獄外面。卡斯帕羅夫在巨大傳送裂縫旁邊的房子裡，巴納巴斯在南邊的風車那裡，不會找不到的。
 #-------------------------------#
     103 :
-        標註 : 
         原文 : >-
             I'm off to speak with Kasparov and Barnabas.
         譯文 : >-
             我要去和卡斯帕羅夫和巴納巴斯聊聊了。
 #-------------------------------#
     104 :
-        標註 : 
         原文 : >-
             The hangman called me 'Taken'. What did he mean?
         譯文 : >-
             劊子手叫我“被佔據者”。那是什麼意思？
 #-------------------------------#
     105 :
-        標註 : 
         原文 : >-
             It's our word for those possessed by Aetherials. {^n}{^n}Taken can be difficult to distinguish from normal humans but you, or whatever possessed you, stumbled through the rift gate here and became trapped by Kasparov's wards. {^n}{^n}As you were dangling from the gallows, we watched as the spirit left your body to die. That was when I had Jarvis cut you down. {^n}{^n}I won't lie to you; it's not going to be easy for folks around here to get used to you... nature of the times.
         譯文 : >-
             那是我們用來形容被虛靈附身的人的。{^n}{^n}被附身的人很難與普通人區分開然而你或者控制你的那個東西，失足掉進了這裡的傳送裂縫被卡斯帕羅夫的防禦設施給困住了。{^n}{^n}當你被絞刑架吊住的時候，我們看著靈體離開了你的身體而死。那時我讓賈維斯把你放了下來。{^n}{^n}我不會對你說謊的。讓這兒的人接受你不是那麼容易……這個時代人的本性如此。
 #-------------------------------#
     107 :
-        標註 : 
         原文 : >-
             I'm off to speak with Kasparov and Barnabas.
         譯文 : >-
             我要去和卡斯帕羅夫和巴納巴斯聊聊了。
 #-------------------------------#
     108 :
-        標註 : 
         原文 : >-
             What is the situation here?
         譯文 : >-
             這的情況如何？
 #-------------------------------#
     109 :
-        標註 : 
         原文 : >-
             You've gained us a small victory by killing the Reanimator, but our struggle is far from over.
         譯文 : >-
             你殺了死屍復生者帶給我們一場小勝，但是我們的奮鬥遠未結束。
 #-------------------------------#
     111 :
-        標註 : 
         原文 : >-
             I'm off to speak with Kasparov and Barnabas.
         譯文 : >-
             我要去和卡斯帕羅夫和巴納巴斯聊聊了。
 #-------------------------------#
     112 :
-        標註 : 
         原文 : >-
             What are these Aetherials?
         譯文 : >-
             那些虛靈是什麼東西？
 #-------------------------------#
     113 :
-        標註 : 
         原文 : >-
             That's a tough question. Nobody knows for sure. Most of what I know is from old reports circulated by the resistance shortly after the Grim Dawn. {^n}{^n}It is said that the Aetherials are not of this world. The Arcanists named them after the Aether they so cherish for their sorcery. Aetherials possess living creatures and corrupt the flesh into whatever horrific shape they deem necessary.  I suppose you can count your blessings that you were not possessed long enough to experience this, as far as I can tell.
         譯文 : >-
             這是一個棘手的問題。沒有人知道確切答案。我所知道的大部分內容都是來自恐怖黎明之後的抵抗中散佈出的舊傳聞。{^n}{^n}據說虛靈不是這個世界的。虛靈是以他們的虛化法術來命名的。虛靈附身生物並腐化其血肉成他們認為必要的可怕形狀。我認為你該慶幸你沒被附身過久而未經歷到那個，我就知道這麼多。
 #-------------------------------#
     115 :
-        標註 : 
         原文 : >-
             I'm off to speak with Kasparov and Barnabas.
         譯文 : >-
             我要去和卡斯帕羅夫和巴納巴斯聊聊了。
 #-------------------------------#
     116 :
-        標註 : 
         原文 : >-
             I need some time to plan our strategy. In the meantime, there are others around Devil's Crossing who could use your help. Take a moment to mingle with your fellow survivors. {^n}{^n}Kasparov, our resident scientist, is really eager to speak with you. He babbled some nonsense, but I believe he wants to talk about your connection with the Aetherials. {^n}{^n}Barnabas, our handyman, said he needed help with our water pump. When you're done assisting them, speak with me in my office inside the prison.
         譯文 : >-
             我需要些時間來計劃我們的策略。與此同時惡魔十字附近的其他人可能需要你的幫助。花點時間去融入其他倖存者。{^n}{^n}卡斯帕羅夫，我們的科學家，早已渴望與你交談了。一直在喋喋不休的說著，不過我相信他是想討論下你與虛靈之間的聯繫。{^n}{^n}巴納巴斯，我們的勤雜工，說他需要幫助處理我們的水泵。當你完成對他們的協助後，來我在監獄內的辦公室和我談談。
 #-------------------------------#
     117 :
-        標註 : 
         原文 : >-
             I will speak to them.
         譯文 : >-
             我會找他們談談的。
 #-------------------------------#
     118 :
-        標註 : 
         原文 : >-
             I've had enough for right now.
         譯文 : >-
             我已經受夠了。
 #-------------------------------#
     119 :
-        標註 : 
         原文 : >-
             Where can I find them?
         譯文 : >-
             我在哪能找到他們。
 #-------------------------------#
     120 :
-        標註 : 
         原文 : >-
             Both are outside the Prison. Kasparov is in the house next to the giant riftgate, and Barnabas keeps his camp by the windmill on the south side, you can't miss it.
         譯文 : >-
             都在監獄外面。卡斯帕羅夫在巨大傳送裂縫旁邊的房子裡，巴納巴斯在風車南側，不會找不到的。
 #-------------------------------#
     121 :
-        標註 : 
         原文 : >-
             Got it, I will go speak to them.
         譯文 : >-
             知道了，我會找他們談談的。
 #-------------------------------#
     122 :
-        標註 : 
         原文 : >-
             I need some time.
         譯文 : >-
             我需要一些時間。
 #-------------------------------#
     123 :
-        標註 : 
         原文 : >-
             I'd like to ask a few questions.
         譯文 : >-
             我想問幾個問題。
 #-------------------------------#
     124 :
-        標註 : 
         原文 : >-
             I'll try my best to answer them. You've earned that much.
         譯文 : >-
             我會盡力回答的。這是你應得的。
 #-------------------------------#
     125 :
-        標註 : 
         原文 : >-
             The hangman called me 'Taken'. What did he mean?
         譯文 : >-
             劊子手叫我“被佔據者”。那是什麼意思？
 #-------------------------------#
     126 :
-        標註 : 
         原文 : >-
             It's our word for those possessed by Aetherials. {^n}{^n}Taken can be difficult to distinguish from normal humans but you, or whatever possessed you, stumbled through the rift gate here and became trapped by Kasparov's wards. {^n}{^n}As you were dangling from the gallows, we watched as the spirit left your body to die. That was when I had Jarvis cut you down. {^n}{^n}I won't lie to you; it's not going to be easy for folks around here to get used to you... nature of the times.
         譯文 : >-
             那是我們用來形容被虛靈附身的人的。{^n}{^n}被附身的人很難與普通人區分開然而你或者控制你的那個東西，失足掉進了這裡的傳送裂縫被卡斯帕羅夫的防禦設施給困住了。{^n}{^n}當你被絞刑架吊住的時候，我們看著靈體離開了你的身體而死。那時我讓賈維斯把你放了下來。{^n}{^n}我不會對你說謊的。讓這兒的人接受你不是那麼容易……這個時代人的本性如此。
 #-------------------------------#
     127 :
-        標註 : 
         原文 : >-
             I'll return.
         譯文 : >-
             我會回來的。
 #-------------------------------#
     129 :
-        標註 : 
         原文 : >-
             Where can I find Barnabas and Kasparov?
         譯文 : >-
             我在哪能找到巴納巴斯和卡斯帕羅夫？
 #-------------------------------#
     130 :
-        標註 : 
         原文 : >-
             What is the situation here?
         譯文 : >-
             這的情況如何？
 #-------------------------------#
     131 :
-        標註 : 
         原文 : >-
             You've gained us a small victory by killing the Reanimator, but our struggle is far from over.
         譯文 : >-
             你殺了死屍復生者帶給我們一場小勝，但是我們的奮鬥遠未結束。
 #-------------------------------#
     132 :
-        標註 : 
         原文 : >-
             I'll return.
         譯文 : >-
             我會回來的。
 #-------------------------------#
     134 :
-        標註 : 
         原文 : >-
             Where can I find Barnabas and Kasparov?
         譯文 : >-
             我在哪能找到巴納巴斯和卡斯帕羅夫？
 #-------------------------------#
     135 :
-        標註 : 
         原文 : >-
             What are these Aetherials?
         譯文 : >-
             那些虛靈是什麼東西？
 #-------------------------------#
     136 :
-        標註 : 
         原文 : >-
             That's a tough question. Nobody knows for sure. Most of what I know is from old reports circulated by the resistance shortly after the Grim Dawn. {^n}{^n}It is said that the Aetherials are not of this world. The Arcanists named them after the Aether they so cherish for their sorcery. Aetherials possess living creatures and corrupt the flesh into whatever horrific shape they deem necessary.  I suppose you can count your blessings that you were not possessed long enough to experience this, as far as I can tell.
         譯文 : >-
             這個問題很難回答。沒有人知道確切答案。我所知道的大部分內容都是來自恐怖黎明之後的抵抗中散佈出的舊傳聞。{^n}{^n}據說虛靈不是這個世界的。虛靈是以他們的虛化法術來命名的。虛靈附身生物並腐化其血肉成他們認為必要的可怕形狀。我認為你該慶幸你沒被附身過久而未經歷到那個，我就知道這麼多。
 #-------------------------------#
     138 :
-        標註 : 
         原文 : >-
             I'll return.
         譯文 : >-
             我會回來的。
 #-------------------------------#
     139 :
-        標註 : 
         原文 : >-
             Where can I find Barnabas and Kasparov?
         譯文 : >-
             我在哪能找到巴納巴斯和卡斯帕羅夫？
 #-------------------------------#
     140 :
-        標註 : 
         原文 : >-
             The Dead attacks have slowed and their numbers are thinning. I take that as a sign that you've dealt with the source?
         譯文 : >-
             不死生物的攻擊被拖慢了而且它們的數量也在減少。我可以認為那是你已經處理了源頭的跡象嗎？
 #-------------------------------#
     141 :
-        標註 : 
         原文 : >-
             I have killed the Reanimator.
         譯文 : >-
             我已經殺死了死屍復生者。
 #-------------------------------#
     142 :
-        標註 : 
         原文 : >-
             A creature was doing this? Disturbing. Thanks to your efforts, we may yet hold out here a little longer. {^n}{^n}Take some well-deserved time to rest and recover. {^n}{^n}Welcome to Devil's Crossing!
         譯文 : >-
             一個生物做的這事嗎？太令人不安了。由於你的努力，我們又能在這堅持的久一點了。{^n}{^n}我已派人告訴了門衛。與他交談他就會讓你進去了。用一些你應得的時間來休息與恢復一下吧。{^n}{^n}歡迎來到惡魔十字！
 #-------------------------------#
     143 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     145 :
-        標註 : 
         原文 : >-
             A creature was doing this? Disturbing. Thanks to your efforts, we may yet hold out here a little longer. {^n}{^n}I've sent word to the gate guard. Speak to him and he should let you in. Take some well-deserved time to rest and recover. {^n}{^n}Welcome to Devil's Crossing!
         譯文 : >-
             一個生物做的這事嗎？太令人不安了。由於你的努力，我們又能在這堅持的久一點了。{^n}{^n}我已派人告訴了門衛。與他交談他就會讓你進去了。用一些你應得的時間來休息與恢復一下吧。{^n}{^n}歡迎來到惡魔十字！
 #-------------------------------#
     146 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     148 :
-        標註 : 
         原文 : >-
             What is it now? The Dead are rising in droves and will overwhelm us with sheer numbers at the rate things are going! {^n}{^n}Head to Burial Hill and destroy whatever is reviving them!
         譯文 : >-
             現在如何了？不死生物正在陸陸續續的增加並且將按照這樣的速率以純粹的數量壓垮我們！{^n}{^n}前往殮葬山脈並摧毀喚醒他們的東西。
 #-------------------------------#
     149 :
-        標註 : 
         原文 : >-
             Where can I find Burial Hill again?
         譯文 : >-
             再說一遍我在哪能找到殮葬山脈？
 #-------------------------------#
     150 :
-        標註 : 
         原文 : >-
             Head out through Lower Crossing and make your way up to the road, there should be a signpost pointing to Burial Hill, just beyond town.  {^n}{^n}Go there and find out what's causing the dead to rise!
         譯文 : >-
             從下游渡口出發併到路上去，會有一個指向殮葬山脈的路標就在城外。{^n}{^n}到達那並找出是什麼引起不死生物的增加。
 #-------------------------------#
     151 :
-        標註 : 
         原文 : >-
             On my way.
         譯文 : >-
             這就出發。
 #-------------------------------#
     153 :
-        標註 : 
         原文 : >-
             I'm off to Burial Hill.
         譯文 : >-
             我這就去殮葬山脈。
 #-------------------------------#
     155 :
-        標註 : 
         原文 : >-
             You're not looking too bad for someone just back from the brink of death! You were Taken, possessed by the same creatures that have been reanimating these zombies here. {^n}{^n}Normally I'd have burned you with the rest, to be safe, but we've lost too many people to the Dead. I need someone expendable, someone with nothing to lose but a lot to gain. Right now, you're that person. {^n}{^n}Prove your worth to me and the survivors of Devil's Crossing may just welcome you.
         譯文 : >-
             對於剛從死亡邊緣回來的人來說，你看起來還不算太差。你被控制了被喚醒這裡的這些殭屍的同一種生物附身了。{^n}{^n}通常應該把你和其他人一起燒了來確保安全，但是我們已經因為不死生物損失太多人手了。我需要人手，一些已經沒什麼可失去卻能獲得很多的人手。現在，你就是那樣的人手。{^n}{^n}向我和惡魔十字的其他倖存者證明你的價值會使你在這受到歡迎。
 #-------------------------------#
     156 :
-        標註 : 
         原文 : >-
             What is it you want me to do?
         譯文 : >-
             你要我做什麼？
 #-------------------------------#
     157 :
-        標註 : 
         原文 : >-
             The bodies of the dead are rising again in some horrible unlife. Corpses don't just get up and move around on their own. {^n}{^n}Something is reanimating our deceased with Aetherial energy. We have observed the Dead for some time and they appear to be flooding Lower Crossing from the Burial Hill, just beyond town. {^n}{^n}I want you to go to Burial Hill, find whatever is controlling those abominations and destroy it.
         譯文 : >-
             死人的屍體又再次復生為可怕的不死生物。屍體並不是靠他們自己力量站起走的。{^n}{^n}什麼東西正在用虛靈能量喚醒死者。我們已經觀察不死生物一段時間了而且看起來他們聚滿了從殮葬山脈到下游渡口的區域，就在城外。{^n}{^n}我想要你前去殮葬山脈，找到是什麼在控制這些惡行並摧毀它。
 #-------------------------------#
     158 :
-        標註 : 
         原文 : >-
             Where can I find Burial Hill?
         譯文 : >-
             我在哪能找到殮葬山脈？
 #-------------------------------#
     159 :
-        標註 : 
         原文 : >-
             You will need to fight your way through Lower Crossing. Once you've crossed the stream on the far side of town, there will be a beaten path leading up to Burial Hill. {^n}{^n}I know I'm asking a lot of you, but I'd be asking a lot of my people to welcome you with open arms too. Help us in our hour of need, and I will open Devil's Crossing to you.
         譯文 : >-
             你會需要從下游渡口一路戰鬥。一旦你越過城鎮遠側的小河，會有一條下路引到你到達殮葬山脈。{^n}{^n}我知道我要求你做太多了，但是我也要求我們的許多人熱烈歡迎你了。在我們需要時給於我們幫助，我會讓惡魔十字接納你。
 #-------------------------------#
     160 :
-        標註 : 
         原文 : >-
             I'll find what's reanimating those corpses.
         譯文 : >-
             我會找出是什麼在喚醒那些死屍。
 #-------------------------------#
     161 :
-        標註 : 
         原文 : >-
             I need some time to consider all this.
         譯文 : >-
             我需要時間來考慮所有這些事情。
 #-------------------------------#
     162 :
-        標註 : 
         原文 : >-
             I'd like to ask about something else.
         譯文 : >-
             我想問下其他的事情。
 #-------------------------------#
     163 :
-        標註 : 
         原文 : >-
             Very well, but make it quick. The longer you linger, the more Dead gather at Lower Crossing.
         譯文 : >-
             很好，但是快一點。你逗留越久，下游渡口就會聚集越多的不死生物。
 #-------------------------------#
     164 :
-        標註 : 
         原文 : >-
             What is the situation here?
         譯文 : >-
             這的情況如何？
 #-------------------------------#
     165 :
-        標註 : 
         原文 : >-
             That Aetherial really scrambled your memories, huh? The world has turned into a nightmare and there are things far worse than walking corpses out there. This old prison now serves as the last human refuge in these parts. {^n}{^n}We get the occasional drifter passing through here with tales of other sanctuaries, but nothing I've been able to confirm. I don't think there is much left of our kind beyond these walls but ruthless bandits, strange cults and greedy salvagers eager to make a profit even in these desperate times. {^n}{^n}You want my advice? Make yourself useful here. Your other option is to die out there.
         譯文 : >-
             虛靈真的奪取了你的記憶，是吧？這個世界已經變成了噩夢並且還有比行屍走肉般的呆在那更糟的事情。這個舊監獄現在成為這些地區裡最後的人類避難所。{^n}{^n}我們接收偶爾路過這裡的帶著其他避難所故事的流浪者，不過什麼都不能確認。我不認我這些圍牆外還有多少我們的同類，除了殘忍的強盜，奇怪的宗教還有在這絕望的時候還渴望牟利的貪婪的拾荒者。{^n}{^n}你想要我的建議？發揮你的作用。不然你唯一的選擇就是死在外頭。
 #-------------------------------#
     168 :
-        標註 : 
         原文 : >-
             I'm off to Burial Hill.
         譯文 : >-
             我這就去殮葬山脈。
 #-------------------------------#
     169 :
-        標註 : 
         原文 : >-
             What are the Aetherials?
         譯文 : >-
             虛靈是什麼東西？
 #-------------------------------#
     170 :
-        標註 : 
         原文 : >-
             That's a tough question. Nobody knows for sure. Most of what I know is from old reports circulated by the resistance shortly after the Grim Dawn. {^n}{^n}It is said that the Aetherials are not of this world. The Arcanists named them after the Aether they so cherish for their sorcery. Aetherials possess living creatures and corrupt the flesh into whatever horrific shape they deem necessary. I suppose you can count your blessings that you were not possessed long enough to experience this, as far as I can tell.
         譯文 : >-
             這個問題很難回答。沒有人知道確切答案。我所知道的大部分內容都是來自恐怖黎明之後的抵抗中散佈出的舊傳聞。{^n}{^n}據說虛靈不是這個世界的。虛靈是以他們的虛化法術來命名的。虛靈附身生物並腐化其血肉成他們認為必要的可怕形狀。我認為你該慶幸你沒被附身過久而未經歷到那個，我就知道這麼多。
 #-------------------------------#
     173 :
-        標註 : 
         原文 : >-
             I'm off to Burial Hill.
         譯文 : >-
             我這就去殮葬山脈。
 #-------------------------------#
     174 :
-        標註 : 
         原文 : >-
             Nevermind. Where can I find Burial Hill?
         譯文 : >-

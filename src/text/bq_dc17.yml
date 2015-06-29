@@ -1,57 +1,49 @@
-bq_dc17.txt : 
+bq_dc17.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Nalloth
         譯文 : >-
             賞金：寒霜之裔 納羅斯
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             A powerful reanimator has been spotted coming in and out of the Warden's Cellar, possibly the last of Krieg's cruel experiments.{^n}{^n}Things are bad enough out there with the regular reanimators roaming about, this Nalloth the Frostbound must be slain.{^n}{^n}Anyone that takes it out will be justly rewarded with some of our scavenged materials.
         譯文 : >-
             一個強大的復生者在克隆利的地下室進進出出，它可能是克里格最後一個殘忍的實驗品。{^n}{^n}已有的四處遊蕩的復生者已經讓事情變得很糟糕了，納羅斯必須被消滅。{^n}{^n}任何完成任務的人都將得到一些材料作為獎賞。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Nalloth
         譯文 : >-
             殺了納羅斯
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了惡魔十字的任務，應該回到賞金桌領取獎賞。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Devil's Crossing Bounty Table
         譯文 : >-

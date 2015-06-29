@@ -1,85 +1,73 @@
-npc_captive_rover_jasper_01.txt : 
+npc_captive_rover_jasper_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Jasper
         譯文 : >-
             賈斯伯
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Please, stay your weapon stranger; we're no outlaws! We were captured and put to work here in the mine. I hope you're here to set us free?
         譯文 : >-
             陌生人，請先放下你的武器。我們不是壞人！我們是被人抓住之後弄到這個礦井裡工作的。我希望你是來這兒解放我們的。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             You're slaves here?
         譯文 : >-
             你們是奴隸？
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             So it would seem and nothing is worse to a rover than being confined. We're part of a rover band that set up camp in a secluded part of Wightmire hoping to avoid trouble but trouble found us anyway.{^n}{^n}They captured four of us but young Larkin and two other men who were here already died from overwork. They just left their bodies down here with us... Rovers follow the path of peace but I can't help thinking the world is a better place since you sent those outlaws to meet their judgment.
         譯文 : >-
             看似如此。對一個流浪者來說，沒有比被囚禁更糟糕的事了。我們原本是流浪者。為了安全起見，我們的隊伍在屍妖泥沼的偏僻處紮營，不過我們還是遭殃了。{^n}{^n}他們本來抓到了四個人，但年輕的拉金和另外兩個原本就在這裡工作的人卻因為勞累過度而死掉了。匪徒們就這樣把他們的屍體扔在這兒不管……雖然流浪者嚮往和平，但我還是認為如果你能幹掉這些人渣，世界才會變得更加美好。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I can get you to Devil's Crossing using a riftgate.
         譯文 : >-
             我可以通過傳送裂縫把你們送到惡魔十字。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             A riftgate? Curious. I thank you for your kind offer, but we should return to our people out in the swamps. That is our path.
         譯文 : >-
             傳送裂縫？很稀罕的東西。我很感激你能伸出援手，但是我們必須回去與沼澤的人集合。那才是正道。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             那好吧。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             We will spread word of your deed. Should you ever find yourself in the company of the Rovers, you will always find a place beside our fire.
         譯文 : >-
             我們會散播你的事蹟。如果有機會遇上流浪者的隊伍，你一定會在隊伍裡有一席之地的。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Take care.
         譯文 : >-
             請保重。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             I killed the bandits. You are free to go.
         譯文 : >-
             我把匪徒們都幹掉了。你們自由了。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Thank you again for giving us back our freedom. We will set out to rejoin our people once we've had a chance to rest.
         譯文 : >-
             謝謝你讓我們重獲自由。我們歇一會兒就去和我們的人匯合。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Travel safe.
         譯文 : >-

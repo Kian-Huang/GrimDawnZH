@@ -1,295 +1,253 @@
-npc_edwin_02.txt : 
+npc_edwin_02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Edwin
         譯文 : >-
             埃德溫
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             By the gods, you've done it.{^n}{^n}I was about ready to start boiling boots.
         譯文 : >-
             老天爺啊，你找到吃的了。{^n}{^n}我都要準備開始煮靴子吃了。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             So high-class meals from here on out?
         譯文 : >-
             從現在開始能在你這兒吃上好菜了吧？
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             *Edwin laughs*{^n}{^n}I wish!
         譯文 : >-
             *埃德溫笑了*{^n}{^n}希望如此！
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Let's have a bowl of soup.
         譯文 : >-
             我來喝一碗粥。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Let's have a bowl of soup.
         譯文 : >-
             我來喝一碗粥。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Glad that's resolved.
         譯文 : >-
             很高興問題解決了。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             I...um, Ulgrim just packed up and left. Said that he saw what he needed to here and that it was time to move on.{^n}{^n}Not sure what he meant by it, but he had some mean looking blades packed away with his cooking supplies. Do you think he's a threat?
         譯文 : >-
             我……額，艾格瑞姆剛剛收拾行囊離開了。他說他在這兒看到了他需要做的事，是時候上路了。{^n}{^n}不知道他說的是什麼意思，不過他把幾把普通的刀劍和他的廚具一起帶走了。你覺得他會威脅到我們麼？
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Where do you think he went?
         譯文 : >-
             你認為他去了哪裡？
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             I haven't a clue. He seemed to be in an awful hurry.
         譯文 : >-
             我不知道，他看起來走得很急。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I see. Thanks for the info.
         譯文 : >-
             我懂了。謝謝你的消息。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Not sure yet. Thanks for the info.
         譯文 : >-
             我不確定，謝謝你的消息。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Ulgrim taught me a thing or two before he left. Now, I ain't some master chef or nothin', but hopefully it'll be better than the grub I've been serving up before.{^n}{^n}At least as long as we have rations to go around...
         譯文 : >-
             艾格瑞姆在他離開之前指點了下我的廚藝。現在我雖然不是什麼大廚，但肯定比我之前做的那些吃的強多了。{^n}{^n}如果目前的食物配額還能持續下去的話……
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             I've seen him in Homestead. He's no cook.
         譯文 : >-
             我在霍姆斯特德見到他了，他不再做廚子了。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Oh? He did seem to have some mean looking blades packed away with his cooking supplies. Do you think he's a threat?
         譯文 : >-
             哦？他離開的時候確實帶著幾把普通的刀劍和他的廚具。你覺得他會對我們造成威脅麼？
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             He seems to want to help humanity.
         譯文 : >-
             似乎他是要幫助整個人類的。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Well that's a relief. Enough bad folks out there as it is.{^n}{^n}Good to know there's at least one guy out there fighting the good fight.
         譯文 : >-
             這讓人感到欣慰啊，外面的壞種可真是夠多了。{^n}{^n}很高興聽到至少有一個人為了正義而戰。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Now about that bowl of soup...
         譯文 : >-
             那麼這一碗粥……
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Indeed.
         譯文 : >-
             確實如此。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             We will see. He's a dangerous assassin.
         譯文 : >-
             我們早晚會知道的，他是個危險的刺客。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             What a stinking slith. I should check to see if he snuck any poisons in the seasonings.{^n}{^n}The soup he made is damn fine though.
         譯文 : >-
             那個臭蛇人!我應該看看他有沒有偷偷在佐料裡下了毒的。{^n}{^n}不過他做的粥還是真是他娘好喝啊。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             I'll try a bowl.
         譯文 : >-
             我來嘗一碗。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             Just be careful.
         譯文 : >-
             要小心一些。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Where do you think he went?
         譯文 : >-
             你認為他去了哪裡？
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             I haven't a clue. He seemed to be in an awful hurry.
         譯文 : >-
             我不知道，他看起來走得很急。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Oh yeah? Let's have a bowl.
         譯文 : >-
             是麼？給我來一碗。
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             Here you go.
         譯文 : >-
             給你。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Wow, that was actually not terrible. Thanks.
         譯文 : >-
             哇，真的不賴。謝了。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Sorry, Captain says we're on rations. You've already had a bowl today.
         譯文 : >-
             對不起，隊長說我們得定量供應。你今天已經吃了一碗了。
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             Fine, fine.
         譯文 : >-
             好吧，好吧。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             Good to hear.
         譯文 : >-
             很高興聽到這個消息。
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             Where'd you find this guy? He'd make a soup out of stone if you asked him to, and I reckon it would still taste damn fine!
         譯文 : >-
             你從哪兒找來的這傢伙？你就是叫他用石頭做粥他都做得出來，而且我估計那粥還他孃的很好喝。
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             Rock soup, eh? Is it better than what you've been serving?
         譯文 : >-
             啊，石頭粥？難道比你之前做的都好吃？
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             We got a joker in the midst now, eh?
         譯文 : >-
             現在我們有個愛逗比的傢伙了，是麼？
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             I gotta go.
         譯文 : >-
             我該走了。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             Sounds delicious.
         譯文 : >-
             聽起來很美味。
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             I ain't gonna pretend that what I make is good, or even edible, but it fills up the gut and keeps us going. Can't do much without some proper equipment and supplies. If you ever want a bowl of the Edwin Special, you just let me know.
         譯文 : >-
             我可不會裝作能做得一手好菜，我甚至不敢說我做的飯是能吃的，反正我做的飯能填飽肚子讓咱們活命。沒有稱手的廚具還有合適的材料的話沒法做啥好菜。你要是想要一碗埃德溫的特色美食，給我說一聲就行。
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             I'll, um, keep that in mind.
         譯文 : >-
             額，我會記得這茬兒的。
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             You must be the Taken the rumors been spreading about. Now I ain't gonna judge as I heard you've done right by us with that undead mess up in Lower Crossing. The name's Edwin and I do the cooking around here.
         譯文 : >-
             你肯定是那個傳說中的被佔據者了。我不會懷疑你了，因為你幫我們解決了下游渡口的那些喪屍。我叫埃德溫，我是這兒的伙伕。
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             Pleased to meet you.
         譯文 : >-

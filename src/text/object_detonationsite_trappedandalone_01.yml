@@ -1,50 +1,43 @@
-object_detonationsite_trappedandalone_01.txt : 
+object_detonationsite_trappedandalone_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Detonation Site
         譯文 : >-
             爆破地點
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             It appears that the entrance to this cave has collapsed. You could clear the way with some explosives. The old abandoned mines around Old Arkovia are likely the best place to find some.{^n}{^n}It will take 1 Dynamite to clear a path.
         譯文 : >-
             看起來進入洞穴入口已經坍塌了。你可以用一些爆炸物來清除掉障礙。古安克維亞的廢舊礦井是尋找爆炸物最好的去處。{^n}{^n}需要一捆炸藥才能清理出一條道路。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Not enough Dynamite.
         譯文 : >-
             炸藥不足。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Clear the Cave-in.
         譯文 : >-
             清除障礙。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You have cleared this cave-in.
         譯文 : >-
             你已經清除了塌方。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-

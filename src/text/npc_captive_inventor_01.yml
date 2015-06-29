@@ -1,85 +1,73 @@
-npc_captive_inventor_01.txt : 
+npc_captive_inventor_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Darlet
         譯文 : >-
             達萊特
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             I need to get out of here!
         譯文 : >-
             我必須離開這兒！
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Help is on the way.
         譯文 : >-
             我這就來救你。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I can't believe somebody found me out here! I came down into this cellar looking for supplies, but got cut off from the surface by the Dead. I don't know what to do...
         譯文 : >-
             我不敢相信還有人能找到我！我進入這間地窖尋找補給品，卻被喪屍擋住了回去的路。我不知道該怎麼辦了。。。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Kasparov sent me. I can open a riftgate and get you to safety.
         譯文 : >-
             卡斯帕羅夫派我來救你。我可以打開傳送裂縫把你送到安全的地方。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You can do that?! I can't say that raises my confidence in you, but then again I don't like the alternatives either. Portal away!
         譯文 : >-
             你真能做到嗎？！我不敢說這樣能讓我更相信你，但是我沒得選。打開傳送門吧！
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Safe journey! (Open Riftgate)
         譯文 : >-
             一路順風！(打開傳送門)
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Follow me, we'll go out together!
         譯文 : >-
             跟我來，我們一起離開這裡！
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Are you crazy? Those things out there will chew me to bits. At least I'm safe in here.
         譯文 : >-
             你瘋了嗎？那些喪屍會把我咬成碎片。至少我在這兒很安全。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             I can open a riftgate and get you to safety.
         譯文 : >-
             我可以打開傳送裂縫把你送到安全的地方。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             You can do that?! I can't say that raises my confidence in you, but then again I don't like the alternatives either. Portal away!
         譯文 : >-
             你真能做到嗎？！我不敢說這樣能讓我更相信你，但是我沒得選。打開傳送門吧！
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Safe journey! (Open Riftgate)
         譯文 : >-

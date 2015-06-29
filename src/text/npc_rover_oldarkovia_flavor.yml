@@ -1,505 +1,433 @@
-npc_rover_oldarkovia_flavor.txt : 
+npc_rover_oldarkovia_flavor.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Amkala
         譯文 : >-
             艾姆卡拉
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Hello, traveler.
         譯文 : >-
             Hello, traveler.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             What can you tell me about the area?
         譯文 : >-
             What can you tell me about the area?
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             I heard news of the shrine's restoration. The Rhowari are forever in your debt.
         譯文 : >-
             I heard news of the shrine's restoration. The Rhowari are forever in your debt.
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I have found some texts you may find interesting.
         譯文 : >-
             I have found some texts you may find interesting.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
         譯文 : >-
             That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             What can you tell me about the area?
         譯文 : >-
             What can you tell me about the area?
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             You're welcome.
         譯文 : >-
             You're welcome.
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             It had to be done.
         譯文 : >-
             It had to be done.
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Greetings, friend. Have you visited the Shrine of Mogdrogen yet?
         譯文 : >-
             Greetings, friend. Have you visited the Shrine of Mogdrogen yet?
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Where is the shrine?
         譯文 : >-
             Where is the shrine?
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             The Shrine is far to the north, past the area you call Homestead, in the snowy peaks of the Asterkarn Mountains.{^n}{^n}Beware the Cult of Ch'thon, their presence is strong in that region.
         譯文 : >-
             The Shrine is far to the north, past the area you call Homestead, in the snowy peaks of the Asterkarn Mountains.{^n}{^n}Beware the Cult of Ch'thon, their presence is strong in that region.
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             Thank you.
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I have found some texts you may find interesting.
         譯文 : >-
             I have found some texts you may find interesting.
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
         譯文 : >-
             That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             What can you tell me about the area?
         譯文 : >-
             What can you tell me about the area?
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             Hello, friend of the Rhowari. I apologize for interrupting you in your important travels, but I must ask something of you, something that requires utmost care and trust.
         譯文 : >-
             Hello, friend of the Rhowari. I apologize for interrupting you in your important travels, but I must ask something of you, something that requires utmost care and trust.
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             What is it?
         譯文 : >-
             What is it?
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Far to the north, in the frozen Asterkarn Mountains, there is a shrine dedicated to Mogdrogen, patron of beasts and guardian of the Rhowari. For generations, our people had visited Mogdrogen's sacred altar in order to pay homage to the day that He bestowed His wisdom upon Rhowan and inspired our people to leave Arkovia.{^n}{^n}But the shrine has become tainted by the vile Cult of Ch'thon. The followers of the Dead God have desecrated our sacred grounds and destroyed the Shrine of Mogdrogen.
         譯文 : >-
             Far to the north, in the frozen Asterkarn Mountains, there is a shrine dedicated to Mogdrogen, patron of beasts and guardian of the Rhowari. For generations, our people had visited Mogdrogen's sacred altar in order to pay homage to the day that He bestowed His wisdom upon Rhowan and inspired our people to leave Arkovia.{^n}{^n}But the shrine has become tainted by the vile Cult of Ch'thon. The followers of the Dead God have desecrated our sacred grounds and destroyed the Shrine of Mogdrogen.
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             What can be done?
         譯文 : >-
             What can be done?
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             The Shrine lies in ruins, its Runed Stone and Spirit scattered among the Cult's camps. We cannot allow for this symbol of our people to be lost to history. Please, search the cultist grounds to the north and recover the pieces of Mogdrogen's Shrine.{^n}{^n}Bring the parts back to the Shrine and place them upon the altar along with the beating heart of an ancient beast, its noble sacrifice will serve as a catalyst to fuse the broken pieces into one. Once you are finished, be prepared to dispatch whatever vile Chthonians have infested Mogdrogen's lands. For this, the Rhowari will be eternally at your service.{^n}{^n}Warning: the quest cannot be completed in this build. The area you must access will become availabe in a future build.
         譯文 : >-
             The Shrine lies in ruins, its Runed Stone and Spirit scattered among the Cult's camps. We cannot allow for this symbol of our people to be lost to history. Please, search the cultist grounds to the north and recover the pieces of Mogdrogen's Shrine.{^n}{^n}Bring the parts back to the Shrine and place them upon the altar along with the beating heart of an ancient beast, its noble sacrifice will serve as a catalyst to fuse the broken pieces into one. Once you are finished, be prepared to dispatch whatever vile Chthonians have infested Mogdrogen's lands. For this, the Rhowari will be eternally at your service.{^n}{^n}Warning: the quest cannot be completed in this build. The area you must access will become availabe in a future build.
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             I will restore the shrine of Mogdrogen.
         譯文 : >-
             I will restore the shrine of Mogdrogen.
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Find someone else.
         譯文 : >-
             Find someone else.
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             I have already restored the shrine.
         譯文 : >-
             I have already restored the shrine.
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             That is good to hear, but did you cleanse it of the vile Chthonians?{^n}{^n}The shrine will not be safe for the Rhowari unless this is done.
         譯文 : >-
             That is good to hear, but did you cleanse it of the vile Chthonians?{^n}{^n}The shrine will not be safe for the Rhowari unless this is done.
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             I will clenase the area of Chthonians.
         譯文 : >-
             I will clenase the area of Chthonians.
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             Find someone else.
         譯文 : >-
             Find someone else.
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             I have already restored the shrine, and cleansed it of evil.
         譯文 : >-
             I have already restored the shrine, and cleansed it of evil.
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             You are a true champion of Mogdrogen and the Rhowari.{^n}{^n}If you have done as you say, then please visit the shrine. In times of such bravery, the beast god has been known to manifest before his followers.{^n}{^n}Perhaps you shall be so fortunate?
         譯文 : >-
             You are a true champion of Mogdrogen and the Rhowari.{^n}{^n}If you have done as you say, then please visit the shrine. In times of such bravery, the beast god has been known to manifest before his followers.{^n}{^n}Perhaps you shall be so fortunate?
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             I will visit the shrine.
         譯文 : >-
             I will visit the shrine.
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             Perhaps another time.
         譯文 : >-
             Perhaps another time.
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             I'm sorry, I cannot help you.
         譯文 : >-
             I'm sorry, I cannot help you.
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             I have found some texts you may find interesting.
         譯文 : >-
             I have found some texts you may find interesting.
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
         譯文 : >-
             That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             What can you tell me about the area?
         譯文 : >-
             What can you tell me about the area?
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             Perhaps another time.
         譯文 : >-
             Perhaps another time.
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Did you know that Arkovia is the ancient birthplace of the Rhowari? I could tell you much of this land if you have time for a tale.
         譯文 : >-
             你知道安克維亞就是羅瓦里的誕生地嗎？你如果有時間聽故事的話，我能給你講述許多這片土地的過往。
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             I have found some texts you may find interesting.
         譯文 : >-
             我找到一些你可能會感興趣的文本。
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
         譯文 : >-
             真是令人震驚的發現。謝謝你，以全體羅瓦里的名義，把這些文本帶給我們。{^n}{^n}我會保證所有到這裡的流浪者都會學習到這上面的內容。
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             Please, I'd be interested to hear the tale of Old Arkovia.
         譯文 : >-
             請講，我非常有興趣瞭解古安克維亞的故事。
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             The ruins that dot the landscape here were once part of a thriving culture in ancient times. Arkovia prospered by acting as a trade hub between the western lands and the great lake.{^n}{^n}From the little fishing village of New Harbor, which is hardly a harbor at all, the stone pylons of Arkovia's once massive docks can be seen still jutting from the water, the wood long rotted away.
         譯文 : >-
             遍佈於這片土地上的廢墟曾是古代繁榮文明的一部分。安克維亞曾是西方和大湖之間的貿易中心。{^n}{^n}在新港的那座根本不是港口的小漁村，還能看到安克維亞的石制信標立在水裡面，木製的部分早已經腐爛掉了。
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             How did Arkovia fall?
         譯文 : >-
             安克維亞是如何陷落的？
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             Arkovia was a proud city but its people were overly obsessed with war and titles. The nobility constantly maneuvered and plotted against one another, sometimes leading Arkovia into civil war.{^n}{^n}Some seasons, little was planted as the common men from different fiefs were called to arms by lords squabbling with one another. Eventually, society collapsed and a weakened Arkovia became easy prey to outside powers.Provinces were lost and the domain of Arkovia contracted, yet the city itself was never conquered by foreign foes. Its death was far more sinister...
         譯文 : >-
             安克維亞是座值得自豪的城市，但是它的人民過於耽於戰爭和虛名。貴族們定期互相傾軋，有時會導致安克維亞發生內戰。{^n}{^n}一些時節，沒人種地。因為不同封地的人會被領主征伐起來和另外一個領主爭鬥。最終，整個社會分崩離析，虛弱的安克維亞變得容易被外來勢力入侵。丟失了許多行省，安克維亞的疆域因此縮小。不過這座城市本身從沒有被外敵征服過，它的死亡是由於更加罪惡的原因……
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             What did happen to the city of Arkovia then?
         譯文 : >-
             安克維亞的城市中發生了什麼？
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             In the final years, decades after Rhowan, the last king of Arkovia and the father of the Rhowari, abdicated the throne, the great houses came to outright war over the vacant throne.{^n}{^n}Eventually, an Oligarchy formed comprised of the most powerful remaining houses. Each was ever maneuvering and plotting against the others, all believing that if they could only seize power for themselves, they could usher in a new golden era for the city.Their machinations wrought only destruction and misery, hastening Arkovia to its ruin and driving them in turn to pursue desperate measures that brought them ruin on a catastrophic scale. Its weight is still heavy upon this land.
         譯文 : >-
             在羅文王幾十年之後那些最後的歲月裡，安克維亞最後的君王，所有羅瓦里的父親放棄了王位。因為空置的王座，所有貴族之間爆發了全面的戰爭。{^n}{^n}最後，一位獨裁者代表剩餘的家族繼承了王位。每個家族都在彼此之間爭鬥傾軋，認為只要把權力抓在手中，他們就能為這座城市迎來新的黃金紀元。但他們的陰謀詭計帶來的只有破壞和苦難，加速著安克維亞的滅亡。使他們使出絕望之中的手段，走向災難性的毀滅。這是這片土地不能承受之重。
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             You mentioned necromancers played a part in the final fall?
         譯文 : >-
             你提到的死靈法師也在安克維亞的覆滅中扮演了重要的角色？
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             The final doom of Arkovia, that which has cursed these lands ever since, was indeed delivered by necromancers. Necromancy is an ancient art but it flourished during the early days of Arkovia's history. That is until it was outlawed.{^n}{^n}Necromancers were hunted down and jailed in the Steps of Torment. There they were punished for their transgressions against nature, but the dark art could never be fully stamped out.It is said that one of the necromancers imprisoned in the tower never aged, even after decades of imprisonment, and they found that he could not be killed by any means within their power.{^n}{^n}He was known by the name Uroboruuk and his seeming immortality turned against him on the torturer's table. In the end though, he had his vengeance...
         譯文 : >-
             安克維亞的末日是由於受到了永世的詛咒，而那詛咒正是死靈法師施放的。死靈法術是一項遠古的技藝，它在安克維亞早期的歷史中十分興盛。當然那是在它被定義為非法之前的事了。{^n}{^n}死靈法師們被抓捕然後投進了苦痛階梯的監獄裡。在那裡他們因為對抗自然的變化而受到懲罰，但是這種黑暗的法術是永遠無法被完全消滅的。據說，其中一名被關押的死靈法師從來不會變老，甚至是在他們關了他數十載之後。而且他們還發現以他們的力量怎麼也無法殺死他。{^n}{^n}他的名字叫尤若布魯克，他的不朽似乎在拷問者那裡幫了他倒忙。不過在最後，他還是報了大仇……
 #-------------------------------#
     68 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     69 :
-        標註 : 
         原文 : >-
             How did this Uroboruuk manage to carry out his vengeance?
         譯文 : >-
             這位尤若布魯克如何復仇的？
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             As Arkovia waned, the Oligarchs became increasingly desperate and driven to extreme measures.{^n}{^n}When they learned of Uroboruuk and his strange immortality, they were foolishly intrigued. The great houses lusted for the secret knowledge by which they could achieve immortality for their bloodlines and they thought to compel that knowledge from the necromancer.{^n}{^n}Uroboruuk played upon their desires and betrayed them with a false ritual that they were all too eager to believe. The souls of the Arkovians were bound eternally to their cursed city while their mortal flesh decayed.
         譯文 : >-
             隨著安克維亞不斷衰落，獨裁者們變得越來越絕望，使他們使出了非常的手段。{^n}{^n}當他們得知尤若布魯克和他奇特的不老能力之後，他們愚蠢地迷戀上了這種能力。那些家族們強烈渴望得知這種能讓他們長生不老的祕密，然後他們認為可以逼迫死靈法師說出這種祕密。{^n}{^n}尤若布魯克玩弄著他們的慾望，然後用一種錯誤的儀式背叛了他們。安克維亞人的靈魂因此永遠的被困在他們被詛咒的城市裡，同時他們的血肉仍在慢慢地腐爛著。
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             A Grim tale indeed. If only there was a way to ease the suffering of this land.
         譯文 : >-
             實在是一個令人毛骨悚然的故事。要是有法子消除這片土地受到的詛咒就好了。
 #-------------------------------#
     74 :
-        標註 : 
         原文 : >-
             I sense there is something you're holding back?
         譯文 : >-
             我覺得你似乎有所保留？
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             Yes, the most terrible part of this tale. I had thought not to speak it but you seem determined to seek the full truth.{^n}{^n}The last part of the tale is of the children birthed after the ritual's magic had taken hold. They entered this world horribly deformed and inhuman. Their feet were said to be clawed and from their backs sprouted diseased plumage, like the feathers of birds who feast upon the dead. Not many venture into the Broken Hills anymore, but those who do say these accursed children of Arkovia have endured and now prey upon travelers who pass through those lands.{^n}{^n}Thus the doom of Arkovia was complete, wiping out the past and future bloodlines of the great houses and cursing these lands to this day.
         譯文 : >-
             是的，我隱瞞了這故事最恐怖的一部分。我本不打算講出來的，但似乎你執意要了解全部的真相。{^n}{^n}故事的最後部分是儀式進行之後，出生的孩子都變成了恐怖的，非人類的外形。他們的腳據說變成了爪子，他們的背上長著病態的翅膀，就像食腐的鳥那樣。我沒有怎麼到過破碎丘陵，但是有人說那些飽受折磨的被詛咒的孩子們在那裡捕食著過往的旅行者。{^n}{^n}由此安克維亞的末日來臨，貴族們的血脈被徹底消滅了，直到今天這片土地依然還被詛咒著。
 #-------------------------------#
     77 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             I have to be on my way.
         譯文 : >-
             我必須繼續趕路了。
 #-------------------------------#
     79 :
-        標註 : 
         原文 : >-
             May your path be true.
         譯文 : >-
             願你的前路光明。
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             Go in peace, but beware the spirits of this land. They are treacherous.
         譯文 : >-
             一路平安，小心這片土地上的魂靈。他們陰險狡詐。
 #-------------------------------#
     82 :
-        標註 : 
         原文 : >-
             I have found some texts you may find interesting.
         譯文 : >-
             我找到一些你可能會感興趣的文本。
 #-------------------------------#
     83 :
-        標註 : 
         原文 : >-
             That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
         譯文 : >-
             真是令人震驚的發現。謝謝你，以全體羅瓦里的名義，把這些文本帶給我們。{^n}{^n}我會保證所有到這裡的流浪者都會學習到這上面的內容。
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             I'll heed your words.
         譯文 : >-
             我會留心你說的話的。
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             You are always welcome here.
         譯文 : >-
             我們永遠歡迎你。
 #-------------------------------#
     90 :
-        標註 : 
         原文 : >-
             Thank you, I'll remember that.
         譯文 : >-

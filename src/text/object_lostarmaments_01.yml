@@ -1,155 +1,133 @@
-object_lostarmaments_01.txt : 
+object_lostarmaments_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Lost Armaments
         譯文 : >-
             丟失的軍備
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             These cannons have been liberated from the Aetherials.{^n}{^n}The Black Legion will recover them soon.
         譯文 : >-
             這些大炮被從虛靈的手中解放出來了。{^n}{^n}黑色軍團不久之後就會修好它們。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-
             好。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You liberated these cannons from the Aetherials.{^n}{^n}Someone will have to recover them when the opportunity arises.
         譯文 : >-
             你從虛靈的手中解放出了這些大炮。{^n}{^n}時機合適的時候會有人來修好它們的。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-
             好。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             These cannons have been liberated from the Aetherials.{^n}{^n}Someone will have to recover them when the opportunity arises.
         譯文 : >-
             這些大炮被從虛靈的手中解放出來了。{^n}{^n}時機合適的時候會有人來修好它們的。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-
             好。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             These must be the cannons Weapons Master Borrov was referring to.
         譯文 : >-
             這肯定就是武器專家波若提到的大炮了。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Claim this resource for the Black Legion.
         譯文 : >-
             為黑色軍團取回這些武器。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             放棄。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             These cannons would serve the Black Legion in Homestead well.
         譯文 : >-
             這些大炮對於霍姆斯特德的黑色軍團來說會很有用的。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Claim this resource for the Black Legion.
         譯文 : >-
             為黑色軍團取回這些武器。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             放棄。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             These cannons would serve humanity well, if someone could move them.
         譯文 : >-
             這些大炮對於人類來說將會非常有用，如果有人能把它們移走的話。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Take note of this location for the future.
         譯文 : >-
             標記該地點，為了將來派的上用場的時候。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             放棄。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             These must be the cannons Weapons Master Borrov was referring to.{^n}{^n}Unfortunately the Black Legion will not be able to claim these while the Herald of Flame still lives.
         譯文 : >-
             這肯定就是武器專家波若提到的大炮了。{^n}{^n}不幸的是，烈焰使者的存在使得黑色軍團無法使用它們。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-
             好的。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             These cannons would serve the Black Legion in Homestead well.{^n}{^n}Unfortunately the Black Legion will not be able to claim these while the Herald of Flame still lives.
         譯文 : >-
             這些大炮對於霍姆斯特德的黑色軍團來說會很有用的。{^n}{^n}不幸的是，烈焰使者的存在使得黑色軍團無法使用它們。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-
             好。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             These cannons would serve humanity well.{^n}{^n}Unfortunately nobody will be able to claim these while the Herald of Flame still lives.
         譯文 : >-
             這些大炮對於人類來說將會非常有用。{^n}{^n}不幸的是，烈焰使者的存在使得沒有人能夠使用它們。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-

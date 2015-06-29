@@ -1,57 +1,49 @@
-npc_lisandra_02.txt : 
+npc_lisandra_02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Lisandra
         譯文 : >-
             莉珊德拉
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             I don't think I ever had a chance to properly thank you.{^n}{^n}You have saved us from a terrible fate.
         譯文 : >-
             我不知道該怎麼感謝你。{^n}{^n}你把我們從厄運中拯救了出來。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             How did you get captured?
         譯文 : >-
             你們是怎麼被抓住的？
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I was out in Old Grove with a few others, foraging for food, when cultists showed up out of nowhere. They were using these...things...they were like giant walking mouths full of teeth as long as my forearm. They sniffed us out.{^n}{^n}The unlucky ones got torn apart on the spot. About eight of us, myself included, were captured and sent to their camp to be harvested. I still have nightmares about those jaws of death.
         譯文 : >-
             我和另外幾個在古老林地尋找食物，邪教徒不知道從哪兒冒出來的。他們使用那些東西……那些巨嘴的牙齒看起來就像我的前臂那麼長。他們找到了我們。{^n}{^n}有個不幸的人當場就被撕成了碎片。包括我，總共八個人被抓去了他們的營地。我現在還能夢到那些死神般的下顎。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Stay safe.
         譯文 : >-
             保重。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You're welcome.
         譯文 : >-
             不用客氣。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I hope you never end up in a cultist camp. The things they do to their prisoners...{^n}{^n}*Lisandra shudders*{^n}{^n}I wouldn't wish it upon anyone.
         譯文 : >-
             我希望你永遠不要被抓進邪教徒的營地去。他們對囚徒的所作所為……{^n}{^n}*莉珊德拉在顫抖*{^n}{^n}我不希望那種事發生在任何一個人的身上。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             You're safe now.
         譯文 : >-

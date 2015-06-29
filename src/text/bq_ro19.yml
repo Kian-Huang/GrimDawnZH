@@ -1,57 +1,49 @@
-bq_ro19.txt : 
+bq_ro19.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Grum
         譯文 : >-
             賞金：格魯姆
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             A skeletal monstrosity known as Grum has been spotted out at the Crumbling Watch in the Arkovian Foothills. It is a poisonous fiend capable of terrifying destruction.{^n}{^n}The roads will never be safe again if such a creature is allowed to roam free. The Rovers ask that it be slain.{^n}{^n}Anyone brave enough to see this through will be rewarded with some of our scavenged materials.
         譯文 : >-
             A skeletal monstrosity known as 格魯姆 has been spotted out at 瞭望塔遺蹟 in 安克維亞山麓. It is a poisonous fiend capable of terrifying destruction.{^n}{^n}The roads will never be safe again if such a creature is allowed to roam free. The Rovers ask that it be slain.{^n}{^n}Anyone brave enough to see this through will be rewarded with some of our scavenged materials.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Grum
         譯文 : >-
             殺了格魯姆
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Rovers and should return to the Bounty Table for your reward.
         譯文 : >-
             你已經完成了任務，你該返回賞金桌領取獎賞。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Rover Bounty Table
         譯文 : >-

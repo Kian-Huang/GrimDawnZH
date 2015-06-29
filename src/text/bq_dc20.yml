@@ -1,64 +1,55 @@
-bq_dc20.txt : 
+bq_dc20.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Warden's Pets
         譯文 : >-
             賞金：典獄長的走狗
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Gethrand and Zanbrandt were two scientists that disappeared around the time of the Grim Dawn. Nobody knew what happened to them...until now.{^n}{^n}Their horribly disfigured forms have been spotted roaming the Warden's grounds, raising the dead to serve the Aetherials.{^n}{^n}They are a threat to Devil's Crossing. Search the Warden's Lab and Quarters and eliminate the reanimators. You will be suitably rewarded with iron bits.
         譯文 : >-
             蓋思蘭和贊布蘭特是在恐怖黎明之時消失的兩位科學家。知道現在我們才知道他們身上發生了什麼事……{^n}{^n}他們那恐怖醜陋的形態出現在典獄長的地盤上，復活死屍來為虛靈服務。{^n}{^n}他們對於惡魔十字是一項威脅。搜索典獄長的實驗室內的區域來消滅這兩個復生者。你會得到鐵幣作為獎賞
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Gethrand
         譯文 : >-
             殺了蓋思蘭
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Slay Zanbrandt
         譯文 : >-
             殺了贊布蘭特
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了惡魔十字的任務，應該回到賞金桌領取獎賞。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Return to the Devil's Crossing Bounty Table
         譯文 : >-

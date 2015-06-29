@@ -1,43 +1,37 @@
-bq_kc20.txt : 
+bq_kc20.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Ruination
         譯文 : >-
             賞金：毀滅
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Dark times are ahead. The world is in ruins and it is up to us to restore the broken pieces.{^n}{^n}But there is also potential for life to begin anew from the ruins of old. Father Kymon wishes to tap into this potential.{^n}{^n}Speak to a smith who knows the ancient ways. Have them create a Ruination Relic for us.{^n}{^n}Father Kymon has gathered the Blood of Ch'thon as compensation; for research or destruction, as you see fit.
         譯文 : >-
             Dark times are ahead. The world is in ruins and it is up to us to restore the broken pieces.{^n}{^n}But there is also potential for life to begin anew from the ruins of old. Father Kymon wishes to tap into this potential.{^n}{^n}Speak to a smith who knows the ancient ways. Have them create a Ruination Relic for us.{^n}{^n}Father Kymon has gathered the 冥神之血 as compensation; for research or destruction, as you see fit.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Craft a Ruination Relic
         譯文 : >-
             鍛造一個毀滅遺物
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver Ruination to the Kymon's Chosen Bounty Table
         譯文 : >-

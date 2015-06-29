@@ -1,43 +1,37 @@
-bq_dc12.txt : 
+bq_dc12.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Scrap
         譯文 : >-
             賞金：廢鐵
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Barnabas has requisitioned more Scrap for repairs and general maintenance.{^n}{^n}Anyone that scavenges enough materials for him will be rewarded with iron bits.
         譯文 : >-
             巴納巴斯需要更多的廢鐵來修理東西和日常維護。{^n}{^n}任何收集到足夠廢鐵的人他都會獎賞給一些鐵幣。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Scrap
         譯文 : >-
             收集廢鐵
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Scrap to the Devil's Crossing Bounty Table
         譯文 : >-

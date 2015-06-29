@@ -1,155 +1,133 @@
-npc_necro_emissary_base.txt : 
+npc_necro_emissary_base.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Haruuv
         譯文 : >-
             哈魯夫
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Greetings. I trust all goes well in our war against the invaders?
         譯文 : >-
             歡迎。我相信和入侵的戰鬥一切順利吧？
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Where is the Order of Death's Vigil sanctum?
         譯文 : >-
             死亡守夜人教團的聖所在哪裡？
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             We have taken over a small crypt to the north, beyond the Blood Grove. Sadly, it is near Sorrow's Bastion, the reviled sanctuary of Kymon's Chosen.
         譯文 : >-
             我們在北方穿過休耕田地的地方佔領了一個小小墓穴。可悲的是，那兒離悲傷城堡很近。因為那裡是可恨的凱蒙的神選戰士的營地。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             You defile this place with your presence, zealot.
         譯文 : >-
             你玷汙了這個地方，狂徒。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             I'm leaving.
         譯文 : >-
             我這就走。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Greetings.
         譯文 : >-
             你好。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have entered the presence of the Order of Death's Vigil. Tread carefully, stranger.
         譯文 : >-
             你進入了死亡守夜人教團的場所。小心行事，陌生人。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Please, visit our sanctum. Master Varuuk will wish to speak with you.
         譯文 : >-
             請拜訪我們的聖所。瓦拉克大師會很想和你談談的。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Where is your sanctum?
         譯文 : >-
             你們的聖所在哪裡？
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Fallow Fields.
         譯文 : >-
             我們的聖所在北方一個叫做悲傷城堡的古老廢墟之中。{^n}{^n}要去那裡，你必須沿著霍姆斯特的北邊的路走，穿過休耕田地。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             I'm on my way.
         譯文 : >-
             我該上路了。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
         譯文 : >-
             我想讓你去北方尋找我們的聖所。我們在悲傷城堡的西邊佔據了山中一個隱祕的墓穴。{^n}{^n}要去那裡，你必須沿著霍姆斯特的北邊的路走，穿過血森林。當你到達那個古老要塞的遺蹟時，你就和我們的家園很近了。{^n}{^n}進去之後，去見見瓦拉克大師。他希望和我們新盟友談一談。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             I will seek out your sanctum.
         譯文 : >-
             我會去尋找你們的聖所。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Perhaps another time.
         譯文 : >-
             下次吧。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             You have entered the presence of the Order of Death's Vigil. Tread carefully, stranger.
         譯文 : >-
             你進入了死亡守夜人教團的場所。小心行事，陌生人。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-

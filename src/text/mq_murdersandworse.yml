@@ -1,99 +1,85 @@
-mq_murdersandworse.txt : 
+mq_murdersandworse.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             The Outlaw Threat
         譯文 : >-
             歹徒的威脅
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Murderers and Worse
         譯文 : >-
             殺人犯和更糟糕的事情
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Speak to Mornay
         譯文 : >-
             和莫爾奈談談
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             With the Warden threat dealt with, Captain Bourbon feels it is imperative to reopen the way northwest towards the once thriving farming community that supplied this region. That does not come without a its own problems though. Bandits, former convicts from the prison, are rampant in that region and could pose a serious threat to Devil's Crossing. Mornay has just returned from Old Arkovia and should be able to provide information on their activities and whereabouts.
         譯文 : >-
             既然典獄長已經不再成為威脅，波旁隊長認為有必要重新打通前往西北方富饒農莊的道路。那地方曾給惡魔十字供給過糧食。這件事本身不費什麼事兒，但是那個地方現在充斥著強盜和監獄的逃犯，算是惡魔十字心腹大患了。莫爾奈剛從古安克維亞回來，他應該能告訴你這些傢伙們的活動範圍和行蹤。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Speak with Mornay in Devil's Crossing
         譯文 : >-
             和惡魔十字的莫爾奈談談
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Repair the bridge (skippable)
         譯文 : >-
             修好橋（可略過）
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Before you can venture out to the Arkovian Foothills to the northwest, the bridge must first be repaired. In order to repair the bridge, you must provide the necessary materials at its construction site.
         譯文 : >-
             在你去西北方的安克維亞山麓探險之前，必須先修好橋。帶夠材料到建築工地才能修好那座橋。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Repair the bridge leading northwest out of Devil's Crossing
         譯文 : >-
             修好惡魔十字西北方出口的橋
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Kill Edmund
         譯文 : >-
             殺了埃德蒙
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             With the bridge repaired, you need to enter the Arkovian Foothills and let the outlaws know that Devil's Crossing is not a prize for the taking.
         譯文 : >-
             修好了橋，你要進入安克維亞山麓地區。然後讓那些不法之徒知道惡魔十字的人不是好惹的。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Kill Edmund "Shanks" Doyle
         譯文 : >-
             殺死“長腿”埃德蒙·道爾
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Report to Mornay
         譯文 : >-
             報告給莫爾奈
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             It is as Mornay feared. The outlaws are mobilizing against Devil's Crossing and it is only a matter of time before they attack. Report back to Mornay in Devil's Crossing to determine your next steps.
         譯文 : >-
             正如莫爾奈所擔心的那樣，不法之徒正在動員進攻惡魔十字，他們打上門來只是時間問題。回去報告莫爾奈
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Report back to Mornay in Devil's Crossing
         譯文 : >-

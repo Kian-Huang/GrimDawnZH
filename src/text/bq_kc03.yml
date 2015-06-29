@@ -1,57 +1,49 @@
-bq_kc03.txt : 
+bq_kc03.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Dreadlords
         譯文 : >-
             賞金：恐懼領主
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Order of Death's Vigil goes too far in their pursuit of sacrilegious magic. Their Dreadlords toy with death as if it were a plaything, manipulating the dead as the Aetherials do.{^n}{^n}This will not be tolerated. The Dreadlords are to be singled out and made example of.{^n}{^n}Anyone willing to take on these fearsome foes will be justly rewarded with iron bits.
         譯文 : >-
             The Order of Death's Vigil goes too far in their pursuit of sacrilegious magic. Their Dreadlords toy with death as if it were a plaything, manipulating the dead as the Aetherials do.{^n}{^n}This will not be tolerated. The Dreadlords are to be singled out and made example of.{^n}{^n}Anyone willing to take on these fearsome foes will be justly rewarded with iron bits.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Order of Death's Vigil Dreadlords
         譯文 : >-
             殺死死亡守夜人恐懼領主
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Kymon's Chosen Bounty Table
         譯文 : >-

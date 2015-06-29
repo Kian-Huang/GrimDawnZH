@@ -1,78 +1,67 @@
-npc_lisandra_01.txt : 
+npc_lisandra_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Lisandra
         譯文 : >-
             莉珊德拉
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Get us out of here!
         譯文 : >-
             救我們出去！
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Help is on the way.
         譯文 : >-
             我這就來救你們。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I don't know who you are, but I don't much care. You're not a cultist. At least you don't look like one.{^n}{^n}Please, get us out of here. Those bastards have been taking us out of the cage, one at a time. We were forced to watch while they drained a man completely of his blood. It was horrible.
         譯文 : >-
             我不知道你是誰，但是我不在乎這個。反正你不是邪教徒。至少你看起來不像是。{^n}{^n}請你救我們出去。那些混蛋每一次拉一個出去，他們強迫我們看著一個人的血全部被抽的乾乾淨淨。那實在是太可怕了。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I can get you all back to Homestead via riftgate.
         譯文 : >-
             我可以用傳送門把你們全部送回霍姆斯特德。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             At this point I'd settle for anything. Just get us home.
         譯文 : >-
             現在怎麼去都好，送我們回家吧。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             See you in Homestead. (Open Riftgate)
         譯文 : >-
             霍姆斯特德再見。(打開傳送門)
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             I don't know who you are, but I don't much care. You're not a cultist. At least you don't look like one.{^n}{^n}Please, get us out of here. Those bastards have been taking us out of the cage, one at a time. We were forced to watch while they drained a man completely of his blood. It was horrible.
         譯文 : >-
             我不知道你是誰，但我不關心這個。你不是一個邪教徒。至少你看起來不像是。{^n}{^n}請你救我們出去。那些雜種一次從牢房裡弄出去一個人。還強迫我們看他們吸乾一個人的鮮血。那實在是太可怕了。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             I can get you all back to Homestead via riftgate.
         譯文 : >-
             我可以把你們全部用傳送門送回霍姆斯特德。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             At this point I'd settle for anything. Just get us home.
         譯文 : >-
             到了這種節骨眼上，只要送我們回家，用什麼方法都行。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             See you in Homestead. (Open Riftgate)
         譯文 : >-

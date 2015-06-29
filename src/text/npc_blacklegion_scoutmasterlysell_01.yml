@@ -1,218 +1,187 @@
-npc_blacklegion_scoutmasterlysell_01.txt : 
+npc_blacklegion_scoutmasterlysell_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Scoutmaster Lysell
         譯文 : >-
             偵查隊長 萊伊爾
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             I won't forget what you've done. It may be sentimental, but those brave men and women deserved this small respect.
         譯文 : >-
             我不會忘了你做過的事。那可能有點感情用事，但那些勇敢的男人女人們應該受到這種小小的尊重。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             As you were.
         譯文 : >-
             堅守原地。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Any luck recovering those insignias?
         譯文 : >-
             找尋那些徽章的事還順利嗎？
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Yes. Here they are.
         譯文 : >-
             找到了。給你。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Thank you. It may seem like a small gesture to you, but you've helped honor the Legion's fallen, and we do not forget that.{^n}{^n}Please, take these iron bits as compensation. It is the least we can do in return.
         譯文 : >-
             謝謝你。這看起來可能對你只是小事一樁，可你幫助我們讓軍團隕落的戰士榮歸故土，我們不會忘記你的功勞。{^n}{^n}請收下這些鐵幣作為酬勞，我們只能以此來回報你了。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Any luck recovering those insignias?
         譯文 : >-
             找尋那些徽章的事還順利嗎？
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Where should I be looking?
         譯文 : >-
             我該去哪裡尋找？
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Head out into cultist territory in the Blood Grove, to the north of Homestead.{^n}{^n}I'm not holding out any hope that my men survived out there, so just bring back their insignias.
         譯文 : >-
             往血森林那裡邪教徒的地盤上去，就在霍姆斯特德的北方。{^n}{^n}我對我的人能倖存下來已經不報希望了，把他們的徽章取回來就好。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             I will head out there at once.
         譯文 : >-
             我這就向那裡進發。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             I'm still searching.
         譯文 : >-
             我還在尋找當中。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             I hear you're going to attack the cultist camps. Ballsy move. But after what you did to that Aetherial abomination, I suppose you're capable of anything.{^n}{^n}Since you're already planning to stick your neck out for us, I was wondering if you could do the Legion a small service.
         譯文 : >-
             我聽說你要去攻擊邪教徒的營地了，真是個有種的傢伙。不過在你除掉了那個虛靈混元體之後，我覺得你能勝任一切工作了。{^n}{^n}既然你打算為軍團冒險，我想你是不是能幫軍團一個小忙。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             What do you need?
         譯文 : >-
             你需要我做什麼？
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             At Captain Somer's command, I've been sending out scouting parties to the north in order to study the cultist operations there. The cult has a strong presence in the Blood Grove and they've been bringing powerful chthonic monstrosities into the world. Needless to say, it's dangerous work. Many of my men have not returned.When a soldier falls in battle and we can't recover the body, we make sure to at least bring back their insignia so that they can receive a humble send-off to whatever hell awaits us all. My scouts deserve more, but right now I can't even give them that.{^n}{^n}We've lost too many men out there as it is. I can't spare anyone else to recover those insignias. Will you pay my men this last respect? I'll be sure to make it worth your while.
         譯文 : >-
             根據索梅爾隊長的指令，我往北方派出了偵察兵，用來了解邪教徒在那裡的行動。邪教徒們在血森林那裡擁有一股強大的勢力，他們一直在往這個世界召喚著強大的冥界怪物。顯然，這是項危險的工作。我手下的許多人都沒能回來。當士兵犧牲後，如果我們不能取回他的屍首，我們至少會取回他的徽章。這樣我們至少能舉行一個簡陋的葬禮，送他去那個我們每個人最終都要去的，不知道他孃的什麼樣的世界。我的偵察兵應該得到更多的尊重，但是現在甚至不能給他們舉行這麼簡陋的葬禮。{^n}{^n}我們在外面失去了太多的人手。我再也承擔不起為了取回徽章而失去人手的代價。你能幫我挽回士兵最後的榮耀麼？我一定會保證你不虛此行的。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I will honor your dead.
         譯文 : >-
             我會讓他們榮歸此處的。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             I'm sorry, I cannot do this right now.
         譯文 : >-
             抱歉，我現在沒法做這個。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             I already found some insignias. Here you go.
         譯文 : >-
             我已經找到了那些徽章，拿著。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Thank you. It may seem like a small gesture to you, but you've helped honor the Legion's fallen, and we do not forget that.{^n}{^n}Please, take these iron bits as compensation. It is the least we can do in return.
         譯文 : >-
             謝謝你。這看起來可能對你只是小事一樁，可你幫助我們讓軍團隕落的戰士榮歸故土，我們不會忘記你的功勞。{^n}{^n}請收下這些鐵幣作為酬勞，我們只能以此來回報你了。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             What can you tell me about the area?
         譯文 : >-
             關於這個地方，你能告訴我些什麼？
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             Well, I'd best describe it as somewhere between in trouble and royally screwed. We have Aetherials to the south and west. You've done a number on their farm though, so we probably don't have to worry about them as much anymore. Not for a while at least.{^n}{^n}The cultists are assaulting us from the north. They've been capturing any stragglers and bringing them to their blood farms to harvest for some chthonic rituals. Those are the lucky ones. The others get strung up like scarecrows for the birds to have their feast.Finally, we have the Dermapteran infestation to the west. So long as they stay to the fields, we don't want anything to do with them. We're spread thin as it is.
         譯文 : >-
             呃，對這個地方最精準評價就是介於麻煩不斷和徹底完蛋的狀態之間。我們的南邊和西邊都有虛靈。不過你在農田裡幹掉了很多，所以我們可能不用那麼擔心它們了。至少一段時間內不用了。{^n}{^n}還有邪教徒從北邊攻擊著我們。他們抓走了所有掉隊的士兵，把他們帶去收集鮮血用於冥靈的召喚儀式。這些還算是幸運的，剩下的人像用來驅鳥的稻草人一樣被吊了起來，以滿足冥靈的口腹之慾。最後，西邊還氾濫著革翅目昆蟲。只要它們侵佔著農田，我們就什麼也種不了。我們實在是心力交瘁。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Did you say you needed help?
         譯文 : >-
             你說過你需要幫助是麼？
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Thanks.
         譯文 : >-
             謝謝。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Scoutmaster Lysell, at your service.
         譯文 : >-
             偵查隊長萊伊爾，願你為您效勞。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             What can you tell me about the area?
         譯文 : >-
             關於這個地方，你能告訴我些什麼？
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             Well, I'd best describe it as somewhere between in trouble and royally screwed. We have Aetherials to the south and west, working on some deplorable creations in those abandonded farms, I'm sure.{^n}{^n}The cultists are assaulting us from the north. They've been capturing any stragglers and bringing them to their blood farms to harvest for chthonic rituals. Those are the lucky ones. The others get strung up like scarecrows for the birds to have their feast.Finally, we have the Dermapteran infestation to the west. So long as they stay to the fields, we don't want anything to do with them. We're spread thin as it is.
         譯文 : >-
             呃，對這個地方最精準評價就是介於麻煩不斷和徹底完蛋的狀態之間。我們的南邊和西邊都有虛靈。不過你在農田裡幹掉了很多，所以我們可能不用那麼擔心它們了。至少一段時間內不用了。{^n}{^n}還有邪教徒從北邊攻擊著我們。他們抓走了所有掉隊的士兵，把他們帶去收集鮮血用於冥靈的召喚儀式。這些還算是幸運的，剩下的人像用來驅鳥的稻草人一樣被吊了起來，以滿足冥靈的口腹之慾。最後，西邊還氾濫著革翅目昆蟲。只要它們侵佔著農田，我們就什麼也種不了。我們實在是心力交瘁。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Thanks.
         譯文 : >-
             謝謝。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-

@@ -1,540 +1,463 @@
-npc_barnabas_01.txt : 
+npc_barnabas_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Barnabas
         譯文 : >-
             巴納巴斯
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             It's been too long since I've laid my eyes on fresh corn. I used to hate the stuff. Now it's like a blessing.
         譯文 : >-
             已經太久沒見過新鮮的穀物了。我以前非常討厭這些東西，但現在這簡直就是一種恩賜。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Yer friends have done wonders to secure our relations with Homestead. This sanctuary would not survive without the help of people like you.
         譯文 : >-
             你的朋友已經成功重新聯繫上了霍姆斯特德。少了你這樣的人，這個庇護所是維持不下去的。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             We all do our part.
         譯文 : >-
             我們都在儘自己所能。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             I don' know what you did, but it sure worked. We've already received a shipment of food from Homestead and more seems to be on the way.{^n}{^n}You've singlehandedly secured the future of this settlement. I don' know how to thank ya. Have a glass of water, it's on me.
         譯文 : >-
             我不知道你怎麼辦到的，但你肯定成功了。我們收到了來自霍姆斯特德的食物，而且貌似更多的食物還在路上運送著。{^n}{^n}你以一人之力保全了這個營地的未來。我不知道該怎麼感謝你，喝一杯水吧，這一杯算我請你的。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I'm just glad we'll all survive.
         譯文 : >-
             我很高興我們都活下來了。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Your allies already made good work of everythin' I needed done.
         譯文 : >-
             你的盟友把我要做的事都辦好了。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             好的。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Any progress with Homestead?
         譯文 : >-
             霍姆斯特德的事怎麼樣了？
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             The people out there don't trust us.
         譯文 : >-
             那兒的人不相信我們。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Oh, I can' blame them. These are trying times and trust is hard to come by.
         譯文 : >-
             噢，不能怪他們。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             I'll do what I can.
         譯文 : >-
             我會盡我所能。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             We will survive. I will make sure of it.
         譯文 : >-
             我們會活下去的，我確定。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             You found yer way to Homestead? Tell me, is there any hope for it? Do we stand a chance?
         譯文 : >-
             你找到去霍姆斯特德的路了嗎？告訴我，這事兒有沒有戲？我們有機會嗎？
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             I found some people out there.
         譯文 : >-
             我在那兒找到了一些人。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Interesting. I don' suppose they were handing out food, were they now?
         譯文 : >-
             有意思。我不覺得他們會分給我們糧食，對麼？
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I need to speak with them. Farewell.
         譯文 : >-
             我需要和他們談談，再見。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             How goes the journey?
         譯文 : >-
             旅途如何？
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Where am I headed again?
         譯文 : >-
             我該往哪兒走？
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Head northwest out of Devil's Crossing across the bridge we repaired. The journey will take you far to the northwest, and we haven' a clue what's out there. Start by following the road out into the Arkovian Foothills, all the way through Old Arkovia. With luck, the old coastal bridge near Twin Falls still stands. If that's not an option, you will have to look for Smuggler's Pass. It's an old smuggling route that ran through the Broken Hills. It should connect to Homestead.{^n}{^n}We must find out whether the farmlands can still support us, or if the Grim Dawn claimed them as it did Burrwitch.
         譯文 : >-
             通過我們修好的橋往惡魔十字的西北走。旅途需要到西北方很遠的地方，而且我們不知道路上會碰見什麼。先沿著路進入安克維亞山麓，穿過古安克維亞。幸運的話，雙子瀑布附近海邊的舊橋還會屹立在那兒。如果不行的話，你就要找走私者的通道了，這是深入破碎山脈的一條走私舊道。它應該能到霍姆斯特德。{^n}{^n}我們一定要看看那些田地還能不能養活我們，還是恐怖黎明像在伯爾維治那樣把田地都毀了。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             What's Smuggler's Pass?
         譯文 : >-
             走私者通道是哪兒？
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             That ol' hole in the ground once served many a smuggler in avoiding imperial patrols along the coast road. Smuggler's Pass was never the safest route, but if you needed to avoid prying eyes, it was a blessing. Why, it served me many a time in my younger restless years. Course, that's all ancient history now.
         譯文 : >-
             那個地下的舊洞穴曾幫助過許多走私販逃避沿海道路上帝國巡邏兵的檢查。走私者的通道從來都不是最安全的路，不過如果你要是想避開窺視的眼睛，那兒真是老天的恩賜啊。為啥呢,因為我年輕不安分的時候它幫了我好多次。當然了，這些都是陳年往事了。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             Thanks.
         譯文 : >-
             謝謝。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             I will head there now.
         譯文 : >-
             我現在就去。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             I need to get back out there.
         譯文 : >-
             我需要回去。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Come friend, share a glass of clean water with Ol' Barnabas to celebrate yer victory in Burrwitch.
         譯文 : >-
             來夥計，跟老巴納巴斯喝一杯清水，慶祝一下你在伯爾維治的勝利。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Mornay said you have a plan for our food situation?
         譯文 : >-
             莫爾奈說你對食品短缺有法子？
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             Right to business then. Before the world fell apart, Burrwitch got its food stocks from the vast farmlands to the northwest. With the bridge repaired, we need to find a way back to Homestead.{^n}{^n}The journey will take you far to the northwest, and I haven' a clue what's out there. Start by following the road out into the Arkovian Foothills, all the way through Old Arkovia. With luck, the old coastal bridge near Twin Falls still stands. If that's not an option, you will have to look for Smuggler's Pass. It's an old smuggling route that ran through the Broken Hills. It should connect to Homestead.{^n}{^n}We must find out whether the farmlands can still support us, or if the Grim Dawn claimed them as it did Burrwitch.
         譯文 : >-
             你算是找對人了。在世界完蛋之前，伯爾維治從西北方的大片田地獲取糧食。修好了橋，我們需要找到一條去霍姆斯特德的路。{^n}{^n}此行你要到西北方很遠處，我也不知道那邊是個什麼情況。先沿著路進入安克維亞山麓，穿過古安克維亞。幸運的話，雙子瀑布附近海邊的舊橋還會屹立在那兒。如果不行的話，你就要找走私者的通道了，這是深入破碎山脈的一條走私舊道。它應該能到霍姆斯特德。{^n}{^n}我們一定要看看那些田地還能不能養活我們，還是恐怖黎明像在伯爾維治那樣把田地都毀了。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             I will get on it.
         譯文 : >-
             我這就去。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             What can I expect out there?
         譯文 : >-
             我能在那兒找到些什麼？
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
-            Nobody's been as far north as Homestead in months, so I can only imagine what sort of horrors have crawled out of the mountain crags following the Grim Dawn. Stay sharp out there. 
+            Nobody's been as far north as Homestead in months, so I can only imagine what sort of horrors have crawled out of the mountain crags following the Grim Dawn. Stay sharp out there.
         譯文 : >-
             好幾個月都沒人去過北邊霍姆斯特德那麼遠的地方了，所以我只能想象恐怖黎明之後可怕的東西會在那片山區裡到處都是。小心行事。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             I will.
         譯文 : >-
             我會的。
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             I've already found Homestead.
         譯文 : >-
             我已經找到霍姆斯特德了。
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             Oh? Yer quite the ambicious feller. What did you see out there?
         譯文 : >-
             哦？你這個了不得的年輕人。你在那兒見到了什麼？
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             Thanks for all your help! At last we can get a decent drink... even if that drink ain't a finger of whiskey.
         譯文 : >-
             多虧了你的幫助！至少我們能喝上一杯了……儘管連那玩意兒連威士忌的一根指頭都比不上。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             My pleasure.
         譯文 : >-
             這是我的榮幸。
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             Any luck clearing out those Slith? People are starting to beg me for water. {^n}{^n}I don' know how many more times I can say 'it'll melt yer guts' before they just rush me and take it.
         譯文 : >-
             清除那些蛇人還順利麼？人們都開始向我求水喝了。{^n}{^n}在他們跑來我這兒搶水喝之前，我不知道“喝這水你的腸胃都會化掉的”這種話還能鎮住他們多久。
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             I've taken care of it.
         譯文 : >-
             我已經搞定了。
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             Well done!  Once I pump out the remaining poisoned water, the spring should be clean enough for drinking. {^n}{^n}I'll make sure to let people here know how much help you've been. They'll be grateful that they can get a drink without dissolving their intestines.{^n}{^n}One more thing, take my rucksack. Useful for hauling back Scrap or whatever else you come across. I'm too old for that stuff now.
         譯文 : >-
             幹得好！只要我把剩下來的毒水都排出去，我們就能喝到乾淨的水了。{^n}{^n}我一定讓大家知道你的貢獻。他們將會非常感激你，因為他們再也不怕喝水喝到腸穿肚爛了。{^n}{^n}還有，請收下我的揹包。用來路上裝點廢鐵或者不論啥樣的勞什子都很有用，我這把年紀是用不上了。
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             Thank you. Glad to be of help.
         譯文 : >-
             謝謝你。我很高興能夠幫上忙。
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             Well done!  Once I pump out the remaining poisoned water, the spring should be clean enough for drinking. {^n}{^n}I'll make sure to let people here know how much help you've been. They'll be grateful that they can get a drink without dissolving their intestines.
         譯文 : >-
             幹得好！只要我把剩下來的毒水都排出去，我們就能喝到乾淨的水了。{^n}{^n}我一定讓大家知道你的貢獻。他們將會非常感激你，因為他們再也不怕喝水喝到腸穿肚爛了。
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             Thank you. Glad to be of help.
         譯文 : >-
             謝謝你。這是我的榮幸。
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             Have you cleared out the Slith den?
         譯文 : >-
             你清除乾淨蛇人的巢穴了沒？
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Not yet, where is it again?
         譯文 : >-
             還沒有，請問去哪兒找？
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Open the cellar in the shack behind me. It connects to the bowels of the prison, which should lead you to the cave. {^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own.
         譯文 : >-
             打開我身後小屋裡的地窖。那個地窖連接著監獄的內部，從那兒你便可通往蛇人的洞穴。{^n}{^n}殺了可能在汙染水源的蛇人女族長後就能消除水裡的毒物了。
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             I'll take care of it.
         譯文 : >-
             我這就去。
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             Well, the good news is I got the water pumping again. The only problem is it smells like a sewer, only about a ten-fold worse.  {^n}{^n}Why, I haven' smelled something this rotten since...
         譯文 : >-
             好消息是我整好了水泵。唯一的問題就是水聞起來比下水道里流出來的還要臭上十倍。{^n}{^n}怎麼會這樣呢？我自從那件事之後起就沒再聞過這樣的腐臭了……
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             Since what?
         譯文 : >-
             從哪件事起？
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             Since I've cleared out a den of Slith, ages ago. They're loathsome reptiles - make their homes in swamps and dank caves. {^n}{^n}They secrete a nasty poison into the water that makes it drinkable for them, but nearly always fatal to us. I'd bet good iron there is a nest in the cave that fuels our pump. {^n}{^n}I'm too old for all this spelunking so I need you to go down there and kill it.
         譯文 : >-
             從許多年以前我清理過蛇人窩之後起。蛇人是一種噁心到令人想吐的兩棲動物——他們通常會在沼澤或者是陰溼的洞穴裡安家。{^n}{^n}為了喝水，他們會在水裡分泌一種骯髒的毒液。他們喝了沒事，可是這玩意會毒死人。我願意用一堆鐵幣打賭一定有一窩蛇人給咱們的水泵里加著佐料呢。{^n}{^n}我老了，洞穴探險這種差事還是得靠你了。下去幹掉他們吧。
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             How do I get to the cave?
         譯文 : >-
             我如何去到那個洞穴？
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             This key will open the cellar in the shack behind me, right by that acursed riftgate. It connects to the bowels of the prison, which should lead you to the cave. {^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own. {^n}{^n}You do this, and all of Devil's Crossing will be honoring your name with every glass.
         譯文 : >-
             這把鑰匙可以打開我身後小屋裡的地窖。那個地窖連接著監獄的內部，從那兒你便可通往蛇人的洞穴。{^n}{^n}殺了可能在汙染水源的蛇人女族長後就能消除水裡的毒物了。{^n}{^n}你如果辦成這件事，全惡魔十字的人都會稱頌你，每杯水都會使你的名字榮耀無比。
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             I'll take care of the Slith.
         譯文 : >-
             我這就去解決那些蛇人。
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             I don't have time for this.
         譯文 : >-
             我沒時間。
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             Did you get the Scrap?
         譯文 : >-
             你找到了廢鐵嗎？
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             Will this suffice?
         譯文 : >-
             請問這些足夠嗎？
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             Perfect! I will get the wind pump up and running in no time. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
         譯文 : >-
             足夠！我會盡快修好風力水泵的。惡魔十字將會再次擁有安全的飲用水，這都多虧你的幫忙啊。{^n}{^n}這第一杯水可是我的。
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             Glad I could help.
         譯文 : >-
             能幫得上忙是我的榮幸。
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             Did you get the Scrap?
         譯文 : >-
             你找到了廢鐵嗎？
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             Not yet, where can I find it?
         譯文 : >-
             還沒，去哪兒找呢？
 #-------------------------------#
     62 :
-        標註 : 
         原文 : >-
             Search the ruined houses and the Old Dumping Grounds on the far side of Lower Crossing, past the Burial Hill. Smash some junk. Search the bodies of those things roaming around out there. {^n}{^n}You'll find enough in no time!
         譯文 : >-
             去舊垃圾場搜索那些破房子吧，就在下游渡口的遠端，要穿過殮葬山。撿撿垃圾，翻翻在那邊遊蕩的屍體。{^n}{^n}很快你就能找到足夠的廢鐵！
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             I'll be back.
         譯文 : >-
             我去去就回來。
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             The Captain send you over? You musta done quite a service with the Dead if he's got hands to spare for Ol' Barnabas. Let's get to business, yes?  {^n}{^n}Our wind pump's broken down again and we're running low on water. We're all out of parts, so I can't fix 'er up.  {^n}{^n}Can always melt down what weapons we have, but I'm not too fond of being devoured in my sleep. I'll need scrap from Lower Crossing.
         譯文 : >-
             隊長派你來的？如果他可以派個人手過來幫忙我這個老頭子，那麼你一定是幫他解決了不少喪屍的問題。我們來辦正事吧。{^n}{^n}我們的風力水泵又發生故障了，當然我們也要沒水喝了。由於缺乏零件，所以我無計可施。{^n}{^n}雖然我們可以熔鍊武器來製造那些零件，但我可不喜歡在睡夢中被喪屍吃了。我需要廢鐵。
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             Where can I find it?
         譯文 : >-
             我該往哪兒找？
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             Search the ruined houses and the Old Dumping Grounds on the far side of Lower Crossing, past the Burial Hill. Smash some junk. Search the bodies of those things roaming around out there. {^n}{^n}Where you get it isn' that important to me, just that you get it soon. We are running out of drinking water, nothing to be said about ever taking a bath again.
         譯文 : >-
             去舊垃圾場搜索那些破房子吧，就在下游渡口的遠端，要穿過殮葬山。撿撿垃圾，翻翻在那邊遊蕩的屍體。{^n}{^n}我不管你從哪兒找廢鐵，但是你得儘快弄來。我們就快沒水喝了，更不用說洗澡了。
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             I'll get the Scrap you need.
         譯文 : >-
             我會收集你所需要的廢鐵。
 #-------------------------------#
     68 :
-        標註 : 
         原文 : >-
             Sorry, I don't have time.
         譯文 : >-
             對不起，我沒時間。
 #-------------------------------#
     69 :
-        標註 : 
         原文 : >-
             Um, why not just lower a bucket into the river?
         譯文 : >-
             為何不用桶從河裡打水？
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             Have you seen the bodies floating out there?{^n}{^n}Surface water around here is rank with disease and decay. Our only hope is this well.{^n}{^n}Now are you going to get us some scrap or do I have to settle for sass?
         譯文 : >-
             你沒看到那些浮在河面上的屍體嗎？{^n}{^n}周圍的河水統統都被汙染了。我們最後的希望就是井水。{^n}{^n}所以現在你要幫我們蒐集廢鐵，還是要我說髒話才行？
 #-------------------------------#
     72 :
-        標註 : 
         原文 : >-
             Is this enough Scrap?
         譯文 : >-
             這些廢鐵足夠嗎？
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             Impressive! We hadn' had much luck scavenging for supplies on account of the Dead swarming Lower Crossing. You seem to handle them well enough though. I will get the wind pump up and running in no time. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
         譯文 : >-
             了不起！由於下游渡口喪屍成群，我們可沒那麼好運能找來一堆補給品。幹這個你似乎毫無壓力。我會盡快修好風力水泵的。惡魔十字將會再次擁有安全的飲用水，這都多虧你的幫忙啊。{^n}{^n}這第一杯水可是我的。
 #-------------------------------#
     74 :
-        標註 : 
         原文 : >-
             Glad I could help.
         譯文 : >-
             這是我的榮幸。
 #-------------------------------#
     76 :
-        標註 : 
         原文 : >-
             Did my ally deliver the scrap?
         譯文 : >-
             我的盟友把廢鐵交給你了嗎？
 #-------------------------------#
     77 :
-        標註 : 
         原文 : >-
             Yes indeed! We hadn' had much luck scavenging for supplies on account of the Dead swarming Lower Crossing. You seem to handle them well enough though. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
         譯文 : >-
             沒錯！了不起！由於下游渡口喪屍成群，我們可沒那麼好運能找來一堆補給品。幹這個你似乎毫無壓力。我會盡快修好風力水泵的。惡魔十字將會再次擁有安全的飲用水，這都多虧你的幫忙啊。{^n}{^n}這第一杯水可是我的。
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             Glad we could help.
         譯文 : >-
             這是我們的榮幸。
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             So yer the one that we almost hung! I didn' really see the sense in it, but then again, no one really cares what Ol' Barnabas thinks. {^n}{^n}You really should go speak with the Captain. He'll be the one deciding whether there's a place for you here at Devil's Crossing.
         譯文 : >-
             哦，你就是那個差點被我們絞死的傢伙！我不理解為什麼要放了你，不過還是那句話，誰會在乎老巴納巴斯的想法。{^n}{^n}你真的應該和隊長交談。他將會決定你是否在惡魔十字有個立足之地。
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             Take care.
         譯文 : >-

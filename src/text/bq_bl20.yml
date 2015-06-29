@@ -1,57 +1,49 @@
-bq_bl20.txt : 
+bq_bl20.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Luthus'Balok
         譯文 : >-
             賞金：盧薩斯·巴洛克
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}Luthus'Balok is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen emerging from the Obsidian Throne, creating lightning storms wherever it goes. This chaos must end.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             軍團要你幫助解決一個高優先級的目標。{^n}{^n}盧薩斯·巴洛克是一頭強大的冥靈，它會通過它黑曜石做成的身體施放雷電。它曾出現在黑曜石王座，所到之處會產生雷電風暴。必須結束這頭混沌生物的生命。{^n}{^n}任何的幫助都將得到材料作為獎賞。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Luthus'Balok
         譯文 : >-
             殺了盧薩斯·巴洛克
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了黑色軍團的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-

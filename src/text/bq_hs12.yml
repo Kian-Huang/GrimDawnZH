@@ -1,57 +1,49 @@
-bq_hs12.txt : 
+bq_hs12.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: The Lifedrinker
         譯文 : >-
             賞金：生命吸食者
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             We have heard complaints about feverish nightmares of blood and darkness. The last I've heard of such a phenomenon was when a Trog blood mage was performing some ritual deep within the earth.{^n}{^n}Our people have suffered enough. Somebody needs to go into the Mountain Deeps and eliminate the Trog that's causing this. Scavenged materials have been set aside as compensation.
         譯文 : >-
             We have heard complaints about feverish nightmares of blood and darkness. The last I've heard of such a phenomenon was when a Trog blood mage was performing some ritual deep within the earth.{^n}{^n}Our people have suffered enough. Somebody needs to go into the 山脈深淵 and eliminate the Trog that's causing this. Scavenged materials have been set aside as compensation.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Glukrog
         譯文 : >-
             殺了格魯克若格
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for Homestead and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了霍姆斯特德的任務，應該回到賞金桌領取獎賞。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Homestead Bounty Table
         譯文 : >-

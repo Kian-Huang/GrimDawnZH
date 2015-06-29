@@ -1,162 +1,139 @@
-npc_bernard_01.txt : 
+npc_bernard_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bernard
         譯文 : >-
             伯納德
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Welcome back to our humble camp. May your road be always safe and the wind ever at your back.
         譯文 : >-
             歡迎回到我們簡陋的營地。願你一路順風。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Your allies have served the region well by destroying that barricade.
         譯文 : >-
             你的盟友已經破壞了路障，為我們這兒出了力。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You've returned. Was your venture successful?
         譯文 : >-
             你回來了。你的冒險成功了嗎？
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I destroyed the barricade.
         譯文 : >-
             我破壞了路障。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             A job well done!{^n}{^n}Thank you. You've done good by us, and we won't forget it.
         譯文 : >-
             幹得好！{^n}{^n}謝謝你。你幫助了我們，我們是不會忘記的。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             My pleasure.
         譯文 : >-
             這是我的榮幸。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Hello again! How goes your search for the dynamite?
         譯文 : >-
             你好！炸藥的搜索進行得如何？
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Where should I be looking again?
         譯文 : >-
             我應該去哪兒找炸藥？
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I reckon there should be some dynamite lying around Staunton Mine to the west.
         譯文 : >-
             我估計位於西邊的斯湯頓礦洞周圍還殘留著一些炸藥。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Thanks. I will get to it.
         譯文 : >-
             謝謝，我這就去找。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Still searching. Goodbye.
         譯文 : >-
             還在搜尋，再見了。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Greetings, stranger. A pleasure to meet someone who doesn't begin a meeting with weapons. Can't say the same for the gang up the hill to the east.
         譯文 : >-
             你好，陌生人。能偶遇不以刀兵相見的人是我的榮幸，不過對東邊山上的那幫人就不能這麼講了。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             You're having trouble with bandits?
         譯文 : >-
             你跟那些匪徒有過節？
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Violent and bloodthirsy murderers all of them. Everything we despise in this world. And now they've set up a barricade along the road to trap travelers such as ourselves. We've set up camp here while we decide what to do.{^n}{^n}The best course of action would be to blow that barricade, allowing our brothers and sisters of the road to travel in peace; however, we lack the means to do so. Say, you look like a capable sort. Let's make a deal. Staunton Mine to the west of here is abandoned, but it may have some explosives. If you recover some dynamite and use it to destroy that wretched blockade, I can offer you some coin for your troubles. What do you say?
         譯文 : >-
             那些人都是些暴力而且嗜血的凶犯，他們擁有我們在這世界上所鄙視的一切品質。他們沿路設置了一個路障來困住像我們這樣的旅行者。我們就一邊著思考怎麼辦一邊在這兒紮了營。{^n}{^n}最好的辦法就是把路障給炸了，這樣就能讓路上的兄弟姐妹們安心地趕路。但是我們力有未逮。我說啊，你看起來挺能幹的。我們來做個交易吧。西邊的斯湯頓礦洞雖然已經被廢棄了，不過那兒可能還殘留著一些炸藥。如果你能回收一些炸藥並且炸燬那個該死的路障，我可以付給你報酬。你覺得這樣如何？
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Sure, I'll help you out.
         譯文 : >-
             當然了，我會幫助你的。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             I'm not interested.
         譯文 : >-
             我沒興趣。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             The blockade is destroyed.
         譯文 : >-
             路障已經被破壞掉了。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             You astound me, stranger.{^n}{^n}Thank you. You've done good by us, and we won't forget it.
         譯文 : >-
             你讓我感到驚訝，陌生人。{^n}{^n}謝謝你。你幫助了我們，我們是不會忘記的。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Always a pleasure to ruin an outlaw's day.
         譯文 : >-
             路見不平，自當拔刀相助。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-

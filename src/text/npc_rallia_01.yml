@@ -1,183 +1,157 @@
-npc_rallia_01.txt : 
+npc_rallia_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Rallia
         譯文 : >-
             拉莉亞
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Don't mind me, just waiting to be burnt to a crisp.
         譯文 : >-
             Don't mind me, just waiting to be burnt to a crisp.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Um...ok.
         譯文 : >-
             Um...ok.
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Don't just stand there, kill them!
         譯文 : >-
             Don't just stand there, kill them!
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Alright, alright.
         譯文 : >-
             Alright, alright.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Since you insist, please talk some sense into Nathaniel.{^n}{^n}Fear clouds a man's judgement. He doesn't understand what he's doing.
         譯文 : >-
             Since you insist, please talk some sense into Nathaniel.{^n}{^n}Fear clouds a man's judgement. He doesn't understand what he's doing.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Here to gloat over Nathaniel's prize? Want to look me in the eye before you light the torch?{^n}{^n}I suppose it's a waste of breath to tell you that I am not a Taken?
         譯文 : >-
             Here to gloat over Nathaniel's prize? Want to look me in the eye before you light the torch?{^n}{^n}I suppose it's a waste of breath to tell you that I am not a Taken?
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Then what are you?
         譯文 : >-
             Then what are you?
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             These farmers wouldn't know a Taken if it walked in on them fornicating with a goat.{^n}{^n}Look...I may have dabbled in the arcane here and there, maybe cursed a few mongrels for getting too touchy, but I am not some Aetherial's puppet.
         譯文 : >-
             These farmers wouldn't know a Taken if it walked in on them fornicating with a goat.{^n}{^n}Look...I may have dabbled in the arcane here and there, maybe cursed a few mongrels for getting too touchy, but I am not some Aetherial's puppet.
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             How do I know you're telling the truth?
         譯文 : >-
             How do I know you're telling the truth?
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             *Rallia stares at you, her eyes piercing through you*{^n}{^n}Perhaps because you of all people should know better than to accuse people of being Taken?
         譯文 : >-
             *Rallia stares at you, her eyes piercing through you*{^n}{^n}Perhaps because you of all people should know better than to accuse people of being Taken?
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             I will talk to them. (Speak to Nathaniel)
         譯文 : >-
             I will talk to them. (Speak to Nathaniel)
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             I will stop them. (Attack Nathaniel)
         譯文 : >-
             I will stop them. (Attack Nathaniel)
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             I can't take the chance. (Burn Her)
         譯文 : >-
             I can't take the chance. (Burn Her)
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Sounds to me like you're guilty. (Burn Her)
         譯文 : >-
             Sounds to me like you're guilty. (Burn Her)
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Why do they think you are Taken?
         譯文 : >-
             Why do they think you are Taken?
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             These peasants see Aetherfire and immediately think it must be an Aetherial's doing.{^n}{^n}Arcanists have been wielding the Aether for centuries, but nowadays you might as well tie your own noose if you're a practitioner of the arcane.
         譯文 : >-
             These peasants see Aetherfire and immediately think it must be an Aetherial's doing.{^n}{^n}Arcanists have been wielding the Aether for centuries, but nowadays you might as well tie your own noose if you're a practitioner of the arcane.
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             No more lies. (Burn Her)
         譯文 : >-
             No more lies. (Burn Her)
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             I don't believe you. (Burn Her)
         譯文 : >-
             I don't believe you. (Burn Her)
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             We're not done here.
         譯文 : >-
             We're not done here.
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Talk some sense into these maniacs!
         譯文 : >-
             Talk some sense into these maniacs!
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             What's going on here?
         譯文 : >-
             What's going on here?
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             This is all a huge misunderstanding.{^n}{^n}Just talk to Nathaniel. There's a reasonable way out of all this.
         譯文 : >-
             This is all a huge misunderstanding.{^n}{^n}Just talk to Nathaniel. There's a reasonable way out of all this.
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             I'll see what I can do.
         譯文 : >-
             I'll see what I can do.
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             I'm not getting involved in this.
         譯文 : >-
             I'm not getting involved in this.
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             I'm not getting involved in this.
         譯文 : >-

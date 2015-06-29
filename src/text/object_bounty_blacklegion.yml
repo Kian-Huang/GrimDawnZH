@@ -1,1394 +1,1195 @@
-object_bounty_blacklegion.txt : 
+object_bounty_blacklegion.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Black Legion Bounties
         譯文 : >-
             黑色軍團賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Bounty fulfilled.
         譯文 : >-
             你帶回來了所需的材料，完成了一項賞金任務。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Bounty fulfilled.
         譯文 : >-
             你帶回來了所需的材料，完成了一項賞金任務。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Bounty fulfilled.
         譯文 : >-
             你帶回來了所需的材料，完成了一項賞金任務。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Bounty fulfilled.
         譯文 : >-
             你帶回來了所需的材料，完成了一項賞金任務。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             You return with the materials in hand, a Bounty fulfilled.
         譯文 : >-
             你帶回來了所需的材料，完成了一項賞金任務。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             You return triumphantly, a Bounty fulfilled.
         譯文 : >-
             你成功地歸來，完成了一項賞金任務。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Report in.
         譯文 : >-
             回報任務。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             You are already on a Bounty for the Black Legion.
         譯文 : >-
             你已經在執行一項黑色軍團的賞金任務了。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             The Black Legion is always looking for capable men and women to assist them on difficult missions.{^n}{^n}With your reputation, some of the most dangerous missions are now available.
         譯文 : >-
             黑色軍團一直在尋找有本事的男人或者女人來幫助他們執行困難的任務。{^n}{^n}根據你的名望，一些最危險的任務現在可以交給你來完成了。
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             Take a look at the bounty.
         譯文 : >-
             看一眼賞金任務。
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             You have done all that the Legion has asked of you this session.
         譯文 : >-
             你已經完成了本次遊戲中黑色軍團交給你所有的賞金任務。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             Take a look at the bounty.
         譯文 : >-
             看一眼賞金任務。
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             The Black Legion is always looking for capable men and women to assist them on difficult missions.
         譯文 : >-
             黑色軍團一直在尋找有本事的男人或者女人來幫助他們執行困難的任務。
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             Take a look at the bounty.
         譯文 : >-
             看一眼賞金任務。
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             You have done all that the Legion has asked of you this session.
         譯文 : >-
             你已經完成了本次遊戲中黑色軍團交給你所有的賞金任務。
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     68 :
-        標註 : 
         原文 : >-
             Take a look at the bounty.
         譯文 : >-
             看一眼賞金任務。
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}任何協助都會以鐵幣作為獎賞。
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     87 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     88 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     90 :
-        標註 : 
         原文 : >-
             The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}Bloodsworn Doomsayers are wreaking havoc across our lines in the Blood Grove. They are to be considered primary targets by all Legion agents.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}Bloodsworn Doomsayers are wreaking havoc across our lines in the 血森林. They are to be considered primary targets by all Legion agents.{^n}{^n}任何協助都會以鐵幣作為獎賞。
 #-------------------------------#
     91 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     92 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     93 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     95 :
-        標註 : 
         原文 : >-
             The Legion requests assistance against the spawns of the void.{^n}{^n}Chthonian Devourers have been seen rampaging through the Blood Grove, tearing our men apart with their vicious jaws. They are damaging to morale and are to be exterminated.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance against the spawns of the void.{^n}{^n}Chthonian Devourers have been seen rampaging through the 血森林, tearing our men apart with their vicious jaws. They are damaging to morale and are to be exterminated.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     96 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     97 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     98 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     100 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A Briarthorn known as Ol' Bloodbriar has eluded our hunters. His lair is believed to be hidden somewhere in the Shaded Basin.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A Briarthorn known as Ol' Bloodbriar has eluded our hunters. His lair is believed to be hidden somewhere in the Shaded Basin.{^n}{^n}任何協助都會以鐵幣作為獎賞。
 #-------------------------------#
     101 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     102 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     103 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     105 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the Rotting Cropland has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the 腐壞田地 has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}任何協助都會以鐵幣作為獎賞。
 #-------------------------------#
     106 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     107 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     108 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     110 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near Sorrow's Bastion. There, an obsidian monster known as Bane'Gargoth commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
         譯文 : >-
             The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near 悲傷城堡. There, an obsidian monster known as 夢魘 加戈斯 commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{{^n}{^n}任何協助都會以大量的鐵幣作為獎賞。
 #-------------------------------#
     111 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     112 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     113 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     115 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as Mogara has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as 莫伽拉 has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}任何協助都會以鐵幣作為獎賞。
 #-------------------------------#
     116 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     117 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     118 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     120 :
-        標註 : 
         原文 : >-
             The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named Gluttrius'Maw is terrorizing our forces in the Blood Grove. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named 飽食之胃 is terrorizing our forces in the 血森林. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     121 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     122 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     123 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     125 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as Sicrix has evaded the Legion hunters, but they have tracked it down into the highly dangerous Mountain Deeps. Additional reinforcements are requested to taken down the critter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as 西克里斯 has evaded the Legion hunters, but they have tracked it down into the highly dangerous 山脈深淵. Additional reinforcements are requested to taken down the critter.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     126 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     127 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     128 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     130 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as Emberjaw has proven surprisingly resistent to flame. It was last spotted in the Pine Barrens, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰燼之爪 has proven surprisingly resistent to flame. It was last spotted in the 松林荒地, spreading wildfires wherever it goes.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     131 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     132 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     133 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     135 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a Chthonic Seal will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a 冥靈魔印 will be compensated with iron bits.
 #-------------------------------#
     136 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     137 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     138 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     140 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon is obsessed with something known as the Blood of Ch'thon. The Legion wishes to study this liquid further.{^n}{^n}Delivery of a Blood of Ch'thon will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon is obsessed with something known as the 冥神之血. The Legion wishes to study this liquid further.{^n}{^n}Delivery of a 冥神之血 will be compensated with materials from the Legion stores.
 #-------------------------------#
     141 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     142 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     143 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     145 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an Aether Shard will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an 虛化碎片 will be compensated with materials from the Legion stores.
 #-------------------------------#
     146 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     147 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     148 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     150 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters, found only from the largest Aether Crystals and Aetherial Obelisks, appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an Aether Cluster will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters, found only from the largest 虛化水晶 and 虛靈方尖碑, appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an 虛化集簇 will be compensated with materials from the Legion stores.
 #-------------------------------#
     151 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     152 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     153 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     155 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}It appears that the act of Aetherial possession inherently alters the chemical structure of the brain. The Legion wishes to study this further, but requires a specimen.{^n}{^n}Delivery of a Tainted Brain Matter will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}It appears that the act of Aetherial possession inherently alters the chemical structure of the brain. The Legion wishes to study this further, but requires a specimen.{^n}{^n}Delivery of a 感染大腦 Matter will be compensated with materials from the Legion stores.
 #-------------------------------#
     156 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     157 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     158 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     160 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}An undead being known as Kilrian dwells within the Undercity of Old Arkovia. He gathers the dead to him, creating an army that could pose a serious threat to humanity. He must be destroyed at all costs.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
         譯文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}An undead being known as 基爾利安 dwells within 古安克維亞地下城. He gathers the dead to him, creating an army that could pose a serious threat to humanity. He must be destroyed at all costs.{{^n}{^n}任何協助都會以大量的鐵幣作為獎賞。
 #-------------------------------#
     161 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     162 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     163 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     165 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}Harrath, a Fleshwarped troll, was believed slain at the riftgate outside Homestead. Through means we cannot explain, he has returned and is once again wreaking havoc around the Rotting Croplands. This threat must be exterminated, again.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}Harrath, a Fleshwarped troll, was believed slain at the riftgate outside Homestead. Through means we cannot explain, he has returned and is once again wreaking havoc around the 腐壞田地. This threat must be exterminated, again.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     166 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     167 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     168 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     170 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}Padmanestia, a possessed human, has been spotted in the Conflagration. The Legion suffers no traitors to humanity. She is to be eliminated with great prejudice.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}派得曼斯蒂亞, a possessed human, has been spotted in 戰火平原. The Legion suffers no traitors to humanity. She is to be eliminated with great prejudice.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     171 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     172 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     173 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     175 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}Corpus, a voracious ghoul, is inhibiting our efforts at the Necropolis. If we are to stop the Cult, this threat must be eliminated immediately.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}屍化者, a voracious ghoul, is inhibiting our efforts at 古代墓地. If we are to stop the Cult, this threat must be eliminated immediately.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     176 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     177 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     178 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     180 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}Luthus'Balok is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen emerging from the Obsidian Throne, creating lightning storms wherever it goes. This chaos must end.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}盧薩斯·巴洛克 is a powerful chthonic spawn that channels lightning through its obsidian body. It has been seen emerging from 黑曜石王座, creating lightning storms wherever it goes. This chaos must end.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     181 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     182 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     183 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     185 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}The Mountain Deeps offer a wealth of untapped resources, but the Legion engineers are unable to enter while a dangerous cavern crawler known as Ikrix roams the depths.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
         譯文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}The 山脈深淵 offer a wealth of untapped resources, but the Legion engineers are unable to enter while a dangerous cavern crawler known as 伊克里克斯 roams the depths.{{^n}{^n}任何協助都會以大量的鐵幣作為獎賞。
 #-------------------------------#
     186 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     187 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     188 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     190 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}A massive chthonic rift has opened near the Necropolis from which pour hundreds of Chthonic spawn. We call it the Bastion of Chaos. Deep within, there dwells a powerful creature known as Lagoth'Ak, Harbinger of Blood. If he were slain, we would land a crippling blow to the Chthonians.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.{^n}{^n}This bounty requires a Skeleton Key.
         譯文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}A massive chthonic rift has opened near 古代墓地 from which pour hundreds of Chthonic spawn. We call it the Bastion of Chaos. Deep within, there dwells a powerful creature known as 拉苟扎克, Harbinger of Blood. If he were slain, we would land a crippling blow to the Chthonians.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.{^n}{^n}This bounty requires a Skeleton Key.
 #-------------------------------#
     191 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     192 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     193 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     195 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}To the north of Homestead, in an area we now call the Conflagration, the Legion was forced to flee from an Aetherial creation known only as the Herald of Flame. This creature spreads aetherfire wherever it goes, and its next target appears to be Homestead. The danger the Herald poses to this region cannot be understated. It must be eliminated at all costs.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.
         譯文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}To the north of Homestead, in an area we now call 戰火平原, the Legion was forced to flee from an Aetherial creation known only as the 烈焰使者. This creature spreads aetherfire wherever it goes, and its next target appears to be Homestead. The danger the Herald poses to this region cannot be understated. It must be eliminated at all costs.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.
 #-------------------------------#
     196 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     197 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     198 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     200 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}Far to the south, within the Broken Hills, there is a forgotten ruin known as the Steps of Torment. It appears to be the epicenter of all undead activity within Arkovia. At the bottom of this accursed place, beyond the Gates of Anguish, there dwells a corruption known as Ilgorr. If this guardian were somehow destroyed and the tower cleansed, then the Legion could study the ruins and excavate them for artifacts. Such a valuable resource cannot be underestimated.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.{^n}{^n}This bounty requires a Skeleton Key.
         譯文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}Far to the south, within the Broken Hills, there is a forgotten ruin known as 苦痛階梯. It appears to be the epicenter of all undead activity within Arkovia. At the bottom of this accursed place, beyond the Gates of Anguish, there dwells a corruption known as 伊爾戈. If this guardian were somehow destroyed and the tower cleansed, then the Legion could study the ruins and excavate them for artifacts. Such a valuable resource cannot be underestimated.{^n}{^n}The Legion is willing to share some of its rare materials with anyone that manages to accomplish this impossible task.{^n}{^n}This bounty requires a Skeleton Key.
 #-------------------------------#
     201 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     202 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     203 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     205 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}One of the Cult's leaders has finally shown himself at the Necropolis. Bloodlord Thalonis is actively trying to resurrect a demigod known as the Unraveler. We cannot allow this to happen. Bloodlord Thalonis must be stopped at all costs. The Legion calls to all of its able-bodied allies to assist in this matter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}One of the Cult's leaders has finally shown himself at 古代墓地. 血領主 泰隆尼斯 is actively trying to resurrect a demigod known as the Unraveler. We cannot allow this to happen. 血領主 泰隆尼斯 must be stopped at all costs. The Legion calls to all of its able-bodied allies to assist in this matter.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     206 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     207 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     208 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     210 :
-        標註 : 
         原文 : >-
             The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}任何協助都會以鐵幣作為獎賞。
 #-------------------------------#
     211 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     212 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     213 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     215 :
-        標註 : 
         原文 : >-
             The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}Bloodsworn Doomsayers are wreaking havoc across our lines in the Blood Grove. They are to be considered primary targets by all Legion agents.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}Bloodsworn Doomsayers are wreaking havoc across our lines in the 血森林. They are to be considered primary targets by all Legion agents.{^n}{^n}任何協助都會以鐵幣作為獎賞。
 #-------------------------------#
     216 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     217 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     218 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     220 :
-        標註 : 
         原文 : >-
             The Legion requests assistance against the spawns of the void.{^n}{^n}Chthonian Devourers have been seen rampaging through the Blood Grove, tearing our men apart with their vicious jaws. They are damaging to morale and are to be exterminated.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance against the spawns of the void.{^n}{^n}Chthonian Devourers have been seen rampaging through the 血森林, tearing our men apart with their vicious jaws. They are damaging to morale and are to be exterminated.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     221 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     222 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     223 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     225 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A Briarthorn known as Ol' Bloodbriar has eluded our hunters. His lair is believed to be hidden somewhere in the Shaded Basin.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A Briarthorn known as Ol' Bloodbriar has eluded our hunters. His lair is believed to be hidden somewhere in the Shaded Basin.{^n}{^n}任何協助都會以鐵幣作為獎賞。
 #-------------------------------#
     226 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     227 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     228 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     230 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the Rotting Cropland has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the 腐壞田地 has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}任何協助都會以鐵幣作為獎賞。
 #-------------------------------#
     231 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     232 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     233 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     235 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near Sorrow's Bastion. There, an obsidian monster known as Bane'Gargoth commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
         譯文 : >-
             The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near 悲傷城堡. There, an obsidian monster known as 夢魘 加戈斯 commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{{^n}{^n}任何協助都會以大量的鐵幣作為獎賞。
 #-------------------------------#
     236 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     237 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     238 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     240 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as Mogara has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as 莫伽拉 has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}任何協助都會以鐵幣作為獎賞。
 #-------------------------------#
     241 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     242 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     243 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     245 :
-        標註 : 
         原文 : >-
             The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named Gluttrius'Maw is terrorizing our forces in the Blood Grove. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance against the insidious Cult of Ch'thon.{^n}{^n}A Chthonian named 飽食之胃 is terrorizing our forces in the 血森林. It has proven elusive, and extremely deadly. Its death has become a primary objective.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     246 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     247 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     248 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     250 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as Sicrix has evaded the Legion hunters, but they have tracked it down into the highly dangerous Mountain Deeps. Additional reinforcements are requested to taken down the critter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as 西克里斯 has evaded the Legion hunters, but they have tracked it down into the highly dangerous 山脈深淵. Additional reinforcements are requested to taken down the critter.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     251 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     252 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     253 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     255 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as Emberjaw has proven surprisingly resistent to flame. It was last spotted in the Pine Barrens, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as 灰燼之爪 has proven surprisingly resistent to flame. It was last spotted in the 松林荒地, spreading wildfires wherever it goes.{^n}{^n}任何協助都會給予材料作為獎賞。
 #-------------------------------#
     256 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     257 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     258 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     260 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a Chthonic Seal will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon has been employing strange Seals in their summoning rituals. We must learn more about these implements if we are to counter the Cult's efforts.{^n}{^n}Delivery of a 冥靈魔印 will be compensated with iron bits.
 #-------------------------------#
     261 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     262 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     263 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     265 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon is obsessed with something known as the Blood of Ch'thon. The Legion wishes to study this liquid further.{^n}{^n}Delivery of a Blood of Ch'thon will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon is obsessed with something known as the 冥神之血. The Legion wishes to study this liquid further.{^n}{^n}Delivery of a 冥神之血 will be compensated with materials from the Legion stores.
 #-------------------------------#
     266 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     267 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     268 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     270 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an Aether Shard will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their varous crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an 虛化碎片 will be compensated with materials from the Legion stores.
 #-------------------------------#
     271 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     272 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     273 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     275 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters, found only from the largest Aether Crystals and Aetherial Obelisks, appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an Aether Cluster will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The most potent Aether Crystal Clusters, found only from the largest 虛化水晶 and 虛靈方尖碑, appear to hold immense amounts of raw energy within them. The Legion wishes to find out more about how they work.{^n}{^n}Delivery of an 虛化集簇 will be compensated with materials from the Legion stores.
 #-------------------------------#
     276 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     277 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     278 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     280 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}It appears that the act of Aetherial possession inherently alters the chemical structure of the brain. The Legion wishes to study this further, but requires a specimen.{^n}{^n}Delivery of a Tainted Brain Matter will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}It appears that the act of Aetherial possession inherently alters the chemical structure of the brain. The Legion wishes to study this further, but requires a specimen.{^n}{^n}Delivery of a 感染大腦 Matter will be compensated with materials from the Legion stores.
 #-------------------------------#
     281 :
-        標註 : 
         原文 : >-
             Accept the Bounty.
         譯文 : >-
             接受這項賞金任務。
 #-------------------------------#
     282 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     283 :
-        標註 : 
         原文 : >-
             Next Bounty.
         譯文 : >-
             下一個賞金任務。
 #-------------------------------#
     285 :
-        標註 : 
         原文 : >-
             The Black Legion is always looking for capable men and women to assist them on difficult missions.{^n}{^n}With your reputation, some of the most dangerous missions are now available.
         譯文 : >-
             黑色軍團一直在尋找有本事的男人或者女人來幫助他們執行困難的任務。{^n}{^n}根據你的名望，一些最危險的任務現在可以交給你來完成了。
 #-------------------------------#
     287 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     288 :
-        標註 : 
         原文 : >-
             The Black Legion is always looking for capable men and women to assist them on difficult missions.
         譯文 : >-
             The Black Legion is always looking for capable men and women to assist them on difficult missions.
 #-------------------------------#
     289 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-
             離開賞金桌。
 #-------------------------------#
     291 :
-        標註 : 
         原文 : >-
             The Black Legion does not yet trust your capabilities.{^n}{^n}A Friendly reputation is required to access the Bounty Table.
         譯文 : >-
             The Black Legion does not yet trust your capabilities.{^n}{^n}A Friendly reputation is required to access the Bounty Table.
 #-------------------------------#
     292 :
-        標註 : 
         原文 : >-
             Step away from the Bounty Table.
         譯文 : >-

@@ -1,57 +1,49 @@
-bq_kc18.txt : 
+bq_kc18.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Malkadarr
         譯文 : >-
             賞金：馬卡達
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Order of Death's Vigil has filled the Tomb of Archon Barthollem, beneath Fort Ikon with their wicked ways. They are led by a malignant being known as Malkadarr.{^n}{^n}Father Kymon wishes the place cleansed of the filth, starting with their leader.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive the encounter.
         譯文 : >-
             The Order of Death's Vigil has filled the Tomb of Archon Barthollem, beneath Fort Ikon with their wicked ways. They are led by a malignant being known as Malkadarr.{^n}{^n}Father Kymon wishes the place cleansed of the filth, starting with their leader.{^n}{^n}Wealth from within our rarest collection shall be at your disposal should you survive the encounter.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Malkadarr
         譯文 : >-
             殺了馬卡達
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Kymon's Chosen Bounty Table
         譯文 : >-

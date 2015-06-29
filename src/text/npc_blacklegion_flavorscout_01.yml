@@ -1,92 +1,79 @@
-npc_blacklegion_flavorscout_01.txt : 
+npc_blacklegion_flavorscout_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Renall Oberach
         譯文 : >-
             雷納·奧博拉什
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             I suggest you turn back, traveler. The Blood Grove is teeming with the Cult of Ch'thon, and worse.{^n}{^n}I've watched as a rift tore itself open before our eyes and sucked in several men. It vanished just as quickly.{^n}{^n}If you feel the air tingling with strange energy, back away immediately.
         譯文 : >-
             我建議你掉頭回去，旅行者。血森林充斥著冥神的邪教徒。{^n}{^n}更糟的是我看見過一個裂隙在我們眼前自己打開了口子將幾個人吸了進去。它很快就消失了。{^n}{^n}如果你感覺空氣中有刺痛的奇怪能量，馬上逃走。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             What about the other scouts?
         譯文 : >-
             其他的偵察兵呢？
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Lost, taken by the cult.{^n}{^n}The lucky ones died during the fighting, the rest...
         譯文 : >-
             不見了，被邪教徒抓走了。{^n}{^n}最幸運的那個在戰鬥中犧牲了，剩下的可就慘了……
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I'm sorry.
         譯文 : >-
             我感到很遺憾。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             What else is out there?
         譯文 : >-
             這裡還有什麼？
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Blackmane manticores are running wild now that there isn't anyone around to keep them away from the roads.{^n}{^n}Then there's the Order of Death's Vigil and the Kymon's Chosen. Those two groups of fanatics have been at each other's throats for weeks.{^n}{^n}I hope you weren't planning on heading north to Fort Ikon. Darkvale has been completely overrun by the Bloodsworn.
         譯文 : >-
             黑鬃蠍尾獅在四處遊蕩，因為沒有人再把它們從路上趕走。{^n}{^n}然後這裡還有死亡守夜人教團和凱蒙的神選戰士。這兩幫狂熱份子已經互相爭鬥了數個星期。{^n}{^n}我希望不不是在向北趕往聖像堡。黑谷已經完完全全被血誓組織佔據了。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Thanks for the info.
         譯文 : >-
             謝謝你提供的信息。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             What was beyond the rift?
         譯文 : >-
             裂隙之中有什麼？
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             The rifts seem to be highly unstable. The only scouts that went through did not do so willingly, and we never saw them again.
         譯文 : >-
             那些看起來高度的不穩定。那些進入其中的偵察兵可不是資源的，我們再也沒有看見過他們。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Only one way to find out.
         譯文 : >-
             只有一種辦法才能搞明白了。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             They sound dangerous.
         譯文 : >-
             聽起來很危險啊。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             I'll be careful.
         譯文 : >-

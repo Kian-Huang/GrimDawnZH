@@ -1,120 +1,103 @@
-npc_ulgrim_01.txt : 
+npc_ulgrim_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Ulgrim
         譯文 : >-
             艾格瑞姆
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Hello there.
         譯文 : >-
             你好。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Ah, the stranger returns! Care for some bonerat ribs? Taste rank, but quite harmless! Or do you not 'trust' me?
         譯文 : >-
             啊，陌生人你回來了！喜歡骨背鼠的脊骨麼？嚐嚐來評價一下，反正吃不死人的。還是說你不“相信”我？
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I'm sorry about earlier. (Tell him about the prison)
         譯文 : >-
             關於之前我很抱歉。(告訴他監獄的事兒)
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Sorry, just passing through.
         譯文 : >-
             抱歉，我只是路過。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Well I'll be, a living person! I've been stranded out here since Burrwitch fell. Fortified myself on this little patch of island, cooking whatever critters get too close while waiting for the inevitable end. You're a welcome sight for sore eyes!
         譯文 : >-
             我又能當一把活人了！自從伯爾維治失陷之後起我就被困在這兒了。就在這麼一小點地方守著，不管什麼玩意靠近我就做熟了，然後混吃等死。你來到這裡讓我眼前一亮。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Burrwitch fell months ago. How have you survived this long?
         譯文 : >-
             伯爾維治幾個月前就陷落了，你是怎麼活了這麼久？
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Well, I can cook for one! I used to work in the capital and had the honor of preparing meals for a couple noble houses and many foreign dignitaries. I'm not a fighter but I've learned to hunt a bit when necessary. It gets me by. Scraps of bone rat aren't exactly fine dining though. Most of all, I just keep quiet and observe. What about you? Where do you hail from?
         譯文 : >-
             啊，我會做吃的！我以前在帝都給貴族和外國顯貴做飯。我不是位不過我也學會了在必要時打獵。儘管骨背鼠可不怎麼好吃啊。主要是我一直保持低調，你呢，你是從哪裡來的？
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             We could use a cook. (Tell him about the prison)
         譯文 : >-
             我們需要一位廚師。(告訴他監獄的事兒)
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             This prison of yours sounds like heaven compared to my current dwelling. I bet I could do my share as well. Men fight better on full stomachs! How will we get all my equipment to Devil's Crossing?
         譯文 : >-
             跟我這兒比起來你說的監獄簡直就是天堂。我打賭我已經會幹好我分內的事情的。人吃飽了才有力氣戰鬥！怎麼把我的傢伙什兒全搬到惡魔十字去呢？
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             I can open a riftgate to safety. (Open Riftgate)
         譯文 : >-
             我可以開啟一扇傳送門。(打開傳送門)
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             A portal? I've only ever seen one of those before, and it wasn't spitting out the good guys. I really hope you're not trying to pull one on me. Here goes nothing.
         譯文 : >-
             傳送門？我以前只見過一扇這種東西，而且從裡面出來的可不是什麼好貨。我真的希望你別讓我進去，不過也管不了那麼多了。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             I'll see you in Devil's Crossing.
         譯文 : >-
             惡魔十字再見。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Sorry, I have no idea who you are. (Keep the prison to yourself)
         譯文 : >-
             抱歉，我不知道你是何方神聖。(隱瞞監獄的事)
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Playing it close to the vest, eh? I can respect that, given the times. I assure you, I'm just an old cook doing his best to survive out here. Frankly, probably won't be doing much more surviving given the way things are looking out there.
         譯文 : >-
             待人小心謹慎，對麼？我尊重這一點，那確實需要時間。我向你保證我只是個想要活命的老廚子，坦白講，可能跟你需要的還是有些差距吧。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Can't take the chance. Good luck, old man.
         譯文 : >-

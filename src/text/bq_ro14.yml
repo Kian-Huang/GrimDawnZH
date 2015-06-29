@@ -1,43 +1,37 @@
-bq_ro14.txt : 
+bq_ro14.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Ancient Heart
         譯文 : >-
             賞金：遠古之心
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             One of our scouts has been poisoned by one of Cronley's men while out on patrol. It appears to be a deadly concotion that causes necrosis and paralysis of the flesh.{^n}{^n}Eva believes she may have a cure, but she will require an Ancient Heart to craft the tonic. She will gladly offer up a Blood of Ch'thon for trade.
         譯文 : >-
             One of our scouts has been poisoned by one of Cronley's men while out on patrol. It appears to be a deadly concotion that causes necrosis and paralysis of the flesh.{^n}{^n}Eva believes she may have a cure, but she will require an Ancient Heart to craft the tonic. She will gladly offer up a 冥神之血 for trade.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Ancient Heart
         譯文 : >-
             收集遠古之心
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Ancient Heart to the Rover Bounty Table
         譯文 : >-

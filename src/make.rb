@@ -2,22 +2,23 @@
 require "./grim"
 
 def makeTwText()
-    fileNames = txtFileNameList(Path::EN)
-    fileNames.each do |fileName|
-        data = loadYamlFile( Path::TEXT + fileName[0..-4] + "yml" )
-        enText = ""
-        File.open(Path::EN+fileName, "rb", encoding: "UTF-8") { |file| enText = file.read }
-        enText = enText.split("\n")
-	    if data[fileName] == nil
-	        next
-	    end
-        data[fileName].each_pair do | k, v |
-        	next if v["譯文"].empty?
-        	enText[k] = v["譯文"].chomp
+    Dir.mkdir(Path::TW) unless File.exists?(Path::TW)
+    txtFileNameList(Path::EN).each do |fileName|
+        yaml = loadYamlFile( Path::TEXT + fileName[0..-4] + "yml" )
+        outFile = File.new( Path::TW + fileName, "w", encoding: "UTF-8" )
+        enText = File.new( Path::EN + fileName, "r", encoding: "UTF-8").to_a
+        if yaml == false
+            puts fileName
         end
-        File.open(Path::ZH_TW+fileName, "w", encoding: "UTF-8") do |file|
-        	enText.each { |str| file << str + "\n" }
+        yaml[fileName].each_pair do |k,v|
+            enText[k] = v["譯文"]
         end
+        outStr = ""
+        enText.each do |line|
+            outStr << "#{line}\n"
+        end
+        outFile.write(outStr)
+        outFile.close
     end
 end
 

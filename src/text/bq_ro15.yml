@@ -1,43 +1,37 @@
-bq_ro15.txt : 
+bq_ro15.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Equilibrium
         譯文 : >-
             賞金：均衡
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Rover way requires us that we abandon worldly desires and abstain from violence. We have now broken that oath in order to defend ourselves from Cronley's men.{^n}{^n}So that not all of our ways are lost, we seek to craft an old relic known as Equilibrium, so that we can restore some balance to our lives.{^n}{^n}We will gladly exchange some of our rare scavenged materials in exchange for this valuable object.
         譯文 : >-
             The Rover way requires us that we abandon worldly desires and abstain from violence. We have now broken that oath in order to defend ourselves from Cronley's men.{^n}{^n}So that not all of our ways are lost, we seek to craft an old relic known as Equilibrium, so that we can restore some balance to our lives.{^n}{^n}We will gladly exchange some of our rare scavenged materials in exchange for this valuable object.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Craft an Equilibrium Relic
         譯文 : >-
             鍛造一個均衡遺物
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver Equilibrium to the Rover Bounty Table
         譯文 : >-

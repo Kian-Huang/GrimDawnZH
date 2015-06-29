@@ -1,43 +1,37 @@
-bq_hs15.txt : 
+bq_hs15.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Scrap
         譯文 : >-
             賞金：廢鐵
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Homestead is under constant attack. Repairs must be made to the walls if they are to hold, but we are running low on supplies.{^n}{^n}We require Scrap and we need it immediately. A share of our scavenged materials to anyone that gathers some.
         譯文 : >-
             Homestead is under constant attack. Repairs must be made to the walls if they are to hold, but we are running low on supplies.{^n}{^n}We require 廢鐵 and we need it immediately. A share of our scavenged materials to anyone that gathers some.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Scrap
         譯文 : >-
             收集廢鐵
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Scrap to the Homestead Bounty Table
         譯文 : >-

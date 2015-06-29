@@ -1,57 +1,49 @@
-bq_dc07.txt : 
+bq_dc07.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: The Raven
         譯文 : >-
             賞金：烏鴉
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             For the first time since evading capture back before the Grim Dawn, Bolla "The Raven" has been spotted out in the Arkovian Foothills. Last known location: Staunton Mines.{^n}{^n}Many in Burrwitch have suffered from her cruel use of the occult. It would put many minds at ease if she were eliminated.{^n}{^n}The prison is short on supplies, but we will set aside some materials for anyone that deals with this threat.
         譯文 : >-
             在恐怖黎明脫逃之後，烏鴉·波拉第一次出現在安克維亞山麓。最後一次出現的地點是：斯湯頓礦洞。{^n}{^n}許多伯爾維治的人都遭受過她那殘忍的神祕魔法的折磨。如果除掉她的話，將能夠告慰許多人的心。{^n}{^n}雖然監獄缺少補給，但是我們會給除掉她的人預留好一些材料。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Bolla "The Raven"
         譯文 : >-
             殺了烏鴉 波拉
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了惡魔十字的任務，應該回到賞金桌領取獎賞。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Devil's Crossing Bounty Table
         譯文 : >-

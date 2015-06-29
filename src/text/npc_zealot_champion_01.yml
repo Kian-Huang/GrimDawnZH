@@ -1,246 +1,211 @@
-npc_zealot_champion_01.txt : 
+npc_zealot_champion_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Archon Barthollem
         譯文 : >-
             Archon Barthollem
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             You stand before the Harbinger of the Lightbringer.
         譯文 : >-
             You stand before the Harbinger of the Lightbringer.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Um, I have some questions.
         譯文 : >-
             Um, I have some questions.
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Speak, mortal.
         譯文 : >-
             Speak, mortal.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Who, or what, are you?
         譯文 : >-
             Who, or what, are you?
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             I am Archon Barthollem, servant of the Lightbringer and harbinger of the Divine Flame.{^n}{^n}The world shall be cleansed by my fire.
         譯文 : >-
             I am Archon Barthollem, servant of the Lightbringer and harbinger of the Divine Flame.{^n}{^n}The world shall be cleansed by my fire.
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Just as long as you're on our side.
         譯文 : >-
             Just as long as you're on our side.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             For as long as you stand by the righteous and the devout, you need not fear the flame.
         譯文 : >-
             For as long as you stand by the righteous and the devout, you need not fear the flame.
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             I see.
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I...see...
         譯文 : >-
             I...see...
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Now that you are here, what will you do?
         譯文 : >-
             Now that you are here, what will you do?
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             I will bring the wrath of Empyrion upon those who would defile Cairn, beginning with the taint infecting the Necropolis.
         譯文 : >-
             I will bring the wrath of Empyrion upon those who would defile Cairn, beginning with the taint infecting 古代墓地.
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             What is at the Necropolis?
         譯文 : >-
             What is at 古代墓地?
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             A gathering of darkness. The Cult of Ch'thon and its minions have come together in great numbers.{^n}{^n}For what purpose, it matters not. All shall burn.
         譯文 : >-
             A gathering of darkness. The Cult of Ch'thon and its minions have come together in great numbers.{^n}{^n}For what purpose, it matters not. All shall burn.
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             What is Empyrion's will?
         譯文 : >-
             What is Empyrion's will?
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Cleanse the world of the impure. Incinerate the heretics in righteous fire!
         譯文 : >-
             Cleanse the world of the impure. Incinerate the heretics in righteous fire!
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             Thank you.
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             Nevermind.
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Um, goodbye.
         譯文 : >-
             Um, goodbye.
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             What is it, mortal?
         譯文 : >-
             What is it, mortal?
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Who, or what, are you?
         譯文 : >-
             Who, or what, are you?
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             I am Archon Barthollem, servant of the Lightbringer and harbinger of the Divine Flame.{^n}{^n}The world shall be cleansed by my fire.
         譯文 : >-
             I am Archon Barthollem, servant of the Lightbringer and harbinger of the Divine Flame.{^n}{^n}The world shall be cleansed by my fire.
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Just as long as you're on our side.
         譯文 : >-
             Just as long as you're on our side.
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             For as long as you stand by the righteous and the devout, you need not fear the flame.
         譯文 : >-
             For as long as you stand by the righteous and the devout, you need not fear the flame.
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             I see.
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             By Empyrion's will, I have returned.
         譯文 : >-
             By Empyrion's will, I have returned.
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

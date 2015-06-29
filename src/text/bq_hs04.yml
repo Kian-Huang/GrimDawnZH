@@ -1,57 +1,49 @@
-bq_hs04.txt : 
+bq_hs04.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Manticore Alphas
         譯文 : >-
             賞金：蠍尾獅領袖
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Manticores are vicious hunters, but their Alphas are the ones you have to watch out for. They are the ones that travel beyond the usual manticore hunting grounds, leading entire packs into new areas.{^n}{^n}We cannot allow the Manticores to spread to the areas surrounding Homestead. Eliminate the Alphas around the Jagged Waste and you will be rewarded with iron bits.
         譯文 : >-
             Manticores are vicious hunters, but their Alphas are the ones you have to watch out for. They are the ones that travel beyond the usual manticore hunting grounds, leading entire packs into new areas.{^n}{^n}We cannot allow the Manticores to spread to the areas surrounding Homestead. Eliminate the Alphas around the Jagged Waste and you will be rewarded with iron bits.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Manticores Alphas
         譯文 : >-
             殺死蠍尾獅領袖
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for Homestead and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了霍姆斯特德的任務，應該回到賞金桌領取獎賞。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Homestead Bounty Table
         譯文 : >-

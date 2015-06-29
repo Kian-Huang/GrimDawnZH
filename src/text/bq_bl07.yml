@@ -1,57 +1,49 @@
-bq_bl07.txt : 
+bq_bl07.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: The Prime Matriarch
         譯文 : >-
             賞金: The Prime Matriarch
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as Mogara has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}Any assistance will be compensated with iron bits.
         譯文 : >-
             The Legion requests assistance with a monster hunt.{^n}{^n}A manticore matriarch known as Mogara has proven to be a difficult target, often turning her hunters into prey. Her hunting grounds appear to be in the Jagged Waste to the south.{^n}{^n}Any assistance will be compensated with iron bits。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Mogara
         譯文 : >-
             Slay Mogara
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-

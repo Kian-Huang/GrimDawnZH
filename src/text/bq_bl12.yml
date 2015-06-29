@@ -1,43 +1,37 @@
-bq_bl12.txt : 
+bq_bl12.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Blood of Ch'thon
         譯文 : >-
             賞金：Blood of Ch'thon
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon is obsessed with something known as the Blood of Ch'thon. The Legion wishes to study this liquid further.{^n}{^n}Delivery of a Blood of Ch'thon will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Cult of Ch'thon is obsessed with something known as the Blood of Ch'thon. The Legion wishes to study this liquid further.{^n}{^n}Delivery of a Blood of Ch'thon will be compensated with materials from the Legion stores。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Blood of Ch'thon
         譯文 : >-
             Collect Blood of Ch'thon
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Blood of Ch'thon to the Black Legion Bounty Table
         譯文 : >-

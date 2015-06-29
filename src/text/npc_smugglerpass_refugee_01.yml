@@ -1,23 +1,20 @@
-npc_smugglerpass_refugee_01.txt : 
+npc_smugglerpass_refugee_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Rob Halloway
         譯文 : >-
             勞勃·哈洛韋
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             I survived two campaigns in the Northlands only to be driven off my hard won lands by half-troll scum. Now in the time of the empire's greatest need, I'm a used up old man with one eye and limp. What a shame that I'm alive while so many brave veterans fell to see the rest of us this far. All the more so that I've beheld this man Ulgrim, seemingly a peer in age but who yet fights with a ferocity I could not match in my prime. His speed and skill is like nothing I've witnessed, even in all my years on the battlefield.{^n}{^n}I hope you can help these people but, if not, I thank you for trying. Maybe it's best that my journey ends here; I'm just a burden now to those who are still fit to carry on the fight.
         譯文 : >-
             我在北方兩場戰役中倖存下來，卻被那些巨魔雜種從我好不容易贏來的土地上給趕走了。現在在帝國最需要我的時候，我卻只是個又瞎又跛的老頭。許多英勇的老兵死了而我卻苟活下來，這真是一種恥辱。我還能撐著全靠這個叫艾格瑞姆的男人，他看起來年齡和我相當，但他戰鬥起來的勇猛是我壯年時期也比不上的。即使我在戰場已經上摸爬滾打了這麼多年，他的速度和技巧也是我從未見過的。{^n}{^n}我希望你能幫助這些人，但是如果不能如願，我也感謝你已經盡力。或許我的旅途該到此為止了，對於還能堅持戰鬥的人來講我只是個負擔罷了。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
-            Don't give up yet. 
+            Don't give up yet.
         譯文 : >-
             不要放棄。

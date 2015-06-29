@@ -1,141 +1,121 @@
-npc_zealot_flavor_female_01.txt : 
+npc_zealot_flavor_female_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Sister Thaddia
         譯文 : >-
             Sister Thaddia
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             You truly are a Chosen of Kymon.{^n}{^n}Empyrion will surely reward your faithful service.
         譯文 : >-
             You truly are a Chosen of Kymon.{^n}{^n}Empyrion will surely reward your faithful service.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Through Empyrion, all is possible.
         譯文 : >-
             Through Empyrion, all is possible.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Empyrion?
         譯文 : >-
             Empyrion?
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             The Lightbringer, the Eternal Flame. Empyrion is the savior of humanity, returned to us in our darkest hour.{^n}{^n}Father Kymon communes with Empyrion, delivering the Divine One's will to his Chosen.
         譯文 : >-
             The Lightbringer, the Eternal Flame. Empyrion is the savior of humanity, returned to us in our darkest hour.{^n}{^n}Father Kymon communes with Empyrion, delivering the Divine One's will to his Chosen.
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             How do I commune with Empyrion?
         譯文 : >-
             How do I commune with Empyrion?
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Empyrion only speaks to Father Kymon.{^n}{^n}We are not permitted to disturb him during his visions.
         譯文 : >-
             Empyrion only speaks to Father Kymon.{^n}{^n}We are not permitted to disturb him during his visions.
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Seems awfully convenient.
         譯文 : >-
             Seems awfully convenient.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Do you not have faith? None who have witnessed Father Kymon's work would dare question his connection with Empyrion.{^n}{^n}The Blessed Father has walked through flame and emerged unscathed. His very touch banishes Chthonians to the void.{^n}{^n}It is an honor and a privilege to be one of his Chosen.
         譯文 : >-
             Do you not have faith? None who have witnessed Father Kymon's work would dare question his connection with Empyrion.{^n}{^n}The Blessed Father has walked through flame and emerged unscathed. His very touch banishes Chthonians to the void.{^n}{^n}It is an honor and a privilege to be one of his Chosen.
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             I will have to see it for myself.
         譯文 : >-
             I will have to see it for myself.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I'm sorry I jumped to conclusions.
         譯文 : >-
             I'm sorry I jumped to conclusions.
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             What's behind this gate?
         譯文 : >-
             What's behind this gate?
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Father Kymon's personal study, where he communes with Empyrion.{^n}{^n}No one is permitted inside except the Father.
         譯文 : >-
             Father Kymon's personal study, where he communes with Empyrion.{^n}{^n}No one is permitted inside except the Father.
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             I see.
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Welcome [[ms]brother[fs]sister]. May Empyrion be your light in the encroaching darkness.
         譯文 : >-
             Welcome [[ms]brother[fs]sister]. May Empyrion be your light in the encroaching darkness.
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-

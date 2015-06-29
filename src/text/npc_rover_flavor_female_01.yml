@@ -1,57 +1,49 @@
-npc_rover_flavor_female_01.txt : 
+npc_rover_flavor_female_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Dallaa
         譯文 : >-
             Dallaa
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Lotta crazies out there. If you're looking for some exotic arms to defend yourself, then Benevald is just the man you're looking for.
         譯文 : >-
             Lotta crazies out there. If you're looking for some exotic arms to defend yourself, then Benevald is just the man you're looking for.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Aren't you Rovers? What about non-violence?
         譯文 : >-
             Aren't you Rovers? What about non-violence?
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Perhaps you haven't been paying attention, but the world's ending.{^n}{^n}We're not lying down and letting the apocalypse walk all over us.
         譯文 : >-
             Perhaps you haven't been paying attention, but the world's ending.{^n}{^n}We're not lying down and letting the apocalypse walk all over us.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             It's just unlike most Rovers, is all.
         譯文 : >-
             It's just unlike most Rovers, is all.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Fair enough.
         譯文 : >-
             Fair enough.
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I'll take a look at his wares.
         譯文 : >-
             I'll take a look at his wares.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-

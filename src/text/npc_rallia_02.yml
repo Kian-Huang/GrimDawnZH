@@ -1,92 +1,79 @@
-npc_rallia_02.txt : 
+npc_rallia_02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Rallia
         譯文 : >-
             拉莉亞
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             See something you like?{^n}{^n}Move along.
         譯文 : >-
             See something you like?{^n}{^n}Move along.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Alright then.
         譯文 : >-
             Alright then.
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Hate to admit, for a while there I thought I was as good as dead.{^n}{^n}Thank you, for my freedom.
         譯文 : >-
             Hate to admit, for a while there I thought I was as good as dead.{^n}{^n}Thank you, for my freedom.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             How did Nathaniel get the best of you?
         譯文 : >-
             How did Nathaniel get the best of you?
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             They must have seen me working the cauldron, saw some Aether glow and jumped to their own crazy conclusions. They were on me before I could cast a single spell.{^n}{^n}I may have access to powers beyond most men, but I am no Aetherial.{^n}{^n}Here, take this. It is a paltry gift, but the least I could offer my savior. I will not forget this kindness. Farewell.
         譯文 : >-
             They must have seen me working the cauldron, saw some Aether glow and jumped to their own crazy conclusions. They were on me before I could cast a single spell.{^n}{^n}I may have access to powers beyond most men, but I am no Aetherial.{^n}{^n}Here, take this. It is a paltry gift, but the least I could offer my savior. I will not forget this kindness. Farewell.
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Earlier, you stared at me as if you knew everything about me.
         譯文 : >-
             Earlier, you stared at me as if you knew everything about me.
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             A little trick I picked up. You should work on that, blocking your thoughts. Not all mind readers are as benevolent as I am.{^n}{^n}Nevertheless, you are not Taken either, though the after-effects on your mind are astonishing. It's as if the Aetherial was rearranging your brain.
         譯文 : >-
             A little trick I picked up. You should work on that, blocking your thoughts. Not all mind readers are as benevolent as I am.{^n}{^n}Nevertheless, you are not Taken either, though the after-effects on your mind are astonishing. It's as if the Aetherial was rearranging your brain.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Rearranging how?
         譯文 : >-
             Rearranging how?
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Hard to say. Perhaps you should ask the one that did this to you?{^n}{^n}*Rallia laughs*
         譯文 : >-
             Hard to say. Perhaps you should ask the one that did this to you?{^n}{^n}*Rallia laughs*
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             See something you like?{^n}{^n}Move along.
         譯文 : >-
             See something you like?{^n}{^n}Move along.
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Alright then.
         譯文 : >-

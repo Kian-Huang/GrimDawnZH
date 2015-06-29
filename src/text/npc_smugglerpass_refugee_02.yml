@@ -1,22 +1,19 @@
-npc_smugglerpass_refugee_02.txt : 
+npc_smugglerpass_refugee_02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Beatrice Summers
         譯文 : >-
             碧翠斯·薩莫斯
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Like many that set out with us, I was a soldier before we retired to farm lands granted us by the empire. We knew how to fight and we fared better against the zombies than other groups we've encountered. That is, until the corrupted trolls appeared and drove us into the mountains, killing dozens of my brethren. {^n}{^n}Now this is all that remains and only by the valor of Ulgrim; a man who fights like a devil. I don't know where he came from but I don't think he is mortal. Even if he could hold off these monsters forever, we will soon succumb to the elements. I hope you can help him deliver us from this place of death.
         譯文 : >-
             像許多跟我們一起出發的人一樣，我也曾是個卸甲歸田的戰士。我們知道如何戰鬥，與我們遇到的其他隊伍相比我們面對喪屍沒那麼艱難。但是當腐化的巨魔出現之後，它們把我們驅趕到了山裡面，殺死了我們眾多的同胞。{^n}{^n}現在全靠僅剩的艾格瑞姆的勇氣支撐著我們，他戰鬥起來如同惡魔一般。我不知道他從何而來，但我不覺得他是個凡人。即使他能永遠壓制住那些怪物，我們也會被元素殺死。我希望你能幫他把我們從這種死地中拯救出來。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             I will do what I can.
         譯文 : >-

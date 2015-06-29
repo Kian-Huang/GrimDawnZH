@@ -1,372 +1,319 @@
-npc_silas.txt : 
+npc_silas.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Silas
         譯文 : >-
             塞拉斯
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             I'm goin', I'm goin'. Got money to spend anyhow.
         譯文 : >-
             走了，走了。反正錢已經到手了。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Good.
         譯文 : >-
             好的。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             What ya comin' near me fer? Git back to work.
         譯文 : >-
             你離我這麼近要幹嘛？滾回去幹活。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I'm going.
         譯文 : >-
             我這就去。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Back to work with ya. Quota's goin' up next week, ya know.
         譯文 : >-
             回去幹你的活兒。下週貢品數額要漲了，你知道的。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I think I'm going to kill you this time.
         譯文 : >-
             我想我這次不能再饒了你。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Ya watch yer litte mouth or I'll have to carve ya another.
         譯文 : >-
             管好你那張嘴，不然我就再給你割出來一張嘴。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You die today. (Attack)
         譯文 : >-
             明年的今天就是你的忌日。(攻擊)
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             別介意。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Whatever you say.
         譯文 : >-
             你說了算。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Back to work with ya. Quota's goin' up next week, ya know.
         譯文 : >-
             回去幹你的活兒。下週貢品數額要漲了，你知道的。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Whatever you say.
         譯文 : >-
             你說了算。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             What ya comin' near me fer? Git back to work.
         譯文 : >-
             你離我這麼近要幹嘛？滾回去幹活。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             What are you doing here?
         譯文 : >-
             你在這裡做什麼？
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             New to the village, eh? See, this place here's under our protection. Mind yer own business and scram.
         譯文 : >-
             剛來到這個村子的生面孔麼？我們幫派罩著這個地界，管好你自己的事兒就行了，趕緊滾蛋。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Extortion? Men like you deserve to die.
         譯文 : >-
             敲詐勒索？你這種人都該去死。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             A man might take that as a threat. Ya ain' threatenin' me, are ya?
         譯文 : >-
             我或許應該把這話當成一種威脅，你不是在威脅我吧？
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Perhaps I am. (Attack)
         譯文 : >-
             或許是的。(攻擊)
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             別介意。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             I've got the scrap.
         譯文 : >-
             我找到了廢鐵。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             What ya waitin' for then. Give it here.
         譯文 : >-
             那你還等什麼，給我拿來。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Will this suffice?
         譯文 : >-
             這麼多夠不夠？
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Good, good. Now back to work with ya.
         譯文 : >-
             好，夠了。你回去幹活。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Whatever.
         譯文 : >-
             足夠就好。
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             On second thought, I think I'd rather kill you.
         譯文 : >-
             重新考慮過後，我覺得我該殺了你。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Oy, this one's got a spine. Gonna give ya a few seconds to change yer mind before I pound yer face into the sand.
         譯文 : >-
             哎唷，你還是個硬茬兒。在打得你滿臉開花之前，我先給你幾秒鐘改變主意的時間。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Fine, take the scrap and choke on it.
         譯文 : >-
             好吧，拿去那些廢鐵，小心別拿太多累死你。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             No, I'm sure. You die. (Attack)
         譯文 : >-
             不，我不會改變主意的。你死定了。(攻擊)
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             別介意。
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             How much coin would it take to make you leave?
         譯文 : >-
             給你多少錢你才會走？
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             Now yer talking my language. Look, I don' much care for this joint and a bit o' coin sure might raise a man's reputation up above, see? Gimme 2500 Iron Bits and I'll tell Darius this place ain' worth the trouble no more.
         譯文 : >-
             你終於說了句人話。哎，我也不怎麼在乎這個地方變成什麼樣，一點錢也確實能夠讓人提升一下自己的名望，明白麼？給我2500鐵幣我就告訴德萊厄斯這破地方不值得我們再來了。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             Just take the scrap.
         譯文 : >-
             只有這些廢鐵，拿走吧。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             Deal. (Give 2500 Iron Bits)
         譯文 : >-
             成交。(交出2500枚鐵幣)
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             Good, good. Glad to be done with this slith hole. Now git out of my sight 'fore I change my mind.
         譯文 : >-
             好，很好。真高興能離開這個像蛇人洞穴一樣的地方。現在在我改變主意之前，趕快滾出我的視線。
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             You better be gone when I return.
         譯文 : >-
             我回來的時候你最好滾得遠遠的。
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             Whatever you say.
         譯文 : >-
             你說了算。
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             On second thought, I think I'd rather kill you.
         譯文 : >-
             重新考慮過後，我覺得我該殺了你。
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             Oy, this one's got a spine. Gonna give ya a few seconds to change yer mind before I pound yer face into the sand.
         譯文 : >-
             哎唷，你還是個硬茬兒。在打得你滿臉開花之前，我先給你幾秒鐘改變主意的時間。
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             No, I'm sure. You die. (Attack)
         譯文 : >-
             不，我不會改變主意的。你死定了。(攻擊)
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             別介意。
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             別介意。
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             I think you should leave before someone gets hurt.
         譯文 : >-
             我覺得你最好還是趕緊離開這兒，免得有人受傷。
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             No more scrap. You die today.
         譯文 : >-
             別再想要廢鐵了，明年的今天就是你的忌日。
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             Oy, this one's got a spine. Gonna give ya a few seconds to change yer mind before I pound yer face into the sand.
         譯文 : >-
             哎唷，你還是個硬茬兒。在打得你滿臉開花之前，我先給你幾秒鐘改變主意的時間。
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             No, I'm sure. You die. (Attack)
         譯文 : >-
             不，我不會改變主意的。你死定了。(攻擊)
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             別介意。
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             Forget it.
         譯文 : >-
             不要在意。
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             What ya comin' near me fer? Git back to work.
         譯文 : >-
             你離我這麼近要幹嘛？滾回去幹活
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             What's going on here?
         譯文 : >-
             這裡發生了什麼事？
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             New to the village, eh? See, this place here's under our protection. Mind yer own business and scram.
         譯文 : >-
             剛來到這個村子的生面孔麼？我們幫派罩著這個地界，管好你自己的事兒就行了，趕緊滾蛋。
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             別介意。
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             I'm going.
         譯文 : >-

@@ -1,134 +1,115 @@
-sq_burnthetaken.txt : 
+sq_burnthetaken.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Homestead
         譯文 : >-
             霍姆斯特德
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Burn the Taken
         譯文 : >-
             焚燒被佔據者
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Speak to Witch
         譯文 : >-
             和女巫談談
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You have encountered a group of survivors who were about to burn a young woman they suspect of being a Taken. You asked to speak with her before they do anything rash.
         譯文 : >-
             你遇到了一群倖存者，他們正要把一個被懷疑是被佔據者的年輕女子給燒死。你要求在他們實施魯莽的行為之前跟她談一談。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Speak to Rallia
         譯文 : >-
             與拉莉亞交談
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Speak to Hostiles
         譯文 : >-
             和那些心懷敵意的人談談
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Rallia has convinced you that she is not a Taken, but you must now convince Nathaniel to let her go.
         譯文 : >-
             拉莉亞說服了你她不是被佔據者，可你還要說服納撒尼爾放了她。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Convince Nathaniel to let Rallia go
         譯文 : >-
             說服納撒尼爾放了她
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Kill Hostiles
         譯文 : >-
             殺死那些心懷敵意的人
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             You are convinced that the men trying to burn Rallia alive are paranoid, but they refuse to listen to reason. They have become violent when you suggested letting her go. There is only one way out of this: Nathaniel and his lackeys have to die.
         譯文 : >-
             你確信那些要把拉莉亞活活燒死的人是一些偏執狂，而且他們根本不講道理。當你勸他們放了她的時候，他們變得暴力起來。只有一種辦法了，納撒尼爾和他的狗腿子們必須死。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Kill Bolvia
         譯文 : >-
             殺了鮑維婭
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Kill Nathaniel
         譯文 : >-
             殺了納撒尼爾
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Kill Vaam
         譯文 : >-
             殺了瓦姆
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Freed Witch
         譯文 : >-
             被解放的女巫
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             You have freed Rallia from her captors, for which she is eternally grateful. Speak to her for a reward.
         譯文 : >-
             你從那些人手中釋放了拉莉亞，她對你感激不盡。跟她談談，獲取獎賞。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Speak to Rallia
         譯文 : >-
             和拉莉亞交談
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             Burn Witch
         譯文 : >-
             燒死女巫
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             You have burnt the Taken Rallia, as she deserved. Speak to Nathaniel about the ordeal.
         譯文 : >-
             你燒死了被佔據者拉莉亞，就像她應得的那樣。和納撒尼爾談談關於藉助神明，以水火審判的事。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             Speak to Nathaniel
         譯文 : >-

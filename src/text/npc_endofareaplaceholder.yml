@@ -1,36 +1,31 @@
-npc_endofareaplaceholder.txt : 
+npc_endofareaplaceholder.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             End of Act 3 John Bourbon
         譯文 : >-
             第三章結尾的約翰·波旁
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Hello, I am a clone of John Bourbon. I have been placed here by forces beyond to inform you that you have reached the end of our current content!
         譯文 : >-
             你好，我是約翰·波旁的一個克隆體。我被強制放在這裡來通知你：你已經到達了目前遊戲內容的結尾。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             What! Where is the rest?!
         譯文 : >-
             什麼！剩下的呢？！
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             We are still working on the content beyond this point. Check back on our site for updates! Act 4 is coming soon!
         譯文 : >-
             我們仍在製作後續內容。查看我們的網站來獲取更新信息！第四章的內容不久就會更新的！
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-

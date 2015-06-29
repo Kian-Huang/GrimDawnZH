@@ -1,36 +1,31 @@
-sq_roverrescue.txt : 
+sq_roverrescue.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Wightmire
         譯文 : >-
             屍妖泥沼
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             A Rover Rescue
         譯文 : >-
             營救流浪者
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Rescue Rovers
         譯文 : >-
             營救流浪者
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You have freed several Rovers from a group of convicts in a Wightmire mine.
         譯文 : >-
             你在屍妖泥沼的一個礦井中從一群罪犯手中解救了幾個流浪者。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Speak to Rover
         譯文 : >-

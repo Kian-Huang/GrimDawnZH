@@ -1,57 +1,49 @@
-bq_bl03.txt : 
+bq_bl03.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Devourers
         譯文 : >-
             賞金: Devourers
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Legion requests assistance against the spawns of the void.{^n}{^n}Chthonian Devourers have been seen rampaging through the Blood Grove, tearing our men apart with their vicious jaws. They are damaging to morale and are to be exterminated.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             The Legion requests assistance against the spawns of the void.{^n}{^n}Chthonian Devourers have been seen rampaging through the Blood Grove, tearing our men apart with their vicious jaws. They are damaging to morale and are to be exterminated.{^n}{^n}Any assistance will be compensated with materials from the Legion stores。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Chthonian Devourers
         譯文 : >-
-             Slay Chthonian Devourers
+            Slay Chthonian Devourers
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了Black Legion的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-

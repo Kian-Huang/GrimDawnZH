@@ -1,64 +1,55 @@
-npc_necro_flavor_male_01.txt : 
+npc_necro_flavor_male_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Galarok
         譯文 : >-
             Galarok
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             May the Chosen of Kymon fall before your might.
         譯文 : >-
             May the Chosen of Kymon fall before your might.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Should you encounter any of Kymon's Chosen out in the wilderness, beware. They are a zealous group and attack us on sight.
         譯文 : >-
             Should you encounter any of Kymon's Chosen out in the wilderness, beware. They are a zealous group and attack us on sight.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             What happened?
         譯文 : >-
             What happened?
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Bastard jumped me in the woods, burning blades drawn. Of course, poor fool made the mistake of thinking I was alone.{^n}{^n}Cost me a few decent minions, but he made an ample replacement for one.{^n}{^n}*Galarok grins*
         譯文 : >-
             Bastard jumped me in the woods, burning blades drawn. Of course, poor fool made the mistake of thinking I was alone.{^n}{^n}Cost me a few decent minions, but he made an ample replacement for one.{^n}{^n}*Galarok grins*
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Poetic justice.
         譯文 : >-
             Poetic justice.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             A cruel end.
         譯文 : >-
             A cruel end.
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             I'll be careful.
         譯文 : >-

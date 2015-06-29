@@ -1,974 +1,835 @@
-npc_mornay.txt : 
+npc_mornay.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Mornay
         譯文 : >-
             莫爾奈
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             There are few people I hold in high regard, and I count you and Bourbon among them.
         譯文 : >-
             除了你和波旁之外，我尊敬的人可沒幾個。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Any other areas you explored?
         譯文 : >-
             你還探索過其他的地區嗎？
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I've explored many regions after the Grim Dawn struck. What would you like to know about?
         譯文 : >-
             在恐怖黎明發生之後我探索過很多地方，你想知道什麼？
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             What's to the Northwest?
         譯文 : >-
             西北部有什麼？
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             The roads to the Northwest are treacherous. The Aetherial presence there is less but foul creatures proliferate in the wilds and restless spirits walk the world. No less dangerous are the desperate and depraved humans stalking the roads, preying upon the weak. It's been the same with every region I've explored, either it is held by a powerful enemy force or else fought over by numerous lesser groups, each dangerous in their own way. The realm is shattered and I don't know how we can ever hope to put it back together.
         譯文 : >-
             通向西北方的路充滿了危險。少了些虛化生物，但是邪惡的生物在野外繁殖，焦躁不安的元素也在遊蕩。那些在路上游蕩，掠奪弱者的墮落的人類也同樣十分危險。我去過的每個地區都是這幅摸樣，要麼某個敵人的勢力一家獨大，要麼是幾個小團體互相爭鬥不休。整個王國已經分崩離析，我不知道還有什麼希望再復原我們的國家。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Thanks.
         譯文 : >-
             謝謝。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             What can you tell me about Homestead?
         譯文 : >-
             關於霍姆斯特德你能告訴我些什麼？
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Homestead is not going to be easy to reclaim. It's a real mess. Scattered Aetherial corruptions roam the fields but the Cult of Ch'thon has a strong presence. One of the most horrible things I've encountered, among a host of atrocities, are the Ch'thonic blood farms: row upon row of humans hanging from posts, some dead, some still living, their blood draining into catch basins like sap being collected from trees. I've heard the Ch'thonians use the blood to empower their sorcery and summon creatures up from the void. To make matters worse, gigantic terrifying insects as large as horses have infested some of the fields. I'd wager they slipped through the weakened veil between realities. Then there's the necromancers...
         譯文 : >-
             霍姆斯特德可不是個容易收復的地方。那地方真的是一團糟。散落的虛靈的僕從遍佈田野，信奉冥神的邪教徒更是實力強大。在我遇到過的大量暴行之中，最令人髮指的就是冥靈的集血儀式：一行又一行的人類被吊在柱子上，有的已經死去，有的還活著。他們的血液被抽取到集水池中，就像抽取樹木的汁液一般。我聽說冥靈使用那些血液來增強魔法和召喚虛空中的生物。還不止這些，馬一樣大的巨型昆蟲也侵佔了一些農田，我敢打賭他們是一定從現實空間之間孱弱的遮蔽中溜進來的。然後那地方還有死靈法師在作祟……
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Thanks.
         譯文 : >-
             謝謝。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             What's the furthest North you've gone?
         譯文 : >-
             你到達過最北邊的地方是哪裡？
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             The further North you travel, the more you encounter strange anomalies caused by aetherial power: distortions in reality, swirling vortexes of energy, fields of aetherfire... it defies the senses. In some places, you can be killed by the air itself. There's no way to fight against that, you just have to run and hope you can run fast enough. Even if humankind eventually drives these outsiders back to their own realms, how are we going to restore the land?
         譯文 : >-
             越往北方走，就會遇到越多因為虛化能量而產生的異狀：扭曲的空間，能量漩渦，大片的虛化之火……完全顛覆了你的認知。在一些地方，空氣就能殺死你。人類根本無法和那種東西對抗，你只能逃跑而且祈禱你跑得夠快。就算人類最終把這些外來者都趕回了他們的國度，我們又將如何去重塑這片土地呢？
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Thanks.
         譯文 : >-
             謝謝。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             What else is out there?
         譯文 : >-
             那兒還有什麼？
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I don't know whether this is just hopeful delusion or something more but a few of the drifters I encountered spoke of another human enclave in the mountains. They talked about a fortress built of salt rock that could repel any Aetherial attack. This fantasy doesn't consider that salt would dissolve in the rain. While that might be fanciful nonsense, there are quite a lot of old mines up in the mountains. It's possible some people found refuge in an old salt mine.
         譯文 : >-
             我不知道是樂觀的妄想還是別的什麼的，我遇到幾個流浪者告訴我說群山中還有一塊被包圍的人類領土。他們提到了一座由鹽巖築成的要塞，堅固得足以抵禦任何虛靈的進攻。這個幻想沒有考慮到鹽在雨中是會溶解掉的。那可能就是一番空想出來的胡話罷了，不過山中確實有許多老舊的礦井，一些人找到一口舊礦井避難還是很有可能的。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Thanks.
         譯文 : >-
             謝謝。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Actually, nevermind. Farewell.
         譯文 : >-
             沒事了，再見。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             I spotted Elsa out there. She's still alive.
         譯文 : >-
             我找到了艾爾莎，她還活著。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             You have no idea how relieved this makes me. I must go find her!
         譯文 : >-
             你不知道這消息讓我怎樣如釋重負。我必須去找她！
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             Don't. She wants nothing to do with you.
         譯文 : >-
             別去，她不想見到你。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             *Mornay sighs*{^n}{^n}You're probably right. I just wanted to patch things up. Elsa's a lot like my wife, you know, before the Aetherials got her. At least I know Elsa's safe.
         譯文 : >-
             *莫爾奈嘆了一口氣*{^n}{^n}你說的可能是對的。我只是想把一切恢復原狀。艾爾莎很像我的妻子，你知道，她被虛靈控制住了。至少我知道艾爾莎還活著。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             It's good to let go.
         譯文 : >-
             有一種愛叫做放手。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             It's a dangerous journey. Don't risk it.
         譯文 : >-
             出去會很危險的，最好不要冒險行事。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             I survived out there for weeks. Don't you worry about me.
         譯文 : >-
             我在外面生存了幾個星期，你用不著擔心我。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             沒關係。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Yes, you should.
         譯文 : >-
             是的，你應該這麼做。
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             Ah, back on the road again. Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me.
         譯文 : >-
             啊，回到正題。總之，惡魔十字也開始變得有些擁擠了。謝謝你送來這個消息。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             Good luck.
         譯文 : >-
             祝你好運。
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             Darius did not have Elsa.
         譯文 : >-
             德萊厄斯沒有抓艾爾莎。
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             Damnation! Perhaps... perhaps she escaped and ran for Homestead? Or maybe they sold her... I have to go back out there. If there is any chance that Elsa still lives, I have to find her. I owe her that much.
         譯文 : >-
             糟了！或許……或許她逃向了霍姆斯特德？還是他們把她給賣掉了……我必須回到那裡去，如果艾爾莎有任何機會還活著，我就要找到她。我欠她太多了。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             Good luck.
         譯文 : >-
             祝你好運。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             Move along. I'm here to speak with the Captain.
         譯文 : >-
             我走了，我是來找隊長的。
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             Now that we're not in any imminent danger, we need to deal with a more subtle enemy: starvation. Devil's Crossing is running out of food and our supply runs are coming up dry. We need a reliable source of food and we need it fast.{^n}{^n}Barnabas has some ideas as to what we can do. Speak to him immediately.
         譯文 : >-
             眼下我們沒有了迫在眉睫的危機，我們需要對付一個更難纏的對手：飢餓。惡魔十字的糧食消耗殆盡而且糧食供應也已經中斷。我們迫切需要一個可靠的糧食來源。{^n}{^n}巴納巴斯對此有一些點子，馬上去和他談談吧。
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             I will speak to Barnabas.
         譯文 : >-
             我會和他談談的。
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             I must do something else first.
         譯文 : >-
             我得先做些別的事。
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             Now that Devil's Crossing not in any imminent danger, you need to deal with a more subtle enemy: starvation. Devil's Crossing is running out of food and supply runs are coming up dry. These people need a reliable source of food and they need it fast.{^n}{^n}Barnabas has some ideas as to what you can do. Speak to him immediately.{^n}{^n}Me? I'm heading out there again. I must find Elsa.
         譯文 : >-
             眼下我們沒有了迫在眉睫的危機，我們需要對付一個更難纏的對手：飢餓。惡魔十字的糧食消耗殆盡而且糧食供應也已經中斷。我們迫切需要一個可靠的糧食來源。{^n}{^n}巴納巴斯對此有一些點子，馬上去和他談談吧。{^n}{^n}至於我？我要再次返回那裡，我必須找到艾爾莎。
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             I will speak to Barnabas.
         譯文 : >-
             我會和他談談的。
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             I must do something else first.
         譯文 : >-
             我得先做些別的事。
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Well? Is it finished?
         譯文 : >-
             怎麼樣？事情結束了麼？
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             Darius is no more and his gang is scattered.
         譯文 : >-
             德萊厄斯這個人已經不存在了，他的幫派也已經分崩離析。
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             The world is a little safer today with that monster dead. Now what of Elsa? You must have seen something?
         譯文 : >-
             那個怪物的死讓這個世界稍微安全了一點。艾爾莎怎麼樣了？你一定發現了些什麼？
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             I spotted her out there. She's still alive.
         譯文 : >-
             我找到了艾爾莎，她還活著。
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             You have no idea how relieved this makes me. I must go find her!
         譯文 : >-
             你不知道這消息讓我怎樣如釋重負。我必須去找她！
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             Don't. She wants nothing to do with you.
         譯文 : >-
             別去，她不想見到你。
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             *Mornay sighs*{^n}{^n}You're probably right. I just wanted to patch things up. Elsa's a lot like my wife, you know, before the Aetherials got her. At least I know Elsa's safe.
         譯文 : >-
             *莫爾奈嘆了一口氣*{^n}{^n}你說的可能是對的。我只是想把一切恢復原狀。艾爾莎很像我的妻子，你知道，她被虛靈控制住了。至少我知道艾爾莎還活著。
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             It's good to let go. What do we do now?
         譯文 : >-
             有一種愛叫做放手。我們現在該做些什麼？
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             It's a dangerous journey. Don't risk it.
         譯文 : >-
             出去會很危險的，最好不要冒險行事。
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             I survived out there for weeks. Don't you worry about me.
         譯文 : >-
             我在外面生存了幾個星期，你用不著擔心我。
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             Nevermind. What do we do now?
         譯文 : >-
             別在意。我們現在該做些什麼？
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             Yes, you should.
         譯文 : >-
             是的，你應該這麼做。
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me.
         譯文 : >-
             反正，惡魔十字開始變得有些擁擠了。謝謝你送來這個消息。
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             Good luck. What do we do now?
         譯文 : >-
             祝你好運，我們現在該做些什麼？
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             I found no trace of Elsa. (Lie)
         譯文 : >-
             我沒有找到艾爾莎。(說謊)
 #-------------------------------#
     65 :
-        標註 : 
         原文 : >-
             Darius did not have Elsa.
         譯文 : >-
             德萊厄斯沒有抓艾爾莎。
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             Damnation! Perhaps... perhaps she escaped and ran for Homestead? Or maybe they sold her... I have to go back out there. If there is any chance that Elsa still lives, I have to find her. I owe her that much.
         譯文 : >-
             糟了！或許……或許她逃向了霍姆斯特德？還是他們把她給賣掉了……我必須回到那裡去，如果艾爾莎有任何機會還活著，我就要找到她。我欠她太多了。
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             What do we do now?
         譯文 : >-
             我們現在該做些什麼？
 #-------------------------------#
     69 :
-        標註 : 
         原文 : >-
             The world is a little safer today with that monster dead. Now on to our ongoing list of problems.
         譯文 : >-
             那個怪物的死讓這個世界稍微安全了一點。現在我們可以著手解決眼前的一堆問題了。
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             What is it now?
         譯文 : >-
             現在該做些什麼？
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             Later.
         譯文 : >-
             之後再說。
 #-------------------------------#
     74 :
-        標註 : 
         原文 : >-
             How goes the campaign against Darius?
         譯文 : >-
             對抗德萊厄斯的戰鬥進行如何？
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             Where do I need to go again?
         譯文 : >-
             我需要去哪？
 #-------------------------------#
     76 :
-        標註 : 
         原文 : >-
             Head northwest out of Devil's Crossing and follow the road through the Arkovian Foothills until you enter Old Arkovia. The Four Hills are at the northern point. Darius' gang has several fortified camps around there, including an old mine shaft.{^n}{^n}When I last saw Quade, he was moving his group near Four Hills.
         譯文 : >-
             從惡魔十字向西北方前行，接著沿著安克維亞山麓的道路前進直到你抵達古安克維亞，四山就在北邊。德萊厄斯的幫派在那裡有幾個駐防的營地，包括一座舊礦井在內。{^n}{^n}我最後一次見到奎德的時候，他把他的隊伍遷移到了四山附近。
 #-------------------------------#
     77 :
-        標註 : 
         原文 : >-
             I will handle it.
         譯文 : >-
             我會解決這件事的。
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             Getting back out there soon.
         譯文 : >-
             我馬上就回來。
 #-------------------------------#
     79 :
-        標註 : 
         原文 : >-
             Good. Every minute wasted is more time Darius has to plan his next move.
         譯文 : >-
             真行，每浪費一分鐘德萊厄斯就有更多的時間策劃他下一步的行動。
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             Bye.
         譯文 : >-
             再見。
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             I found Elsa, she's still out there in the wild.
         譯文 : >-
             我找到了艾爾莎，她還在荒郊野外。
 #-------------------------------#
     82 :
-        標註 : 
         原文 : >-
             You have no idea how relieved this makes me. I must go find her!
         譯文 : >-
             你不知道這消息讓我怎樣如釋重負。我必須去找她！
 #-------------------------------#
     83 :
-        標註 : 
         原文 : >-
             Don't. She wants nothing to do with you.
         譯文 : >-
             別去，她不想見到你。
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             *Mornay sighs*{^n}{^n}You're probably right. I just wanted to patch things up. Elsa's a lot like my wife, you know, before the Aetherials got her. At least I know Elsa's safe.
         譯文 : >-
             *莫爾奈嘆了一口氣*{^n}{^n}你說的可能是對的。我只是想把一切恢復原狀。艾爾莎很像我的妻子，你知道，她被虛靈控制住了。至少我知道艾爾莎還活著。
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             It's good to let go.
         譯文 : >-
             有一種愛叫做放手。我們現在該做些什麼？
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             It's a dangerous journey. Don't risk it.
         譯文 : >-
             出去會很危險的，最好不要冒險行事。
 #-------------------------------#
     87 :
-        標註 : 
         原文 : >-
             I survived out there for weeks. Don't you worry about me.
         譯文 : >-
             我在外面生存了幾個星期，你用不著擔心我。
 #-------------------------------#
     89 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             別在意。
 #-------------------------------#
     90 :
-        標註 : 
         原文 : >-
             Yes, you should.
         譯文 : >-
             是的，你應該這麼做。
 #-------------------------------#
     91 :
-        標註 : 
         原文 : >-
             Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me. We have to deal with Cronley first though.
         譯文 : >-
             反正，惡魔十字開始變得有些擁擠了。謝謝你送來這個消息。我們必須先對付克隆利幫。
 #-------------------------------#
     92 :
-        標註 : 
         原文 : >-
             Good luck.
         譯文 : >-
             祝你好運。
 #-------------------------------#
     93 :
-        標註 : 
         原文 : >-
             Darius does not have Elsa.
         譯文 : >-
             德萊厄斯沒有抓艾爾莎。
 #-------------------------------#
     94 :
-        標註 : 
         原文 : >-
             Damnation! Perhaps...perhaps she escaped and ran for Homestead? Or maybe they sold her... I have to go back out there. If there is any chance that Elsa still lives, I have to find her. I owe her that much.
         譯文 : >-
             糟了！或許……或許她逃向了霍姆斯特德？還是他們把她給賣掉了……我必須回到那裡去，如果艾爾莎有任何機會還活著，我就要找到她。我欠她太多了。
 #-------------------------------#
     95 :
-        標註 : 
         原文 : >-
             Good luck.
         譯文 : >-
             祝你好運。
 #-------------------------------#
     96 :
-        標註 : 
         原文 : >-
             Darius Cronley...{^n}{^n}Last I've seen his face, they almost hung him for a double homicide. The Warden intervened at the last minute in favor of a life sentence in Devil's Crossing. Seems there were ulterior motives after all.{^n}{^n}Darius Cronley is the devil made manifest, devious and manipulative with a penchant for sin of every kind. He's the one running this gang and he's the one we need to go after next.
         譯文 : >-
             德萊厄斯·克隆利……{^n}{^n}上次我見到他時，他差點因為身上的兩條命案被絞死。典獄長在最後一刻贊同了判處在惡魔十字的無期徒刑。總之典獄長似乎心懷鬼胎。{^n}{^n}德萊厄斯·克隆利是惡魔的化身，他詭計多端，嗜好各種罪行。是他掌握著這個幫派，我們之後需要找的也正是他。
 #-------------------------------#
     97 :
-        標註 : 
         原文 : >-
             Do you have a plan?
         譯文 : >-
             我們的計劃是什麼？
 #-------------------------------#
     98 :
-        標註 : 
         原文 : >-
             We have to hit them fast and hard, leave no room for a counterstrike. I've only seen a portion of their operations in the region, but they are really entrenched on the Four Hills in Old Arkovia.{^n}{^n}"Shanks" surely wasn't Darius' only lieutenant, so find the rest and kill them. We don't want one of them taking over after Darius is dealt with. I don't have any names for you, but they will probably have equally clever prison names as our dead friend "Shanks".When that's finished, you need to cut off the head of this operation, Darius Cronley. If what I hear is true, you will find him hiding out in the mines underneath the Four Hills.{^n}{^n}Lastly, my scouting partner, Elsa, must still be out there with them. If I ventured a guess, Cronley has her in his clutches. Save her from that brute. I hear you are quite capable, so don't let me down.{^n}{^n}When you find yourself out there, I recommend you seek out a man by the name Quade. He and his group forsook the peaceful ways of the Rovers in favor of fighting back against the outlaws. And I'm glad they did. It was Quade's people that pulled me from the jaws of death.
         譯文 : >-
             我們必須以雷霆之勢出擊，讓他們無法反擊。在該地區，我只見過他們少量的活動。古安克維亞的四山上才是他們根深蒂固的大本營。{^n}{^n}“長腿”可不是唯一一個德萊厄斯的副手，找到他剩下的副手然後殺了他們。我們可不想其中一個在德萊厄斯死之後接管他的幫派。我不知道他們的名字，不過他們可能會跟咱們死掉的朋友“長腿”一樣有個愚蠢的屬於囚犯的名字。這件事結束之後，你需要剷除這次行動的首要目標：德萊厄斯·克隆利。如果我聽說的是真的，你能在深入四山底部的礦井下找到德萊厄斯本人。{^n}{^n}最後，我的偵察兵夥伴艾爾莎一定在他們手裡。我大膽猜測一下，克隆利抓住了她，從那個暴徒手裡救出艾爾莎吧。我聽說你很能幹，所以別讓我失望。{^n}{^n}等你到了那片區域之後，我建議你去找一個叫奎德的男人。他和他的隊伍放棄了和平的手段，支持向無法之徒發起反擊。我對他們的做法感到非常高興，也是奎德的人把我從死神手裡給拉回來的。
 #-------------------------------#
     99 :
-        標註 : 
         原文 : >-
             I will get on it.
         譯文 : >-
             我這就動身。
 #-------------------------------#
     100 :
-        標註 : 
         原文 : >-
             I will be back.
         譯文 : >-
             我一會兒回來。
 #-------------------------------#
     101 :
-        標註 : 
         原文 : >-
             What happened to Elsa?
         譯文 : >-
             艾爾莎身上發生了什麼事？
 #-------------------------------#
     102 :
-        標註 : 
         原文 : >-
             I set out with another scout, Elsa, to reconnoiter the lands to the northwest shortly after we had secured Devil's Crossing. What we found was a wasteland overrun with predatory beasts, blood-hungry psychopaths and refugees living in constant terror on the run.{^n}{^n}Our mission together ended when a vicious band of outlaws surprised us in the night. Elsa had argued against having a fire that night but I was sure we were concealed. I wasn't cautious enough and she paid the price. I thought I could protect her from anything but, when it came to it, I was felled by a bullet to the ribs before the fighting even broke out. Elsa fought on like a devil, taking down two of the outlaws before they knocked her out. They took her with them and just left me there to die.{^n}{^n}I couldn't give up though knowing those thugs had Elsa. I hobbled and then crawled, trying to make my way back to Devils Crossing but arrived only to find that the bridge had been destroyed. I collapsed in despair and thought it was the end of me.{^n}{^n}I awoke some time later in what remained of a little fishing village on the coast. Quade's band of rovers had found me and treated my wounds. As soon as I could stand, I grabbed a dingy rowboat and made my way back to Devil's Crossing.{^n}{^n}I'll be damned if I'm going to abandon Elsa to torture or worse at the hands of those killers. She's all I've got left in this world.
         譯文 : >-
             在我們在惡魔十字安頓下來之後不久，我和另一位偵察兵艾爾莎出發去勘察西北方的土地。我們發現的只是一片食肉野獸與嗜血的殺人狂氾濫的不毛之地，難民在恐懼中疲於奔命。{^n}{^n}我們的任務一個邪惡的幫派突襲我們的那天晚上結束了。艾爾莎那晚反對生火，不過我肯定我們隱藏地很好。我不夠小心，因此她承擔了後果。我曾以為我能保護她不受任何的傷害，但是當危險來臨之時，我在戰鬥還沒打響之前就被子彈擊中肋骨而倒下了。艾爾莎像惡魔一樣戰鬥著，在被擊倒之前打倒了兩個強盜。強盜們把她帶走了，留下我在那兒等死。{^n}{^n}那些暴徒抓走了艾爾莎，我不能就那樣放棄。我蹣跚著然後爬著，努力要回到惡魔十字。卻發現連接惡魔十字的橋已經被毀掉了。我在絕望中昏了過去，想著我的死期到了。{^n}{^n}然後我在海岸旁一座漁村的廢墟里醒了過來，奎德手下的流浪者發現了我並治好了我的傷。我剛能站起來就駕著一艘骯髒的小船回到了惡魔十字。{^n}{^n}我要是把艾爾莎放在他們手裡不管的話，我一定會遭天譴的。在這個世界，我只剩下她了。
 #-------------------------------#
     103 :
-        標註 : 
         原文 : >-
             I will get on it.
         譯文 : >-
             我這就動身。
 #-------------------------------#
     104 :
-        標註 : 
         原文 : >-
             I will be back.
         譯文 : >-
             我一會兒回來。
 #-------------------------------#
     105 :
-        標註 : 
         原文 : >-
             What was the plan again?
         譯文 : >-
             我們的計劃是什麼？
 #-------------------------------#
     107 :
-        標註 : 
         原文 : >-
             I've already found Elsa.
         譯文 : >-
             我找到了艾爾莎。
 #-------------------------------#
     108 :
-        標註 : 
         原文 : >-
             You have no idea how relieved this makes me. Once Cronley is dealt with, I'm heading out there. I must go find her!
         譯文 : >-
             你不知道這消息讓我怎樣如釋重負。一但解決了克隆利，我就會出發。我必須去找她！
 #-------------------------------#
     109 :
-        標註 : 
         原文 : >-
             Don't. She wants nothing to do with you.
         譯文 : >-
             別去，她不想見到你。
 #-------------------------------#
     110 :
-        標註 : 
         原文 : >-
             *Mornay sighs*{^n}{^n}You're probably right. I just wanted to patch things up. Elsa's a lot like my wife, you know, before the Aetherials got her. At least I know Elsa's safe.
         譯文 : >-
             *莫爾奈嘆了一口氣*{^n}{^n}你說的可能是對的。我只是想把一切恢復原狀。艾爾莎很像我的妻子，你知道，她被虛靈控制住了。至少我知道艾爾莎還活著。
 #-------------------------------#
     111 :
-        標註 : 
         原文 : >-
             It's good to let go. Now what of Cronley?
         譯文 : >-
             有一種愛叫做放手。怎麼解決克隆利的問題？
 #-------------------------------#
     113 :
-        標註 : 
         原文 : >-
             It's a dangerous journey. Don't risk it.
         譯文 : >-
             出去會很危險的，最好不要冒險行事。
 #-------------------------------#
     114 :
-        標註 : 
         原文 : >-
             I survived out there for weeks. Don't you worry about me.
         譯文 : >-
             我在外面生存了幾個星期，你用不著擔心我。
 #-------------------------------#
     116 :
-        標註 : 
         原文 : >-
             Nevermind. What of Cronley?
         譯文 : >-
             別在意。怎麼解決克隆利的問題？
 #-------------------------------#
     118 :
-        標註 : 
         原文 : >-
             Yes, you should.
         譯文 : >-
             是的，你應該這麼做。
 #-------------------------------#
     119 :
-        標註 : 
         原文 : >-
             Devil's Crossing was starting to feel cramped anyhow. Thank you again for delivering this news to me. But now we have more important matters to attend to.
         譯文 : >-
             反正，惡魔十字開始變得有些擁擠了。謝謝你送來這個消息。但是現在我們有更要重要的事情要做。
 #-------------------------------#
     120 :
-        標註 : 
         原文 : >-
             Yes, you had a plan?
         譯文 : >-
             是的，你有什麼計劃？
 #-------------------------------#
     122 :
-        標註 : 
         原文 : >-
             Do you have a plan?
         譯文 : >-
             你有什麼計劃？
 #-------------------------------#
     123 :
-        標註 : 
         原文 : >-
             We have to hit them fast and hard, leave no room for a counterstrike. I've only seen a portion of their operations in the region, but they are really entrenched on the Four Hills in Old Arkovia.{^n}{^n}"Shanks" surely wasn't Darius' only lieutenant, so find the rest and kill them. We don't want one of them taking over after Darius is dealt with. I don't have any names for you, but they will probably have equally clever prison names as our dead friend "Shanks".When that's finished, you need to cut off the head of this operation, Darius Cronley. If what I hear is true, you will find him hiding out in the mines underneath the Four Hills.{^n}{^n}When you find yourself out there, I recommend you seek out a man by the name Quade. He and his group forsook the peaceful ways of the Rovers in favor of fighting back against the outlaws. And I'm glad they did. It was Quade's people that pulled me from the jaws of death.
         譯文 : >-
             我們必須以雷霆之勢出擊，讓他們無法反擊。在該地區，我只見過他們少量的活動。古安克維亞的四山上才是他們根深蒂固的大本營。{^n}{^n}“長腿”可不是唯一一個德萊厄斯的副手，找到他剩下的副手然後殺了他們。我們可不想其中一個在德萊厄斯死之後接管他的幫派。我不知道他們的名字，不過他們可能會跟咱們死掉的朋友“長腿”一樣有個愚蠢的屬於囚犯的名字。這件事結束之後，你需要剷除這次行動的首要目標：德萊厄斯·克隆利。如果我聽說的是真的，你能在深入四山底部的礦井下找到德萊厄斯本人。{^n}{^n}最後，我的偵察兵夥伴艾爾莎一定在他們手裡。我大膽猜測一下，克隆利抓住了她，從那個暴徒手裡救出艾爾莎吧。我聽說你很能幹，所以別讓我失望。{^n}{^n}等你到了那片區域之後，我建議你去找一個叫奎德的男人。他和他的隊伍放棄了和平的手段，支持向無法之徒發起反擊。我對他們的做法感到非常高興，也是奎德的人把我從死神手裡給拉回來的。
 #-------------------------------#
     124 :
-        標註 : 
         原文 : >-
             I will get on it.
         譯文 : >-
             我這就動身。
 #-------------------------------#
     125 :
-        標註 : 
         原文 : >-
             I will be back.
         譯文 : >-
             我一會兒回來。
 #-------------------------------#
     126 :
-        標註 : 
         原文 : >-
             Well? Did they like our housewarming gift?
         譯文 : >-
             怎麼樣？他們還喜歡你的禮物麼？
 #-------------------------------#
     127 :
-        標註 : 
         原文 : >-
             I killed the man in charge, by the name "Shanks".
         譯文 : >-
             我殺了他們領頭的人，他的外號叫“長腿”。
 #-------------------------------#
     128 :
-        標註 : 
         原文 : >-
             You work fast. I like that. We'll need more of that for what's coming next.
         譯文 : >-
             你的手腳真是麻利，我喜歡這一點。接下來我們還要多送點這樣的大禮。
 #-------------------------------#
     129 :
-        標註 : 
         原文 : >-
             What's our next target?
         譯文 : >-
             接下來的目標是什麼？
 #-------------------------------#
     131 :
-        標註 : 
         原文 : >-
             Still here? There's a bullet in my chest, but I will go out there myself if you insist.
         譯文 : >-
             你還在這兒？我的盔甲裡面還有一顆子彈，不過你要是堅持的話，我會出去執行任務的。
 #-------------------------------#
     132 :
-        標註 : 
         原文 : >-
             Where do I need to go again?
         譯文 : >-
             我需要去哪？
 #-------------------------------#
     133 :
-        標註 : 
         原文 : >-
             We don't have time for this. Head northwest out of Devil's Crossing, across the bridge into the Arkovian Foothills. Seek out the outlaws and introduce yourself.
         譯文 : >-
             我們沒時間了。向惡魔十字的西北方出發，過了那座橋到達安克維亞山麓。找到那幫不法之徒，讓他們認識一下你是何方神聖。
 #-------------------------------#
     134 :
-        標註 : 
         原文 : >-
             On my way.
         譯文 : >-
             我這就去。
 #-------------------------------#
     135 :
-        標註 : 
         原文 : >-
             I'm heading out.
         譯文 : >-
             我走了。
 #-------------------------------#
     136 :
-        標註 : 
         原文 : >-
             So you must be the kid that's been causing a stir in my absence. You've done good by dispatching Krieg. I knew that man in life, I dread to think of what he had become as an Aetherial.
         譯文 : >-
             所以你一定就是那個在我不在的時候引起惡魔十字轟動的那個孩子了。殺了克里格可真是漂亮。認識那個男人一輩子了，我都不敢去想他作為一個虛靈會變成什麼樣子。
 #-------------------------------#
     137 :
-        標註 : 
         原文 : >-
             Captain Bourbon said to speak with you about the outlaws.
         譯文 : >-
             波旁隊長要我和你談談關於不法之徒的事。
 #-------------------------------#
     138 :
-        標註 : 
         原文 : >-
             Aye, an old mess has come back to finally bite us right in the ass. The river's kept them at bay for now, what with the broken bridge. It seems the bastards have garnered a taste for the one hole in the world they were once so eager to escape.{^n}{^n}I'm not going to beat around the bush. We're at war, and if we don't take the fight to them, they will surely bring it to us. I'd much rather fight on my own terms. Wouldn't you?
         譯文 : >-
             哎，往日的舊患終於復發了。因為斷橋的原因，他們暫時被阻擋在海灣那裡。似乎這些混蛋對他們原來不顧一切要逃出去的地方又有了興趣。{^n}{^n}我就不繞圈子說話了，我們處在戰爭時期。如果我們不主動出擊，他們就要向我們下手。我們應該把握戰爭的主動權，你說對麼？
 #-------------------------------#
     139 :
-        標註 : 
         原文 : >-
             What's the plan of action?
         譯文 : >-
             行動計劃是什麼？
 #-------------------------------#
     140 :
-        標註 : 
         原文 : >-
             Before we do anything, we'll need to get that bridge repaired. Got men ready to do the work and some scrap to get you started, just need to provide the remaining raw materials.{^n}{^n}Once that's all finished, I need you to enter the Arkovian Foothills and show those bastards we're not a prize for the taking. Last I saw of them, they were mobilizing for something big across the river. Why don't you head on over there and introduce yourself.
         譯文 : >-
             首先，我們需要修復那座橋。用來開工的人力和廢鐵都已經到位，剩下的材料就看你的了。{^n}{^n}做完這些事之後，我要你到安克維亞山麓那裡告訴那些雜種們我們可不是好相與的。上次見到他們的時候，他們在調動人力，為的是過河發起大舉進攻。為什麼你不去那兒讓他們見識一下你是何方神聖呢？
 #-------------------------------#
     141 :
-        標註 : 
         原文 : >-
             Understood.
         譯文 : >-
             我明白了。
 #-------------------------------#
     142 :
-        標註 : 
         原文 : >-
             What happened during your expedition to the northwest?
         譯文 : >-
             西北方的探險期間發生了什麼？
 #-------------------------------#
     143 :
-        標註 : 
         原文 : >-
             I set out with another scout, Elsa, to reconnoiter the lands to the northwest shortly after we had secured Devil's Crossing. What we found was a wasteland overrun with predatory beasts, blood-hungry psychopaths and refugees living in constant terror on the run.{^n}{^n}Our mission together ended when a vicious band of outlaws surprised us in the night. Elsa had argued against having a fire that night but I was sure we were concealed. I wasn't cautious enough and she paid the price. I thought I could protect her from anything but, when it came to it, I was felled by a bullet to the ribs before the fighting even broke out. Elsa fought on like a devil, taking down two of the outlaws before they knocked her out. They took her with them and just left me there to die.{^n}{^n}I couldn't give up though knowing those thugs had Elsa. I hobbled and then crawled, trying to make my way back to Devils Crossing but arrived only to find that the bridge had been destroyed. I collapsed in despair and thought it was the end of me.{^n}{^n}I awoke some time later in what remained of a little fishing village on the coast. A band of rovers had found me and treated my wounds. As soon as I could stand, I grabbed a dingy rowboat and made my way back to Devil's Crossing.{^n}{^n}I'll be damned if I'm going to abandon Elsa to torture or worse at the hands of those killers. She's all I've got left in this world. We need to organize an offensive and every second counts!
         譯文 : >-
             在我們在惡魔十字安頓下來之後不久，我和另一位偵察兵艾爾莎出發去勘察西北方的土地。我們發現的只是一片食肉野獸與嗜血的殺人狂氾濫的不毛之地，難民在恐懼中疲於奔命。{^n}{^n}我們的任務一個邪惡的幫派突襲我們的那天晚上結束了。艾爾莎那晚反對生火，不過我肯定我們隱藏地很好。我不夠小心，因此她承擔了後果。我曾以為我能保護她不受任何的傷害，但是當危險來臨之時，我在戰鬥還沒打響之前就被子彈擊中肋骨而倒下了。艾爾莎像惡魔一樣戰鬥著，在被擊倒之前打倒了兩個強盜。強盜們把她帶走了，留下我在那兒等死。{^n}{^n}那些暴徒抓走了艾爾莎，我不能就那樣放棄。我蹣跚著然後爬著，努力要回到惡魔十字。卻發現連接惡魔十字的橋已經被毀掉了。我在絕望中昏了過去，想著我的死期到了。{^n}{^n}然後我在海岸旁一座漁村的廢墟里醒了過來，奎德手下的流浪者發現了我並治好了我的傷。我剛能站起來就駕著一艘骯髒的小船回到了惡魔十字。{^n}{^n}我要是把艾爾莎放在他們手裡不管的話，我一定會遭天譴的。在這個世界，我只剩下她了。我們必須發動一場進攻，現在一秒鐘都浪費不得！
 #-------------------------------#
     144 :
-        標註 : 
         原文 : >-
             Don't you think you are mixing personal vendetta into this?
         譯文 : >-
             你不覺得你把個人恩怨混進了任務中嗎？
 #-------------------------------#
     145 :
-        標註 : 
         原文 : >-
             The Grim Dawn took my wife. Elsa is like a daughter to me and I'm not going to let it take her too. Way I see it, Devil's Crossing needs this situation resolved as soon as possible and I want those scum dead for taking Elsa. Seems our goals align, eh?
         譯文 : >-
             恐怖黎明奪走了我的妻子，艾爾莎對我來說就像是女兒一樣。我不會再讓同樣的事情發生在她身上。我的觀點是，惡魔十字必須馬上解決不法之徒的問題，我也希望那些抓走艾爾莎的人渣不得好死。看到我們一致的目標了沒，嗯？
 #-------------------------------#
     146 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             那好吧。
 #-------------------------------#
     147 :
-        標註 : 
         原文 : >-
             What's the plan of action?
         譯文 : >-
             行動計劃是什麼？
 #-------------------------------#
     148 :
-        標註 : 
         原文 : >-
             With the bridge northwest repaired, I need you to enter the Arkovian Foothills and show those bastards we're not a prize for the taking. Last I saw of them, they were mobilizing for something big across the river. Why don't you head on over there and introduce yourself.
         譯文 : >-
             既然橋已經被修好了，我要你到安克維亞山麓那裡告訴那些雜種們我們可不是好相與的。上次見到他們的時候，他們在調動人力，為的是過河發起大舉進攻。為什麼你不去那兒讓他們見識一下你是何方神聖呢？
 #-------------------------------#
     149 :
-        標註 : 
         原文 : >-
             I already crossed the bridge and killed a man named "Shanks".
         譯文 : >-
             我過了橋，殺掉了一個叫“長腿”的男人。
 #-------------------------------#
     150 :
-        標註 : 
         原文 : >-
             Understood.
         譯文 : >-
             我明白了。
 #-------------------------------#
     151 :
-        標註 : 
         原文 : >-
             What happened during your expedition to the northwest?
         譯文 : >-
             西北方的探險期間發生了什麼？
 #-------------------------------#
     152 :
-        標註 : 
         原文 : >-
             I set out with another scout, Elsa, to reconnoiter the lands to the northwest shortly after we had secured Devil's Crossing. What we found was a wasteland overrun with predatory beasts, blood-hungry psychopaths and refugees living in constant terror on the run.{^n}{^n}Our mission together ended when a vicious band of outlaws surprised us in the night. Elsa had argued against having a fire that night but I was sure we were concealed. I wasn't cautious enough and she paid the price. I thought I could protect her from anything but, when it came to it, I was felled by a bullet to the ribs before the fighting even broke out. Elsa fought on like a devil, taking down two of the outlaws before they knocked her out. They took her with them and just left me there to die.{^n}{^n}I couldn't give up though knowing those thugs had Elsa. I hobbled and then crawled, trying to make my way back to Devils Crossing but arrived only to find that the bridge had been destroyed. I collapsed in despair and thought it was the end of me.{^n}{^n}I awoke some time later in what remained of a little fishing village on the coast. A band of rovers had found me and treated my wounds. As soon as I could stand, I grabbed a dingy rowboat and made my way back to Devil's Crossing.{^n}{^n}I'll be damned if I'm going to abandon Elsa to torture or worse at the hands of those killers. She's all I've got left in this world. We need to organize an offensive and every second counts!
         譯文 : >-
             在我們在惡魔十字安頓下來之後不久，我和另一位偵察兵艾爾莎出發去勘察西北方的土地。我們發現的只是一片食肉野獸與嗜血的殺人狂氾濫的不毛之地，難民在恐懼中疲於奔命。{^n}{^n}我們的任務一個邪惡的幫派突襲我們的那天晚上結束了。艾爾莎那晚反對生火，不過我肯定我們隱藏地很好。我不夠小心，因此她承擔了後果。我曾以為我能保護她不受任何的傷害，但是當危險來臨之時，我在戰鬥還沒打響之前就被子彈擊中肋骨而倒下了。艾爾莎像惡魔一樣戰鬥著，在被擊倒之前打倒了兩個強盜。強盜們把她帶走了，留下我在那兒等死。{^n}{^n}那些暴徒抓走了艾爾莎，我不能就那樣放棄。我蹣跚著然後爬著，努力要回到惡魔十字。卻發現連接惡魔十字的橋已經被毀掉了。我在絕望中昏了過去，想著我的死期到了。{^n}{^n}然後我在海岸旁一座漁村的廢墟里醒了過來，奎德手下的流浪者發現了我並治好了我的傷。我剛能站起來就駕著一艘骯髒的小船回到了惡魔十字。{^n}{^n}我要是把艾爾莎放在他們手裡不管的話，我一定會遭天譴的。在這個世界，我只剩下她了。我們必須發動一場進攻，現在一秒鐘都浪費不得！
 #-------------------------------#
     153 :
-        標註 : 
         原文 : >-
             Don't you think you are mixing personal vendetta into this?
         譯文 : >-
             你不覺得你把個人恩怨混進了任務中嗎？
 #-------------------------------#
     154 :
-        標註 : 
         原文 : >-
             The Grim Dawn took my wife. Elsa is like a daughter to me and I'm not going to let it take her too. Way I see it, Devil's Crossing needs this situation resolved as soon as possible and I want those scum dead for taking Elsa. Seems our goals align, eh?
         譯文 : >-
             恐怖黎明奪走了我的妻子，艾爾莎對我來說就像是女兒一樣。我不會再讓同樣的事情發生在她身上。我的觀點是，惡魔十字必須馬上解決不法之徒的問題，我也希望那些抓走艾爾莎的人渣不得好死。看到我們一致的目標了沒，嗯？
 #-------------------------------#
     155 :
-        標註 : 
         原文 : >-
             I already crossed the bridge and killed a man named "Shanks".
         譯文 : >-
             我過了橋，殺掉了一個叫“長腿”的男人。
 #-------------------------------#
     156 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             那好吧。
 #-------------------------------#
     157 :
-        標註 : 
         原文 : >-
             Move along. I'm here to speak with the Captain.
         譯文 : >-
             我走了，我是來找隊長的。
 #-------------------------------#
     158 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

@@ -1,57 +1,49 @@
-bq_dc04.txt : 
+bq_dc04.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Cronley's Lackeys
         譯文 : >-
             賞金：克隆利的走狗
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Darius Cronley's closest lieutenants are some of the most vicious and deadly men that escaped the prison after the Grim Dawn.{^n}{^n}For now they seem content to remain in the Four Hills in Old Arkovia, but should they ever lead an attack on Devil's Crossing, the casualties would be severe.{^n}{^n}This threat must be dealt with directly. A stash of iron bits awaits anyone that claims their lives.
         譯文 : >-
             德萊厄斯·克隆利最親信的副官們是一些在恐怖黎明之後從監獄中逃走的最為邪惡危險的犯人。{^n}{^n}現在他們十分自在地呆在古安克維亞的四山上，但是一旦他們對惡魔十字發動攻擊，那麼就會造成嚴重的人員損傷。{^n}{^n}必須解決掉這種威脅。殺死他們的人將得到一箱鐵幣。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Kill Darius' Lieutenants
         譯文 : >-
             殺死克隆利的副手們
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for Devil's Crossing and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了惡魔十字的任務，應該回到賞金桌領取獎賞。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Devil's Crossing Bounty Table
         譯文 : >-

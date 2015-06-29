@@ -1,57 +1,49 @@
-bq_kc01.txt : 
+bq_kc01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Rag'Nadar
         譯文 : >-
             賞金：拉格·納達
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             In a vision, Father Kymon witnessed the destruction of our world under the heel of Ch'thon and his minions. Leading the vanguard was a devourer known as Rag'Nadar, the Great Maw.{^n}{^n}This vision must not come to pass. The Devourer is to be destroyed. Enter the Ashen Wastes through a rift in the Blood Grove and dispatch the fiend.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
         譯文 : >-
             In a vision, Father Kymon witnessed the destruction of our world under the heel of Ch'thon and his minions. Leading the vanguard was a devourer known as 巨胃拉格·納達.{^n}{^n}This vision must not come to pass. The Devourer is to be destroyed. Enter 灰燼廢土 through a rift in 血森林 and dispatch the fiend.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Rag'Nadar
         譯文 : >-
             殺死拉格·納達
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Kymon's Chosen Bounty Table
         譯文 : >-

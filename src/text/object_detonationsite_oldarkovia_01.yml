@@ -1,50 +1,43 @@
-object_detonationsite_oldarkovia_01.txt : 
+object_detonationsite_oldarkovia_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Detonation Site
         譯文 : >-
             爆破地點
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             This blockade was clearly put up by local bandits in the hopes of slowing down unwary travelers and turning them into easy pickings.{^n}{^n}It will take 1 Dynamite to destroy.
         譯文 : >-
             這障礙物顯然是當地的匪徒放置用來減慢旅行者，然後就能輕易劫掠他們。{^n}{^n}花費1捆炸藥才能摧毀它。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Not enough Dynamite.
         譯文 : >-
             炸藥不足。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Destroy the Barricade.
         譯文 : >-
             摧毀了路障。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You have cleared this barricade.
         譯文 : >-
             你已經清除了路障。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-

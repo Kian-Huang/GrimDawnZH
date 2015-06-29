@@ -1,57 +1,49 @@
-bq_ro05.txt : 
+bq_ro05.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Lord of Lost Souls
         譯文 : >-
             賞金：墮落之魂領主
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             In the Arkovian Foothills, there is a cavern known as the Spined Cove. There, an ancient Arkovian spirit known as Baron Wradlith has dominated over the other spirits, rallying them under his command.{^n}{^n}For now, the spirits remain within the caves, but the undead can be unpredictable. This Lord of the Lost Souls must be banished before he even considers leaving his underground kingdom.{^n}{^n}We will happily share their scavenged materials with anyone that braves the Spined Cove.
         譯文 : >-
             In 安克維亞山麓, there is a cavern known as 脊狀峽谷. There, an ancient Arkovian spirit known as Baron Wradlith has dominated over the other spirits, rallying them under his command.{^n}{^n}For now, the spirits remain within the caves, but the undead can be unpredictable. This Lord of the Lost Souls must be banished before he even considers leaving his underground kingdom.{^n}{^n}We will happily share their scavenged materials with anyone that braves the Spined Cove.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Slay Baron Wradlith
         譯文 : >-
             殺了瓦德里斯男爵
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have completed the task for the Rovers and should return to the Bounty Table for your reward.
         譯文 : >-
             你已經完成了任務，你該返回賞金桌領取獎賞。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Return to the Rover Bounty Table
         譯文 : >-

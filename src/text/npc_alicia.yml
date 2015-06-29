@@ -1,456 +1,391 @@
-npc_alicia.txt : 
+npc_alicia.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Alicia
         譯文 : >-
             艾麗西亞
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Please move on. We have nothing to offer you.
         譯文 : >-
             請離開。我們沒有可給你的東西。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Just passing through. Goodbye.
         譯文 : >-
             我只是路過的。再見。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Have you delivered the scrap to Silas?
         譯文 : >-
             你把廢鐵交給賽拉斯了嗎？
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I bribed him so he leaves you alone for good.
         譯文 : >-
             我賄賂了他所以他再也不會干涉你們了。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Thank you! I never would have imagined that we would be free of this oppression, but it appears Silas' loyalty could be bought. Please, take the scrap we collected for the tribute. It is the least we could do.
         譯文 : >-
             謝謝你！我從來沒有想象過我們能從這種壓迫中得到自由，但似乎塞拉斯的的忠誠可以被收買。請你帶上我們收集的廢鐵作為貢品。這是我們僅能做的事情。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝你。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Have you delivered the scrap to Silas?
         譯文 : >-
             你把廢鐵交給賽拉斯了嗎？
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Yes, he seemed pleased.
         譯文 : >-
             是的，他好像很高興。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Thank you! This situation may not be ideal, but as long as we provide them with fish and scrap, they leave us alone.
         譯文 : >-
             謝謝你！這種情況可能不太理想，但是隻要我們給他們提供魚和廢鐵，他們就不會干涉我們。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             I wish I could do more.
         譯文 : >-
             我希望我能做更多。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I'm afraid such is our lot in life. At least they keep the area safe from beasts. Goodbye, stranger, and thank you again.
         譯文 : >-
             恐怕這就是我們的命運。至少他們保證了這片區域不受野獸侵犯。再見，陌生人，再次感謝你。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             You're welcome. Take care.
         譯文 : >-
             不用謝。保重。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Good luck. Farewell.
         譯文 : >-
             祝你好運。再見。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Yes, he seemed pleased.
         譯文 : >-
             是的，他似乎很滿意。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Thank you! He fled shortly after he heard the news that Cronley is dead. I guess he got himself one last tribute.
         譯文 : >-
             謝謝你！他聽到克隆利死了的消息不久之後逃走了。我猜這是他最後一次得到貢品。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             You're welcome. Take care.
         譯文 : >-
             不用謝。保重。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             We are finally free of Cronley's oppression and it's all thanks to you.
         譯文 : >-
             我們最終都從克隆利的壓迫中得到了解放，這多虧了你！
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Glad I could help.
         譯文 : >-
             很高興我能幫忙。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             News of Cronley's demise has spread like wildfire. Our overseer, Silas, fled at first word. We are finally free of Cronley's oppression and it's all thanks to you!
         譯文 : >-
             克隆利死亡的消息就像野火一樣傳開了。我們的監工，塞拉斯，在第一時間逃跑了。我們最終都從克隆利的壓迫中得到了解放，這都要感謝你！
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             They should not bother you any more.
         譯文 : >-
             他們不會再來打擾你們了。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             I don't know how we could possibly repay you, but please take this scrap. We were preparing it for our next tribute to Silas, but now we won't have to.
         譯文 : >-
             我不知道我們該如何報答你，但請你收下這塊廢鐵。我們本來準備把這塊廢鐵當作下次獻給塞拉斯的貢品，但現在我們不需要了。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝你。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             They should not bother you any more.
         譯文 : >-
             他們再也不會干涉你們了。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             I don't know how we could possibly repay you, but please take this scrap. We were preparing it for our next tribute to Silas, but now we won't have to.
         譯文 : >-
             我不知道我們該如何報答你，但請你收下這塊廢鐵。我們本來準備把這塊廢鐵當作下次獻給塞拉斯的貢品，但現在我們不需要了。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝你。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             They should not bother you any more.
         譯文 : >-
             他們再也不會干涉你們了。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             I don't know how we could possibly repay you, but please take this scrap. We were preparing it for our next tribute to Silas, but now we won't have to.
         譯文 : >-
             我不知道我們該如何報答你，但請你收下這塊廢鐵。我們本來準備把這塊廢鐵當作下次獻給塞拉斯的貢品，但現在我們不需要了。
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝你。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             I cannot believe you killed Silas. If he doesn't report back...oh no, no no...
         譯文 : >-
             我無法相信你殺了塞拉斯。如果他沒回去報告。。。噢不，不。。。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             I will deal with the rest of his gang too.
         譯文 : >-
             我將會處理他的餘黨。
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             Thank you again for your help.This situation may not be ideal, but as long as we provide Silas and his group with fish and scrap, they leave us alone.
         譯文 : >-
             再次感謝你的幫助。這種情況可能不太理想，但是隻要我們給他們提供魚和廢鐵，他們就不會干涉我們。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             I wish I could do more.
         譯文 : >-
             我希望我能做更多。
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             I'm afraid such is our lot in life. At least they keep the area safe from beasts. Goodbye, stranger, and thank you again.
         譯文 : >-
             恐怕這就是我們的命運。至少他們從野獸口中保證了這片區域的安全。再見，陌生人，再次感謝你。
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             You're welcome. Take care.
         譯文 : >-
             不用謝。保重。
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             Good luck. Farewell.
         譯文 : >-
             祝你好運。再見。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             How could you do this to us? When Silas doesn't report back, his gang will investigate.
         譯文 : >-
             你為何要這麼對我們？如果塞拉斯沒回去報告，他的幫會將會調查。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             I ended this extortion. His gang is next.
         譯文 : >-
             我制止了這種敲詐。接下來該輪到他的幫會了。
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             Please, just go. I pray that we survive the night.
         譯文 : >-
             拜託你走吧。我祈禱我們能撐過今晚。
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             I did what had to be done.
         譯文 : >-
             我做了該做的事。
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             Are you mad? I warned you not to harm Silas and you ignored my warnings. Why would you do this?
         譯文 : >-
             你瘋了嗎？我已經警告你不要傷害塞拉斯，但你卻無視我的警告。為何你要這麼做？
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             This extortion must end.
         譯文 : >-
             這種敲詐必須被制止。
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             It's not that simple. Silas is just a lackey. This was a delicate situation and you handled it like a mindless brute!
         譯文 : >-
             事情不是這麼簡單。塞拉斯只是個跑腿的。這種微妙的情況，你卻處理得如此粗暴而又無腦。
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             I will deal with his masters next. Goodbye.
         譯文 : >-
             接下來我會處理他的僱主們。再見。
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             I'm handling this. Goodbye.
         譯文 : >-
             我會處理此事。再見。
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             Any luck out there?
         譯文 : >-
             有任何收穫嗎？
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Where would I find some scrap?
         譯文 : >-
             在哪兒可以尋獲一些廢鐵？
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             Most of the homes in the Arkovian Foothills have likely been scoured by now. I suppose someone like you could give the bandits a taste of their own medicine by raiding the Four Hills. Silas wouldn't have a clue. He knows we wouldn't dare come near the camps ourselves.
         譯文 : >-
             大部分位於安克維亞山麓的屋子可能都被搜遍了。我認為你這樣的人可以突襲四山上的匪徒，以其人之道還治其人之身。塞拉斯不會知道的，他知道我們不敢靠近那片營地。
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             Thank you. I'll handle this.
         譯文 : >-
             謝謝你。我會處理此事。
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             Still gathering scrap.
         譯文 : >-
             還在收集廢鐵。
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             Are you mad? If any harm comes to Silas, the rest of his gang will be out for blood!
         譯文 : >-
             你瘋了嗎？如果塞拉斯受到任何傷害，他幫會裡其餘的成員將會前來尋仇！
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             I'm handling this. Goodbye.
         譯文 : >-
             我正在處理此事。再見。
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             Unless you want to work, you should turn around and head back out of here. We have nothing to give and we don't need anyone stirring up trouble.
         譯文 : >-
             除非你要找個活兒幹，否則你應該轉身離開這裡。我們沒有東西給你，也不想任何人在這兒招惹來麻煩。
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             What is happening here?
         譯文 : >-
             這裡發生了什麼事？
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             What's happening is we're just trying to stay alive and that means toiling for Cronley's gang. We're a ragtag collection of survivors who either wandered in here looking for protection or were captured by Cronley's thugs and put to work. Cronley's men use us in whatever way they please and it's a hard life but this place is better than what we knew out there on the road. I'll endure anything to keep my daughter safe and, at least for now, she's too young for Cronley's men to bother with.
         譯文 : >-
             這發生的一切只是我們只想努力活下來罷了，這代表我們必須為克隆利幫做苦力。我們只是一群衣衫襤褸的生還者，要麼是遊蕩至此來尋求庇護的，要麼是被克隆利的惡棍抓去幹活的。克隆利的惡棍隨意支使我們，雖然生活艱苦，但是這地方總比在外面居無定所要好。為了我女兒的安全，我將忍受一切。至少現在她還年幼，克隆利的惡棍不會打她的主意。
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             Anything I can do to help?
         譯文 : >-
             有什麼可以幫忙的嗎？
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             Silas over there makes sure that we stay in line and meet Cronley's quota. The waters have grown increasingly dangerous and we've struggled to catch enough fish but we can probably fill our nets in time for the tribute. We still have to gather scrap though.{^n}{^n}We cannot miss our quota. The last time that happened, Silas took one of the children back to his camp and we never saw her again. Please, if you truly want to help, gather the scrap for our tribute and deliver it to Silas. However bad things may seem for us, they can only get worse. Cronley's gang hold all the hills overlooking New Harbor and they're sure to notice if Silas went missing. The retribution would be severe, so please, don't do anything stupid. We're the ones who will suffer for it.
         譯文 : >-
             塞拉斯在這兒確保我們聽話並且滿足克隆利要求的配額。儘管海里已經變得越來越危險，我們難以捕捉到足夠多的魚，但是我們也許可以及時捕到進供的份量。即使這樣，我們還得收集廢鐵。{^n}{^n}而且我們不能少了進貢的配額。上次這種事情發生時，塞拉斯把其中一個女孩帶去了他的營地，之後我們再也沒有見過她。如果你真的想幫忙，那麼為我們接下來的進貢收集廢鐵並交給塞拉斯。不管多麼糟糕的事情發生在我們身上，它只可能變得更糟。因為克隆利幫佔據所有俯視新港的山脈。如果塞拉斯的失蹤，他們一定會注意到。他們的報復將會非常嚴重，所以請你不要有任何愚笨的舉動。我們將會為此遭殃。
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             Of course. I will help you with your tribute.
         譯文 : >-
             當然了。我會幫助你收集貢品。
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             I am sorry, I cannot help you.
         譯文 : >-
             對不起，我無法幫助你。
 #-------------------------------#
     59 :
-        標註 : 
         原文 : >-
             I could take you all to Devil's Crossing via a rift.
         譯文 : >-
             我能通過傳送裂縫把你們帶去惡魔十字。
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             A strange offer but we cannot leave. The refugees here have become like a family to one another. Some of the children are being held by Cronley's men as insurance against us leaving. We all look out for one another here and we know if any one of us left, those who remained would be punished for it.
         譯文 : >-
             一個奇特的提議，但我們不能離開。這裡的難民都猶如彼此的家人。有的孩子被克隆利的惡棍持為人質，以防範我們離開。我們相互照應並且曉得如果我們任何一人離開這裡，留下的人將為此遭受懲罰。
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             What did you need me to do then?
         譯文 : >-
             那麼你需要我做什麼呢？
 #-------------------------------#
     62 :
-        標註 : 
         原文 : >-
             I understand.
         譯文 : >-
             我明白了。
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             Good luck with that. Goodbye.
         譯文 : >-
             祝你好運。再見。
 #-------------------------------#
     64 :
-        標註 : 
         原文 : >-
             Just passing through. Goodbye.
         譯文 : >-

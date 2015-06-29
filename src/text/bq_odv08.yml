@@ -1,57 +1,49 @@
-bq_odv08.txt : 
+bq_odv08.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Olga Flamebearer
         譯文 : >-
             賞金：持火者 奧爾加
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Chosen of Kymon are fanatics and fools, but even fools can be dangerous when armed with blades and fire.{^n}{^n}One of their finest warriors, Olga Flamebearer, has been spotted at Fort Haron. Make an example of her.{^n}{^n}Our material stores are at the disposal of the champion that ends her life.
         譯文 : >-
             The Chosen of Kymon are fanatics and fools, but even fools can be dangerous when armed with blades and fire.{^n}{^n}One of their finest warriors, 持火者奧爾加, has been spotted at 哈倫堡. Make an example of her.{^n}{^n}Our material stores are at the disposal of the champion that ends her life.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Olga Flamebearer
         譯文 : >-
             殺了持火者 奧爾加
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Order of Death's Vigil Bounty Table
         譯文 : >-

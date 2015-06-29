@@ -1,358 +1,307 @@
-npc_blacklegion_deathmarkkadris_01.txt : 
+npc_blacklegion_deathmarkkadris_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Deathmark Kadris
         譯文 : >-
             卡德里斯 死亡印記
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Good work out there. A proper ending to the legend of Ol' Bloodbriar.
         譯文 : >-
             幹得漂亮。血荊棘的故事劃上了結局。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             It wasn't so tough.
         譯文 : >-
             並沒有那麼困難。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Move along, Black Legion business.
         譯文 : >-
             繼續前行，為了黑色軍團的大業。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You've returned, with a few new bruises I might add.
         譯文 : >-
             你回來了，或許還帶著些傷痕。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Ol' Bloodbriar is no more.
         譯文 : >-
             血荊棘已經不存在了。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Well done! The death of that horrid beast will go a long way towards restoring order to this region. My superiors will be pleased to hear of this, you can be sure of it.
         譯文 : >-
             幹得好！那個恐怖野獸的死將加速這個地區恢復秩序的進度，我的長官會很高興聽到這件事的，我敢保證。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Glad I could help.
         譯文 : >-
             很高興我能夠幫忙。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             How goes the hunt for Ol' Bloodbriar?
         譯文 : >-
             獵殺血荊棘的事情進行如何？
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Where should I look for the beast?
         譯文 : >-
             我該去哪裡尋找這頭野獸？
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I've tracked it as far as the Shaded Basin, southeast of the camp, but then it just disappeared. It might be hiding out in one of the caves in the area.
         譯文 : >-
             我追它追到了營地東南方向的幽暗盆地，然後它就不見了。它可能葬在那邊的某個洞穴裡。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Ok, I'm on it.
         譯文 : >-
             好的，我這就去獵殺它。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Still hunting.
         譯文 : >-
             我還在獵殺它。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             This one's a hunt I've been personally struggling with. Local stories speak of an ancient Thorner Horror known as Ol' Bloodbriar. As it turns out, some of the stories are true and Ol' Bloodbriar's been reported terrorizing the farmers in Homestead.{^n}{^n}I've managed to find some tracks, but I lost them out in the Shaded Basin to south. It might be hiding out in one of the caves out there, but I can't be sure. If you hunt down Ol' Bloodbriar, I will see that my superiors back in Homestead hear about your contributions. Heck, I'll throw in a few coins as a bounty.
         譯文 : >-
             這是一次對我來說很艱難的狩獵。這裡的故事傳說有一頭叫做血荊棘的古老的荊棘恐獸。看起來，故事的一部分是真的，報告稱血荊棘確實威脅到了霍姆斯特德的農夫們。{^n}{^n}我找到了一些足跡。但是我在南方的幽暗盆地把它給追丟了。它可能在那邊的某一處洞穴裡藏著，我不能確定是哪一個。如果你能殺掉血荊棘，我會向霍姆斯特德的上級報告你的貢獻。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             I'll hunt down your beast.
         譯文 : >-
             我會獵殺那頭野獸的。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             I'm not interested in hunting.
         譯文 : >-
             我對獵殺不感興趣。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             You're in luck, I've slain the crimson thorned horror.
         譯文 : >-
             你真走運，我已經殺了那頭猩紅色的荊棘恐獸。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Any luck with the manticores?
         譯文 : >-
             獵殺蠍尾獅順利嗎？
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             I have the venom you need.
         譯文 : >-
             我拿到了你要的毒腺。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Well I'll be, that gland is bulging with venom, a fine sample. As promised, a manticore blade of your own. Should serve you well against less...friendly humans, and hopefully chthonians.{^n}{^n}Say, you seem to be quite capable. if you're interested in some coin, I've got a hunt I could use some assistance with.
         譯文 : >-
             很好，這毒腺充滿了毒液，是一份很好的樣本。就像約定的那樣，我會打造一把屬於你的，塗有蠍尾獅毒的寶劍。應該在你遇上不那麼友善的……人類，最好還有冥靈時派上用場。{^n}{^n}你似乎挺有本事，如果你要點錢的話，我有一個獵殺任務需要人來幫忙。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             What are you after?
         譯文 : >-
             你在獵殺什麼?
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Any luck with the manticores?
         譯文 : >-
             獵殺蠍尾獅順利嗎？
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Where should I look?
         譯文 : >-
             我該去哪？
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             The manticores roam the Jagged Waste to the west of here. Be careful out there. I need the poison in one of their glands, not in your veins.
         譯文 : >-
             蠍尾獅遍佈在西方的鋸齒荒地。要小心點，我需要的是它們毒腺裡面的毒液，可不是你血管裡面的。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             I'll be careful.
         譯文 : >-
             我會當心的。
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             Haven't dealt with a Wastestalker yet.
         譯文 : >-
             我還從沒對付過一頭廢土追獵者。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             You must be one tough slith to make it way out here on your own. Deathmark Kadris, of the Black Legion. What brings you here, citizen?
         譯文 : >-
             孤身一人走到這裡，你一定是頭強悍的蛇人。我是黑色軍團的卡德里斯·死亡印記。什麼風把你吹到這裡來的，帝國公民?
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             I'm exploring the area.
         譯文 : >-
             我正在探索這片區域。
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             I see. Well I can't stop you from going out there, but I must warn you that the wilds out here are not to be trifled with. The Jagged Waste to the west is full of manticores, but if you're foolish enough to venture there then perhaps you'd be willing to bring something back for me?
         譯文 : >-
             我懂了。我不能阻止你繼續前進，但我必須警告你這裡的野獸也不是好惹的。西方的鋸齒荒地遍地都是蠍尾獅，不過要是蠢得非要取得話，不如你帶點東西回來給我？
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             Sure, what do you need?
         譯文 : >-
             沒問題，你需要什麼？
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             The Manticore Wastestalkers pack a potent venom up in their barbed tails. It's quite caustic and can burn through nearly anything. My hope is that the Legion can use it in their effort against the Chthonian invaders.{^n}{^n}We are dealing with a large group of cultists up near Homestead, and they are starting to bring in the larger demons from the void. We need to turn the tide and fast, or soon there won't be a home to defend. If you bring me back a venom gland from a Wastestalker, then I will gladly provide you with a blade specially coated with their poison. Should do some serious damage in a fight. What do you say?
         譯文 : >-
             蠍尾獅廢土追獵者尾部的倒刺裝著烈性的毒液。那種毒液有很強的腐蝕性，幾乎能灼燒一切東西。我希望軍團能夠使用它來對付冥靈入侵者。{^n}{^n}我們正在對付霍姆斯特德附近一群人數眾多的邪教徒，他們開始從虛空中召喚出大型惡魔。我們必須快速扭轉局勢，否則就沒有家園可以來抵抗他們了。如果你從廢土追獵者那裡搞來毒腺，我會很高興為你打造一柄塗上那種毒液的劍。那應該能在戰鬥中造成不少傷害，你覺得怎麼樣？
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             I will get you the venom.
         譯文 : >-
             我會幫你收集毒腺。
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             No thanks, sounds dangerous.
         譯文 : >-
             不了謝謝，聽起來很危險。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             Actually, I've already gathered some manticore venom.
         譯文 : >-
             事實上，我已經收集到了蠍尾獅的毒腺。
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             Not interested.
         譯文 : >-
             我不感興趣。
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             What are you doing out here?
         譯文 : >-
             你在這裡做什麼？
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             My squad's been deployed out here to the Pine Barrens in order to hunt down the dangerous wildlife roaming outside of Homestead. It's a gruelling process, but someone's gotta do it.
         譯文 : >-
             我的小隊駐紮在松林荒地是為了獵殺遊蕩在霍姆斯特德之外的危險野獸。這是一項繁重的差事，但也得有人來做才行。
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             Need any help?
         譯文 : >-
             需要幫助麼？
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             Good luck out there.
         譯文 : >-
             祝你好運。
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             Citizen? Hasn't the empire fallen?
         譯文 : >-
             帝國公民？帝國不是完了麼？
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             As long as the Black Legion has at least one soul still breathing, that battle is not over as far as I'm concerned.{^n}{^n}We may have lost the capital, but we have not lost the war!
         譯文 : >-
             只要黑色軍團還有最後一人呼吸著，那場跟入侵者的戰爭就還沒有結束。{^n}{^n}我們可能丟掉了帝都，但是這場戰爭我們還沒輸！
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Need any help?
         譯文 : >-
             需要幫助麼？
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             You are naive.
         譯文 : >-
             你可真是天真。
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             The Black Legion?
         譯文 : >-
             黑色軍團？
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             Um, yes? The Imperial Elite? The Conquerors of Venmar? You must be from the rural country.{^n}{^n}They didn't know much about us at Homestead either.
         譯文 : >-
             不知道麼？帝國精英部隊？溫馬的征服者？你一定是從鄉下來的。{^n}{^n}霍姆斯特德的人也不怎麼了解我們。
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             Where is Homestead?
         譯文 : >-
             霍姆斯特德在哪？
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             Is that where you're headed? You are going the wrong way, friend.{^n}{^n}Homestead is far to the north of here. Follow the Dusty Road.
         譯文 : >-
             你要去的是那裡麼？你走錯路了，我的朋友。{^n}{^n}霍姆斯特德在北邊距離這裡很遠的地方。沿著塵土之路走吧。
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             Thanks.
         譯文 : >-
             謝謝。
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             Just passing through.
         譯文 : >-

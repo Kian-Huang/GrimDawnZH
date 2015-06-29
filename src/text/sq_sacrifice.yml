@@ -1,36 +1,31 @@
-sq_sacrifice.txt : 
+sq_sacrifice.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Devil's Crossing
         譯文 : >-
             惡魔十字
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             A Sacrifice
         譯文 : >-
             獻祭
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Find Stash
         譯文 : >-
             找到藏匿處
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You found a poor soul beyond rescue out in Wightmire. Isaac, who was in the process of being sacrificed by some cultists, was too far gone when you reached him. With his last breath, he informed you of a valuable stash he hid away out in the swamp. If you follow the river outside the cabin where you found Isaac down to the river delta, you will find his stash hidden along the shore. He said to look for a loose tree stump.
         譯文 : >-
             你在屍妖泥沼發現一位來不及拯救倒黴的人。艾薩克被一些邪教徒用做儀式的獻祭品，當你找到他時已為時已晚。在臨終時，他告訴你他在沼澤中埋藏了一份珍貴的寶藏。如果你沿著發現艾薩克小屋外的河流走到三角洲那裡，你就能找到他藏匿在海邊的寶藏。他說要尋找一個鬆動的樹樁。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Find Isaac's hidden stash in Wightmire
         譯文 : >-

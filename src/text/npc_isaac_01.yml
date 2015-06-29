@@ -1,148 +1,127 @@
-npc_isaac_01.txt : 
+npc_isaac_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Isaac
         譯文 : >-
             艾薩克
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Did...you...find it?
         譯文 : >-
             你……找到……它了嗎?
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Yes, thank you. Rest now.
         譯文 : >-
             是的，謝謝你。安息吧。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             So...tired...
         譯文 : >-
             好……累……
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Rest now.
         譯文 : >-
             安息吧。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             So...tired...
         譯文 : >-
             好……累……
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Rest now.
         譯文 : >-
             安息吧。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             What...is it?
         譯文 : >-
             這是……什麼?
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Where is your stash again?
         譯文 : >-
             你的財寶藏在哪裡?
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Follow the river outside the cabin down to where it empties into the lake and search the shore. My possessions are hidden underneath a loose tree stump.
         譯文 : >-
             沿著小屋外的河一直到它流入的湖那裡然後搜查一下岸邊。我的財寶藏在一個鬆散的樹樁下面，
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Thank you. Rest now.
         譯文 : >-
             謝謝你。安息吧。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Rest in peace.
         譯文 : >-
             安息吧。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Ah, my rescue arrives! I'm afraid you're too late though. Those bloodthirsty bastards already took my best parts for their altar.
         譯文 : >-
             啊，有人來救我了！不過恐怕你來得太晚了。那些嗜血的混蛋已經為了他們的祭壇拿走了我最好的部分。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             There must be something I can do.
         譯文 : >-
             一定有什麼我能做的。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             I'm as good as dead. Don't waste your time on me. My valuables are going to do nobody any good hidden away under a tree stump though. You have slain my captors, so you earned this much.{^n}{^n}Follow the river outside the cabin to the river delta and search the shore. When the world went down the slith hole, I hid my most valuable possessions away underneath a loose tree stump. Take whatever you want, just bash some cultist heads in for me, eh?
         譯文 : >-
             我已經是死路一條了。不要在我身上浪費你的時間了。我的財寶被很好的藏在一個無人知曉的鬆散的樹樁下面。你殺了追捕我的人，所以這是你應得的。{^n}{^n}沿著小屋外的河一直到它流入的湖那裡然後搜查一下岸邊。當這個世界墜入深淵的時候，我把我最有價值的財產遠遠地藏在了一個鬆散的樹樁下面，你要什麼就拿走什麼，只要為我打爛幾顆邪教徒的腦袋就可以了，怎麼樣?
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Thank you. I will find it.
         譯文 : >-
             謝謝你。我會找到它的。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Not worth my time.
         譯文 : >-
             不值得我浪費時間。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I already found the stash.
         譯文 : >-
             我已經找到了藏匿之處。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Hah...I guess...I should have hidden it...better, eh?{^n}{^n}*Isaac grimaces in pain*{^n}{^n}I...hope my things...serve you well...
         譯文 : >-
             哈……我猜……我應該把它……藏得更好，嗯？{^n}{^n}*艾薩克痛苦的皺起了眉頭*{^n}{^n}我……希望我的東西……能幫到你……
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Rest in peace.
         譯文 : >-
             安息吧。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             I'm sorry. Rest in peace.
         譯文 : >-

@@ -1,43 +1,37 @@
-bq_exile05.txt : 
+bq_exile05.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Bountiful Blood
         譯文 : >-
             賞金：Bountiful Blood
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of Blood of Ch'thon and I shall reward you with some of my valuables.
         譯文 : >-
             I require more materials for my studies. You will provide them and you shall ask no questions.{^n}{^n}Bring me three vials of 冥神之血 and I shall reward you with some of my valuables.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Blood of Ch'thon
         譯文 : >-
             收集冥神之血
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Blood of Ch'thon to the Outcast
         譯文 : >-

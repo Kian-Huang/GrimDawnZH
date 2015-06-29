@@ -1,99 +1,85 @@
-npc_mylafinegan_02.txt : 
+npc_mylafinegan_02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Myla Finegan
         譯文 : >-
-            邁拉·法恩根
+            Myla Finegan
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             You are not the one I seek.
         譯文 : >-
-            你不是我要找的人。
+            You are not the one I seek.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Alright then.
         譯文 : >-
-            好吧。
+            Alright then.
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I must apologize for the ruse, but alas, I cannot travel very far from my tomb.{^n}{^n}You may die knowing that I will savor you as I drain the life from your breathe.
         譯文 : >-
             I must apologize for the ruse, but alas, I cannot travel very far from my tomb.{^n}{^n}You may die knowing that I will savor you as I drain the life from your breathe.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             You tricked me!
         譯文 : >-
             You tricked me!
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Deception was a necessity. Would you have sacrificed yourself willingly knowing my true intentions?{^n}{^n}I merely do what I must to survive. Now hush and die peacefully. This will all be over soon.
         譯文 : >-
             Deception was a necessity. Would you have sacrificed yourself willingly knowing my true intentions?{^n}{^n}I merely do what I must to survive. Now hush and die peacefully. This will all be over soon.
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I'm not just going to lie down and die!
         譯文 : >-
-            我可不會引頸就戮！
+            I'm not just going to lie down and die!
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Not if I kill you first! (Attack)
         譯文 : >-
-            不如我先殺了你！(攻擊)
+            Not if I kill you first! (Attack)
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Deceitful wretch! You've picked the wrong prey this time!
         譯文 : >-
-            狡詐的混蛋！你這次可選錯了獵物！
+            Deceitful wretch! You've picked the wrong prey this time!
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             I have haunted this forest for centuries, sapping unsuspecting fools such as yourself of their precious vitality. My cave has been sealed off time and again but, somehow, it is always uncovered again thanks to naive dupes like yourself or the greedy prospectors who visited me last.{^n}{^n}What hope do you have against me?
         譯文 : >-
-            我在這片森林狩獵了幾個世紀，吸取像你這樣的蠢貨的寶貴生命力。我的洞穴一次又一次被封閉，但不知為何我總是能打開它，多虧了你這樣的笨蛋或者是上次那些貪婪的挖礦者。{^n}{^n}反抗我，你有什麼機會呢？
+            I have haunted this forest for centuries, sapping unsuspecting fools such as yourself of their precious vitality. My cave has been sealed off time and again but, somehow, it is always uncovered again thanks to naive dupes like yourself or the greedy prospectors who visited me last.{^n}{^n}What hope do you have against me?
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             I can still try! (Attack)
         譯文 : >-
-            只有一種法子才能知道啊。(攻擊)
+            I can still try! (Attack)
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Only one way to find out. (Attack)
         譯文 : >-
-            你不是我要找的人。
+            Only one way to find out. (Attack)
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             You are not the one I seek.
         譯文 : >-
-            好吧。
+            You are not the one I seek.
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Alright then.
         譯文 : >-

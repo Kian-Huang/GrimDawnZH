@@ -1,29 +1,25 @@
-npc_bloodharvest_male_01rescued.txt : 
+npc_bloodharvest_male_01rescued.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Neddie
         譯文 : >-
             奈迪
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Those cultists are worse than even the Aetherials.{^n}{^n}To perform such atrocities upon your own kind, it's despicable.
         譯文 : >-
             這些邪教徒比虛靈還要邪惡。{^n}{^n}在同類的身上實施這樣的暴行，他們真是卑鄙無恥。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             They will be wiped out. I promise.
         譯文 : >-
             我會消滅他們的，我保證。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The end of the world brings out the worst in people.
         譯文 : >-

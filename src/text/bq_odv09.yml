@@ -1,57 +1,49 @@
-bq_odv09.txt : 
+bq_odv09.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: The Behemoth
         譯文 : >-
             賞金：巨獸
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             A fleshwarped troll of truly massive proportions has been spotted out in the Gruesome Harvest. This behemoth could lay waste to the Black Legion forces stationed within Homestead and crush any chance we may have of stopping the Aetherials in this region.{^n}{^n}The Order sees this as an opportunity to prove ourselves to our new-found allies. Head into the Harvest and slay this Narroth. The Order will bestow an enchantment upon your weapons to aid with this dangerous task.{^n}{^n}Your efforts will be compensated with materials from our stores.
         譯文 : >-
             A fleshwarped troll of truly massive proportions has been spotted out in 陰森的穀倉. This behemoth could lay waste to the Black Legion forces stationed within Homestead and crush any chance we may have of stopping the Aetherials in this region.{^n}{^n}The Order sees this as an opportunity to prove ourselves to our new-found allies. Head into the Harvest and 殺了那若斯. The Order will bestow an enchantment upon your weapons to aid with this dangerous task.{^n}{^n}Your efforts will be compensated with materials from our stores.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Narroth
         譯文 : >-
             殺了那若斯
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Order of Death's Vigil and should return to the Bounty Table for your reward.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Order of Death's Vigil Bounty Table
         譯文 : >-

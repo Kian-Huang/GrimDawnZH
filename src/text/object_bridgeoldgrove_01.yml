@@ -1,106 +1,91 @@
-object_bridgeoldgrove_01.txt : 
+object_bridgeoldgrove_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Building Site
         譯文 : >-
             建築工地
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             This bridge once connected Devil's Crossing to the Old Grove to the south. It must be restored before you can cross it.{^n}{^n}It will take 12 Scrap and 3000 Iron Bits to repair.
         譯文 : >-
             這座橋曾經連接著惡魔十字和南方的古老林地。在你能通過它之前你必須修復它。{^n}{^n}修復需要消耗12個廢鐵和3000鐵幣。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Not enough materials..
         譯文 : >-
             沒有足夠的材料。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Repair the Bridge to the Coast Road.
         譯文 : >-
             修復這座通往海岸之路的橋。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             This bridge once connected Devil's Crossing to the Old Grove to the south. It must be restored before you can cross it.{^n}{^n}It will take 12 Scrap and 3000 Iron Bits to repair.
         譯文 : >-
             這座橋曾經連接著惡魔十字和南方的古老林地。在你能通過它之前你必須修復它。{^n}{^n}修復需要消耗12個廢鐵和3000鐵幣。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Not enough materials..
         譯文 : >-
             沒有足夠的材料。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Repair the Bridge to the Coast Road.
         譯文 : >-
             修復這座通往海岸之路的橋。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             This bridge once connected Devil's Crossing to the Old Grove to the south. It must be restored before you can cross it.{^n}{^n}It will take 12 Scrap and 3000 Iron Bits to repair.
         譯文 : >-
             這座橋曾經連接著惡魔十字和南方的古老林地。在你能通過它之前你必須修復它。{^n}{^n}修復需要消耗12個廢鐵和3000鐵幣。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Not enough materials..
         譯文 : >-
             沒有足夠的材料。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Repair the Bridge to the Coast Road.
         譯文 : >-
             修復這座通往海岸之路的橋。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             You have restored this bridge.
         譯文 : >-
             你修復了這座橋。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-

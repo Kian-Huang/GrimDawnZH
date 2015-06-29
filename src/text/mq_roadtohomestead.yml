@@ -1,99 +1,85 @@
-mq_roadtohomestead.txt : 
+mq_roadtohomestead.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             The Search for Food
         譯文 : >-
             尋找食物
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             A Timely Arrival
         譯文 : >-
             及時抵達
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Find Homestead
         譯文 : >-
             找到霍姆斯特德
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Ulgrim is stuck out in Deadman's Gulch with several refugees, many of them injured. He has asked you to fight your way through the Mountain Deeps, a treacherous cavern system traveled by few, in order to reach the other side of the gulch and eventually Homestead itself. Once you've made your way out of the Mountain Deeps, you should follow the Prospector's Trail northwest until you reach the farmlands. There you will find Homestead, hopefully still under the control of the Black Legion.
         譯文 : >-
             艾格瑞姆與幾位難民被困在了亡者峽谷，他們中的許多人都受了傷。他要你進入山脈深淵之中，那是個危險的，人跡罕至的地下洞穴。到達深淵的另一面才能最終到達霍姆斯特德。在通過深淵之後，你應該沿著採礦者小徑然後向西北方進發，直到找到大片農田。在那裡你會發現霍姆斯特德，希望那裡還在黑色軍團的掌控之下。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Travel to Homestead through the Mountain Deeps
         譯文 : >-
             穿越山脈深淵以到達霍姆斯特德
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Secure Rift
         譯文 : >-
             清理傳送門
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You have made your way to Homestead, but the riftgate right outside its gates is swarming with Aetherials. You will have to clear them out before you can enter Homestead and secure the way for the refugees.
         譯文 : >-
             你已抵達霍姆斯特德，但是大門外的傳送門正在產生大量的虛靈。在進入霍姆斯特德之前你必須清除它們，保障難民們的安全。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Secure the riftgate outside of Homestead
         譯文 : >-
             清理霍姆斯特德之外的傳送門
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return for Refugees
         譯文 : >-
             返回難民身邊
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             You have secured the riftgate outside of Homestead. You should return to Ulgrim and the refugees in Deadman's Gulch in order to rift them to safety.
         譯文 : >-
             你已經清理了霍姆斯特德外的傳送門，應該返回亡者峽谷的艾格瑞姆和難民身邊，將他們安全地傳送走。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Return to Ulgrim and the refugees in Deadman's Gulch
         譯文 : >-
             返回亡者峽谷的艾格瑞姆和難民身邊
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Speak to Ulgrim
         譯文 : >-
             與艾格瑞姆交談
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             You have opened a riftgate for Ulgrim and the refugees in Deadman's Gulch. Speak to Ulgrim in Homestead.
         譯文 : >-
             你為難民們開啟了傳送門，前往霍姆斯特德與艾格瑞姆談談。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Speak to Ulgrim in Homestead
         譯文 : >-

@@ -1,22 +1,19 @@
-npc_infestedfield_farmer_field01.txt : 
+npc_infestedfield_farmer_field01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Oliver Thornsbury
         譯文 : >-
             奧利弗·索恩斯巴利
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Either grab a rake or stand aside. This field will take some hard work to get back into shape.
         譯文 : >-
             要麼去拿個耙子幹活要麼就站在一邊。這片田地要花大功夫才能恢復生產。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-

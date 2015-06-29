@@ -1,57 +1,49 @@
-bq_bl18.txt : 
+bq_bl18.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Padmanestia
         譯文 : >-
             賞金：派得曼斯蒂亞
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}Padmanestia, a possessed human, has been spotted in the Conflagration. The Legion suffers no traitors to humanity. She is to be eliminated with great prejudice.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             軍團要你幫助解決一個高優先級的目標。{^n}{^n}派得曼斯蒂亞，一個被控制的人類出現在了戰火平原。軍團不能容忍人類的叛徒。她必須被消滅。{^n}{^n}任何的幫助都將得到材料作為獎賞。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Padmanestia
         譯文 : >-
             殺了派得曼斯蒂亞
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了黑色軍團的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-

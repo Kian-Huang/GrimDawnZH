@@ -1,43 +1,37 @@
-bq_exile02.txt : 
+bq_exile02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Blood of Ch'thon
         譯文 : >-
             賞金：冥神之血
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Blood of a dead god, the chthonians gather it, the cultists worship it, but to what end?{^n}{^n}I must know! Bring me a Blood of Ch'thon and I shall reward you with iron bits.
         譯文 : >-
             Blood of a dead god, the chthonians gather it, the cultists worship it, but to what end?{^n}{^n}I must know! Bring me a 冥神之血 and I shall reward you with iron bits.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Blood of Ch'thon
         譯文 : >-
             收集冥神之血
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Blood of Ch'thon to the Outcast
         譯文 : >-

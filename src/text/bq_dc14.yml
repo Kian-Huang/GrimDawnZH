@@ -1,43 +1,37 @@
-bq_dc14.txt : 
+bq_dc14.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Calamity
         譯文 : >-
             賞金：災虐
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Kasparov is interested in studying some of the old pre-Grim Dawn relics.{^n}{^n}He requests that a Calamity be created for him so that he may investigate its magical properties.{^n}{^n}Anyone that manages to obtain this rare object for him will be rewarded with a Blood of Ch'thon from Kasparov's stores.
         譯文 : >-
             卡斯帕羅夫對於研究一些恐怖黎明之前的遺物很有興趣。{^n}{^n}他要一個災虐來研究它的魔法屬性。{^n}{^n}任何帶來這種罕有物品的人都將得到一罐冥神之血作為獎賞。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Craft a Calamity Relic
         譯文 : >-
             鍛造一個遺物災虐
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver Calamity to the Devil's Crossing Bounty Table
         譯文 : >-

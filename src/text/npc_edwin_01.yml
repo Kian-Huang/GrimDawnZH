@@ -1,71 +1,61 @@
-npc_edwin_01.txt : 
+npc_edwin_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Edwin
         譯文 : >-
             埃德溫
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Where'd you find this guy? He'd make a soup out of stone if you asked him to, and I reckon it would still taste damn fine!
         譯文 : >-
             你從哪兒找來的這傢伙？你就是叫他用石頭做湯他都做得出來，而且我估計那湯還他孃的很好喝。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Rock soup, eh? Is it better than what you've been serving?
         譯文 : >-
             啊，石頭湯？難道比你之前做的飯都好？
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             We got a joker in the midst now, eh?
         譯文 : >-
             現在你成了個愛逗比的傢伙了，是吧？
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I gotta go.
         譯文 : >-
             我該走了。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Sounds delicious.
         譯文 : >-
             聽起來很美味呢。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I ain't gonna pretend that what I make is good, or even edible, but it fills up the gut and keeps us going. Can't do much without some proper equipment and supplies. If you ever want a bowl of the Edwin Special, you just let me know.
         譯文 : >-
             我可不會裝作能做得一手好菜，我甚至不說我做菜是能吃的，反正我的菜能填飽肚子讓咱們活命。沒有稱手的廚具還有合適的材料的話沒法做啥好菜。你要是想要一碗埃德溫的特色美食，給我說一聲就行。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             I'll, um, keep that in mind.
         譯文 : >-
             額，我會記得這茬兒的。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You must be the Taken the rumors been spreading about. Now I ain't gonna judge as I heard you've done right by us with that undead mess up in Lower Crossing. The name's Edwin and I do the cooking around here.
         譯文 : >-
             你肯定是那個傳說中的被佔據者了。我不會懷疑你了，因為你幫我們解決了下游渡口的那些喪屍。我叫埃德溫，我是這兒的伙伕。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Pleased to meet you.
         譯文 : >-

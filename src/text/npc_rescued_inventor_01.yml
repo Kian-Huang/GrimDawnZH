@@ -1,36 +1,31 @@
-npc_rescued_inventor_01.txt : 
+npc_rescued_inventor_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Darlet
         譯文 : >-
             達萊特
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Thanks for the timely rescue! Kasparov spared no time in putting me back to work so I'm here for all your schematic needs. Just ask.
         譯文 : >-
             感謝你及時來救我！卡斯帕羅夫沒空給我安排工作，所以你需要什麼儘管說。我會有求必應的。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             You're welcome, and thanks!
         譯文 : >-
             不用客氣，謝謝！
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Feels good to be back in the workshop, and not out there in that hell.
         譯文 : >-
             回到工作室的感覺真是太好了，不用再呆在外面那個地獄般的世界了。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Glad to have you back.
         譯文 : >-

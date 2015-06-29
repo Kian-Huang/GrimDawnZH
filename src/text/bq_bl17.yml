@@ -1,57 +1,49 @@
-bq_bl17.txt : 
+bq_bl17.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Harrath, Returned
         譯文 : >-
             賞金：復生者 哈拉斯
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             賞金
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Legion requests assistance with a priority target.{^n}{^n}Harrath, a Fleshwarped troll, was believed slain at the riftgate outside Homestead. Through means we cannot explain, he has returned and is once again wreaking havoc around the Rotting Croplands. This threat must be exterminated, again.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
         譯文 : >-
             軍團要你幫助解決一個高優先級的目標。{^n}{^n}哈拉斯，是一頭被認為已經被殺死在霍姆斯特德傳送門的奇形巨魔。由於無法解釋的原因，它復活了，又出現在了腐壞田地。必須再次消滅掉這種威脅我們的生物。{^n}{^n}任何的幫助都將得到材料作為獎賞。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Harrath, the Returned
         譯文 : >-
             殺了復生者 哈拉斯
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
         譯文 : >-
             你完成了黑色軍團的賞金任務，你應該回到賞金桌領取獎賞。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Black Legion Bounty Table
         譯文 : >-

@@ -1,71 +1,61 @@
-npc_rover_flavor_male_01.txt : 
+npc_rover_flavor_male_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Vig
         譯文 : >-
             Vig
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Lay a finger on Benevald and you're a dead [[ms]man[fs]woman].
         譯文 : >-
             Lay a finger on Benevald and you're a dead [[ms]man[fs]woman].
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Can you tell me anything about the area?
         譯文 : >-
             Can you tell me anything about the area?
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Nothing you probably haven't seen for yourself.{^n}{^n}Darkvale's teeming with the Cult of Ch'thon and their void terrors.{^n}{^n}Fort Haron is under constant assault by either the necromancers or Kymon's zealots. Neither side holds it for long.{^n}{^n}The Asterkarn Mountains beyond Darkvale have become too dangerous for travel. If the wildlife won't get you, then the Bloodsworn will.
         譯文 : >-
             Nothing you probably haven't seen for yourself.{^n}{^n}Darkvale's teeming with the Cult of Ch'thon and their void terrors.{^n}{^n}Fort Haron is under constant assault by either the necromancers or Kymon's zealots. Neither side holds it for long.{^n}{^n}The Asterkarn Mountains beyond Darkvale have become too dangerous for travel. If the wildlife won't get you, then the Bloodsworn will.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Thanks for the warning.
         譯文 : >-
             Thanks for the warning.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Are you guarding this man?
         譯文 : >-
             Are you guarding this man?
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Benevald's earned himself a reputation for collecting rare and precious goods, so he's had his fair share of thieves and cutthroats.{^n}{^n}Nowadays, I suppose thieves are the least of our worries.
         譯文 : >-
             Benevald's earned himself a reputation for collecting rare and precious goods, so he's had his fair share of thieves and cutthroats.{^n}{^n}Nowadays, I suppose thieves are the least of our worries.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             I see.
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             I don't want to start any trouble.
         譯文 : >-
             I don't want to start any trouble.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Alright.
         譯文 : >-

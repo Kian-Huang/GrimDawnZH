@@ -1,190 +1,163 @@
-npc_blacklegion_weaponsmaster_01.txt : 
+npc_blacklegion_weaponsmaster_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Weapons Master Borrov
         譯文 : >-
             武器專家波若
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             With those cannons, we'll give anything that comes within 300 yards a taste of Black Legion lead.
         譯文 : >-
             有了這些大炮，我們就能給任何進入300碼之內的傢伙先嚐嘗黑色軍團第一波攻擊。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Perfect.
         譯文 : >-
             好極了。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Off with ya. I've got inventory to do.
         譯文 : >-
             不和你閒扯了，我要管理庫存。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You're still in one piece, suppose that means ya didn't try to enter the Conflagration then.{^n}{^n}Wise choice.
         譯文 : >-
             你還是囫圇個的回來了，說明你沒往戰火平原去。{^n}{^n}那是明智的選擇。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Actually, I went out there. The cannons are secured.
         譯文 : >-
             實際上，我去了。我已經找到了那些大炮。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Well I'll be damned. Ya got more guts than brains, but ya won't find me complaining when those cannons are back in our hands.{^n}{^n}I'll have some men sent out there to haul them back immediately.{^n}{^n}Ya have done the Legion a huge service. Thank ya.
         譯文 : >-
             哎我這張臭嘴，你的勇氣超越了你的理智。等這些大炮都回到我們手裡，你就不會再聽到我抱怨了。{^n}{^n}我這就派些人手去把大炮拖回來。{^n}{^n}你可幫了軍團的大忙。謝謝你。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You're welcome.
         譯文 : >-
             不必客氣。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             You're still in one piece, suppose that means ya didn't try to enter the Conflagration then.{^n}{^n}Wise choice.
         譯文 : >-
             你還是囫圇個的回來了，說明你沒往戰火平原去。{^n}{^n}那是明智的選擇。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Where are the cannons?
         譯文 : >-
             那些大炮在哪？
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             As I said. We had to leave 'em behind up the road to the northeast when the Aetherials attacked us in force. We call that area the Conflagration now, and with good reason.{^n}{^n}The very ground will cook you alive with aetherfire. Ya like living? Stay out of that place.
         譯文 : >-
             就像我之前說過的，我們不得不把它們丟在了東北方的道路上，因為當時虛靈正在猛烈地攻擊我們。我們現在把那片地兒叫做戰火平原，再合適不過的名字。{^n}{^n}在那個地界，地上的虛化火焰能活生生把你烤熟的。你還想活命對吧？離那兒遠點。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Thanks for the warning.
         譯文 : >-
             謝謝你的警告。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             *The Weapons Master looks over the supplies and sighs*{^n}{^n}It's a damn shame about the cannons. This place would feel a whole lot safer if we had a few of those beauties mounted up on the walls.
         譯文 : >-
             *武器專家看著補給嘆了嘆氣*{^n}{^n}那些大炮實在是可惜，如果我們能在牆上裝上幾門那些美人兒，這個地方會比現在安全很多的。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             What happened to the cannons?
         譯文 : >-
             那些大炮發生了什麼事？
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             We had no choice but to abandon them on the road when the Aetherials attacked us in force. Thankfully the bastards don't know a thing about artillery.
         譯文 : >-
             當時虛靈攻勢凶猛，我們不得不把它們丟棄在路旁。謝天謝地，那些雜種壓根不懂炮術。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             What if I recovered them?
         譯文 : >-
             如果我能把它們回收呢？
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Then I would call you insane. Treading into that area is nothing short of suicide. There's a reason we call it the Conflagration now.{^n}{^n}It's overrun with Aetherials. Even the very ground will cook you alive with aetherfire. Ya like living? Stay out of that place.
         譯文 : >-
             那我覺得你一定是瘋了。踏進那個地界兒跟自殺可沒什麼兩樣。我們叫那裡戰火平原是有原因的。{^n}{^n}那兒不光虛靈橫行。單單是地面上的虛化火焰就能把你活活烤熟了。你還想活命對吧？離那兒遠點。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Just watch me.
         譯文 : >-
             你就瞧好吧。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             You're right, it sounds like suicide.
         譯文 : >-
             你說的有道理，聽起來就像自殺。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Then call me insane because I've already secured those cannons.
         譯文 : >-
             那你就說我是個瘋子吧，因為我已經把那些大炮給拾掇好了。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Well I'll be damned. Ya got more guts than brains, but ya won't find me complaining when those cannons are back in our hands.{^n}{^n}I'll have some men sent out there to haul them back immediately.{^n}{^n}Ya have done the Legion a huge service. Thank ya.
         譯文 : >-
             哎我這張臭嘴，你的勇氣超越了你的理智。等這些大炮都回到我們手裡，你就不會再聽到我抱怨了。{^n}{^n}我這就派些人手去把大炮拖回來。{^n}{^n}你可幫了軍團的大忙。謝謝你。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             You're welcome.
         譯文 : >-
             不用客氣。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Off with ya. I've got inventory to do.
         譯文 : >-
             不和你閒扯了，我要管理庫存。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

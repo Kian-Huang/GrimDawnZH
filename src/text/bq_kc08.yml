@@ -1,57 +1,49 @@
-bq_kc08.txt : 
+bq_kc08.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Igniaa Venomtongue
         譯文 : >-
             賞金：劇毒之舌依格尼亞
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members at Fort Haron. Her name is Igniaa Venomtongue. The Blessed Father has demanded her death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
         譯文 : >-
             The Order of Death's Vigil is a devious group that claims mastery over death, but even they must eventually succumb to that ultimate fate.{^n}{^n}We have spotted one of the Order's high ranked members near 哈倫堡. Her name is 劇毒之舌 依格尼亞. The Blessed Father has demanded her death.{^n}{^n}Anyone willing to take on this critical task will be rewarded with materials from our stores.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Igniaa Venomtongue
         譯文 : >-
             殺了劇毒之舌依格尼亞
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Kymon's Chosen and should return to the Bounty Table for your reward.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Kymon's Chosen Bounty Table
         譯文 : >-

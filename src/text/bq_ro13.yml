@@ -1,43 +1,37 @@
-bq_ro13.txt : 
+bq_ro13.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Royal Jelly
         譯文 : >-
             賞金：蜂王漿
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Venomwing wasp hives are dangerous when stirred, but their queens produce a valuable reagent known as Royal Jelly, which we use to create many of our healing ointments.{^n}{^n}Our supplies are running low and casualties are up from the battle against Cronley's men. It is imperative that we acquire more Royal Jelly.{^n}{^n}We will gladly pay iron bits for the delivery of this precious reagent.
         譯文 : >-
             The Venomwing wasp hives are dangerous when stirred, but their queens produce a valuable reagent known as Royal Jelly, which we use to create many of our healing ointments.{^n}{^n}Our supplies are running low and casualties are up from the battle against Cronley's men. It is imperative that we acquire more Royal Jelly.{^n}{^n}We will gladly pay iron bits for the delivery of this precious reagent.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Royal Jelly
         譯文 : >-
             收集蜂王漿
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Royal Jelly to the Rover Bounty Table
         譯文 : >-

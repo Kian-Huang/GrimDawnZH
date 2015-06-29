@@ -1,288 +1,247 @@
-npc_harmond_01.txt : 
+npc_harmond_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Harmond
         譯文 : >-
             哈蒙德
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Sometimes, when I close my eyes, I still see her, you know.{^n}{^n}I can smell her auburn hair, feel her gentle hand upon my cheek.{^n}{^n}But then I open them again and all I see is this slith hole. This world is too cruel for an angel like Annabel. She would wither away in its corruption.
         譯文 : >-
             有時候，當我閉上雙眼，我還能看見她。{^n}{^n}我能聞到她那赤褐色頭髮的香味，感受到她柔軟的手撫摸著我的面頰。{^n}{^n}但是之後我睜開雙眼，我只能看到這麼一個蛇人洞窟模樣的世界。這個殘酷的世界容不得天使一樣的安娜貝爾，她能遠離這個腐化的世界反而是一種好事。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             I'm sorry.
         譯文 : >-
             我對此感到很遺憾。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             They took my Annabel from me. I'll make them pay yet!
         譯文 : >-
             他們從我身邊奪走了安娜貝爾。我要讓他們付出代價！
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I'll... leave you to your thoughts.
         譯文 : >-
             我會……讓你一個人靜一靜的。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             They took my Annabel from me. I'll make them pay yet!
         譯文 : >-
             他們從我身邊奪走了安娜貝爾。我要讓他們付出代價！
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I'll... leave you to your thoughts.
         譯文 : >-
             我會……讓你一個人靜一靜的。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             I can tell you've had 'yer share of horrors. Tell me, what was the battle like?
         譯文 : >-
             我看得出來，你完成了“你的那份殺戮”。告訴我，戰鬥的感覺如何？
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             It was gruesome and bloody. Just the way I like it.
         譯文 : >-
             陰森又血腥。正是我喜歡的。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             I hope they suffered. Nobody deserves to be torn apart by monsters like that, and now there are a few less in the world. Thanks to you. {^n}{^n}Here, take 'yer iron.
         譯文 : >-
             我希望那些邪惡的東西受到懲罰。沒有人該那樣被怪物撕成碎片，現在世界少了一些邪惡的東西。謝謝你。{^n}{^n}拿去，這是給你的鐵幣。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Thank you. I did what had to be done.
         譯文 : >-
             謝謝，我做了我應該做的。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             They were a horrifying sight. I ended it quickly.
         譯文 : >-
             他們看起來恐怖極了。我很快就解決了他們。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Less guts in ya than I reckoned, but at least they're still inside ya and not spilling out on some road, eh? {^n}{^n}Anyway, here's 'yer iron.
         譯文 : >-
             你沒有我想的那麼有種，不過至少邪物還在你的體內，沒有灑在路上，對嗎？{^n}{^n}不管怎麼樣，這是給你的。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             It was sad to see men twisted in such a way. I took them out of their misery.
         譯文 : >-
             看到人那樣扭曲令人感到悲傷。我解除了他們的痛苦。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Perhaps they didn' deserve the fate they got, but at least now there's less of them out there threatenin' the living. {^n}{^n}You did the right thing. Here's 'yer iron.
         譯文 : >-
             可能那不是他們應得的命運，不過至少這些威脅活人的東西少了一些。{^n}{^n}你做的很對，這是給你的。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             You're not going to convince me that you've killed Fleshwarped mutants without some personal experience to back it up!
         譯文 : >-
             你可別告訴我你殺變異喪屍的時候沒有回憶起以前你自己的經歷！
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             I'll get on it.
         譯文 : >-
             我這就去辦。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             You killed scores of the shamblin' Dead, but I think you can do better. The Aether corruption created some truly monstrous mutations in some of the Dead. {^n}{^n}Go out there and hunt some down. Then tell me of the slaughter.
         譯文 : >-
             你殺了很多蹣跚而行的死屍，不過我覺得你還能做的更好。虛靈在死屍中製造了一些巨大的變異喪屍。{^n}{^n}出去獵殺一些，然後回來告訴我吧。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Alright.
         譯文 : >-
             好的。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             I think I'm done here.
         譯文 : >-
             我應該完成了吧。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             There is a fire in 'yer eyes and blood on 'yer clothes. I see that you've done 'yer share of the killin'. {^n}{^n}Tell me, how did it feel?
         譯文 : >-
             你的眼中有火焰，你的衣服上有血跡。我知道你完成了“你的那份殺戮”。{^n}{^n}告訴我，那感覺如何？
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             I felt vindicated. Righteous.
         譯文 : >-
             我覺得我無罪，這是正義的殺戮。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             That's what I like to hear! If it wasn' for my bum leg, I'd be out there with ya. Payin' others with good iron and hearin' the tales is just the next best thing. {^n}{^n}Speakin' of which, here's 'yer share.
         譯文 : >-
             那正是我想聽見的！如果不是我這條瘸腿，我就跟你一起去了。付錢聽故事，算是退而求其次的選擇。{^n}{^n}說到付錢，這是給你的。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             I didn't feel much of anything.
         譯文 : >-
             我沒感覺到什麼。
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             Then you and I have somethin' in common. After those things took my Annabel from me, I don' feel much of anythin' either. {^n}{^n}Here, take 'yer coin. You've earned it.
         譯文 : >-
             那你就和我有些共同之處了。在這些東西奪走了我的安娜貝爾之後，我也感覺不到什麼。{^n}{^n}拿著，這是給你的錢。你掙來的。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             Regret... these people once lived.
         譯文 : >-
             後悔……這些都曾經是活人。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             I ain' payin' for a lecture in conscience. Those things are abominations. Abominations that killed my wife, Annabel, and turned me into a cripple! {^n}{^n}The only way I can get back at them now is by payin' someone like you. So if you want more iron, skip the morals and kill some more Dead. {^n}{^n}Here's 'yer pay.
         譯文 : >-
             我可不是來花錢聽道德說教的。那都是些令人厭惡的東西，殺了我的妻子安娜貝爾，把我變成瘸子的東西！{^n}{^n}我唯一能從他們身上討回的東西就是給你這樣的人付錢屠殺他們。所以你要是想掙錢，別扯什麼道德，多殺些死屍。{^n}{^n}這是給你的。
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝。
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             Yer' blade looks a bit dry there, stranger. Come back to me when you've put a few of the Dead where they belong. I want to hear all the details.
         譯文 : >-
             你的刀看起來需要喝點血，陌生人。等你殺完幾個死屍再回來找我，我想聽到所有的細節。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             I'll be back.
         譯文 : >-
             我會回來的。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             I hear you've been cleanin' up out there in Lower Crossing. If you're goin' to keep fighting those bastards, you'll need better equipment than that. {^n}{^n}Here's somethin' you'll likely never see again in this world, stranger. Somethin' for nothin'. Take some iron coin off my hands; I don't need it no more.
         譯文 : >-
             我聽說你把下游渡口掃蕩乾淨了。如果你要繼續跟那些雜種作戰，你需要更好的裝備。{^n}{^n}你不會再這個世界上遇到這樣的好事了，陌生人。不勞而獲。拿走這些鐵幣吧，我不再需要它們了。
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             Why are you helping me?
         譯文 : >-
             你為什麼要幫我？
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
-            Y'see, they killed my Annabel back when the village was first overrun. Ain' nothin' gonna bring her back; and if it tries, I'll put a bullet through its skull. {^n}{^n}I got nothin' left but revenge, so I pay good iron to those willin' to put down those abominations. {^n}{^n}You slaughter some Dead worth tellin' about, like the soldiers, and I'll give you some more from my stash. 
+            Y'see, they killed my Annabel back when the village was first overrun. Ain' nothin' gonna bring her back; and if it tries, I'll put a bullet through its skull. {^n}{^n}I got nothin' left but revenge, so I pay good iron to those willin' to put down those abominations. {^n}{^n}You slaughter some Dead worth tellin' about, like the soldiers, and I'll give you some more from my stash.
         譯文 : >-
             在村莊第一次被侵襲的時候，他們殺了我妻子。什麼都弄不回我的妻子了。如果虛靈要讓我妻子站起來，我會給她的頭來上一槍。{^n}{^n}我除了復仇已經一無所有，所以我會給那些放倒喪屍的人不少的錢。{^n}{^n}你殺點更值得誇耀的死屍，比如喪失士兵那種，我就給你更多的錢。
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             I'll put them down.
         譯文 : >-
             我會去殺掉死屍的。
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             I don't trust handouts.
         譯文 : >-
             我可不接受什麼施捨。
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             Oh look, it's the possessed one. Tell ya what, I've got somethin' that needs doing and I'll pay good to see it done.{^n}{^n}I'm not quite sure you've got what it takes but come back with some blood on 'yer boots and maybe I'll reconsider. Just try to make sure it's not 'yer own blood...
         譯文 : >-
             看看，是被佔據的那個傢伙。告訴你，我有些活要花錢找人幹。{^n}{^n}我不確定你有那本事，不過等你的鞋子上沾點血再回來找我，或許我會重新考慮的。注意別把自己的血弄上去……
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             Alright then.
         譯文 : >-

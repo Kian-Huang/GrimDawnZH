@@ -1,134 +1,115 @@
-object_bridgehomestead_01.txt : 
+object_bridgehomestead_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Building Site
         譯文 : >-
             建築工地
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             This bridge once connected the Old Arkovia to Homestead. It must be restored before you can cross it.{^n}{^n}Unfortunately that content is not yet ready, so you cannot cross just yet!
         譯文 : >-
             這座橋曾經連接著古安克維亞和霍姆斯特德。在你通過它之前你必須修復它。{^n}{^n}Unfortunately that content is not yet ready,so you cannot cross just yet!
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             What! Where is the rest?!
         譯文 : >-
             What!Where is therest?!
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             We are still working on the content beyond this point. Check back on our site for updates!
         譯文 : >-
             We are still working on the content beyond this point. Check back on our site for updates!
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             Verywell.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             This bridge once connected the Old Arkovia to Homestead. It must be restored before you can cross it.{^n}{^n}It will take 30 Scrap and 15000 Iron Bits to repair.
         譯文 : >-
             這座橋曾經連接著古安克維亞和霍姆斯特德。在你通過它之前你必須修復它。{^n}{^n}修復它需要30個廢鐵和1500枚鐵幣。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Not enough materials.
         譯文 : >-
             沒有足夠的材料。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Repair the Bridge to Homestead
         譯文 : >-
             修復修復這座通往霍姆斯特德的橋。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             This bridge once connected the Old Arkovia to Homestead. It must be restored before you can cross it.{^n}{^n}It will take 30 Scrap and 15000 Iron Bits to repair.
         譯文 : >-
             這座橋曾經連接著古安克維亞和霍姆斯特德。在你通過它之前你必須修復它。{^n}{^n}修復它需要30個廢鐵和1500枚鐵幣。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Not enough materials.
         譯文 : >-
             沒有足夠的材料。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Repair the Bridge to Homestead
         譯文 : >-
             修復修復這座通往霍姆斯特德的橋。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             This bridge once connected the Old Arkovia to Homestead. It must be restored before you can cross it.{^n}{^n}It will take 30 Scrap and 15000 Iron Bits to repair.
         譯文 : >-
             這座橋曾經連接著古安克維亞和霍姆斯特德。在你通過它之前你必須修復它。{^n}{^n}修復它需要30個廢鐵和1500枚鐵幣。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Not enough materials.
         譯文 : >-
             沒有足夠的材料。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Repair the Bridge to Homestead
         譯文 : >-
             修復修復這座通往霍姆斯特德的橋。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             You have restored this bridge.
         譯文 : >-
             你修復了這座橋。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-

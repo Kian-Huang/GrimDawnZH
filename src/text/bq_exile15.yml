@@ -1,57 +1,49 @@
-bq_exile15.txt : 
+bq_exile15.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Ludia Starfire
         譯文 : >-
             賞金：魯迪亞·星火
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Ludia Starfire was once a talented arcanist and a colleague. No longer.{^n}{^n}She now spreads Aetherial corruption out in the Conflagration. You will end her servitude to the Aether.{^n}{^n}Do so and I shall reward you with something from my collection.
         譯文 : >-
             魯迪亞·星火 was once a talented arcanist and a colleague. No longer.{^n}{^n}She now spreads Aetherial corruption out in 戰火平原. You will end her servitude to the Aether.{^n}{^n}Do so and I shall reward you with something from my collection.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Slay Ludia Starfire
         譯文 : >-
             殺了魯迪亞·星火
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Turn In
         譯文 : >-
             回報任務
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have completed the task for the Outcast and should return to the Bounty Table for your reward.
         譯文 : >-
             You have completed the task for the Outcast and should return to the Bounty Table for your reward.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Return to the Outcast's Bounty Table
         譯文 : >-

@@ -1,22 +1,19 @@
-npc_smugglerpass_refugee_03.txt : 
+npc_smugglerpass_refugee_03.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Tricia Windborough
         譯文 : >-
             特里西婭·溫德伯勒
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
-            My husband won't last out here much longer. We've been without food for days and our water is nearly gone now too. Please, help us! 
+            My husband won't last out here much longer. We've been without food for days and our water is nearly gone now too. Please, help us!
         譯文 : >-
             我的丈夫快不行了。我們已經幾天沒吃東西了，水也幾乎沒有了。請你幫幫我們！
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             I will try.
         譯文 : >-

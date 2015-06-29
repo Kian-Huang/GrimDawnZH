@@ -1,43 +1,37 @@
-bq_kc15.txt : 
+bq_kc15.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Bounties
         譯文 : >-
             賞金任務
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Bounty: Chthonic Seal
         譯文 : >-
             賞金：冥靈魔印
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Bounty
         譯文 : >-
             Bounty
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Cult of Ch'thon uses strange Seals in order to perform their summoning rituals.{^n}{^n}We must deny them this resource. Seals recovered from slain cultists should be brought here for incineration.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
         譯文 : >-
             The Cult of Ch'thon uses strange Seals in order to perform their summoning rituals.{^n}{^n}We must deny them this resource. Seals recovered from slain cultists should be brought here for incineration.{^n}{^n}As reward for faithful service, Father Kymon has set aside a pouch of iron bits.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Collect Chthonic Seal
         譯文 : >-
             收集冥靈魔印
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Deliver the Chthonic Seal to the Kymon's Chosen Bounty Table
         譯文 : >-

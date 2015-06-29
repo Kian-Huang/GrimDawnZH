@@ -1,204 +1,175 @@
-npc_eva.txt : 
+npc_eva.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Eva
         譯文 : >-
             伊娃
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Thank you again! You saved many lives.
         譯文 : >-
             再次感謝你！你拯救了許多生命。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Glad I could help.
         譯文 : >-
             很高興我能幫上忙。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Your allies have helped save many lives.
         譯文 : >-
             你的盟友幫忙拯救了許多生命。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Glad to hear it.
         譯文 : >-
             你這麼說我很高興。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             You've returned! Do you have the Royal Jelly?
         譯文 : >-
             你回來啦！你拿到蜂王漿了嗎？
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Yes, here it is.
         譯文 : >-
             是的，在這兒。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             That's perfect! You have no idea how helpful this will be! Please, take some for the road ahead. You never know when you'll need it. And please, let me show you how to make some yourself. It is the least we could do for saving so many lives.
         譯文 : >-
             太完美了！你完全不知道這多有用！為後面的旅途拿一些吧。你不會知道什麼時候會需要它。並且，請讓我告訴您如何自己動手做一些。這是我們為了感謝你拯救這麼多生命所唯一能做的事。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝你。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             I'll be right back.
         譯文 : >-
             我馬上就回來。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             How is the hunt for the Royal Jelly?
         譯文 : >-
             如何尋找蜂王漿？
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Where are the hives again?
         譯文 : >-
             蜂巢又在哪裡？
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             There are two large ones that I know of: one south of here near the Rocky Coast and another to the north near Twin Falls. Please hurry.
         譯文 : >-
             我知道有兩個大型的：一個在此地南部臨近岩石海岸，而另一個在北部臨近雙子瀑布。請儘快。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             I will get on it right away.
         譯文 : >-
             我會馬上行動的。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Still gathering more.
         譯文 : >-
             還要收集更多。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             You'll have to forgive me, but I must to tend to the wounded.
         譯文 : >-
             你得原諒我，但我必須照顧傷員。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             You have quite a few men injured.
         譯文 : >-
             你有不少人受傷了。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Yes, the battle with Cronley's brutes has proven taxing on our people. I'm afraid some of them won't make it through the night.
         譯文 : >-
             是的，和克隆利的蠻兵的戰鬥已經讓我們飽受壓力，我恐怕他們中的一些人撐不過一晚上。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Anything I could do to help?
         譯文 : >-
             我能做什麼幫助嗎？
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Oh? Why yes, there is! We are too few to leave this camp undefended, but you could seek out the wasp hives around Old Arkovia. There are two large ones that I know of: one south of here near the Rocky Coast and another to the north near Twin Falls.{^n}{^n}If you bring me some Royal Jelly, I could create an old Rover remedy known to vastly accelerate healing. Why, if you do this for us, I'll happily show you how it's made. It would be the least we could do.
         譯文 : >-
             哦？是的，有！我們人太少而不能離開這個不設防的營地，但是你可以在古安克維亞周圍找到黃蜂蜂巢。我知道有兩個大型的：一個在此地南部臨近岩石海岸，而另一個在北部臨近雙子瀑布。{^n}{^n}如果你能給我帶來一些蜂王漿，我可以製作一種廣為人知的能夠加速恢復的古老的流浪者藥劑。為什麼？如果你為我們做這件事，我會很樂意給你展示如何製作的。這是我們唯一能做的。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             I will get you the Royal Jelly.
         譯文 : >-
             我會給你蜂王漿的。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             I'm sorry. I can't do this right now.
         譯文 : >-
             對不起。我現在不能這麼做。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Is this enough Royal Jelly?
         譯文 : >-
             這些蜂王漿夠嗎？
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             That's perfect! You have no idea how helpful this will be! Please, take some for the road ahead. You never know when you'll need it. And please, let me show you how to make some yourself. It is the least we could do for saving so many lives.
         譯文 : >-
             太完美了！你完全不知道這多麼有用！為後面的旅途拿走一些吧。你不會知道什麼時候會需要它。並且，請讓我告訴您如何自己動手做一些。這是我們為了感謝你拯救這麼多生命所唯一能做的事。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             謝謝你。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             I'm sorry.
         譯文 : >-
             對不起。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Greetings, stranger. I'm sorry, but I cannot talk right now. I must tend to the wounded.
         譯文 : >-
             你好，陌生人。對不起，但我現在不能閒聊，我必須照顧傷員。
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             I'll get out of your way.
         譯文 : >-

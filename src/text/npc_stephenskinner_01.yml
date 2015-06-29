@@ -1,183 +1,157 @@
-npc_stephenskinner_01.txt : 
+npc_stephenskinner_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Stephen Skinner
         譯文 : >-
             史蒂芬·斯金納
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             Leave me to my troubles.
         譯文 : >-
             別多管閒事。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Alright then.
         譯文 : >-
             好的。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Stand back. I'm burning this shack down. My family does not need to suffer any longer in this horrible world.
         譯文 : >-
             站遠點。我要把這屋子燒成白地。我的家人再也不會在這個恐怖的世界上受苦了。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Is your family in there? Are you insane?!
         譯文 : >-
             你的家人在這裡面？你瘋了嗎？
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Stay out of this. It's for the best.
         譯文 : >-
             別多管閒事。這是為了他們好。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             You can't do this!
         譯文 : >-
             你不能這麼做！
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             I have to! Day after day, we struggled out here, surrounded by bandits and foul beasts. This is no place to raise a family.
         譯文 : >-
             我必須這麼做！日復一日，我們在這裡掙扎求生，周圍全是匪徒和邪獸。這不是一個能維持一個家庭的地方。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             You can't give up now.
         譯文 : >-
             你不能就這樣放棄。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Because things will get better? Hah! I've seen only ever seen them get worse and worse. This ends now.
         譯文 : >-
             因為事情會好起來的？哈！我只看見情況越來越糟，現在這一切就要結束了。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             No! Don't do it!
         譯文 : >-
             不！不要這麼做！
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             You're right, it's not. Devil's Crossing is safe though. Join me there.
         譯文 : >-
             是的，你說得對。但惡魔十字是個安全的地方，去那裡加入我們吧。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             You're right. Go ahead.
         譯文 : >-
             你說的對，繼續燒吧。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Look, things are bad, but we can't lose hope.
         譯文 : >-
             情況是很不妙，但是我們不能失去希望。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             What hope is there left? Good people are dying and the world is overrun with monstrosities we used to spook our children with. I will not have my family suffer any longer.
         譯文 : >-
             還有什麼希望？好人都要死去，而且過去我們拿來嚇唬小孩子的怪物現在在這世界上到處都是。我不會再讓我的家庭忍受這樣的折磨了。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Others have managed to survive. You can too.
         譯文 : >-
             別人能活下來，你也可以的。
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             We've tried...we're tried for too long. Frankly, I'm tired of trying. This ends now.
         譯文 : >-
             我們已經嘗試過……嘗試過很久了。坦白講，我已經厭倦了這樣掙扎求生，一切都結束了。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Wait, don't!
         譯文 : >-
             等等，別這麼做！
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             I come from Devil's Crossing. It's safe there.
         譯文 : >-
             我從惡魔十字來，那裡很安全。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Safe? What's safe anymore. We were safe out here once too. Look at this place now.
         譯文 : >-
             安全？還有什麼安全，這裡曾經也是安全的，看看現在這裡變成了什麼樣子。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             We defend it. There is shelter and drinking water. Please, join us.
         譯文 : >-
             我們保衛著那裡。那裡有居所也有可以飲用的水。請加入我們吧。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Perhaps this is the fresh start we needed. I really hope you speak the truth. Alright, take us there.
         譯文 : >-
             可能那會是我們新的開始，我真的希望你說的是真的。好吧，帶我們去那兒吧。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             I'll see you and your family there. (Open Riftgate)
         譯文 : >-
             惡魔十字再見。(打開傳送門)
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             You're right. Go ahead.
         譯文 : >-
             你是對的，繼續吧。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Fine. Go ahead.
         譯文 : >-
             好吧，繼續吧。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Nope. Not dealing with crazy.
         譯文 : >-

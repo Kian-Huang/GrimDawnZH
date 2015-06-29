@@ -1,393 +1,337 @@
-npc_necro_malkadarr_01.txt : 
+npc_necro_malkadarr_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Malkadarr
         譯文 : >-
             Malkadarr
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             So, it is you I must thank for my resurrection?
         譯文 : >-
             So, it is you I must thank for my resurrection?
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             I have some questions.
         譯文 : >-
             I have some questions.
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Speak.
         譯文 : >-
             Speak.
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Are you immortal?
         譯文 : >-
             Are you immortal?
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             For as long as the ashes burn within me or the Keeper deems it necessary.
         譯文 : >-
             For as long as the ashes burn within me or the Keeper deems it necessary.
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             So what happens now?
         譯文 : >-
             So what happens now?
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             That is for the Keeper to decide. I am hers to command.
         譯文 : >-
             That is for the Keeper to decide. I am hers to command.
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Are you her slave?
         譯文 : >-
             Are you her slave?
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             A strong way to put it, but in a sense.{^n}{^n}Whatever the Keeper wishes shall be done.
         譯文 : >-
             A strong way to put it, but in a sense.{^n}{^n}Whatever the Keeper wishes shall be done.
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Why would you agree to this?
         譯文 : >-
             Why would you agree to this?
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             To gain access to the innermost secrets of Necromancy, I had to agree to this binding, so that all I learn is not lost should I perish.{^n}{^n}It was a price worth paying; an honor, not a curse.
         譯文 : >-
             To gain access to the innermost secrets of Necromancy, I had to agree to this binding, so that all I learn is not lost should I perish.{^n}{^n}It was a price worth paying; an honor, not a curse.
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Will you obey me?
         譯文 : >-
             Will you obey me?
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             *Malkadarr cackles*{^n}{^n}You may have participated in my return, but you are not the one who performed the binding.
         譯文 : >-
             *Malkadarr cackles*{^n}{^n}You may have participated in my return, but you are not the one who performed the binding.
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             I see.
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             A steep price for knowledge.
         譯文 : >-
             A steep price for knowledge.
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Sounds like a terrible fate.
         譯文 : >-
             Sounds like a terrible fate.
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             I shall speak to her then.
         譯文 : >-
             I shall speak to her then.
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             What's it like, being undead?
         譯文 : >-
             What's it like, being undead?
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             A strange question. What does it feel like to be alive?{^n}{^n}I feel no pain. I feel no hunger. I will never tire. Mortal limitations no longer concern me.
         譯文 : >-
             A strange question. What does it feel like to be alive?{^n}{^n}I feel no pain. I feel no hunger. I will never tire. Mortal limitations no longer concern me.
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             Nevermind.
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             Welcome back, Malkadarr.
         譯文 : >-
             Welcome back, Malkadarr.
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             By the will of the Keeper, I have returned.
         譯文 : >-
             By the will of the Keeper, I have returned.
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             Who are you?
         譯文 : >-
             Who are you?
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             I am Malkadarr, first circle of the Order.{^n}{^n}I was dead, but no longer. The Keeper saw it fit to return me into the Order's service.
         譯文 : >-
             I am Malkadarr, first circle of the Order.{^n}{^n}I was dead, but no longer. The Keeper saw it fit to return me into the Order's service.
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             A resurrection? Impressive.
         譯文 : >-
             A resurrection? Impressive.
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             A resurrection? That's unsettling.
         譯文 : >-
             A resurrection? That's unsettling.
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             So, it is you I must thank for my resurrection?
         譯文 : >-
             So, it is you I must thank for my resurrection?
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             So what happens now?
         譯文 : >-
             So what happens now?
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             That is for the Keeper to decide. I am hers to command.
         譯文 : >-
             That is for the Keeper to decide. I am hers to command.
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             Are you her slave?
         譯文 : >-
             Are you her slave?
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             A strong way to put it, but in a sense.{^n}{^n}Whatever the Keeper wishes shall be done.
         譯文 : >-
             A strong way to put it, but in a sense.{^n}{^n}Whatever the Keeper wishes shall be done.
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             Why would you agree to this?
         譯文 : >-
             Why would you agree to this?
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             To gain access to the innermost secrets of Necromancy, I had to agree to this binding, so that all I learn is not lost should I perish.{^n}{^n}It was a price worth paying; an honor, not a curse.
         譯文 : >-
             To gain access to the innermost secrets of Necromancy, I had to agree to this binding, so that all I learn is not lost should I perish.{^n}{^n}It was a price worth paying; an honor, not a curse.
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             Will you obey me?
         譯文 : >-
             Will you obey me?
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             *Malkadarr cackles*{^n}{^n}You may have participated in my return, but you are not the one who performed the binding.
         譯文 : >-
             *Malkadarr cackles*{^n}{^n}You may have participated in my return, but you are not the one who performed the binding.
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             I see.
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             A steep price for knowledge.
         譯文 : >-
             A steep price for knowledge.
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             Sounds like a terrible fate.
         譯文 : >-
             Sounds like a terrible fate.
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             I shall speak to her then.
         譯文 : >-
             I shall speak to her then.
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             Welcome back, Malkadarr.
         譯文 : >-
             Welcome back, Malkadarr.
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             By the will of the Keeper, I have returned.
         譯文 : >-
             By the will of the Keeper, I have returned.
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             Who are you?
         譯文 : >-
             Who are you?
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             I am Malkadarr, first circle of the Order.{^n}{^n}I was dead, but no longer. The Keeper saw it fit to return me into the Order's service.
         譯文 : >-
             I am Malkadarr, first circle of the Order.{^n}{^n}I was dead, but no longer. The Keeper saw it fit to return me into the Order's service.
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             A resurrection, impressive.
         譯文 : >-
             A resurrection, impressive.
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             A resurrection? That's unsettling.
         譯文 : >-
             A resurrection? That's unsettling.
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

@@ -1,197 +1,169 @@
-npc_elsa.txt : 
+npc_elsa.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Elsa
         譯文 : >-
             艾爾莎
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             You don't smell like one of Cronley's gang; are you another from Devil's Crossing then?
         譯文 : >-
             你聞著不像是克隆利幫的人，你又是從惡魔十字來的？
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             If your name is Elsa, then a mutual friend is looking for you.
         譯文 : >-
             如果你叫艾爾莎，有一個你我共同的朋友正在找你呢。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             I can only assume you mean Mornay... Idiot nearly got me killed out in Old Arkovia. Bandits got us in the night, drawn to his damned fire. They tied me up and dragged me back towards their camp, probably to share me with the rest of the gang.{^n}{^n}Shame for them they weren't very good at tying knots. I slit their throats while they slept and made off on my own.
         譯文 : >-
             我只能想到你說的是莫爾奈了……那個白痴差點在古安克維亞害死我。強盜在夜裡抓住了我，都是他該死的火堆引過來的。他們把我綁起來往他們的營地拖，可能是想要跟幫派裡剩下的人分享我吧。{^n}{^n}可惜他們不擅長打繩結，我在他們睡著的時候割了他們的喉嚨然後逃走了。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Why didn't you return to Mornay?
         譯文 : >-
             為什麼你不回去找莫爾奈呢？
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Well, I thought he was dead but knowing he's back in Devil's Crossing makes me even less inclined to return. He's not a bad man but I can't stand to have him fawning all over me like a replacement for his dead wife. He believes there is some great romance between us and refuses to accept that I have no such feelings.
         譯文 : >-
             我想他已經死了，不過知道他回到了惡魔十字讓我更加不傾向於回去了。他不是個壞人，但是我受不了他整天討好我，就像要我代替他死去的妻子一樣。他深信我們之間你儂我儂，可是拒絕承認我根本就沒這種感覺。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Should I tell him you're alive?
         譯文 : >-
             我該告訴他你還活著麼？
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             It might be better that he believes me dead. The last thing I need is a love sick fool pursuing me through this hellish world.
         譯文 : >-
             可能還是讓他相信我死了比較好。最糟糕的事情莫過於有個戀愛瘋子在這個地獄般的世界一直追求我。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             What did you mean by "another" from Devil's Crossing?
         譯文 : >-
             你說的“又”是從惡魔十字來的是怎麼一回事？
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             I encountered another survivor from Devil's Crossing just recently who convinced me that Homestead was a place where I could help make a difference. I never got a name but he cooked a fine meal and told me many remarkable stories about political intrigues in the time of the Empire. Then he set off by himself.
         譯文 : >-
             我不久前遇到過另外一個從惡魔十字來的倖存者，他說服我說霍姆斯特德是個能讓我過上不一樣日子的地方。我不知道他叫什麼名字，但他給我做了一頓好吃的然後給我講了很多當年帝國政治上勾心鬥角的故事。之後他就自己走了。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             If you were headed to Homestead, why didn't you join him?
         譯文 : >-
             如果你是去霍姆斯特德的，為什麼你不跟著他走呢？
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             He just got up in the dark of night and told me he was heading on as he had urgent business in Homestead. I warned him that it would be wise to wait while the trolls and Aetherials fought it out in Smuggler's Pass but he said that he could pass unseen between them if he was alone.{^n}{^n}It sounds crazy to me but he was a likeable fellow and I hope he fared better than I expect.
         譯文 : >-
             他在半夜上路的，而且他告訴我是因為他在霍姆斯特德有急事。我警告他最好等等，因為巨魔和虛靈正在走私者的通道里面打得不可開交。但他說他一個人的話可以從兩個勢力中間悄無聲息地過去。{^n}{^n}這聽起來是瘋了，不過他是個討人喜歡的傢伙，我希望他能順利通過吧。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             I plan on fighting through Smuggler's Pass. You could join me.
         譯文 : >-
             我準備從走私者的通道一路打過去，你可以跟我走。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             I appreciate the offer but, as I said, the fighting seems a little too intense up there right now and I plan to wait it out. I'd advise you to do the same but, if you insist on pressing ahead, I hope you prevail.
         譯文 : >-
             我感謝你的邀請，但是就像我說的，現在那裡的戰鬥過於激烈了。我還是計劃等到戰爭結束。我建議你也等一等，不過你要是堅持繼續上路的話，我希望你能夠旗開得勝。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Alright. Farewell.
         譯文 : >-
             好吧，再見。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             You're always welcome back in Devil's Crossing.
         譯文 : >-
             惡魔十字總會歡迎你回去的。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Thanks but I have no plans to return there. I'd rather find my fate on the open road.
         譯文 : >-
             謝謝不過不準備回去了，我寧可在外面的世界尋找到我的命運。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Alright. Farewell.
         譯文 : >-
             好的，再見。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Good luck out there.
         譯文 : >-
             祝你好運。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             So be it.
         譯文 : >-
             就這樣吧。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             What can you tell me of this area?
         譯文 : >-
             關於這個地區，你能告訴我些什麼？
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             I can tell you it's swarming with trolls and harpies, and that your best bet would be to leave by whatever way you got here.{^n}{^n}I was headed for Smuggler's Pass, which leads through the mountains but found it's become a battleground between troll tribes and Aetherials. If you're not familiar with trolls and their ilk, they have a perverse predilection to abduct and keep humans as mates. That's not the fate I have planned for myself, nor is possession, so I'm biding my time, looking for another way through.
         譯文 : >-
             我能告訴你這地方遍佈著巨魔和鷹身女妖，最好的選擇就是順著原路返回。{^n}{^n}我之前是要去走私者的通道的，那個通道深入山脈之中。但是我發現那兒已經成了巨魔和虛靈的戰場。如果你跟巨魔不熟也不是他們的近親，他們就會有變態的嗜好，綁架人類然後把人類當成配偶。那可不是我期望中的給我自己寫的劇本，所以我在等待時機，尋找另外一條路。
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             I take it you have some experience with trolls?
         譯文 : >-
             我可以認為你對有些經驗？
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             I'm not sure how you meant that but, in either case, no. I've never seen a troll until after the Grim Dawn, just heard the odd tales of travelers gone missing or abductions from villages in the mountains. Apparently there were a lot more of them living up in these remote parts than anyone realized.{^n}{^n}In some folklore, trolls are a primitive ancestor of humankind that never advanced beyond their bestial impulses. Others say they're the terrible result of generations of inbreeding among small mountain tribes. They're temperamental, greedy and extremely violent; with just enough cunning to be dangerous.
         譯文 : >-
             我不知道你這麼說是什麼意思，不管什麼意思，我沒什麼經驗。恐怖黎明之後我還沒見過一個巨魔，只是聽說旅行者嘴裡關於山中村莊裡面的人失蹤或是被綁架這種古怪的傳說罷了。顯然這裡曾經有任何人認為的都多的村民生活在這個偏遠的地方。{^n}{^n}在一些民間傳說裡面，巨魔是人類沒有失去獸性的原始祖先。另外的人說他們是人數稀少的山地部落多代人近親結婚的可怕的結果。他們喜怒無常，貪婪且異常暴力，對於稱得上是危險來說，他們的智力也足夠了。
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             Interesting. Thanks.
         譯文 : >-
             很有趣，謝謝你。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             Thanks for the info.
         譯文 : >-
             感謝你提供的信息。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             Alright then.
         譯文 : >-

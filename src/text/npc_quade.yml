@@ -1,365 +1,313 @@
-npc_quade.txt : 
+npc_quade.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Quade
         譯文 : >-
             奎德
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             I've heard that Darius is dead. I'm glad we're on the same side in this conflict.
         譯文 : >-
             我聽說德萊厄斯已經死了，很高興在這場衝突中我們立場一致。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             You're always welcome at our camp.
         譯文 : >-
             我們的營地永遠歡迎你。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Welcome to our camp. Don't draw your weapons and we won't either. Our fight is with Cronley's gang.
         譯文 : >-
             歡迎來到我們的營地。你不動武我們自當以禮相待。我們共同的敵人是克隆利幫。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             How goes the hunt?
         譯文 : >-
             獵殺行動進行的如何？
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             "Moneybags" Martin is dead.
         譯文 : >-
             “守財奴”馬丁已經死了。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             You are ruthlessly effective. I hope he screamed for help, his wailing unanswered in those old mine tunnels. Thank you, you've put my mind at ease.
         譯文 : >-
             你辦事實在是即殘忍無情又高效啊。我希望他死前大聲呼救了，老舊的礦坑裡面沒人會搭理他的哭嚎的。謝謝你，你讓我安心多了。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You're welcome.
         譯文 : >-
             不用感謝。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             How goes the hunt?
         譯文 : >-
             獵殺行動進行的如何？
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Where should I be looking?
         譯文 : >-
             我應該去哪裡？
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             You should find "Moneybags" Martin in Cronley's Hideout underneath the Four Hills.
         譯文 : >-
             在四山深處的克隆利的藏身處，你會找到“守財奴”馬丁的。
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             I'll head there now.
         譯文 : >-
             我會去那兒的。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Still looking.
         譯文 : >-
             還在尋找目標。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Ready to cause some more mayhem?
         譯文 : >-
             準備好大鬧一番了麼？
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             What have you got for me?
         譯文 : >-
             你要我做什麼？
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Somewhere inside Cronley's Hideout underneath the Four Hills there lives a bastard by the name "Moneybags" Martin. He earned his moniker exploiting poor travelers, such as my old group.{^n}{^n}A few months ago, Martin and his band caught us out on the road, demanding all our valuables. I refused... and for that he took my eye.{^n}{^n}That was the day I left my Rover elders, no longer willing to let this unforgiving world spit all over our pacifist lifestyle. Together with my brothers and sisters, we fight against our enemy instead of hiding and praying.{^n}{^n}I can't just leave them to pursue my revenge though. That is why I'd like you to be the deliverer of my vengeance. Find Martin, leave his corpse to rot in those tunnels. Then return to me.
         譯文 : >-
             在四山深處的克隆利的藏身處住著一個叫“守財奴”馬丁的混蛋。他因為剝削不幸的旅行者而贏得了這個名字，我以前的隊伍就曾深受其害。{^n}{^n}幾個月前，馬丁和他的同夥在路上抓到了我們，叫我們把值錢的東西都交出來。我拒絕了他……他就把我的眼睛挖了出來。{^n}{^n}就在那一天我離開了流浪者長老們，我不能再讓這個無情的世界毀掉我們嚮往和平的日子。我和我的兄弟姐妹們一起反抗敵人，而不再是躲起來祈禱。{^n}{^n}但是我卻不能離開他們隻身去報仇，所以我想讓你幫我報這一箭之仇。找到馬丁，讓他的屍首爛在那些坑道里面。然後回到我這裡。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             I'll find "Moneybags" Martin.
         譯文 : >-
             我會找到“守財奴”馬丁的。
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Hm, no thanks.
         譯文 : >-
             嗯，我不幹這事。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             I've already slain "Moneybags" Martin.
         譯文 : >-
             我已經殺了“守財奴”馬丁。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             You are ruthlessly effective. I hope he screamed for help, his wailing unanswered in those old mine tunnels. Thank you, you've put my mind at ease.
         譯文 : >-
             你辦事實在是即殘忍無情又高效啊。我希望他死前大聲呼救了，老舊的礦坑裡面沒人會搭理他的哭嚎的。謝謝你，你讓我安心多了。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             You're welcome.
         譯文 : >-
             不用感謝。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Not interested.
         譯文 : >-
             我不感興趣。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             How goes your mission?
         譯文 : >-
             任務進行得如何？
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             I have destroyed the forges.
         譯文 : >-
             我摧毀了那些熔爐。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             I could hear the commotion you've caused from here. Well done, your payment as promised. Now... I'm wondering if you would be up for a little more work.
         譯文 : >-
             我從這裡就能聽到你引起的騷動。幹得好，約定好的錢會付給你的。現在，我想知道你還願不願意再幹點活？
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             What did you have in mind?
         譯文 : >-
             你想讓我做什麼？
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Not interested.
         譯文 : >-
             我不感興趣。
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             I'll return shortly.
         譯文 : >-
             我一會兒就回來。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             How goes your mission?
         譯文 : >-
             任務進行得如何？
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             Where are the forges again?
         譯文 : >-
             那些熔爐在哪？
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             Cronley's gang has several weapon forges around the Four Hills, just east of here. If you destroy enough of them, you will cripple their ability to rearm themselves.
         譯文 : >-
             克隆利幫在東邊的四山上有幾處武器熔爐。如果你能摧毀足夠多的熔爐，那麼你就能削弱他們武裝自己的能力。
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             I'm on it.
         譯文 : >-
             我會搞定的。
 #-------------------------------#
     36 :
-        標註 : 
         原文 : >-
             Still working on it.
         譯文 : >-
             還在進行任務。
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             You've returned. Got it in you to help us out?
         譯文 : >-
             你回來了，有沒有解決掉我們的麻煩？
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             What do you need?
         譯文 : >-
             你要我做什麼？
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             Cronley's gang is well armed and experienced. We... are not. This is not a battle we're going to win by running in there head on. We need to cripple them.{^n}{^n}This is where you come in. The outlaws have a series of forges, similar in making to the one behind me, scattered throughout the Four Hills. If you destroy them, Darius' men won't be able to rearm themselves. I understand that this may not be your problem, but I am willing to make it your problem for some Iron. What do you say?
         譯文 : >-
             克隆利幫的幫眾武器精良，又都是慣犯經驗老到。我們……可就不是如此了。正面對決我們是沒法贏得這場戰爭的。我們需要削弱他們的實力。{^n}{^n}這就輪到你發揮作用了，那些不法之徒有很多熔爐，就像我背後的這種熔爐，分散在四山之中。如果你能摧毀它們的話，德萊厄斯的人就沒法再重整軍備。我理解這可能不關你什麼事，但是我想付你些錢會讓你感興趣的。你說呢？
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             We have a deal.
         譯文 : >-
             成交。
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             You're right. It's not my problem.
         譯文 : >-
             你說得對，這跟我無關。
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             Welcome to our camp. What brings you here?
         譯文 : >-
             歡迎來到我們的營地。是什麼風把您吹到這兒來的？
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             Mornay sent me.
         譯文 : >-
             莫爾奈讓我來的。
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             Ah, so he did make it across the river. He was one tough son of a slith. Still has a bullet in him to prove it.{^n}{^n}If Mornay sent you, then he must think we can help each other out. Care to put those weapons of yours to use?
         譯文 : >-
             啊，他真的成功渡河回去了。那個男人可真是個蛇人養的硬漢。有顆子彈還留他身體裡面。{^n}{^n}如果是莫爾奈讓你來的，他一定認為我們之間可以彼此互助。你願意使用你手中的武器幫助我們嗎？
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             What do you need?
         譯文 : >-
             你需要我幹什麼？
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             Cronley's gang is well armed and experienced. We... are not. This is not a battle we're going to win by running in there head on. We need to cripple them.{^n}{^n}This is where you come in. The outlaws have a series of forges, similar in making to the one behind me, scattered throughout the Four Hills. If you destroy them, Darius' men won't be able to rearm themselves. I understand that this may not be your problem, but I am willing to make it your problem for some Iron. What do you say?
         譯文 : >-
             克隆利幫的幫眾武器精良，又都是慣犯經驗老到。我們……可就不是如此了。正面對決我們是沒法贏得這場戰爭的。我們需要削弱他們的實力。{^n}{^n}這就輪到你發揮作用了，那些不法之徒有很多熔爐，就像我背後的這種熔爐，分散在四山之中。如果你能摧毀它們的話，德萊厄斯的人就沒法再重整軍備。我理解這可能不關你什麼事，但是我想付你些錢會讓你感興趣的。你說呢？
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             We have a deal.
         譯文 : >-
             成交。
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             You're right. It's not my problem.
         譯文 : >-
             你說得對，這跟我無關。
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             Not interested.
         譯文 : >-
             我不感興趣。
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             Just passing through.
         譯文 : >-
             我只是路過。
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             Welcome to our camp. Don't draw your weapons and we won't either. Our fight is with Cronley's gang.
         譯文 : >-
             歡迎來到我們的營地。你不動武我們自當以禮相待。我們共同的敵人是克隆利幫。
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             Just passing through.
         譯文 : >-

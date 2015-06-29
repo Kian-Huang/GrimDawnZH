@@ -1,57 +1,49 @@
-npc_blacklegion_flavorguard_01.txt : 
+npc_blacklegion_flavorguard_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Footman
         譯文 : >-
             步兵
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             As you were.
         譯文 : >-
             我將堅守原地。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Stay on your guard. The enemies of humanity are all around us.
         譯文 : >-
             保持警惕，人類的敵人包圍著我們。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Can you open the gates?
         譯文 : >-
             你能把大門打開嗎？
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             I'm sorry. We are under strict orders to not open the gates until Ulgrim has reported in.
         譯文 : >-
             抱歉，我不能。上頭下了嚴令，在艾格瑞姆上報給隊長之前不能開門。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             我懂了。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             I'll be careful.
         譯文 : >-

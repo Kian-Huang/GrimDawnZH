@@ -1,22 +1,19 @@
-npc_infestedfield_farmer_field02.txt : 
+npc_infestedfield_farmer_field02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Henry Elmsworth
         譯文 : >-
             亨利·埃姆斯沃斯
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             It's going to take days to clear out the slime those Dermapterans left behind, but at least it seems most of the crop is still intact.
         譯文 : >-
             要花上好多天才能清楚乾淨那些革翅目留下的粘液。不過看起來至少大部分的莊稼沒有受損。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-

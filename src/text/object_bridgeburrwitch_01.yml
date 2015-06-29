@@ -1,78 +1,67 @@
-object_bridgeburrwitch_01.txt : 
+object_bridgeburrwitch_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Building Site
         譯文 : >-
             建築工地
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             With the debris cleared, the bridge can now be restored, enabling you to cross into East Marsh.{^n}{^n}It will take 10 Scrap and 8000 Iron Bits to repair.
         譯文 : >-
             在清除掉垃圾之後，這座橋現在可以被修復了。它將使你能夠前往東方沼澤。{^n}{^n}修復需要消耗10個廢鐵和8000鐵幣。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Not enough materials.
         譯文 : >-
             沒有足夠的材料。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Repair the Bridge to East Marsh.
         譯文 : >-
             修復這座通往東方沼澤的橋。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             This bridge once connected Burrwitch to East Marsh. Trash has accumulated at its support beams, making repairs impossible.{^n}{^n}The debris could be cleared with some heavy explosives. The old abandoned mines around Old Arkovia are likely the best place to find those.{^n}{^n}It will take 1 Dynamite to clear the bridge.
         譯文 : >-
             這座橋曾經連接著伯爾維治和東方沼澤。它的支撐樑上面堆積著垃圾，無法進行修理。{^n}{^n}可以使用一些強烈的爆炸物清理掉那些垃圾。古安克維亞的那些廢棄的舊礦洞似乎是尋找炸藥最好的地方。{^n}{^n}需要一捆炸藥才能清理這座橋。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Not enough materials.
         譯文 : >-
             沒有足夠的材料。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             Clear the repair site.
         譯文 : >-
             清理用於維修的工地。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Leave it.
         譯文 : >-
             離開。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             You have restored this bridge.
         譯文 : >-
             你修復了這座橋。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Ok.
         譯文 : >-

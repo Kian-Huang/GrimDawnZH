@@ -1,36 +1,31 @@
-npc_stephenskinner_02.txt : 
+npc_stephenskinner_02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Stephen Skinner
         譯文 : >-
             史蒂芬·斯金納
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             I would like to thank you for talking me out of committing the biggest mistake of my life. We were struggling to survive and I got desparate. My family deserves better. Thank you for showing me that hope still remains in this bleak world.{^n}{^n}I would like you to have this. It's a small token of our appreciation. I hope it serves you well.
         譯文 : >-
             我要感謝你阻止我犯下我這一生中做大的錯誤。我們掙扎求生然後我就陷入了絕望之中。我的家人不該遭受這種命運。謝謝你讓我看到這個慘淡世界上還有希望存在。{^n}{^n}我要送給你這個，作為我們微不足道的感謝。我希望它能幫得上你。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Thank you. Take care.
         譯文 : >-
             謝謝，保重。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Thank you for bringing my family here. We could not ask for more given the times. We will do out best to contribute.
         譯文 : >-
             謝謝把我的家人帶到這裡。這種時候我們還要要求什麼呢，我們會盡全力對這裡做出應有的貢獻的。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             Glad to hear it.
         譯文 : >-

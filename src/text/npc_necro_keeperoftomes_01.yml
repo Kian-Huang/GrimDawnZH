@@ -1,1149 +1,985 @@
-npc_necro_keeperoftomes_01.txt : 
+npc_necro_keeperoftomes_01.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             The Keeper of Tomes
         譯文 : >-
             The Keeper of Tomes
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             You have served the Order well, and your discovery has given us hope that our master may someday return to us.
         譯文 : >-
             You have served the Order well, and your discovery has given us hope that our master may someday return to us.
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             What is next for the Order?
         譯文 : >-
             What is next for the Order?
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             We shall take the battle to the Aetherials and the Chthonians, alongside our Black Legion allies, as promised.{^n}{^n}Beyond that...well that remains to be seen whether we succeed.
         譯文 : >-
             We shall take the battle to the Aetherials and the Chthonians, alongside our Black Legion allies, as promised.{^n}{^n}Beyond that...well that remains to be seen whether we succeed.
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             I'll see you on the battlefield.
         譯文 : >-
             I'll see you on the battlefield.
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             What about Uroboruuk?
         譯文 : >-
             What about Uroboruuk?
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             It has become clear after years of searching that our master does not wish to be found.{^n}{^n}If and when he chooses to return to us, we shall welcome him with great celebration and curiosity.
         譯文 : >-
             It has become clear after years of searching that our master does not wish to be found.{^n}{^n}If and when he chooses to return to us, we shall welcome him with great celebration and curiosity.
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             I wonder if he's alright.
         譯文 : >-
             I wonder if he's alright.
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             So be it.
         譯文 : >-
             So be it.
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             Farewell.
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             You have selected your allies poorly.{^n}{^n}So long as they battle alongside Kymon's Chosen, we have nothing to say to each other.
         譯文 : >-
             You have selected your allies poorly.{^n}{^n}So long as they battle alongside Kymon's Chosen, we have nothing to say to each other.
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             The Order welcomes you.
         譯文 : >-
             The Order welcomes you.
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             Goodbye.
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Was your journey successful?
         譯文 : >-
             Was your journey successful?
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             I found a part of Uroboruuk's journal.
         譯文 : >-
             I found a part of Uroboruuk's journal.
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             This is a shocking discovery. None have found even a hint of Uroboruuk before now.{^n}{^n}It appears that our master has involved himself in the events revolved around the Grim Dawn's origins. Being involved in world-changing events is not exactly new for him.
         譯文 : >-
             This is a shocking discovery. None have found even a hint of Uroboruuk before now.{^n}{^n}It appears that our master has involved himself in the events revolved around 恐怖黎明's origins. Being involved in world-changing events is not exactly new for him.
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             His guardian was contaminated by the Void.
         譯文 : >-
             His guardian was contaminated by the Void.
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             It appears that Ch'thon's minions do not look kindly upon our master's actions. Whatever he is doing, it has stirred the Chthonians into action.{^n}{^n}I have little doubt that he prevailed against his assailants though.
         譯文 : >-
             It appears that Ch'thon's minions do not look kindly upon our master's actions. Whatever he is doing, it has stirred the Chthonians into action.{^n}{^n}I have little doubt that he prevailed against his assailants though.
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Should we go after him?
         譯文 : >-
             Should we go after him?
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             That's rather confident of you.
         譯文 : >-
             That's rather confident of you.
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             We can only hope.
         譯文 : >-
             We can only hope.
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             How goes your search?
         譯文 : >-
             How goes your search?
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Where should be looking?
         譯文 : >-
             Where should be looking?
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             We have heard rumors of our master cropping up around the area east of Burrwitch known as East Marsh. It is a foul place filled with toxic waters and vicious wildlife, so beware.
         譯文 : >-
             We have heard rumors of our master cropping up around the area east of 伯爾維治 known as East Marsh. It is a foul place filled with toxic waters and vicious wildlife, so beware.
 #-------------------------------#
     28 :
-        標註 : 
         原文 : >-
             I'll be careful.
         譯文 : >-
             I'll be careful.
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             I'm still looking.
         譯文 : >-
             I'm still looking.
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             You have proven yourself to be a valuable ally, and the Order thanks you for your service.{^n}{^n}But now I must come before you with a task I can only entrust to our closest allies.
         譯文 : >-
             You have proven yourself to be a valuable ally, and the Order thanks you for your service.{^n}{^n}But now I must come before you with a task I can only entrust to our closest allies.
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             What is so important?
         譯文 : >-
             What is so important?
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             Our master, Uroboruuk. We have information that may lead us to him. I've already sent several of the Order to explore the area, but none have returned.{^n}{^n}And so I turn to you. You have proven to be both resourceful and deadly, attributes that should serve us well in tracking down our master. We have reason to believe that Uroboruuk was recently in an area known as East Marsh, not far from Burrwitch. It is a foul place filled with toxic waters and vicious wildlife. I fear that I may have sent our acolytes to their deaths.{^n}{^n}But you, you may succeed where they have failed. Will you investigate this lead for the Order?
         譯文 : >-
             Our master, Uroboruuk. We have information that may lead us to him. I've already sent several of the Order to explore the area, but none have returned.{^n}{^n}And so I turn to you. You have proven to be both resourceful and deadly, attributes that should serve us well in tracking down our master. We have reason to believe that Uroboruuk was recently in an area known as East Marsh, not far from 伯爾維治. It is a foul place filled with toxic waters and vicious wildlife. I fear that I may have sent our acolytes to their deaths.{^n}{^n}But you, you may succeed where they have failed. Will you investigate this lead for the Order?
 #-------------------------------#
     33 :
-        標註 : 
         原文 : >-
             I will search for Uroboruuk
         譯文 : >-
             I will search for Uroboruuk
 #-------------------------------#
     34 :
-        標註 : 
         原文 : >-
             Don't you have enough acolytes doing this already?
         譯文 : >-
             Don't you have enough acolytes doing this already?
 #-------------------------------#
     35 :
-        標註 : 
         原文 : >-
             I found a part of Uroboruuk's journal.
         譯文 : >-
             I found a part of Uroboruuk's journal.
 #-------------------------------#
     37 :
-        標註 : 
         原文 : >-
             Perhaps another time.
         譯文 : >-
             Perhaps another time.
 #-------------------------------#
     38 :
-        標註 : 
         原文 : >-
             You have served the Order well, but there are things I cannot entrust you with yet.{^n}{^n}Come back to me when you've proven your loyalty without a shadow of a doubt.
         譯文 : >-
             You have served the Order well, but there are things I cannot entrust you with yet.{^n}{^n}Come back to me when you've proven your loyalty without a shadow of a doubt.
 #-------------------------------#
     39 :
-        標註 : 
         原文 : >-
             What can I do to prove myself?
         譯文 : >-
             What can I do to prove myself?
 #-------------------------------#
     40 :
-        標註 : 
         原文 : >-
             Vanquish our foes, the Chosen of Kymon, or the Aetherials which mock our powers.{^n}{^n}You could check the Bounty Table in case any of our Order have tasks they require assistance in.
         譯文 : >-
             Vanquish our foes, the Chosen of Kymon, or the Aetherials which mock our powers.{^n}{^n}You could check the Bounty Table in case any of our Order have tasks they require assistance in.
 #-------------------------------#
     41 :
-        標註 : 
         原文 : >-
             Ok, I will.
         譯文 : >-
             Ok, I will.
 #-------------------------------#
     42 :
-        標註 : 
         原文 : >-
             What of Malkadarr?
         譯文 : >-
             What of Malkadarr?
 #-------------------------------#
     43 :
-        標註 : 
         原文 : >-
             Malkadarr shall continue his duties within the first circle, passing on his knowledge to his students.{^n}{^n}When it is demanded of him, he shall wage war against our enemies. It is his eternal charge to defend the Order and its knowledge.
         譯文 : >-
             Malkadarr shall continue his duties within the first circle, passing on his knowledge to his students.{^n}{^n}When it is demanded of him, he shall wage war against our enemies. It is his eternal charge to defend the Order and its knowledge.
 #-------------------------------#
     44 :
-        標註 : 
         原文 : >-
             Malkadarr has to serve you?
         譯文 : >-
             Malkadarr has to serve you?
 #-------------------------------#
     45 :
-        標註 : 
         原文 : >-
             His continued existence is tied to my will. For as long as I demand it, he shall serve his duties.
         譯文 : >-
             His continued existence is tied to my will. For as long as I demand it, he shall serve his duties.
 #-------------------------------#
     46 :
-        標註 : 
         原文 : >-
             That seems wrong.
         譯文 : >-
             That seems wrong.
 #-------------------------------#
     47 :
-        標註 : 
         原文 : >-
             Is it so wrong to sacrifice yourself wholly in the name of a greater cause? Malkadarr knew what was at stake when he joined the first circle and learned its secrets.{^n}{^n}His knowledge must be preserved, for the good of the Order.
         譯文 : >-
             Is it so wrong to sacrifice yourself wholly in the name of a greater cause? Malkadarr knew what was at stake when he joined the first circle and learned its secrets.{^n}{^n}His knowledge must be preserved, for the good of the Order.
 #-------------------------------#
     48 :
-        標註 : 
         原文 : >-
             Seems like a horrible fate.
         譯文 : >-
             Seems like a horrible fate.
 #-------------------------------#
     49 :
-        標註 : 
         原文 : >-
             I suppose that makes sense.
         譯文 : >-
             I suppose that makes sense.
 #-------------------------------#
     50 :
-        標註 : 
         原文 : >-
             I suppose that makes sense.
         譯文 : >-
             I suppose that makes sense.
 #-------------------------------#
     51 :
-        標註 : 
         原文 : >-
             Alright.
         譯文 : >-
             Alright.
 #-------------------------------#
     52 :
-        標註 : 
         原文 : >-
             Malkadarr once again walks among us.{^n}{^n}You have done well.
         譯文 : >-
             Malkadarr once again walks among us.{^n}{^n}You have done well.
 #-------------------------------#
     53 :
-        標註 : 
         原文 : >-
             The ritual is complete, the spirits are banished.
         譯文 : >-
             The ritual is complete, the spirits are banished.
 #-------------------------------#
     54 :
-        標註 : 
         原文 : >-
             Indeed, the Rite of Resurrection was a success and our brave Malkadarr is once again able to serve me and the Order.
         譯文 : >-
             Indeed, the Rite of Resurrection was a success and our brave Malkadarr is once again able to serve me and the Order.
 #-------------------------------#
     55 :
-        標註 : 
         原文 : >-
             Malkadarr has to serve you?
         譯文 : >-
             Malkadarr has to serve you?
 #-------------------------------#
     56 :
-        標註 : 
         原文 : >-
             His continued existence is tied to my will. For as long as I demand it, he shall serve his duties.
         譯文 : >-
             His continued existence is tied to my will. For as long as I demand it, he shall serve his duties.
 #-------------------------------#
     57 :
-        標註 : 
         原文 : >-
             That seems wrong.
         譯文 : >-
             That seems wrong.
 #-------------------------------#
     58 :
-        標註 : 
         原文 : >-
             Is it so wrong to sacrifice yourself wholly in the name of a greater cause? Malkadarr knew what was at stake when he joined the first circle and learned its secrets.{^n}{^n}His knowledge must be preserved, for the good of the Order.
         譯文 : >-
             Is it so wrong to sacrifice yourself wholly in the name of a greater cause? Malkadarr knew what was at stake when he joined the first circle and learned its secrets.{^n}{^n}His knowledge must be preserved, for the good of the Order.
 #-------------------------------#
     60 :
-        標註 : 
         原文 : >-
             Seems like a horrible fate.
         譯文 : >-
             Seems like a horrible fate.
 #-------------------------------#
     61 :
-        標註 : 
         原文 : >-
             I suppose that makes sense.
         譯文 : >-
             I suppose that makes sense.
 #-------------------------------#
     63 :
-        標註 : 
         原文 : >-
             Do you require anything else?
         譯文 : >-
             Do you require anything else?
 #-------------------------------#
     66 :
-        標註 : 
         原文 : >-
             May he serve you well.
         譯文 : >-
             May he serve you well.
 #-------------------------------#
     67 :
-        標註 : 
         原文 : >-
             Please head over to the Chamber of Souls.{^n}{^n}Your assistance is required.
         譯文 : >-
             Please head over to the Chamber of Souls.{^n}{^n}Your assistance is required.
 #-------------------------------#
     68 :
-        標註 : 
         原文 : >-
             Where should I go?
         譯文 : >-
             Where should I go?
 #-------------------------------#
     69 :
-        標註 : 
         原文 : >-
             The Chamber of Souls is right here in our sanctum. Join the ritual and secure Malkadarr's soul from beyond!
         譯文 : >-
             The Chamber of Souls is right here in our sanctum. Join the ritual and secure Malkadarr's soul from beyond!
 #-------------------------------#
     70 :
-        標註 : 
         原文 : >-
             I will go there now.
         譯文 : >-
             I will go there now.
 #-------------------------------#
     71 :
-        標註 : 
         原文 : >-
             I will.
         譯文 : >-
             I will.
 #-------------------------------#
     72 :
-        標註 : 
         原文 : >-
             We now have everything we need to perform the Rite of Resurrection. Your loyalty and assistance have earned you the right to see Malkadarr return to this world.{^n}{^n}Do you wish to join us?
         譯文 : >-
             We now have everything we need to perform the Rite of Resurrection. Your loyalty and assistance have earned you the right to see Malkadarr return to this world.{^n}{^n}Do you wish to join us?
 #-------------------------------#
     73 :
-        標註 : 
         原文 : >-
             What does this ritual entail?
         譯文 : >-
             What does this ritual entail?
 #-------------------------------#
     74 :
-        標註 : 
         原文 : >-
             The ritual will be dangerous, of that I can assure you. Malignant spirits will be drawn to it like moths to the flame. I need you to dispatch anything that tries to interfere.{^n}{^n}Join us at the Chamber of Souls, its doors have been unlocked to you. Keep the chamber clear of spirits so that Malkadarr can find his way back to us.
         譯文 : >-
             The ritual will be dangerous, of that I can assure you. Malignant spirits will be drawn to it like moths to the flame. I need you to dispatch anything that tries to interfere.{^n}{^n}Join us at the Chamber of Souls, its doors have been unlocked to you. Keep the chamber clear of spirits so that Malkadarr can find his way back to us.
 #-------------------------------#
     75 :
-        標註 : 
         原文 : >-
             I will assist you in the ritual.
         譯文 : >-
             I will assist you in the ritual.
 #-------------------------------#
     76 :
-        標註 : 
         原文 : >-
             I will have no part in this.
         譯文 : >-
             I will have no part in this.
 #-------------------------------#
     77 :
-        標註 : 
         原文 : >-
             What happens if I fail?
         譯文 : >-
             What happens if I fail?
 #-------------------------------#
     78 :
-        標註 : 
         原文 : >-
             Then we risk allowing another to enter Malkadarr's vessel.{^n}{^n}Should that happen, we will be forced to destroy it, and Malkadarr will be forever lost to us.{^n}{^n}Do not fail us.
         譯文 : >-
             Then we risk allowing another to enter Malkadarr's vessel.{^n}{^n}Should that happen, we will be forced to destroy it, and Malkadarr will be forever lost to us.{^n}{^n}Do not fail us.
 #-------------------------------#
     79 :
-        標註 : 
         原文 : >-
             I will assist you in the ritual.
         譯文 : >-
             I will assist you in the ritual.
 #-------------------------------#
     80 :
-        標註 : 
         原文 : >-
             I will have no part in this.
         譯文 : >-
             I will have no part in this.
 #-------------------------------#
     81 :
-        標註 : 
         原文 : >-
             I'm afraid not.
         譯文 : >-
             I'm afraid not.
 #-------------------------------#
     82 :
-        標註 : 
         原文 : >-
             You have served the Order well in preparing for Malkadarr's return, but the final step must be left to the Order's most trusted members.{^n}{^n}Come back to me when you've proven your loyalty.
         譯文 : >-
             You have served the Order well in preparing for Malkadarr's return, but the final step must be left to the Order's most trusted members.{^n}{^n}Come back to me when you've proven your loyalty.
 #-------------------------------#
     84 :
-        標註 : 
         原文 : >-
             Very well.
         譯文 : >-
             Very well.
 #-------------------------------#
     85 :
-        標註 : 
         原文 : >-
             Have you vanquished our foes and claimed the ashes?
         譯文 : >-
             Have you vanquished our foes and claimed the ashes?
 #-------------------------------#
     86 :
-        標註 : 
         原文 : >-
             Yes, I have them here.
         譯文 : >-
             Yes, I have them here.
 #-------------------------------#
     87 :
-        標註 : 
         原文 : >-
             Excellent! With these ashes, Malkadarr shall once again take form in the physical realm.{^n}{^n}I hope many Chosen died tried to stop you from claiming them.
         譯文 : >-
             Excellent! With these ashes, Malkadarr shall once again take form in the physical realm.{^n}{^n}I hope many Chosen died tried to stop you from claiming them.
 #-------------------------------#
     88 :
-        標註 : 
         原文 : >-
             Can we perform the ritual now?
         譯文 : >-
             Can we perform the ritual now?
 #-------------------------------#
     91 :
-        標註 : 
         原文 : >-
             They were of no consequence.
         譯文 : >-
             They were of no consequence.
 #-------------------------------#
     92 :
-        標註 : 
         原文 : >-
             They fought fanatically to defend them.
         譯文 : >-
             They fought fanatically to defend them.
 #-------------------------------#
     93 :
-        標註 : 
         原文 : >-
             Have you vanquished our foes and claimed the ashes?
         譯文 : >-
             Have you vanquished our foes and claimed the ashes?
 #-------------------------------#
     94 :
-        標註 : 
         原文 : >-
             Where are the ashes again?
         譯文 : >-
             Where are the ashes again?
 #-------------------------------#
     95 :
-        標註 : 
         原文 : >-
             Underneath Fort Ikon to the north, there is a crypt dedicated to an ancient faith. Therein lies the Tomb of Archon Barthollem, a once powerful priest. The Archon was cremated upon death, his ashes stored within a sacred urn. In order to bring back Malkadarr, we must gather these ashes.
         譯文 : >-
             Underneath Fort Ikon to the north, there is a crypt dedicated to an ancient faith. Therein lies the Tomb of Archon Barthollem, a once powerful priest. The Archon was cremated upon death, his ashes stored within a sacred urn. In order to bring back Malkadarr, we must gather these ashes.
 #-------------------------------#
     96 :
-        標註 : 
         原文 : >-
             I will gather them now.
         譯文 : >-
             I will gather them now.
 #-------------------------------#
     97 :
-        標註 : 
         原文 : >-
             Not yet.
         譯文 : >-
             Not yet.
 #-------------------------------#
     98 :
-        標註 : 
         原文 : >-
             Master Varuuk speaks highly of your contributions. The Order values the Legion's assistance, and yours.{^n}{^n}But by now I am sure you are eager to see the culmination of your efforts. However, one last thing remains before we can return Malkadarr to us.
         譯文 : >-
             Master Varuuk speaks highly of your contributions. The Order values the Legion's assistance, and yours.{^n}{^n}But by now I am sure you are eager to see the culmination of your efforts. However, one last thing remains before we can return Malkadarr to us.
 #-------------------------------#
     99 :
-        標註 : 
         原文 : >-
             What is it?
         譯文 : >-
             What is it?
 #-------------------------------#
     100 :
-        標註 : 
         原文 : >-
             Underneath Fort Ikon to the north, there is a crypt dedicated to an ancient faith. Therein lies the Tomb of Archon Barthollem, a once powerful priest. The Archon was cremated upon death, his ashes stored within a sacred urn. In order to bring back Malkadarr, we must gather these ashes. They will serve as the core of his revenant body.{^n}{^n}Unfortunately, Kymon's Chosen have already moved in on the crypt, declaring its contents sacred to their misguided faith. We will have to take the ashes from them by force.{^n}{^n}The Order is already advancing on the crypt as we speak. I need you to spearhead the attack. Wipe them out and claim the ashes for the Order!
         譯文 : >-
             Underneath Fort Ikon to the north, there is a crypt dedicated to an ancient faith. Therein lies the Tomb of Archon Barthollem, a once powerful priest. The Archon was cremated upon death, his ashes stored within a sacred urn. In order to bring back Malkadarr, we must gather these ashes. They will serve as the core of his revenant body.{^n}{^n}Unfortunately, Kymon's Chosen have already moved in on the crypt, declaring its contents sacred to their misguided faith. We will have to take the ashes from them by force.{^n}{^n}The Order is already advancing on the crypt as we speak. I need you to spearhead the attack. Wipe them out and claim the ashes for the Order!
 #-------------------------------#
     101 :
-        標註 : 
         原文 : >-
             I will gather the ashes.
         譯文 : >-
             I will gather the ashes.
 #-------------------------------#
     102 :
-        標註 : 
         原文 : >-
             I will not take part in this slaughter.
         譯文 : >-
             I will not take part in this slaughter.
 #-------------------------------#
     103 :
-        標註 : 
         原文 : >-
             I have the ashes, the Chosen died defending them.
         譯文 : >-
             I have the ashes, the Chosen died defending them.
 #-------------------------------#
     105 :
-        標註 : 
         原文 : >-
             I have some questions.
         譯文 : >-
             I have some questions.
 #-------------------------------#
     106 :
-        標註 : 
         原文 : >-
             If I know the answer, you shall have it.
         譯文 : >-
             If I know the answer, you shall have it.
 #-------------------------------#
     107 :
-        標註 : 
         原文 : >-
             What can you tell me about the Order's history?
         譯文 : >-
             What can you tell me about the Order's history?
 #-------------------------------#
     108 :
-        標註 : 
         原文 : >-
             The Order was founded 313 years ago by our immortal master, Uroboruuk, in order to preserve knowledge and pursue the study of necromancy. Before the Order, necromancy was nearly lost to the world, an art persecuted to near extinction.{^n}{^n}You may have heard of the curse of Arkovia. That was our master's retribution for the systematic elimination of necromancers. Following the Arkovian tragedy, Uroboruuk wandered the world in seclusion for many centuries.{^n}{^n}He resurfaced a little over three centuries ago, swearing to restore the art of necromancy and to engrain the pursuit of knowledge and life's mysteries into a new generation.{^n}{^n}Today, the Order is comprised primarily of arcanists and occultists disillusioned and persecuted by Erulan society, though we do welcome those who do not have the arcane gift. Uroboruuk's teachings encourage tolerance and understanding after all.
         譯文 : >-
             The Order was founded 313 years ago by our immortal master, Uroboruuk, in order to preserve knowledge and pursue the study of necromancy. Before the Order, necromancy was nearly lost to the world, an art persecuted to near extinction.{^n}{^n}You may have heard of the curse of Arkovia. That was our master's retribution for the systematic elimination of necromancers. Following the Arkovian tragedy, Uroboruuk wandered the world in seclusion for many centuries.{^n}{^n}He resurfaced a little over three centuries ago, swearing to restore the art of necromancy and to engrain the pursuit of knowledge and life's mysteries into a new generation.{^n}{^n}Today, the Order is comprised primarily of arcanists and occultists disillusioned and persecuted by Erulan society, though we do welcome those who do not have the arcane gift. Uroboruuk's teachings encourage tolerance and understanding after all.
 #-------------------------------#
     109 :
-        標註 : 
         原文 : >-
             Who was Uroboruuk?
         譯文 : >-
             Who was Uroboruuk?
 #-------------------------------#
     110 :
-        標註 : 
         原文 : >-
             Tales of Uroboruuk have existed for centuries. None know for sure in what distant time and place he was born, or if Uroboruuk is even his original name. What we do know is that Uroboruuk was central to the tales of Arkovia's downfall, many centuries ago.{^n}{^n}Under decree of the Arkovian Oligarchs, all suspected practitioners of the necromantic art were to be taken to the Steps of Torment, a vile prison where doomed men were left to rot in the darkness of the depths of the earth. Uroboruuk, who then had a powerful following in Arkovia, was betrayed and handed over to the Arkovian torturers. However, he was not like any man they had ever met. It seemed Uroboruuk could not die. His skin would not burn and his wounds would not bleed.{^n}{^n}Unsurprisingly, this drew the attention of the oligarchs, who craved such power for themselves. Under their command, Uroboruuk was subjected to the most brutal and imaginative forms of torture ever conceived. His immortality had worked against him.{^n}{^n}Ultimately, our master agreed to their demands and offered to perform the ritual which would make the oligarchs immortal. The oligarchs had assumed his will broken and greedily accepted. Indeed, Uroboruuk granted the people of Arkovia the immortality they so craved, but it came in the form of a devious curse.{^n}{^n}They still suffered from the ravages of time, but the merciful release of death would not come. They became trapped within their physical forms, even as their bodies disintegrated and turned to dust. The remnants of the once great Arkovian Empire still roam the world as mindless ghouls and tortured spirits.{^n}{^n}Centuries later, Uroboruuk would create the Order of Death's Vigil, so that our knowledge would never again be threatened by the ignorant. He taught several generations of our people before mysteriously leaving us in the middle of the night, a few years before the Grim Dawn struck.
         譯文 : >-
             Tales of Uroboruuk have existed for centuries. None know for sure in what distant time and place he was born, or if Uroboruuk is even his original name. What we do know is that Uroboruuk was central to the tales of Arkovia's downfall, many centuries ago.{^n}{^n}Under decree of the Arkovian Oligarchs, all suspected practitioners of the necromantic art were to be taken to 苦痛階梯, a vile prison where doomed men were left to rot in the darkness of the depths of the earth. Uroboruuk, who then had a powerful following in Arkovia, was betrayed and handed over to the Arkovian torturers. However, he was not like any man they had ever met. It seemed Uroboruuk could not die. His skin would not burn and his wounds would not bleed.{^n}{^n}Unsurprisingly, this drew the attention of the oligarchs, who craved such power for themselves. Under their command, Uroboruuk was subjected to the most brutal and imaginative forms of torture ever conceived. His immortality had worked against him.{^n}{^n}Ultimately, our master agreed to their demands and offered to perform the ritual which would make the oligarchs immortal. The oligarchs had assumed his will broken and greedily accepted. Indeed, Uroboruuk granted the people of Arkovia the immortality they so craved, but it came in the form of a devious curse.{^n}{^n}They still suffered from the ravages of time, but the merciful release of death would not come. They became trapped within their physical forms, even as their bodies disintegrated and turned to dust. The remnants of the once great Arkovian Empire still roam the world as mindless ghouls and tortured spirits.{^n}{^n}Centuries later, Uroboruuk would create the Order of Death's Vigil, so that our knowledge would never again be threatened by the ignorant. He taught several generations of our people before mysteriously leaving us in the middle of the night, a few years before 恐怖黎明 struck.
 #-------------------------------#
     111 :
-        標註 : 
         原文 : >-
             Your master left you?
         譯文 : >-
             Your master left you?
 #-------------------------------#
     112 :
-        標註 : 
         原文 : >-
             Yes, we do not know why or where. Perhaps he had ascended, his time on Cairn concluded. I believe that he is still out there though, traveling the world in search of enlightenment.
         譯文 : >-
             Yes, we do not know why or where. Perhaps he had ascended, his time on Cairn concluded. I believe that he is still out there though, traveling the world in search of enlightenment.
 #-------------------------------#
     113 :
-        標註 : 
         原文 : >-
             Has anyone gone out after him?
         譯文 : >-
             Has anyone gone out after him?
 #-------------------------------#
     114 :
-        標註 : 
         原文 : >-
             Yes, of course. Many had left to search for our master, but none have returned with even a hint of his presence.{^n}{^n}It has become tradition for young acolytes to set out into the world in search of Uroboruuk for a year. They return wizened by their travels, but no closer to uncovering the truth of our master's disappearance.
         譯文 : >-
             Yes, of course. Many had left to search for our master, but none have returned with even a hint of his presence.{^n}{^n}It has become tradition for young acolytes to set out into the world in search of Uroboruuk for a year. They return wizened by their travels, but no closer to uncovering the truth of our master's disappearance.
 #-------------------------------#
     115 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     116 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     117 :
-        標註 : 
         原文 : >-
             Perhaps we will find him someday.
         譯文 : >-
             Perhaps we will find him someday.
 #-------------------------------#
     118 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     119 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     120 :
-        標註 : 
         原文 : >-
             It is a mystery then.
         譯文 : >-
             It is a mystery then.
 #-------------------------------#
     121 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     122 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     123 :
-        標註 : 
         原文 : >-
             He was a fascinating man.
         譯文 : >-
             He was a fascinating man.
 #-------------------------------#
     124 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     125 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     126 :
-        標註 : 
         原文 : >-
             What a curious tale.
         譯文 : >-
             What a curious tale.
 #-------------------------------#
     127 :
-        標註 : 
         原文 : >-
             What is your role as Keeper?
         譯文 : >-
             What is your role as Keeper?
 #-------------------------------#
     128 :
-        標註 : 
         原文 : >-
             I maintain our records and library, ensuring that none of our knowledge is lost.{^n}{^n}In the absence of our master, I also serve as the Order's leader and First of the inner circle.
         譯文 : >-
             I maintain our records and library, ensuring that none of our knowledge is lost.{^n}{^n}In the absence of our master, I also serve as the Order's leader and First of the inner circle.
 #-------------------------------#
     130 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     131 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     132 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             Thank you.
 #-------------------------------#
     133 :
-        標註 : 
         原文 : >-
             What are the Order's goals?
         譯文 : >-
             What are the Order's goals?
 #-------------------------------#
     134 :
-        標註 : 
         原文 : >-
             To master death and embrace all that it teaches us. To preserve knowledge, no matter how dangerous, and to maintain a balance in the world.{^n}{^n}That is what Uroboruuk taught us.
         譯文 : >-
             To master death and embrace all that it teaches us. To preserve knowledge, no matter how dangerous, and to maintain a balance in the world.{^n}{^n}That is what Uroboruuk taught us.
 #-------------------------------#
     135 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     137 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     138 :
-        標註 : 
         原文 : >-
             Thank you.
         譯文 : >-
             Thank you.
 #-------------------------------#
     139 :
-        標註 : 
         原文 : >-
             What can you tell me about Kymon's Chosen?
         譯文 : >-
             What can you tell me about Kymon's Chosen?
 #-------------------------------#
     140 :
-        標註 : 
         原文 : >-
             They are zealous followers of a false prophet and a nonexistent god known as Empyrion. Anyone that stands against them is a heretic and marked for extermination under the guise of preparing Cairn for their New Dawn.{^n}{^n}The Chosen are everything we despise in this world, intolerant, zealous and afraid of the truth. We relish the opportunity to wipe them out before they can cause more harm
         譯文 : >-
             They are zealous followers of a false prophet and a nonexistent god known as Empyrion. Anyone that stands against them is a heretic and marked for extermination under the guise of preparing Cairn for their New Dawn.{^n}{^n}The Chosen are everything we despise in this world, intolerant, zealous and afraid of the truth. We relish the opportunity to wipe them out before they can cause more harm
 #-------------------------------#
     141 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     142 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     143 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             I see.
 #-------------------------------#
     144 :
-        標註 : 
         原文 : >-
             What did you need me to do?
         譯文 : >-
             What did you need me to do?
 #-------------------------------#
     145 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             Nevermind.
 #-------------------------------#
     146 :
-        標註 : 
         原文 : >-
             We will have to talk later.
         譯文 : >-
             We will have to talk later.
 #-------------------------------#
     147 :
-        標註 : 
         原文 : >-
             Another one joins our ranks. It is always a pleasure to welcome another open-minded individual.{^n}{^n}Make yourself at home.
         譯文 : >-
             Another one joins our ranks. It is always a pleasure to welcome another open-minded individual.{^n}{^n}Make yourself at home.
 #-------------------------------#
     148 :
-        標註 : 
         原文 : >-
             I have some questions.
         譯文 : >-
             I have some questions.
 #-------------------------------#
     149 :
-        標註 : 
         原文 : >-
             If I know the answer, you shall have it.
         譯文 : >-
             If I know the answer, you shall have it.
 #-------------------------------#
     150 :
-        標註 : 
         原文 : >-
             What can you tell me about the Order's history?
         譯文 : >-
             What can you tell me about the Order's history?
 #-------------------------------#
     151 :
-        標註 : 
         原文 : >-
             The Order was founded 313 years ago by our immortal master, Uroboruuk, in order to preserve knowledge and pursue the study of necromancy. Before the Order, necromancy was nearly lost to the world, an art persecuted to near extinction.{^n}{^n}You may have heard of the curse of Arkovia. That was our master's retribution for the systematic elimination of necromancers. Following the Arkovian tragedy, Uroboruuk wandered the world in seclusion for many centuries.He resurfaced a little over three centuries ago, swearing to restore the art of necromancy and to engrain the pursuit of knowledge and life's mysteries into a new generation.{^n}{^n}Today, the Order is comprised primarily of arcanists and occultists disillusioned and persecuted by Erulan society, though we do welcome those who do not have the arcane gift. Uroboruuk's teachings encourage tolerance and understanding after all.
         譯文 : >-
             The Order was founded 313 years ago by our immortal master, Uroboruuk, in order to preserve knowledge and pursue the study of necromancy. Before the Order, necromancy was nearly lost to the world, an art persecuted to near extinction.{^n}{^n}You may have heard of the curse of Arkovia. That was our master's retribution for the systematic elimination of necromancers. Following the Arkovian tragedy, Uroboruuk wandered the world in seclusion for many centuries.He resurfaced a little over three centuries ago, swearing to restore the art of necromancy and to engrain the pursuit of knowledge and life's mysteries into a new generation.{^n}{^n}Today, the Order is comprised primarily of arcanists and occultists disillusioned and persecuted by Erulan society, though we do welcome those who do not have the arcane gift. Uroboruuk's teachings encourage tolerance and understanding after all.
 #-------------------------------#
     152 :
-        標註 : 
         原文 : >-
             Who was Uroboruuk?
         譯文 : >-
             Who was Uroboruuk?
 #-------------------------------#
     153 :
-        標註 : 
         原文 : >-
             Tales of Uroboruuk have existed for centuries. None know for sure in what distant time and place he was born, or if Uroboruuk is even his original name. What we do know is that Uroboruuk was central to the tales of Arkovia's downfall, many centuries ago.{^n}{^n}Under decree of the Arkovian Oligarchs, all suspected practitioners of the necromantic art were to be taken to the Steps of Torment, a vile prison where doomed men were left to rot in the darkness of the depths of the earth. Uroboruuk, who then had a powerful following in Arkovia, was betrayed and handed over to the Arkovian torturers. However, he was not like any man they had ever met. It seemed Uroboruuk could not die. His skin would not burn and his wounds would not bleed.{^n}{^n}Unsurprisingly, this drew the attention of the oligarchs, who craved such power for themselves. Under their command, Uroboruuk was subjected to the most brutal and imaginative forms of torture ever conceived. His immortality had worked against him.{^n}{^n}Ultimately, our master agreed to their demands and offered to perform the ritual which would make the oligarchs immortal. The oligarchs had assumed his will broken and greedily accepted. Indeed, Uroboruuk granted the people of Arkovia the immortality they so craved, but it came in the form of a devious curse.{^n}{^n}They still suffered from the ravages of time, but the merciful release of death would not come. They became trapped within their physical forms, even as their bodies disintegrated and turned to dust. The remnants of the once great Arkovian Empire still roam the world as mindless ghouls and tortured spirits.{^n}{^n}Centuries later, Uroboruuk would create the Order of Death's Vigil, so that our knowledge would never again be threatened by the ignorant. He taught several generations of our people before mysteriously leaving us in the middle of the night, a few years before the Grim Dawn struck.
         譯文 : >-
             Tales of Uroboruuk have existed for centuries. None know for sure in what distant time and place he was born, or if Uroboruuk is even his original name. What we do know is that Uroboruuk was central to the tales of Arkovia's downfall, many centuries ago.{^n}{^n}Under decree of the Arkovian Oligarchs, all suspected practitioners of the necromantic art were to be taken to 苦痛階梯, a vile prison where doomed men were left to rot in the darkness of the depths of the earth. Uroboruuk, who then had a powerful following in Arkovia, was betrayed and handed over to the Arkovian torturers. However, he was not like any man they had ever met. It seemed Uroboruuk could not die. His skin would not burn and his wounds would not bleed.{^n}{^n}Unsurprisingly, this drew the attention of the oligarchs, who craved such power for themselves. Under their command, Uroboruuk was subjected to the most brutal and imaginative forms of torture ever conceived. His immortality had worked against him.{^n}{^n}Ultimately, our master agreed to their demands and offered to perform the ritual which would make the oligarchs immortal. The oligarchs had assumed his will broken and greedily accepted. Indeed, Uroboruuk granted the people of Arkovia the immortality they so craved, but it came in the form of a devious curse.{^n}{^n}They still suffered from the ravages of time, but the merciful release of death would not come. They became trapped within their physical forms, even as their bodies disintegrated and turned to dust. The remnants of the once great Arkovian Empire still roam the world as mindless ghouls and tortured spirits.{^n}{^n}Centuries later, Uroboruuk would create the Order of Death's Vigil, so that our knowledge would never again be threatened by the ignorant. He taught several generations of our people before mysteriously leaving us in the middle of the night, a few years before 恐怖黎明 struck.
 #-------------------------------#
     154 :
-        標註 : 
         原文 : >-
             Your master left you?
         譯文 : >-
             Your master left you?
 #-------------------------------#
     155 :
-        標註 : 
         原文 : >-
             Yes, we do not know why or where. Perhaps he had ascended, his time on Cairn concluded. I believe that he is still out there though, traveling the world in search of enlightenment.
         譯文 : >-
             Yes, we do not know why or where. Perhaps he had ascended, his time on Cairn concluded. I believe that he is still out there though, traveling the world in search of enlightenment.
 #-------------------------------#
     156 :
-        標註 : 
         原文 : >-
             Has anyone gone out after him?
         譯文 : >-
             Has anyone gone out after him?
 #-------------------------------#
     157 :
-        標註 : 
         原文 : >-
             Yes, of course. Many had left to search for our master, but none have returned with even a hint of his presence.{^n}{^n}It has become tradition for young acolytes to set out into the world in search of Uroboruuk for a year. They return wizened by their travels, but no closer to uncovering the truth of our master's disappearance.
         譯文 : >-
             Yes, of course. Many had left to search for our master, but none have returned with even a hint of his presence.{^n}{^n}It has become tradition for young acolytes to set out into the world in search of Uroboruuk for a year. They return wizened by their travels, but no closer to uncovering the truth of our master's disappearance.
 #-------------------------------#
     158 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     159 :
-        標註 : 
         原文 : >-
             Perhaps we will find him someday.
         譯文 : >-
             Perhaps we will find him someday.
 #-------------------------------#
     160 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     161 :
-        標註 : 
         原文 : >-
             It is a mystery then.
         譯文 : >-
             It is a mystery then.
 #-------------------------------#
     162 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     163 :
-        標註 : 
         原文 : >-
             He was a fascinating man.
         譯文 : >-
             He was a fascinating man.
 #-------------------------------#
     164 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     165 :
-        標註 : 
         原文 : >-
             What a curious tale.
         譯文 : >-
             What a curious tale.
 #-------------------------------#
     166 :
-        標註 : 
         原文 : >-
             What is your role as Keeper?
         譯文 : >-
             What is your role as Keeper?
 #-------------------------------#
     167 :
-        標註 : 
         原文 : >-
             I maintain our records and library, ensuring that none of our knowledge is lost.{^n}{^n}In the absence of our master, I also serve as the Order's leader and First of the inner circle.
         譯文 : >-
             I maintain our records and library, ensuring that none of our knowledge is lost.{^n}{^n}In the absence of our master, I also serve as the Order's leader and First of the inner circle.
 #-------------------------------#
     169 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     171 :
-        標註 : 
         原文 : >-
             What are the Order's goals?
         譯文 : >-
             What are the Order's goals?
 #-------------------------------#
     172 :
-        標註 : 
         原文 : >-
             To master death and embrace all that it teaches us. To preserve knowledge, no matter how dangerous, and to maintain a balance in the world.{^n}{^n}That is what Uroboruuk taught us.
         譯文 : >-
             To master death and embrace all that it teaches us. To preserve knowledge, no matter how dangerous, and to maintain a balance in the world.{^n}{^n}That is what Uroboruuk taught us.
 #-------------------------------#
     174 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     176 :
-        標註 : 
         原文 : >-
             What can you tell me about Kymon's Chosen?
         譯文 : >-
             What can you tell me about Kymon's Chosen?
 #-------------------------------#
     177 :
-        標註 : 
         原文 : >-
             They are zealous followers of a false prophet and a nonexistent god. Anyone that stands against them is a heretic and marked for extermination under the guise of preparing Cairn for their New Dawn.{^n}{^n}The Chosen are everything we despise in this world, intolerant, zealous and afraid of the truth. We relish the opportunity to wipe them out before they can cause more harm.
         譯文 : >-
             They are zealous followers of a false prophet and a nonexistent god. Anyone that stands against them is a heretic and marked for extermination under the guise of preparing Cairn for their New Dawn.{^n}{^n}The Chosen are everything we despise in this world, intolerant, zealous and afraid of the truth. We relish the opportunity to wipe them out before they can cause more harm.
 #-------------------------------#
     178 :
-        標註 : 
         原文 : >-
             I have another question.
         譯文 : >-
             I have another question.
 #-------------------------------#
     179 :
-        標註 : 
         原文 : >-
             I see.
         譯文 : >-
             I see.
 #-------------------------------#
     180 :
-        標註 : 
         原文 : >-
             Nevermind.
         譯文 : >-
             Nevermind.
 #-------------------------------#
     181 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-

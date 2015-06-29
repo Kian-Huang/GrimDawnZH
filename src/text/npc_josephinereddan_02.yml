@@ -1,225 +1,193 @@
-npc_josephinereddan_02.txt : 
+npc_josephinereddan_02.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             Josephine Reddan
         譯文 : >-
             約瑟芬·瑞丹
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             If you're looking for wares, speak to my father.
         譯文 : >-
             如果你是來看貨物，找我父親去吧。
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-
             再見。
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             Maybe I was wrong about you.
         譯文 : >-
             或許是我錯怪了你。
 #-------------------------------#
     4 :
-        標註 : 
         原文 : >-
             I try to do what's best.
         譯文 : >-
             我已盡力做到最好。
 #-------------------------------#
     5 :
-        標註 : 
         原文 : >-
             Hello, my father's told me about you. It's not every day you meet someone friendly and understanding out there in the wilds.
         譯文 : >-
             你好，我的父親告訴了我關於你的事。在野外可不是每天都能遇到友善和能互相理解的人啊。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Your father seems like a good man.
         譯文 : >-
             你的父親看起來是位好人。
 #-------------------------------#
     7 :
-        標註 : 
         原文 : >-
             He's always looking out for me, especially now that mom's passed on.
         譯文 : >-
             他總是很照顧我，尤其現在我的母親已經去世了。
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             I'm sorry to hear that.
         譯文 : >-
             聽到這個我很遺憾。
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             Pleased to meet you.
         譯文 : >-
             很高興遇到你。
 #-------------------------------#
     10 :
-        標註 : 
         原文 : >-
             I've heard about you. You extorted my father for money out on the road. People like you don't deserve to be here.
         譯文 : >-
             我聽說了，你在路上為了錢財敲詐我的父親。你這種貨色不配呆在這裡。
 #-------------------------------#
     11 :
-        標註 : 
         原文 : >-
             I just did what I thought was right.
         譯文 : >-
             我只是做了我認為正確的事。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             That so? If you're so sure, then give us back what you stole.
         譯文 : >-
             是這樣麼？如果那麼確定的話，就把搶去的錢還給我們。
 #-------------------------------#
     13 :
-        標註 : 
         原文 : >-
             Very well, here. (Give 1000 Iron Bits)
         譯文 : >-
             好的，給你。(交出1000鐵幣)
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Oh, well um, I wasn't expecting you to actually give it back.{^n}{^n}Thank you.
         譯文 : >-
             噢，我沒想到你竟然會還給我們。{^n}{^n}謝謝。
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             Consider it a misunderstanding.
         譯文 : >-
             這是一場誤會。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Very well, here. (Give 4000 Iron Bits)
         譯文 : >-
             好吧好吧，給你。(交出4000鐵幣)
 #-------------------------------#
     17 :
-        標註 : 
         原文 : >-
             Oh, well um, I wasn't expecting you to actually give it back.{^n}{^n}Thank you.
         譯文 : >-
             噢，我沒想到你竟然會還給我們。{^n}{^n}謝謝。
 #-------------------------------#
     18 :
-        標註 : 
         原文 : >-
             Consider it a misunderstanding.
         譯文 : >-
             這是一場誤會。
 #-------------------------------#
     19 :
-        標註 : 
         原文 : >-
             Very well, here. (Give 9000 Iron Bits)
         譯文 : >-
             好的，給你。(交出9000鐵幣)
 #-------------------------------#
     20 :
-        標註 : 
         原文 : >-
             Oh, well um, I wasn't expecting you to actually give it back.{^n}{^n}Thank you.
         譯文 : >-
             噢，我沒想到你竟然會還給我們。{^n}{^n}謝謝。
 #-------------------------------#
     21 :
-        標註 : 
         原文 : >-
             Consider it a misunderstanding.
         譯文 : >-
             這是一場誤會。
 #-------------------------------#
     22 :
-        標註 : 
         原文 : >-
             Sorry, I can't do that.
         譯文 : >-
             抱歉，我不能還給你。
 #-------------------------------#
     23 :
-        標註 : 
         原文 : >-
             Figured you for scum. Just leave us alone.
         譯文 : >-
             就知道你是個人渣，離我們遠點。
 #-------------------------------#
     24 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     25 :
-        標註 : 
         原文 : >-
             Hm, I'm afraid I don't have it anymore.
         譯文 : >-
             嗯，恐怕那筆錢我交不出來了。
 #-------------------------------#
     26 :
-        標註 : 
         原文 : >-
             Your father stole from Drew.
         譯文 : >-
             你的父親是從德魯那裡搶的。
 #-------------------------------#
     27 :
-        標註 : 
         原文 : >-
             Is that what that slimy slith told you?{^n}{^n}Drew tried to rape me in my sleep and my father defended me from him!
         譯文 : >-
             那個虛偽的蛇人是這麼給你說的？{^n}{^n}德魯在我睡覺的時候要強暴我，我的父親是為了保護我！
 #-------------------------------#
     29 :
-        標註 : 
         原文 : >-
             I'm sorry, perhaps there was a misunderstanding.
         譯文 : >-
             抱歉，可能這是一場誤會。
 #-------------------------------#
     30 :
-        標註 : 
         原文 : >-
             Goodbye.
         譯文 : >-
             再見。
 #-------------------------------#
     31 :
-        標註 : 
         原文 : >-
             Hello. My father's still setting up shop. You should speak to him if you need to buy something.
         譯文 : >-
             你好，我的父親還在收拾店鋪。要買什麼東西請跟他談談。
 #-------------------------------#
     32 :
-        標註 : 
         原文 : >-
             Farewell.
         譯文 : >-

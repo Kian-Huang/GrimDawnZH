@@ -1,78 +1,67 @@
-mq_truethreat.txt : 
+mq_truethreat.txt :
 
 #-------------------------------#
     0 :
-        標註 : 
         原文 : >-
             The Chthonic Menace
         譯文 : >-
             冥靈的威脅
 #-------------------------------#
     1 :
-        標註 : 
         原文 : >-
             A Forgotten Evil
         譯文 : >-
             被遺忘的惡魔
 #-------------------------------#
     2 :
-        標註 : 
         原文 : >-
             Black Legion Fort
         譯文 : >-
             黑色軍團的城堡
 #-------------------------------#
     3 :
-        標註 : 
         原文 : >-
             The Cult of Ch'thon is planning to resurrect an ancient evil buried underneath the Necropolis to the north. With the way north reopened, Inquisitor Creed and Ulgrim are setting out immediately to reconvene with the Legion forces at Fort Ikon. You are to meet them there.
         譯文 : >-
             冥神的邪教徒們正計劃使一個被埋葬在北方古代墓地的遠古邪靈復生。通往北方的道路暢通之後，克里德和艾格瑞姆便立即動身去聖像堡和黑色軍團的主力匯合了。你要去那兒和他們見面。
 #-------------------------------#
     6 :
-        標註 : 
         原文 : >-
             Speak to Inquisitor Creed at Fort Ikon
         譯文 : >-
             在聖像堡與審判官克里德交談
 #-------------------------------#
     8 :
-        標註 : 
         原文 : >-
             Kill Commander
         譯文 : >-
             殺死指揮官
 #-------------------------------#
     9 :
-        標註 : 
         原文 : >-
             The Fort is overrun with Aetherials after the fort commander had betrayed humanity to the enemy. The bloated mutant form of Commander Lucius has fled into the depths of Fort Ikon when reinforcements arrived. Put down this Aetherial-Possessed traitor.
         譯文 : >-
             在城堡的指揮叛變投敵之後，城堡中變充斥著虛靈。在援兵到來之時，指揮官盧修斯那具腫脹且變異身體逃入了聖像堡的深處。幹掉這個被虛靈佔據的叛徒。
 #-------------------------------#
     12 :
-        標註 : 
         原文 : >-
             Slay Commander Lucius
         譯文 : >-
             殺死指揮官盧修斯
 #-------------------------------#
     14 :
-        標註 : 
         原文 : >-
             Speak to Creed
         譯文 : >-
             與克里德交談
 #-------------------------------#
     15 :
-        標註 : 
         原文 : >-
             You have slain Commander Lucius and liberated the fortress from the Aetherials. Speak to Inquisitor Creed about the next step.
         譯文 : >-
             你殺死了指揮官盧修斯而且從虛靈手中解放了這座要塞。和審判官克里德談一談下一步的行動計劃。
 #-------------------------------#
     16 :
-        標註 : 
         原文 : >-
             Speak to Inquisitor Creed
         譯文 : >-
