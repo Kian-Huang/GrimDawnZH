@@ -461,7 +461,7 @@ tags_ui.txt :
         原文 : >-
             tagQuestBlockedDescription=Quest Locked in this Session based on Host's Progress.
         譯文 : >-
-            tagQuestBlockedDescription=基於遊戲建立者的進度，您的任務在此次遊戲中已經鎖定。
+            tagQuestBlockedDescription=您無法在此房間進行該任務，因為遊戲建立者的任務進度與您不同。
 #-------------------------------#
     90 :
         原文 : >-
@@ -521,7 +521,7 @@ tags_ui.txt :
         原文 : >-
             tagFactionSurvivorsInfo=Headquarters: Devil's Crossing {^n}{^n} Survivors...that is the word used most often to describe the hardy denizens of Devil's Crossing. The men and women who made it through the Grim Dawn to form a small community within the ruins of an abandoned prison. They have seen all too many friends and family lost to the "Taken", those found possessed by the Aetherials.{^n}{^n} Earning their trust will prove no easy task, but with supplies running low and a looming Aetherial threat on the horizon, they may just be willing to take a chance.
         譯文 : >-
-            tagFactionSurvivorsInfo=營地：Devil's Crossing{^n}{^n}倖存者……通常我們用這個詞來描述Devil's Crossing的那些頑強的居民們。這些男人和女人們在廢棄的監獄之中建立一個小團體，度過了顫慄黎明。他們已見識過太多的親友被Aetherials佔據，變成“Taken”。{^n}{^n}要取得他們的信任可不是一件容易的事，但是隨著補給品越來越少和若隱若現的Aetherials危機，他們或許會冒險去相信一個陌生的面孔。
+            tagFactionSurvivorsInfo=營地：Devil's Crossing{^n}{^n}倖存者...通常我們用這個詞來描述Devil's Crossing的那些頑強的居民們。這些男人和女人們在廢棄的監獄之中建立一個小團體，渡過了顫慄黎明。他們見過太多的親友被Aetherials佔據，變成“Taken”。{^n}{^n}要取得他們的信任可不是一件容易的事，但是隨著補給品越來越少和若隱若現的Aetherials危機，他們或許會冒險去相信一個陌生的面孔。
 #-------------------------------#
     101 :
         原文 : >-
