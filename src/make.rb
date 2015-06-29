@@ -10,7 +10,7 @@ def makeTwText()
         if yaml == false
             puts fileName
         end
-        yaml[fileName].each_pair do |k,v|
+        yaml["內文"].each_pair do |k,v|
             enText[k] = v["譯文"]
         end
         outStr = ""

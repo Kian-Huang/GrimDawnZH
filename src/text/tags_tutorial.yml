@@ -1,4 +1,14 @@
-tags_tutorial.txt :
+
+#--------------------------------------------------------#
+# 資訊->狀態的種類："已審核"、"未翻譯"、"翻譯中"、"待審核" #
+#--------------------------------------------------------#
+資訊 :
+    檔名 : tags_tutorial.txt
+    狀態 : 未翻譯
+    註解 : >-
+        無
+#-------------------------------#
+內文 :
 
 #-------------------------------#
     0 :
@@ -59,7 +69,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip09TextA=Merchants buy and sell weapons and equipment necessary to survive the dangers of Cairn.
         譯文 : >-
-            tagTutorialTip09TextA=商人出售與收購在Cairn的險境中生存所必需的武器裝備。
+            tagTutorialTip09TextA=商人出售與收購在 Cairn 的險境中生存所必需的武器裝備。
 #-------------------------------#
     13 :
         原文 : >-
@@ -95,7 +105,7 @@ tags_tutorial.txt :
         原文 : >-
             tagTutorialTip10TextC=As an Aether-touched human, you are capable of opening {^y}Personal Riftgates{^w}. To activate your Personal Riftgate, click on the Rift Travel button on the HUD.
         譯文 : >-
-            tagTutorialTip10TextC=作為一個接觸過Aether的人類，你擁有打開{^y}個人Riftgates{^w}的能力。欲要開啟你的個人Riftgates，點擊訊息面板上的Rift旅行按鈕。
+            tagTutorialTip10TextC=作為一個 Aether-touched 的人類，你擁有打開{^y}個人 Riftgates{^w}的能力。欲要開啟你的個人Riftgates，點擊訊息面板上的 Rift 旅行按鈕。
 #-------------------------------#
     20 :
         原文 : >-
