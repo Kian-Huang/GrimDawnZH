@@ -45,7 +45,7 @@
         原文 : >-
             tagMapBurrwitchRoad01=Foggy Bank
         譯文 : >-
-            tagMapBurrwitchRoad01=迷霧河畔 - 往伯爾維治
+            tagMapBurrwitchRoad01=迷霧河畔
 #------------- 第 9 行 -------------#
     8 :
         原文 : >-
@@ -123,7 +123,7 @@
         原文 : >-
             tagMapLaboratoryLivingQuarters=Living Quarters
         譯文 : >-
-            tagMapLaboratoryLivingQuarters=宿舍
+            tagMapLaboratoryLivingQuarters=廢棄宿舍
 #------------- 第 22 行 -------------#
     21 :
         原文 : >-
@@ -237,7 +237,7 @@
         原文 : >-
             tagMapEastMarsh03=Craig's Crags
         譯文 : >-
-            tagMapEastMarsh03=克雷格的峭壁 Craig's Crags
+            tagMapEastMarsh03=克雷格的峭壁
 #------------- 第 43 行 -------------#
     42 :
         原文 : >-
@@ -309,7 +309,7 @@
         原文 : >-
             tagMapCronleysHideout=Cronley's Hideout
         譯文 : >-
-            tagMapCronleysHideout=克隆力的藏身處
+            tagMapCronleysHideout=克隆利的藏身處
 #------------- 第 56 行 -------------#
     55 :
         原文 : >-
@@ -369,7 +369,7 @@
         原文 : >-
             tagMapHomestead=Homestead
         譯文 : >-
-            tagMapHomestead=Homestead
+            tagMapHomestead=霍姆斯特
 #------------- 第 68 行 -------------#
     67 :
         原文 : >-
@@ -399,7 +399,7 @@
         原文 : >-
             tagMapSorrowsBastion=Sorrow's Bastion
         譯文 : >-
-            tagMapSorrowsBastion=Sorrow's 城堡
+            tagMapSorrowsBastion=悲傷城堡
 #------------- 第 73 行 -------------#
     72 :
         原文 : >-
@@ -435,13 +435,13 @@
         原文 : >-
             tagMapDarkvale=Village of Darkvale
         譯文 : >-
-            tagMapDarkvale=黑暗河谷村莊
+            tagMapDarkvale=黑谷村
 #------------- 第 79 行 -------------#
     78 :
         原文 : >-
             tagMapDarkvaleGate=Darkvale Gate
         譯文 : >-
-            tagMapDarkvaleGate=黑暗河谷之門
+            tagMapDarkvaleGate=黑谷門
 #------------- 第 80 行 -------------#
     79 :
         原文 : >-
@@ -495,19 +495,19 @@
         原文 : >-
             tagRiftLowerCrossing=Lower Crossing Rift
         譯文 : >-
-            tagRiftLowerCrossing=Lower Crossing Rift
+            tagRiftLowerCrossing=下游渡口Rift
 #------------- 第 93 行 -------------#
     92 :
         原文 : >-
             tagRiftBurrwitchRoad=Foggy Bank Rift
         譯文 : >-
-            tagRiftBurrwitchRoad=Foggy Bank Rift
+            tagRiftBurrwitchRoad=殮葬山脈Rift
 #------------- 第 94 行 -------------#
     93 :
         原文 : >-
             tagRiftWightmire=Wightmire Rift
         譯文 : >-
-            tagRiftWightmire=Wightmire Rift
+            tagRiftWightmire=屍妖泥沼Rift
 #------------- 第 95 行 -------------#
     94 :
         原文 : >-
